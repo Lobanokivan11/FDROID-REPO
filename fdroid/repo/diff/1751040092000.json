@@ -1,0 +1,34 @@
+{
+  "repo": {
+    "timestamp": 1751040144000,
+    "categories": {
+      "fdroid": null,
+      "Internet": {
+        "name": {
+          "en-US": "Internet"
+        }
+      }
+    }
+  },
+  "packages": {
+    "nekox.messenger.broken": {
+      "metadata": {
+        "categories": [
+          "Internet"
+        ],
+        "license": "GPL-3.0",
+        "sourceCode": "https://github.com/dic1911/Momogram",
+        "authorName": "dic1911",
+        "name": {
+          "en-US": "Momogram"
+        },
+        "summary": {
+          "en-US": "A third-party Telegram android app."
+        },
+        "description": {
+          "en-US": "Third-party Telegram Client\n"
+        }
+      }
+    }
+  }
+}

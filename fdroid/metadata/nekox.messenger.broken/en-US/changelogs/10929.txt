@@ -1,0 +1,6 @@
+# Added
+- Hide stories from channels
+
+# Fixed
+- Force forum tabs in debug menu not working
+- Details button not shown in some stories

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="icon.png" name="Lobanokivan11's F-Droid Repo" pubkey="308204f0308202d8a003020102020900aa0527e64906854b300d06092a864886f70d01010b050030253110300e060355040b1307462d44726f69643111300f0603550403130841584f2d557365723020170d3235303632373132353035305a180f32303532313131323132353035305a30253110300e060355040b1307462d44726f69643111300f0603550403130841584f2d5573657230820222300d06092a864886f70d01010105000382020f003082020a0282020100e292f147f1d12c06b54004d33ef0249fbfa5cb575e74e33f7ef11740a06888eb14a68e3a7cda7854de7c0e16248289ef440b87b16015a6cdfc7456ca24b7c03f8abfa89f94215a0f235b2111b95d3edee214d2c747f13ea171ad07db5a119ddb91ebc4c089c54aaa20c719b7bf5fc3ed636489eafa1016c459269447a3fbc40622d62a3efb7437bbc1a4f8d06d26298398eb1145354be9deef0812b9a854f8547d015cda1b5242a0d32d92c1ead25dce341fef71a49ad4a8dc5441d8637cc69019fa528f05adc2cfb2b357d99f1226f700800b4401e461f475dff60170e5e2f7bf55cd7e7372441d33098f90d56010b90955d2aa81ebdf841b2e5780a1276a0073db5ffe644b5720578442c1dd44784a205331b4cee61f6456b89719b4c1c85c5325ac06bd744aa85fc620d7f59c6acc26c0f00713967e08f8a66c6b07fc23b3a3868f504e9afa0385823a1e890fabefc6d7aa68a3533894388dd7d04eb03b5f6f23aa2614dbfa6e3d32d5266edd8b643b6b4d903e663d448cd7c4803ee090c54cc8d0249dd3db53352259d3b7a79798eaed934462b9a79cb71844c55dff1a94076e740af209861aabab7f946b76c605c8f2a308ba87bd52e63c6335e1f98bf69c897259609c249f9c83907309db019d8cb3a4a0e26b23ba8dabf37918801fd1a8e2fc84f34192d41583255a4f35a20371c32fdf1a4c93cbe2b1a1b82597deb70203010001a321301f301d0603551d0e0416041470130289d750ce245977dbca02acb48dbff0e31e300d06092a864886f70d01010b050003820201005454d576c5f5f25e0ee7011e46266bb5bb07ff51a8179ba7ca6f9a6b17bf77bac316933e2ed8586cfaa34cb8af5bbfe89ffbfe9f3fffe66f5e039673f8544bde5e923cb08820d17531cc7414429c48a4272f65578351121b6cca17f3633025e4295a96316fcdf6343630c9662baedf6ecd9b8efedca812b80d6e6d50cd7618ee76dc3c88ae36570e37b5e62fa03734f7ff983918d373685766c23a8d99a8b5ec4c5e42b861cd79124686682a58a420b8ab677d528bb9e2d03e067f5fea4d78088318cad255bc8e5282385df32ec02be323e3ce4559e9f45757ae3aca1bf645bb6283a90086cddc7a82bfae486e57592339968acce21d0471f20e7f54c3ed5295ad91b0e61e5070283495558931c99ddfca434e22070e50759025b39294f08fde6c6449434649f5620f809f65eefa94c93e0dd5d23deda89efbc1c98f7265daaecf13f1d6e5a0de34e6c5aa0d34303e157dc3c28dc6f2ed3c91d1f0f8afbf8ee640007b8def8b2c57da43a8a65d22667421c9588376721b112f45237299c7bea99852c3558059af416ea99f36f191288f86b2f0e9b2c1f2824233d0f35044fc46cb88d4f0680f8706fe365d6e92e0cadeeb1f2de6b14c02eddfb6d4c324a79b9f46fb25533e2a0c02d3254c7f75d8931756f7b89da4092dd793bd1f717326a8ad57a3a5b3763b14470d2acb01560294094c97ef354afe7d6ee530b247f3bb211a" timestamp="1751038600" url="https://raw.githubusercontent.com/Lobanokivan11/FDROID-REPO/refs/heads/main/fdroid/repo" version="20002">
+	<repo icon="icon.png" name="Lobanokivan11's F-Droid Repo" pubkey="308204f0308202d8a003020102020900aa0527e64906854b300d06092a864886f70d01010b050030253110300e060355040b1307462d44726f69643111300f0603550403130841584f2d557365723020170d3235303632373132353035305a180f32303532313131323132353035305a30253110300e060355040b1307462d44726f69643111300f0603550403130841584f2d5573657230820222300d06092a864886f70d01010105000382020f003082020a0282020100e292f147f1d12c06b54004d33ef0249fbfa5cb575e74e33f7ef11740a06888eb14a68e3a7cda7854de7c0e16248289ef440b87b16015a6cdfc7456ca24b7c03f8abfa89f94215a0f235b2111b95d3edee214d2c747f13ea171ad07db5a119ddb91ebc4c089c54aaa20c719b7bf5fc3ed636489eafa1016c459269447a3fbc40622d62a3efb7437bbc1a4f8d06d26298398eb1145354be9deef0812b9a854f8547d015cda1b5242a0d32d92c1ead25dce341fef71a49ad4a8dc5441d8637cc69019fa528f05adc2cfb2b357d99f1226f700800b4401e461f475dff60170e5e2f7bf55cd7e7372441d33098f90d56010b90955d2aa81ebdf841b2e5780a1276a0073db5ffe644b5720578442c1dd44784a205331b4cee61f6456b89719b4c1c85c5325ac06bd744aa85fc620d7f59c6acc26c0f00713967e08f8a66c6b07fc23b3a3868f504e9afa0385823a1e890fabefc6d7aa68a3533894388dd7d04eb03b5f6f23aa2614dbfa6e3d32d5266edd8b643b6b4d903e663d448cd7c4803ee090c54cc8d0249dd3db53352259d3b7a79798eaed934462b9a79cb71844c55dff1a94076e740af209861aabab7f946b76c605c8f2a308ba87bd52e63c6335e1f98bf69c897259609c249f9c83907309db019d8cb3a4a0e26b23ba8dabf37918801fd1a8e2fc84f34192d41583255a4f35a20371c32fdf1a4c93cbe2b1a1b82597deb70203010001a321301f301d0603551d0e0416041470130289d750ce245977dbca02acb48dbff0e31e300d06092a864886f70d01010b050003820201005454d576c5f5f25e0ee7011e46266bb5bb07ff51a8179ba7ca6f9a6b17bf77bac316933e2ed8586cfaa34cb8af5bbfe89ffbfe9f3fffe66f5e039673f8544bde5e923cb08820d17531cc7414429c48a4272f65578351121b6cca17f3633025e4295a96316fcdf6343630c9662baedf6ecd9b8efedca812b80d6e6d50cd7618ee76dc3c88ae36570e37b5e62fa03734f7ff983918d373685766c23a8d99a8b5ec4c5e42b861cd79124686682a58a420b8ab677d528bb9e2d03e067f5fea4d78088318cad255bc8e5282385df32ec02be323e3ce4559e9f45757ae3aca1bf645bb6283a90086cddc7a82bfae486e57592339968acce21d0471f20e7f54c3ed5295ad91b0e61e5070283495558931c99ddfca434e22070e50759025b39294f08fde6c6449434649f5620f809f65eefa94c93e0dd5d23deda89efbc1c98f7265daaecf13f1d6e5a0de34e6c5aa0d34303e157dc3c28dc6f2ed3c91d1f0f8afbf8ee640007b8def8b2c57da43a8a65d22667421c9588376721b112f45237299c7bea99852c3558059af416ea99f36f191288f86b2f0e9b2c1f2824233d0f35044fc46cb88d4f0680f8706fe365d6e92e0cadeeb1f2de6b14c02eddfb6d4c324a79b9f46fb25533e2a0c02d3254c7f75d8931756f7b89da4092dd793bd1f717326a8ad57a3a5b3763b14470d2acb01560294094c97ef354afe7d6ee530b247f3bb211a" timestamp="1751040144" url="https://raw.githubusercontent.com/Lobanokivan11/FDROID-REPO/refs/heads/main/fdroid/repo" version="20002">
 		<description>This is Repository of Lobanokivan11</description>
 	</repo>
 	<application id="org.fdroid.fdroid.privileged">
@@ -31,6 +31,206 @@
 			<added>2025-06-27</added>
 			<sig>9bf31245c30b3a965b618ea1bd44e37b</sig>
 			<permissions>QUERY_ALL_PACKAGES,moe.shizuku.manager.permission.API_V23,org.fdroid.fdroid.privileged.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+		</package>
+	</application>
+	<application id="nekox.messenger.broken">
+		<id>nekox.messenger.broken</id>
+		<added>2025-06-27</added>
+		<lastupdated>2025-06-27</lastupdated>
+		<name>Momogram</name>
+		<summary>A third-party Telegram android app.</summary>
+		<desc>Third-party Telegram Client
+</desc>
+		<license>GPL-3.0</license>
+		<categories>Internet</categories>
+		<category>Internet</category>
+		<web></web>
+		<source>https://github.com/dic1911/Momogram</source>
+		<tracker></tracker>
+		<author>dic1911</author>
+		<marketversion>11.12.0-626f2b5128</marketversion>
+		<marketvercode>10929</marketvercode>
+		<package>
+			<version>11.12.0-626f2b5128</version>
+			<versioncode>10929</versioncode>
+			<apkname>momogram_v11.12.0-1.apk</apkname>
+			<hash type="sha256">660f75a310b88a5cc62cd29663960f4e5340c28842bfcc7ad0b2b838a1627bcc</hash>
+			<size>56700435</size>
+			<sdkver>19</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-06-27</added>
+			<sig>630ab5b029ea54bff07bc061cc69eae1</sig>
+			<permissions>ACCESS_BACKGROUND_LOCATION,ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_MEDIA_LOCATION,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,AUTHENTICATE_ACCOUNTS,BLUETOOTH,BLUETOOTH_CONNECT,CAMERA,FOREGROUND_SERVICE,FOREGROUND_SERVICE_CAMERA,FOREGROUND_SERVICE_DATA_SYNC,FOREGROUND_SERVICE_LOCATION,FOREGROUND_SERVICE_MEDIA_PLAYBACK,FOREGROUND_SERVICE_MEDIA_PROJECTION,FOREGROUND_SERVICE_MICROPHONE,GET_ACCOUNTS,INSTALL_SHORTCUT,INTERNET,MANAGE_ACCOUNTS,MANAGE_OWN_CALLS,MODIFY_AUDIO_SETTINGS,POST_NOTIFICATIONS,READ_APP_BADGE,READ_CLIPBOARD,READ_CONTACTS,READ_EXTERNAL_STORAGE,READ_MEDIA_AUDIO,READ_MEDIA_IMAGES,READ_MEDIA_VIDEO,READ_PHONE_NUMBERS,READ_PHONE_STATE,READ_PROFILE,READ_SYNC_SETTINGS,RECEIVE_BOOT_COMPLETED,RECORD_AUDIO,REQUEST_INSTALL_PACKAGES,SYSTEM_ALERT_WINDOW,USE_BIOMETRIC,USE_FINGERPRINT,USE_FULL_SCREEN_INTENT,VIBRATE,WAKE_LOCK,WRITE_CONTACTS,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,com.anddoes.launcher.permission.UPDATE_COUNT,com.android.launcher.permission.INSTALL_SHORTCUT,com.android.launcher.permission.UNINSTALL_SHORTCUT,com.android.vending.BILLING,com.htc.launcher.permission.READ_SETTINGS,com.htc.launcher.permission.UPDATE_SHORTCUT,com.huawei.android.launcher.permission.CHANGE_BADGE,com.huawei.android.launcher.permission.READ_SETTINGS,com.huawei.android.launcher.permission.WRITE_SETTINGS,com.majeur.launcher.permission.UPDATE_BADGE,com.oppo.launcher.permission.READ_SETTINGS,com.oppo.launcher.permission.WRITE_SETTINGS,com.sec.android.provider.badge.permission.READ,com.sec.android.provider.badge.permission.WRITE,com.sonyericsson.home.permission.BROADCAST_BADGE,com.sonymobile.home.permission.PROVIDER_INSERT_BADGE,me.everything.badger.permission.BADGE_COUNT_READ,me.everything.badger.permission.BADGE_COUNT_WRITE,nekox.messenger.broken.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<uses-permission maxSdkVersion="29" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+			<nativecode>arm64-v8a</nativecode>
+		</package>
+		<package>
+			<version>11.9.1-25052449c8</version>
+			<versioncode>10899</versioncode>
+			<apkname>momogram_v11.9.1-2.apk</apkname>
+			<hash type="sha256">eefaf51c973e1ad634ae73461441a3f7446e728232ab45912bea531a6f51ebf7</hash>
+			<size>56357185</size>
+			<sdkver>19</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-06-27</added>
+			<sig>630ab5b029ea54bff07bc061cc69eae1</sig>
+			<permissions>ACCESS_BACKGROUND_LOCATION,ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_MEDIA_LOCATION,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,AUTHENTICATE_ACCOUNTS,BLUETOOTH,BLUETOOTH_CONNECT,CAMERA,FOREGROUND_SERVICE,FOREGROUND_SERVICE_CAMERA,FOREGROUND_SERVICE_DATA_SYNC,FOREGROUND_SERVICE_LOCATION,FOREGROUND_SERVICE_MEDIA_PLAYBACK,FOREGROUND_SERVICE_MEDIA_PROJECTION,FOREGROUND_SERVICE_MICROPHONE,GET_ACCOUNTS,INSTALL_SHORTCUT,INTERNET,MANAGE_ACCOUNTS,MANAGE_OWN_CALLS,MODIFY_AUDIO_SETTINGS,POST_NOTIFICATIONS,READ_APP_BADGE,READ_CLIPBOARD,READ_CONTACTS,READ_EXTERNAL_STORAGE,READ_MEDIA_AUDIO,READ_MEDIA_IMAGES,READ_MEDIA_VIDEO,READ_PHONE_NUMBERS,READ_PHONE_STATE,READ_PROFILE,READ_SYNC_SETTINGS,RECEIVE_BOOT_COMPLETED,RECORD_AUDIO,REQUEST_INSTALL_PACKAGES,SYSTEM_ALERT_WINDOW,USE_BIOMETRIC,USE_FINGERPRINT,USE_FULL_SCREEN_INTENT,VIBRATE,WAKE_LOCK,WRITE_CONTACTS,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,com.anddoes.launcher.permission.UPDATE_COUNT,com.android.launcher.permission.INSTALL_SHORTCUT,com.android.launcher.permission.UNINSTALL_SHORTCUT,com.android.vending.BILLING,com.htc.launcher.permission.READ_SETTINGS,com.htc.launcher.permission.UPDATE_SHORTCUT,com.huawei.android.launcher.permission.CHANGE_BADGE,com.huawei.android.launcher.permission.READ_SETTINGS,com.huawei.android.launcher.permission.WRITE_SETTINGS,com.majeur.launcher.permission.UPDATE_BADGE,com.oppo.launcher.permission.READ_SETTINGS,com.oppo.launcher.permission.WRITE_SETTINGS,com.sec.android.provider.badge.permission.READ,com.sec.android.provider.badge.permission.WRITE,com.sonyericsson.home.permission.BROADCAST_BADGE,com.sonymobile.home.permission.PROVIDER_INSERT_BADGE,me.everything.badger.permission.BADGE_COUNT_READ,me.everything.badger.permission.BADGE_COUNT_WRITE,nekox.messenger.broken.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<uses-permission maxSdkVersion="29" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+			<nativecode>arm64-v8a</nativecode>
+		</package>
+		<package>
+			<version>11.9.1-aeeca7cc85</version>
+			<versioncode>10889</versioncode>
+			<apkname>momogram_v11.9.1-1.apk</apkname>
+			<hash type="sha256">23f4128f4752f0ae424f7a780369b4d43b0cf2d86683385359b73dbb06a473f0</hash>
+			<size>55781768</size>
+			<sdkver>19</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-06-27</added>
+			<sig>630ab5b029ea54bff07bc061cc69eae1</sig>
+			<permissions>ACCESS_BACKGROUND_LOCATION,ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_MEDIA_LOCATION,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,AUTHENTICATE_ACCOUNTS,BLUETOOTH,BLUETOOTH_CONNECT,CAMERA,FOREGROUND_SERVICE,FOREGROUND_SERVICE_CAMERA,FOREGROUND_SERVICE_DATA_SYNC,FOREGROUND_SERVICE_LOCATION,FOREGROUND_SERVICE_MEDIA_PLAYBACK,FOREGROUND_SERVICE_MEDIA_PROJECTION,FOREGROUND_SERVICE_MICROPHONE,GET_ACCOUNTS,INSTALL_SHORTCUT,INTERNET,MANAGE_ACCOUNTS,MANAGE_OWN_CALLS,MODIFY_AUDIO_SETTINGS,POST_NOTIFICATIONS,READ_APP_BADGE,READ_CLIPBOARD,READ_CONTACTS,READ_EXTERNAL_STORAGE,READ_MEDIA_AUDIO,READ_MEDIA_IMAGES,READ_MEDIA_VIDEO,READ_PHONE_NUMBERS,READ_PHONE_STATE,READ_PROFILE,READ_SYNC_SETTINGS,RECEIVE_BOOT_COMPLETED,RECORD_AUDIO,REQUEST_INSTALL_PACKAGES,SYSTEM_ALERT_WINDOW,USE_BIOMETRIC,USE_FINGERPRINT,USE_FULL_SCREEN_INTENT,VIBRATE,WAKE_LOCK,WRITE_CONTACTS,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,com.anddoes.launcher.permission.UPDATE_COUNT,com.android.launcher.permission.INSTALL_SHORTCUT,com.android.launcher.permission.UNINSTALL_SHORTCUT,com.android.vending.BILLING,com.htc.launcher.permission.READ_SETTINGS,com.htc.launcher.permission.UPDATE_SHORTCUT,com.huawei.android.launcher.permission.CHANGE_BADGE,com.huawei.android.launcher.permission.READ_SETTINGS,com.huawei.android.launcher.permission.WRITE_SETTINGS,com.majeur.launcher.permission.UPDATE_BADGE,com.oppo.launcher.permission.READ_SETTINGS,com.oppo.launcher.permission.WRITE_SETTINGS,com.sec.android.provider.badge.permission.READ,com.sec.android.provider.badge.permission.WRITE,com.sonyericsson.home.permission.BROADCAST_BADGE,com.sonymobile.home.permission.PROVIDER_INSERT_BADGE,me.everything.badger.permission.BADGE_COUNT_READ,me.everything.badger.permission.BADGE_COUNT_WRITE,nekox.messenger.broken.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<uses-permission maxSdkVersion="29" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+			<nativecode>arm64-v8a</nativecode>
+		</package>
+		<package>
+			<version>11.9.0-19b0e641d1</version>
+			<versioncode>10879</versioncode>
+			<apkname>momogram_v11.9.0-3.apk</apkname>
+			<hash type="sha256">485a2da130bfbf68a965bc8e506d171b59f9a2966ed6c4a7634aea4c34e4bc5e</hash>
+			<size>55246330</size>
+			<sdkver>19</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-06-27</added>
+			<sig>630ab5b029ea54bff07bc061cc69eae1</sig>
+			<permissions>ACCESS_BACKGROUND_LOCATION,ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_MEDIA_LOCATION,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,AUTHENTICATE_ACCOUNTS,BLUETOOTH,BLUETOOTH_CONNECT,CAMERA,FOREGROUND_SERVICE,FOREGROUND_SERVICE_CAMERA,FOREGROUND_SERVICE_DATA_SYNC,FOREGROUND_SERVICE_LOCATION,FOREGROUND_SERVICE_MEDIA_PLAYBACK,FOREGROUND_SERVICE_MEDIA_PROJECTION,FOREGROUND_SERVICE_MICROPHONE,GET_ACCOUNTS,INSTALL_SHORTCUT,INTERNET,MANAGE_ACCOUNTS,MANAGE_OWN_CALLS,MODIFY_AUDIO_SETTINGS,POST_NOTIFICATIONS,READ_APP_BADGE,READ_CLIPBOARD,READ_CONTACTS,READ_EXTERNAL_STORAGE,READ_MEDIA_AUDIO,READ_MEDIA_IMAGES,READ_MEDIA_VIDEO,READ_PHONE_NUMBERS,READ_PHONE_STATE,READ_PROFILE,READ_SYNC_SETTINGS,RECEIVE_BOOT_COMPLETED,RECORD_AUDIO,REQUEST_INSTALL_PACKAGES,SYSTEM_ALERT_WINDOW,USE_BIOMETRIC,USE_FINGERPRINT,USE_FULL_SCREEN_INTENT,VIBRATE,WAKE_LOCK,WRITE_CONTACTS,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,com.anddoes.launcher.permission.UPDATE_COUNT,com.android.launcher.permission.INSTALL_SHORTCUT,com.android.launcher.permission.UNINSTALL_SHORTCUT,com.android.vending.BILLING,com.htc.launcher.permission.READ_SETTINGS,com.htc.launcher.permission.UPDATE_SHORTCUT,com.huawei.android.launcher.permission.CHANGE_BADGE,com.huawei.android.launcher.permission.READ_SETTINGS,com.huawei.android.launcher.permission.WRITE_SETTINGS,com.majeur.launcher.permission.UPDATE_BADGE,com.oppo.launcher.permission.READ_SETTINGS,com.oppo.launcher.permission.WRITE_SETTINGS,com.sec.android.provider.badge.permission.READ,com.sec.android.provider.badge.permission.WRITE,com.sonyericsson.home.permission.BROADCAST_BADGE,com.sonymobile.home.permission.PROVIDER_INSERT_BADGE,me.everything.badger.permission.BADGE_COUNT_READ,me.everything.badger.permission.BADGE_COUNT_WRITE,nekox.messenger.broken.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<uses-permission maxSdkVersion="29" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+			<nativecode>arm64-v8a</nativecode>
+		</package>
+		<package>
+			<version>11.9.0-1de3f1a1e2</version>
+			<versioncode>10859</versioncode>
+			<apkname>momogram_v11.9.0-1.apk</apkname>
+			<hash type="sha256">6cb1e4af4118201bb0f83ef069ea23ee9aa91a43158abe0861e527d0bb03892c</hash>
+			<size>55242058</size>
+			<sdkver>19</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-06-27</added>
+			<sig>630ab5b029ea54bff07bc061cc69eae1</sig>
+			<permissions>ACCESS_BACKGROUND_LOCATION,ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_MEDIA_LOCATION,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,AUTHENTICATE_ACCOUNTS,BLUETOOTH,BLUETOOTH_CONNECT,CAMERA,FOREGROUND_SERVICE,FOREGROUND_SERVICE_CAMERA,FOREGROUND_SERVICE_DATA_SYNC,FOREGROUND_SERVICE_LOCATION,FOREGROUND_SERVICE_MEDIA_PLAYBACK,FOREGROUND_SERVICE_MEDIA_PROJECTION,FOREGROUND_SERVICE_MICROPHONE,GET_ACCOUNTS,INSTALL_SHORTCUT,INTERNET,MANAGE_ACCOUNTS,MANAGE_OWN_CALLS,MODIFY_AUDIO_SETTINGS,POST_NOTIFICATIONS,READ_APP_BADGE,READ_CLIPBOARD,READ_CONTACTS,READ_EXTERNAL_STORAGE,READ_MEDIA_AUDIO,READ_MEDIA_IMAGES,READ_MEDIA_VIDEO,READ_PHONE_NUMBERS,READ_PHONE_STATE,READ_PROFILE,READ_SYNC_SETTINGS,RECEIVE_BOOT_COMPLETED,RECORD_AUDIO,REQUEST_INSTALL_PACKAGES,SYSTEM_ALERT_WINDOW,USE_BIOMETRIC,USE_FINGERPRINT,USE_FULL_SCREEN_INTENT,VIBRATE,WAKE_LOCK,WRITE_CONTACTS,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,com.anddoes.launcher.permission.UPDATE_COUNT,com.android.launcher.permission.INSTALL_SHORTCUT,com.android.launcher.permission.UNINSTALL_SHORTCUT,com.android.vending.BILLING,com.htc.launcher.permission.READ_SETTINGS,com.htc.launcher.permission.UPDATE_SHORTCUT,com.huawei.android.launcher.permission.CHANGE_BADGE,com.huawei.android.launcher.permission.READ_SETTINGS,com.huawei.android.launcher.permission.WRITE_SETTINGS,com.majeur.launcher.permission.UPDATE_BADGE,com.oppo.launcher.permission.READ_SETTINGS,com.oppo.launcher.permission.WRITE_SETTINGS,com.sec.android.provider.badge.permission.READ,com.sec.android.provider.badge.permission.WRITE,com.sonyericsson.home.permission.BROADCAST_BADGE,com.sonymobile.home.permission.PROVIDER_INSERT_BADGE,me.everything.badger.permission.BADGE_COUNT_READ,me.everything.badger.permission.BADGE_COUNT_WRITE,nekox.messenger.broken.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<uses-permission maxSdkVersion="29" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+			<nativecode>arm64-v8a</nativecode>
+		</package>
+		<package>
+			<version>11.8.2-b7ba5287e0</version>
+			<versioncode>10849</versioncode>
+			<apkname>momogram_v11.8.2-1.apk</apkname>
+			<hash type="sha256">1bf461328108d5d69adc19f91fb6d7e16ccbd05eba0c93f5f5c2733c3a6ed23a</hash>
+			<size>53438929</size>
+			<sdkver>19</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-06-27</added>
+			<sig>630ab5b029ea54bff07bc061cc69eae1</sig>
+			<permissions>ACCESS_BACKGROUND_LOCATION,ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_MEDIA_LOCATION,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,AUTHENTICATE_ACCOUNTS,BLUETOOTH,BLUETOOTH_CONNECT,CAMERA,FOREGROUND_SERVICE,FOREGROUND_SERVICE_CAMERA,FOREGROUND_SERVICE_DATA_SYNC,FOREGROUND_SERVICE_LOCATION,FOREGROUND_SERVICE_MEDIA_PLAYBACK,FOREGROUND_SERVICE_MEDIA_PROJECTION,FOREGROUND_SERVICE_MICROPHONE,GET_ACCOUNTS,INSTALL_SHORTCUT,INTERNET,MANAGE_ACCOUNTS,MANAGE_OWN_CALLS,MODIFY_AUDIO_SETTINGS,POST_NOTIFICATIONS,READ_APP_BADGE,READ_CLIPBOARD,READ_CONTACTS,READ_EXTERNAL_STORAGE,READ_MEDIA_AUDIO,READ_MEDIA_IMAGES,READ_MEDIA_VIDEO,READ_PHONE_NUMBERS,READ_PHONE_STATE,READ_PROFILE,READ_SYNC_SETTINGS,RECEIVE_BOOT_COMPLETED,RECORD_AUDIO,REQUEST_INSTALL_PACKAGES,SYSTEM_ALERT_WINDOW,USE_BIOMETRIC,USE_FINGERPRINT,USE_FULL_SCREEN_INTENT,VIBRATE,WAKE_LOCK,WRITE_CONTACTS,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,com.anddoes.launcher.permission.UPDATE_COUNT,com.android.launcher.permission.INSTALL_SHORTCUT,com.android.launcher.permission.UNINSTALL_SHORTCUT,com.android.vending.BILLING,com.htc.launcher.permission.READ_SETTINGS,com.htc.launcher.permission.UPDATE_SHORTCUT,com.huawei.android.launcher.permission.CHANGE_BADGE,com.huawei.android.launcher.permission.READ_SETTINGS,com.huawei.android.launcher.permission.WRITE_SETTINGS,com.majeur.launcher.permission.UPDATE_BADGE,com.oppo.launcher.permission.READ_SETTINGS,com.oppo.launcher.permission.WRITE_SETTINGS,com.sec.android.provider.badge.permission.READ,com.sec.android.provider.badge.permission.WRITE,com.sonyericsson.home.permission.BROADCAST_BADGE,com.sonymobile.home.permission.PROVIDER_INSERT_BADGE,me.everything.badger.permission.BADGE_COUNT_READ,me.everything.badger.permission.BADGE_COUNT_WRITE,nekox.messenger.broken.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<uses-permission maxSdkVersion="29" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+			<nativecode>arm64-v8a</nativecode>
+		</package>
+		<package>
+			<version>11.7.0-700f1250cc</version>
+			<versioncode>10819</versioncode>
+			<apkname>momogram_v11.7.0-1.apk</apkname>
+			<hash type="sha256">19cb1531c4039536128bb00ba62d95a1ccd7981da65b2d9d3861ccee04d025f6</hash>
+			<size>52457384</size>
+			<sdkver>19</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-06-27</added>
+			<sig>630ab5b029ea54bff07bc061cc69eae1</sig>
+			<permissions>ACCESS_BACKGROUND_LOCATION,ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_MEDIA_LOCATION,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,AUTHENTICATE_ACCOUNTS,BLUETOOTH,BLUETOOTH_CONNECT,CAMERA,FOREGROUND_SERVICE,FOREGROUND_SERVICE_CAMERA,FOREGROUND_SERVICE_DATA_SYNC,FOREGROUND_SERVICE_LOCATION,FOREGROUND_SERVICE_MEDIA_PLAYBACK,FOREGROUND_SERVICE_MEDIA_PROJECTION,FOREGROUND_SERVICE_MICROPHONE,GET_ACCOUNTS,INSTALL_SHORTCUT,INTERNET,MANAGE_ACCOUNTS,MANAGE_OWN_CALLS,MODIFY_AUDIO_SETTINGS,POST_NOTIFICATIONS,READ_APP_BADGE,READ_CLIPBOARD,READ_CONTACTS,READ_EXTERNAL_STORAGE,READ_MEDIA_AUDIO,READ_MEDIA_IMAGES,READ_MEDIA_VIDEO,READ_PHONE_NUMBERS,READ_PHONE_STATE,READ_PROFILE,READ_SYNC_SETTINGS,RECEIVE_BOOT_COMPLETED,RECORD_AUDIO,REQUEST_INSTALL_PACKAGES,SYSTEM_ALERT_WINDOW,USE_BIOMETRIC,USE_FINGERPRINT,USE_FULL_SCREEN_INTENT,VIBRATE,WAKE_LOCK,WRITE_CONTACTS,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,com.anddoes.launcher.permission.UPDATE_COUNT,com.android.launcher.permission.INSTALL_SHORTCUT,com.android.launcher.permission.UNINSTALL_SHORTCUT,com.android.vending.BILLING,com.htc.launcher.permission.READ_SETTINGS,com.htc.launcher.permission.UPDATE_SHORTCUT,com.huawei.android.launcher.permission.CHANGE_BADGE,com.huawei.android.launcher.permission.READ_SETTINGS,com.huawei.android.launcher.permission.WRITE_SETTINGS,com.majeur.launcher.permission.UPDATE_BADGE,com.oppo.launcher.permission.READ_SETTINGS,com.oppo.launcher.permission.WRITE_SETTINGS,com.sec.android.provider.badge.permission.READ,com.sec.android.provider.badge.permission.WRITE,com.sonyericsson.home.permission.BROADCAST_BADGE,com.sonymobile.home.permission.PROVIDER_INSERT_BADGE,me.everything.badger.permission.BADGE_COUNT_READ,me.everything.badger.permission.BADGE_COUNT_WRITE,nekox.messenger.broken.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<uses-permission maxSdkVersion="29" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+			<nativecode>arm64-v8a</nativecode>
+		</package>
+		<package>
+			<version>11.5.3-9cef652f68</version>
+			<versioncode>10759</versioncode>
+			<apkname>momogram_v11.5.3-1.apk</apkname>
+			<hash type="sha256">cfa5f3961b02358d8e99c8373f6051c3ed8930faee433518372196b8d812dad5</hash>
+			<size>52142679</size>
+			<sdkver>19</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-06-27</added>
+			<sig>630ab5b029ea54bff07bc061cc69eae1</sig>
+			<permissions>ACCESS_BACKGROUND_LOCATION,ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_MEDIA_LOCATION,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,AUTHENTICATE_ACCOUNTS,BLUETOOTH,BLUETOOTH_CONNECT,CAMERA,FOREGROUND_SERVICE,FOREGROUND_SERVICE_CAMERA,FOREGROUND_SERVICE_DATA_SYNC,FOREGROUND_SERVICE_LOCATION,FOREGROUND_SERVICE_MEDIA_PLAYBACK,FOREGROUND_SERVICE_MEDIA_PROJECTION,FOREGROUND_SERVICE_MICROPHONE,GET_ACCOUNTS,INSTALL_SHORTCUT,INTERNET,MANAGE_ACCOUNTS,MANAGE_OWN_CALLS,MODIFY_AUDIO_SETTINGS,POST_NOTIFICATIONS,READ_APP_BADGE,READ_CLIPBOARD,READ_CONTACTS,READ_EXTERNAL_STORAGE,READ_MEDIA_AUDIO,READ_MEDIA_IMAGES,READ_MEDIA_VIDEO,READ_PHONE_NUMBERS,READ_PHONE_STATE,READ_PROFILE,READ_SYNC_SETTINGS,RECEIVE_BOOT_COMPLETED,RECORD_AUDIO,REQUEST_INSTALL_PACKAGES,SYSTEM_ALERT_WINDOW,USE_BIOMETRIC,USE_FINGERPRINT,USE_FULL_SCREEN_INTENT,VIBRATE,WAKE_LOCK,WRITE_CONTACTS,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,com.anddoes.launcher.permission.UPDATE_COUNT,com.android.launcher.permission.INSTALL_SHORTCUT,com.android.launcher.permission.UNINSTALL_SHORTCUT,com.android.vending.BILLING,com.htc.launcher.permission.READ_SETTINGS,com.htc.launcher.permission.UPDATE_SHORTCUT,com.huawei.android.launcher.permission.CHANGE_BADGE,com.huawei.android.launcher.permission.READ_SETTINGS,com.huawei.android.launcher.permission.WRITE_SETTINGS,com.majeur.launcher.permission.UPDATE_BADGE,com.oppo.launcher.permission.READ_SETTINGS,com.oppo.launcher.permission.WRITE_SETTINGS,com.sec.android.provider.badge.permission.READ,com.sec.android.provider.badge.permission.WRITE,com.sonyericsson.home.permission.BROADCAST_BADGE,com.sonymobile.home.permission.PROVIDER_INSERT_BADGE,me.everything.badger.permission.BADGE_COUNT_READ,me.everything.badger.permission.BADGE_COUNT_WRITE,nekox.messenger.broken.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<uses-permission maxSdkVersion="29" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+			<nativecode>arm64-v8a</nativecode>
+		</package>
+		<package>
+			<version>11.4.2-030</version>
+			<versioncode>10409</versioncode>
+			<apkname>momogram_v11.4.2-1.apk</apkname>
+			<hash type="sha256">ab1753191ae12cf8485f570ecbe4782836ab0af6a45c63f359cf5ee52fdd670f</hash>
+			<size>60975170</size>
+			<sdkver>19</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-06-27</added>
+			<sig>630ab5b029ea54bff07bc061cc69eae1</sig>
+			<permissions>ACCESS_BACKGROUND_LOCATION,ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_MEDIA_LOCATION,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,AUTHENTICATE_ACCOUNTS,BLUETOOTH,BLUETOOTH_CONNECT,CAMERA,FOREGROUND_SERVICE,FOREGROUND_SERVICE_CAMERA,FOREGROUND_SERVICE_DATA_SYNC,FOREGROUND_SERVICE_LOCATION,FOREGROUND_SERVICE_MEDIA_PLAYBACK,FOREGROUND_SERVICE_MEDIA_PROJECTION,FOREGROUND_SERVICE_MICROPHONE,GET_ACCOUNTS,INSTALL_SHORTCUT,INTERNET,MANAGE_ACCOUNTS,MANAGE_OWN_CALLS,MODIFY_AUDIO_SETTINGS,POST_NOTIFICATIONS,READ_APP_BADGE,READ_CLIPBOARD,READ_CONTACTS,READ_EXTERNAL_STORAGE,READ_MEDIA_AUDIO,READ_MEDIA_IMAGES,READ_MEDIA_VIDEO,READ_PHONE_NUMBERS,READ_PHONE_STATE,READ_PROFILE,READ_SYNC_SETTINGS,RECEIVE_BOOT_COMPLETED,RECORD_AUDIO,REQUEST_INSTALL_PACKAGES,SYSTEM_ALERT_WINDOW,USE_BIOMETRIC,USE_FINGERPRINT,USE_FULL_SCREEN_INTENT,VIBRATE,WAKE_LOCK,WRITE_CONTACTS,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,com.anddoes.launcher.permission.UPDATE_COUNT,com.android.launcher.permission.INSTALL_SHORTCUT,com.android.launcher.permission.UNINSTALL_SHORTCUT,com.android.vending.BILLING,com.htc.launcher.permission.READ_SETTINGS,com.htc.launcher.permission.UPDATE_SHORTCUT,com.huawei.android.launcher.permission.CHANGE_BADGE,com.huawei.android.launcher.permission.READ_SETTINGS,com.huawei.android.launcher.permission.WRITE_SETTINGS,com.majeur.launcher.permission.UPDATE_BADGE,com.oppo.launcher.permission.READ_SETTINGS,com.oppo.launcher.permission.WRITE_SETTINGS,com.sec.android.provider.badge.permission.READ,com.sec.android.provider.badge.permission.WRITE,com.sonyericsson.home.permission.BROADCAST_BADGE,com.sonymobile.home.permission.PROVIDER_INSERT_BADGE,me.everything.badger.permission.BADGE_COUNT_READ,me.everything.badger.permission.BADGE_COUNT_WRITE,nekox.messenger.broken.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<uses-permission maxSdkVersion="29" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+		<package>
+			<version>11.1.3-broken</version>
+			<versioncode>10309</versioncode>
+			<apkname>momogram_v11.1.3-2.apk</apkname>
+			<hash type="sha256">164c4f06b2d3c91472a984f9ab7fecf67e7a82bfebf0fa53fad096e523048cbe</hash>
+			<size>59671638</size>
+			<sdkver>19</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-06-27</added>
+			<sig>630ab5b029ea54bff07bc061cc69eae1</sig>
+			<permissions>ACCESS_BACKGROUND_LOCATION,ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_MEDIA_LOCATION,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,AUTHENTICATE_ACCOUNTS,BLUETOOTH,BLUETOOTH_CONNECT,CAMERA,FOREGROUND_SERVICE,FOREGROUND_SERVICE_CAMERA,FOREGROUND_SERVICE_DATA_SYNC,FOREGROUND_SERVICE_LOCATION,FOREGROUND_SERVICE_MEDIA_PLAYBACK,FOREGROUND_SERVICE_MEDIA_PROJECTION,FOREGROUND_SERVICE_MICROPHONE,GET_ACCOUNTS,INSTALL_SHORTCUT,INTERNET,MANAGE_ACCOUNTS,MANAGE_OWN_CALLS,MODIFY_AUDIO_SETTINGS,POST_NOTIFICATIONS,READ_APP_BADGE,READ_CLIPBOARD,READ_CONTACTS,READ_EXTERNAL_STORAGE,READ_MEDIA_AUDIO,READ_MEDIA_IMAGES,READ_MEDIA_VIDEO,READ_PHONE_NUMBERS,READ_PHONE_STATE,READ_PROFILE,READ_SYNC_SETTINGS,RECEIVE_BOOT_COMPLETED,RECORD_AUDIO,REQUEST_INSTALL_PACKAGES,SYSTEM_ALERT_WINDOW,USE_BIOMETRIC,USE_FINGERPRINT,USE_FULL_SCREEN_INTENT,VIBRATE,WAKE_LOCK,WRITE_CONTACTS,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,com.anddoes.launcher.permission.UPDATE_COUNT,com.android.launcher.permission.INSTALL_SHORTCUT,com.android.launcher.permission.UNINSTALL_SHORTCUT,com.android.vending.BILLING,com.htc.launcher.permission.READ_SETTINGS,com.htc.launcher.permission.UPDATE_SHORTCUT,com.huawei.android.launcher.permission.CHANGE_BADGE,com.huawei.android.launcher.permission.READ_SETTINGS,com.huawei.android.launcher.permission.WRITE_SETTINGS,com.majeur.launcher.permission.UPDATE_BADGE,com.oppo.launcher.permission.READ_SETTINGS,com.oppo.launcher.permission.WRITE_SETTINGS,com.sec.android.provider.badge.permission.READ,com.sec.android.provider.badge.permission.WRITE,com.sonyericsson.home.permission.BROADCAST_BADGE,com.sonymobile.home.permission.PROVIDER_INSERT_BADGE,me.everything.badger.permission.BADGE_COUNT_READ,me.everything.badger.permission.BADGE_COUNT_WRITE,nekox.messenger.broken.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<uses-permission maxSdkVersion="29" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+		<package>
+			<version>10.5.0-broken</version>
+			<versioncode>770</versioncode>
+			<apkname>momogram_v10.5.0.apk</apkname>
+			<hash type="sha256">1494091cf58e49a1e0bb98570d8988af9fe5b45f8c8b6ddd96b0d555e348fc7b</hash>
+			<size>53616996</size>
+			<sdkver>19</sdkver>
+			<targetSdkVersion>33</targetSdkVersion>
+			<added>2025-06-27</added>
+			<sig>630ab5b029ea54bff07bc061cc69eae1</sig>
+			<permissions>ACCESS_BACKGROUND_LOCATION,ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_MEDIA_LOCATION,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,AUTHENTICATE_ACCOUNTS,BLUETOOTH,BLUETOOTH_CONNECT,CAMERA,FOREGROUND_SERVICE,GET_ACCOUNTS,INSTALL_SHORTCUT,INTERNET,MANAGE_ACCOUNTS,MANAGE_OWN_CALLS,MODIFY_AUDIO_SETTINGS,POST_NOTIFICATIONS,READ_APP_BADGE,READ_CLIPBOARD,READ_CONTACTS,READ_EXTERNAL_STORAGE,READ_MEDIA_AUDIO,READ_MEDIA_IMAGES,READ_MEDIA_VIDEO,READ_PHONE_NUMBERS,READ_PHONE_STATE,READ_PROFILE,READ_SYNC_SETTINGS,RECEIVE_BOOT_COMPLETED,RECORD_AUDIO,REQUEST_INSTALL_PACKAGES,SYSTEM_ALERT_WINDOW,USE_BIOMETRIC,USE_FINGERPRINT,USE_FULL_SCREEN_INTENT,VIBRATE,WAKE_LOCK,WRITE_CONTACTS,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,com.anddoes.launcher.permission.UPDATE_COUNT,com.android.launcher.permission.INSTALL_SHORTCUT,com.android.launcher.permission.UNINSTALL_SHORTCUT,com.android.vending.BILLING,com.htc.launcher.permission.READ_SETTINGS,com.htc.launcher.permission.UPDATE_SHORTCUT,com.huawei.android.launcher.permission.CHANGE_BADGE,com.huawei.android.launcher.permission.READ_SETTINGS,com.huawei.android.launcher.permission.WRITE_SETTINGS,com.majeur.launcher.permission.UPDATE_BADGE,com.oppo.launcher.permission.READ_SETTINGS,com.oppo.launcher.permission.WRITE_SETTINGS,com.sec.android.provider.badge.permission.READ,com.sec.android.provider.badge.permission.WRITE,com.sonyericsson.home.permission.BROADCAST_BADGE,com.sonymobile.home.permission.PROVIDER_INSERT_BADGE,me.everything.badger.permission.BADGE_COUNT_READ,me.everything.badger.permission.BADGE_COUNT_WRITE,nekox.messenger.broken.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<uses-permission maxSdkVersion="29" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+			<nativecode>arm64-v8a</nativecode>
+		</package>
+		<package>
+			<version>10.3.2-broken</version>
+			<versioncode>760</versioncode>
+			<apkname>momogram_v10.3.2-rc.apk</apkname>
+			<hash type="sha256">9947adc3b983353498ede3d22f648a0c1cf437e337a5e170a6f8cb751881aa76</hash>
+			<size>53316298</size>
+			<sdkver>19</sdkver>
+			<targetSdkVersion>33</targetSdkVersion>
+			<added>2025-06-27</added>
+			<sig>630ab5b029ea54bff07bc061cc69eae1</sig>
+			<permissions>ACCESS_BACKGROUND_LOCATION,ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_MEDIA_LOCATION,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,AUTHENTICATE_ACCOUNTS,BLUETOOTH,BLUETOOTH_CONNECT,CAMERA,FOREGROUND_SERVICE,GET_ACCOUNTS,INSTALL_SHORTCUT,INTERNET,MANAGE_ACCOUNTS,MANAGE_OWN_CALLS,MODIFY_AUDIO_SETTINGS,POST_NOTIFICATIONS,READ_APP_BADGE,READ_CLIPBOARD,READ_CONTACTS,READ_EXTERNAL_STORAGE,READ_MEDIA_AUDIO,READ_MEDIA_IMAGES,READ_MEDIA_VIDEO,READ_PHONE_NUMBERS,READ_PHONE_STATE,READ_PROFILE,READ_SYNC_SETTINGS,RECEIVE_BOOT_COMPLETED,RECORD_AUDIO,REQUEST_INSTALL_PACKAGES,SYSTEM_ALERT_WINDOW,USE_BIOMETRIC,USE_FINGERPRINT,USE_FULL_SCREEN_INTENT,VIBRATE,WAKE_LOCK,WRITE_CONTACTS,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,com.anddoes.launcher.permission.UPDATE_COUNT,com.android.launcher.permission.INSTALL_SHORTCUT,com.android.launcher.permission.UNINSTALL_SHORTCUT,com.android.vending.BILLING,com.htc.launcher.permission.READ_SETTINGS,com.htc.launcher.permission.UPDATE_SHORTCUT,com.huawei.android.launcher.permission.CHANGE_BADGE,com.huawei.android.launcher.permission.READ_SETTINGS,com.huawei.android.launcher.permission.WRITE_SETTINGS,com.majeur.launcher.permission.UPDATE_BADGE,com.oppo.launcher.permission.READ_SETTINGS,com.oppo.launcher.permission.WRITE_SETTINGS,com.sec.android.provider.badge.permission.READ,com.sec.android.provider.badge.permission.WRITE,com.sonyericsson.home.permission.BROADCAST_BADGE,com.sonymobile.home.permission.PROVIDER_INSERT_BADGE,me.everything.badger.permission.BADGE_COUNT_READ,me.everything.badger.permission.BADGE_COUNT_WRITE,nekox.messenger.broken.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<uses-permission maxSdkVersion="29" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+			<nativecode>arm64-v8a</nativecode>
+		</package>
+		<package>
+			<version>10.2.6-broken</version>
+			<versioncode>750</versioncode>
+			<apkname>momogram_v10.2.6-dep1.apk</apkname>
+			<hash type="sha256">98e6feb1bacbb44472535a070d4a9f6a41c6f905a40c9c13d3b07a632dd6048d</hash>
+			<size>53084134</size>
+			<sdkver>19</sdkver>
+			<targetSdkVersion>33</targetSdkVersion>
+			<added>2025-06-27</added>
+			<sig>630ab5b029ea54bff07bc061cc69eae1</sig>
+			<permissions>ACCESS_BACKGROUND_LOCATION,ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_MEDIA_LOCATION,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,AUTHENTICATE_ACCOUNTS,BLUETOOTH,BLUETOOTH_CONNECT,CAMERA,FOREGROUND_SERVICE,GET_ACCOUNTS,INSTALL_SHORTCUT,INTERNET,MANAGE_ACCOUNTS,MANAGE_OWN_CALLS,MODIFY_AUDIO_SETTINGS,POST_NOTIFICATIONS,READ_APP_BADGE,READ_CLIPBOARD,READ_CONTACTS,READ_EXTERNAL_STORAGE,READ_MEDIA_AUDIO,READ_MEDIA_IMAGES,READ_MEDIA_VIDEO,READ_PHONE_NUMBERS,READ_PHONE_STATE,READ_PROFILE,READ_SYNC_SETTINGS,RECEIVE_BOOT_COMPLETED,RECORD_AUDIO,REQUEST_INSTALL_PACKAGES,SYSTEM_ALERT_WINDOW,USE_BIOMETRIC,USE_FINGERPRINT,USE_FULL_SCREEN_INTENT,VIBRATE,WAKE_LOCK,WRITE_CONTACTS,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,com.anddoes.launcher.permission.UPDATE_COUNT,com.android.launcher.permission.INSTALL_SHORTCUT,com.android.launcher.permission.UNINSTALL_SHORTCUT,com.android.vending.BILLING,com.htc.launcher.permission.READ_SETTINGS,com.htc.launcher.permission.UPDATE_SHORTCUT,com.huawei.android.launcher.permission.CHANGE_BADGE,com.huawei.android.launcher.permission.READ_SETTINGS,com.huawei.android.launcher.permission.WRITE_SETTINGS,com.majeur.launcher.permission.UPDATE_BADGE,com.oppo.launcher.permission.READ_SETTINGS,com.oppo.launcher.permission.WRITE_SETTINGS,com.sec.android.provider.badge.permission.READ,com.sec.android.provider.badge.permission.WRITE,com.sonyericsson.home.permission.BROADCAST_BADGE,com.sonymobile.home.permission.PROVIDER_INSERT_BADGE,me.everything.badger.permission.BADGE_COUNT_READ,me.everything.badger.permission.BADGE_COUNT_WRITE,nekox.messenger.broken.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<uses-permission maxSdkVersion="29" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+			<nativecode>arm64-v8a</nativecode>
 		</package>
 	</application>
 	<application id="io.github.chsbuffer.revancedxposed">

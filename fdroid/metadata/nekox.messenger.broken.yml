@@ -1,0 +1,13 @@
+AuthorName: dic1911
+Categories:
+    - Internet
+CurrentVersion: 11.12.0-626f2b5128
+CurrentVersionCode: 10929
+Description: |
+    Third-party Telegram Client
+IssueTracker: ""
+License: GPL-3.0
+Name: Momogram
+SourceCode: https://github.com/dic1911/Momogram
+Summary: A third-party Telegram android app.
+WebSite: ""

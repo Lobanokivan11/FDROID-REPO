@@ -9,6 +9,7 @@ This repository is a template for an [F-Droid](https://f-droid.org) repo using G
 | Icon | Name | Description | Version |
 | --- | --- | --- | --- |
 | <a href="https://github.com/Lobanokivan11/fdroid_shizuku_privileged_extension"><img src="fdroid/repo/icons/" alt="F-Droid Privileged Extension Shizuku Edition icon" width="36px" height="36px"></a> | [**F-Droid Privileged Extension Shizuku Edition**](https://github.com/Lobanokivan11/fdroid_shizuku_privileged_extension) | F-Droid Privilege Extension that works with Shizuku (rootless) - UPDATES ARE ... | dc5bb3f (10000) |
+| <a href="https://github.com/dic1911/Momogram"><img src="fdroid/repo/icons/" alt="Momogram icon" width="36px" height="36px"></a> | [**Momogram**](https://github.com/dic1911/Momogram) | A third-party Telegram android app. | 11.12.0-626f2b5128 (10929) |
 | <a href="https://github.com/chsbuffer/ReVancedXposed"><img src="fdroid/repo/icons/" alt="ReVanced Xposed icon" width="36px" height="36px"></a> | [**ReVanced Xposed**](https://github.com/chsbuffer/ReVancedXposed) | ReVanced LSPosed module. YouTube &amp; YT Music Remove ads, Background playback | 1.0.19 (19) |
 | <a href="https://github.com/Lobanokivan11/Substratum-monetall"><img src="fdroid/repo/icons/substratum.monet.all.5.png" alt="Substratum monetall icon" width="36px" height="36px"></a> | [**Substratum monetall**](https://github.com/Lobanokivan11/Substratum-monetall) | MONET ALL, SUBSTRATUM MODE | 5.0 (5) |
 <!-- end apps table -->
