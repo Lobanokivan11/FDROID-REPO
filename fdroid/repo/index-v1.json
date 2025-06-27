@@ -1,1 +1,70 @@
-{"repo": {"timestamp": 1751029665000, "version": 20002, "name": "Lobanokivan11's F-Droid Repo", "icon": "icon.png", "address": "https://raw.githubusercontent.com/Lobanokivan11/FDROID-REPO/refs/heads/main/fdroid/repo", "description": "This is Repository of Lobanokivan11"}, "requests": {"install": [], "uninstall": []}, "apps": [], "packages": {}}
+{
+  "repo": {
+    "timestamp": 1751031007000,
+    "version": 20002,
+    "name": "Lobanokivan11's F-Droid Repo",
+    "icon": "icon.png",
+    "address": "https://raw.githubusercontent.com/Lobanokivan11/FDROID-REPO/refs/heads/main/fdroid/repo",
+    "description": "This is Repository of Lobanokivan11"
+  },
+  "requests": {
+    "install": [],
+    "uninstall": []
+  },
+  "apps": [
+    {
+      "authorName": "Lobanokivan11",
+      "categories": [
+        "Theming"
+      ],
+      "suggestedVersionName": "5.0",
+      "suggestedVersionCode": "5",
+      "description": "Monet All Substratum Mode\n",
+      "license": "Apache-2.0",
+      "name": "Substratum monetall",
+      "sourceCode": "https://github.com/Lobanokivan11/Substratum-monetall",
+      "summary": "MONET ALL, SUBSTRATUM MODE",
+      "added": 1751031003000,
+      "icon": "substratum.monet.all.5.png",
+      "packageName": "substratum.monet.all",
+      "lastUpdated": 1751031003000,
+      "localized": {
+        "en-US": {
+          "whatsNew": "Debug Builds"
+        }
+      }
+    }
+  ],
+  "packages": {
+    "substratum.monet.all": [
+      {
+        "added": 1751031003000,
+        "apkName": "substratum-monetall_github_nightly_debug.apk",
+        "hash": "940e5553b1347a351a511be716474f6ce184ed05baa87619ff3845b7f1bbb592",
+        "hashType": "sha256",
+        "minSdkVersion": 24,
+        "packageName": "substratum.monet.all",
+        "sig": "44fac2e6e5a0e95de3a65b4b503bbf18",
+        "signer": "002b10eb0181387484f2116c9d0dff214613c48c3f1d61e8f82cecca417b173f",
+        "size": 4163258,
+        "targetSdkVersion": 24,
+        "uses-permission": [
+          [
+            "com.android.vending.CHECK_LICENSE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "substratum.monet.all.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 5,
+        "versionName": "5.0"
+      }
+    ]
+  }
+}

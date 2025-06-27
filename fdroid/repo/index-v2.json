@@ -1,1 +1,91 @@
-{"repo": {"name": {"en-US": "Lobanokivan11's F-Droid Repo"}, "description": {"en-US": "This is Repository of Lobanokivan11"}, "icon": {"en-US": {"name": "/icons/icon.png", "sha256": "e3f3b52cbf72ed1b318f156b0a00918c90d53a4e8e63ffbaa4cfd4d8260b945c", "size": 2834}}, "address": "https://raw.githubusercontent.com/Lobanokivan11/FDROID-REPO/refs/heads/main/fdroid/repo", "timestamp": 1751029665000}, "packages": {}}
+{
+  "repo": {
+    "name": {
+      "en-US": "Lobanokivan11's F-Droid Repo"
+    },
+    "description": {
+      "en-US": "This is Repository of Lobanokivan11"
+    },
+    "icon": {
+      "en-US": {
+        "name": "/icons/icon.png",
+        "sha256": "e3f3b52cbf72ed1b318f156b0a00918c90d53a4e8e63ffbaa4cfd4d8260b945c",
+        "size": 2834
+      }
+    },
+    "address": "https://raw.githubusercontent.com/Lobanokivan11/FDROID-REPO/refs/heads/main/fdroid/repo",
+    "timestamp": 1751031007000,
+    "categories": {
+      "Theming": {
+        "name": {
+          "en-US": "Theming"
+        }
+      }
+    }
+  },
+  "packages": {
+    "substratum.monet.all": {
+      "metadata": {
+        "added": 1751031003000,
+        "categories": [
+          "Theming"
+        ],
+        "lastUpdated": 1751031003000,
+        "license": "Apache-2.0",
+        "sourceCode": "https://github.com/Lobanokivan11/Substratum-monetall",
+        "authorName": "Lobanokivan11",
+        "name": {
+          "en-US": "Substratum monetall"
+        },
+        "summary": {
+          "en-US": "MONET ALL, SUBSTRATUM MODE"
+        },
+        "description": {
+          "en-US": "Monet All Substratum Mode\n"
+        },
+        "icon": {
+          "en-US": {
+            "name": "/icons/substratum.monet.all.5.png",
+            "sha256": "f7285edbbae3a9957832a6512e5defbd545c0d868c6335554ab4155fe35a2dfd",
+            "size": 1213
+          }
+        },
+        "preferredSigner": "002b10eb0181387484f2116c9d0dff214613c48c3f1d61e8f82cecca417b173f"
+      },
+      "versions": {
+        "940e5553b1347a351a511be716474f6ce184ed05baa87619ff3845b7f1bbb592": {
+          "added": 1751031003000,
+          "file": {
+            "name": "/substratum-monetall_github_nightly_debug.apk",
+            "sha256": "940e5553b1347a351a511be716474f6ce184ed05baa87619ff3845b7f1bbb592",
+            "size": 4163258
+          },
+          "manifest": {
+            "versionName": "5.0",
+            "versionCode": 5,
+            "usesSdk": {
+              "minSdkVersion": 24,
+              "targetSdkVersion": 24
+            },
+            "signer": {
+              "sha256": [
+                "002b10eb0181387484f2116c9d0dff214613c48c3f1d61e8f82cecca417b173f"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "com.android.vending.CHECK_LICENSE"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "substratum.monet.all.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}
