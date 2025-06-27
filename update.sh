@@ -28,6 +28,11 @@ elif [ $EXIT_CODE -eq 0 ]; then
     git add .
     git commit -m "Automated update"
     git push
+
+    # Do it again Because of LFS
+    git add .
+    git commit -m "Automated update"
+    git push
 else 
     echo "This is an unexpected error"
 
