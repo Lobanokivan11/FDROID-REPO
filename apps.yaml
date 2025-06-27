@@ -1,4 +1,4 @@
-notality:
+xspoofsignatures-legends:
   git: https://github.com/Lobanokivan11/XSpoofSignatures-Legends
   name: "XSpoofSignatures-Legends"
   description: |
@@ -46,6 +46,3 @@ notality:
 
   categories: 
     - Xposed
-
-another_app:
-  git: https://github.com/xarantolus/myotherapp
