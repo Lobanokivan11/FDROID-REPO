@@ -95,3 +95,13 @@ substratum:
   categories: 
     - Theming
     - System
+xthemeengine:
+  git: https://github.com/AndroidThemingRequiem/Xtheme-Engine
+  name: "XTheme Engine"
+  description: |
+    XTheme Engine - Theme Engine That Use Xposed Bridge For Theming
+
+  categories: 
+    - Theming
+    - System
+    - Xposed
