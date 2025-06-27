@@ -19,6 +19,6 @@ revancedxposed:
   name: "ReVanced Xposed"
   description: |
     Xposed Module With Revanced Patches
-		Better Than Mount
+    Better Than Mount
   categories: 
     - Xposed
