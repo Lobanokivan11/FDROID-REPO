@@ -22,3 +22,10 @@ revancedxposed:
     Better Than Mount
   categories: 
     - Xposed
+momogram:
+  git: https://github.com/dic1911/Momogram
+  name: "Momogram"
+  description: |
+    Third-party Telegram Client
+  categories: 
+    - Internet
