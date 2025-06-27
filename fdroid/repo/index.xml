@@ -1,1 +1,67 @@
-<?xml version="1.0" encoding="utf-8"?><fdroid><repo icon="icon.png" name="My First F-Droid Repo Demo" pubkey="308204ef308202d7a0030201020208742dfbc895caa08b300d06092a864886f70d01010b050030253110300e060355040b1307462d44726f69643111300f0603550403130841584f2d557365723020170d3235303632373134323132375a180f32303532313131323134323132375a30253110300e060355040b1307462d44726f69643111300f0603550403130841584f2d5573657230820222300d06092a864886f70d01010105000382020f003082020a0282020100d699fae178108361ab19056ca84a583cdb8dc97442879a38ea389c13d350e3cd4ae783fd8d3c0468ef259671c0bcf54b28c1eee706895cb4d884c618f5fb8c062c93210a80df0be2ff84a22e23afe1b4e1c14ac98ecb3857b60c8347664e0bc2cae2abcb972f54750e239495ac4de1770a2d65825423598b79473bb480db3a5f07821b3beea3ce3097b23a73fdad907d3e2cab9eb1f8a91fb93bf7c9291afa241bf5972af706c11d87fe64c86817dfd42b8dc7c30325095e17b94755b6b263037f18bfdb12b46a1182484f06a9344380608223c972780629f2fc4628c93c1d78689cc8e2161dd22314f40ca6059f6a8e4d5c5bc9220b9c8e502296134ba3ffe28ecea599a2c91f0c21368e6c209777ea8bf485930ba250815b9a5cba017b9815e9e06bbf1a30c204157f08925625af3b3cdc19181b33e069ab7a56ad6fb4f68e771e97615aa22d9ee83a1e87baa7353c4af823471e501e03f245f7922202c77fc2c32f1ad858cd2152fd98bf221d5b00d2a9f8cac1790711e0c3db521d2915512d917838e61096925f61c0a32e4bb6e97294e2d5b8ffb949508e890597f9daa303daaffd1c9cb066704d9eed5e94d3f9e088ba8a6db12daa4b2760e2f5900930fc6255cb9891cb573b0c4f8ec3629460a5ffefa4503445ea811022391ed082334deee3e2fe4809a2b63f483715a4be3da18d34d4f73795e810ec4a59aea3fc990203010001a321301f301d0603551d0e04160414c5ebfbd54d247c6deaff0c543b75bdca94940856300d06092a864886f70d01010b050003820201009198f90e448e079f6129375669f5d00fae7ecc121dc7cda4c03663cd818eb358a65f5bbb8fc7826001b3c700db81fa9eb6107a6bc750c6c42a82ddef2c49fc29b691c3b06ce430a7fa830b8b14e34cf7a7fcf69d8fb5122a951ecd7b930b24fa79b8ee9664c97e080b0af8b02922a1694cfe2ef19ea73574d0ab8159df9204aacf067bb10458bc11db8c8e74201f1bd77b39a4afbaff058f86f37f61551e89d6fcf0ebbb9272945d35f9db12d7c398c5def17f360f69db6e2675e4e7d865217c0faafc29a143e3400bba255cb5305087bddb46dfb21ae5a5ad1d282b8588719114db63a86f8da29cee018c84b5b3a023a6715c0af841672b60812d0d32ce9ff4483a4d74bb20b6f67bb2a3200e37a9f9c253cfa093e4f7202d4b1e0339856ccf13aa7a83a900ff0b08137f59d0a9f6103bbdd418fe98d3c33cf55992da66e863d448b44ad58d7ee0ac394af1ff7f6d03aa37b38b974de42513bddcb528b0fd6a9ef75e93b96aaf6ff59a4e10fd399aa6122d278317b2cede7d5817279e656cc52f4260857f925e696283105f4f830ddbbcb710accf0cfd8d8b1ea0ba2a92f4f76e9afde4e835d34f41d318f39c358b6584732354edbe09e4e6a8ecd2bfd6577952e3519e2d7d9d1b8275d44913374c6057efa1f6502a875fd76c0cfdb702a43bf9ed4933a4fc3ff2c5fc8a5dfb7f9223dd506fd7b22f77636619777756b996ef" timestamp="1751034123" url="https://MyFirstFDroidRepo.org/fdroid/repo" version="20002"><description>This is a repository of apps to be used with F-Droid. Applications in this repository are either official binaries built by the original application developers, or are binaries built from source by the admin of f-droid.org using the tools on https://gitlab.com/fdroid.</description></repo></fdroid>
+<?xml version="1.0" encoding="utf-8"?>
+<fdroid>
+	<repo icon="icon.png" name="Lobanokivan11's F-Droid Repo" pubkey="308204f0308202d8a003020102020900aa0527e64906854b300d06092a864886f70d01010b050030253110300e060355040b1307462d44726f69643111300f0603550403130841584f2d557365723020170d3235303632373132353035305a180f32303532313131323132353035305a30253110300e060355040b1307462d44726f69643111300f0603550403130841584f2d5573657230820222300d06092a864886f70d01010105000382020f003082020a0282020100e292f147f1d12c06b54004d33ef0249fbfa5cb575e74e33f7ef11740a06888eb14a68e3a7cda7854de7c0e16248289ef440b87b16015a6cdfc7456ca24b7c03f8abfa89f94215a0f235b2111b95d3edee214d2c747f13ea171ad07db5a119ddb91ebc4c089c54aaa20c719b7bf5fc3ed636489eafa1016c459269447a3fbc40622d62a3efb7437bbc1a4f8d06d26298398eb1145354be9deef0812b9a854f8547d015cda1b5242a0d32d92c1ead25dce341fef71a49ad4a8dc5441d8637cc69019fa528f05adc2cfb2b357d99f1226f700800b4401e461f475dff60170e5e2f7bf55cd7e7372441d33098f90d56010b90955d2aa81ebdf841b2e5780a1276a0073db5ffe644b5720578442c1dd44784a205331b4cee61f6456b89719b4c1c85c5325ac06bd744aa85fc620d7f59c6acc26c0f00713967e08f8a66c6b07fc23b3a3868f504e9afa0385823a1e890fabefc6d7aa68a3533894388dd7d04eb03b5f6f23aa2614dbfa6e3d32d5266edd8b643b6b4d903e663d448cd7c4803ee090c54cc8d0249dd3db53352259d3b7a79798eaed934462b9a79cb71844c55dff1a94076e740af209861aabab7f946b76c605c8f2a308ba87bd52e63c6335e1f98bf69c897259609c249f9c83907309db019d8cb3a4a0e26b23ba8dabf37918801fd1a8e2fc84f34192d41583255a4f35a20371c32fdf1a4c93cbe2b1a1b82597deb70203010001a321301f301d0603551d0e0416041470130289d750ce245977dbca02acb48dbff0e31e300d06092a864886f70d01010b050003820201005454d576c5f5f25e0ee7011e46266bb5bb07ff51a8179ba7ca6f9a6b17bf77bac316933e2ed8586cfaa34cb8af5bbfe89ffbfe9f3fffe66f5e039673f8544bde5e923cb08820d17531cc7414429c48a4272f65578351121b6cca17f3633025e4295a96316fcdf6343630c9662baedf6ecd9b8efedca812b80d6e6d50cd7618ee76dc3c88ae36570e37b5e62fa03734f7ff983918d373685766c23a8d99a8b5ec4c5e42b861cd79124686682a58a420b8ab677d528bb9e2d03e067f5fea4d78088318cad255bc8e5282385df32ec02be323e3ce4559e9f45757ae3aca1bf645bb6283a90086cddc7a82bfae486e57592339968acce21d0471f20e7f54c3ed5295ad91b0e61e5070283495558931c99ddfca434e22070e50759025b39294f08fde6c6449434649f5620f809f65eefa94c93e0dd5d23deda89efbc1c98f7265daaecf13f1d6e5a0de34e6c5aa0d34303e157dc3c28dc6f2ed3c91d1f0f8afbf8ee640007b8def8b2c57da43a8a65d22667421c9588376721b112f45237299c7bea99852c3558059af416ea99f36f191288f86b2f0e9b2c1f2824233d0f35044fc46cb88d4f0680f8706fe365d6e92e0cadeeb1f2de6b14c02eddfb6d4c324a79b9f46fb25533e2a0c02d3254c7f75d8931756f7b89da4092dd793bd1f717326a8ad57a3a5b3763b14470d2acb01560294094c97ef354afe7d6ee530b247f3bb211a" timestamp="1751034333" url="https://raw.githubusercontent.com/Lobanokivan11/FDROID-REPO/refs/heads/main/fdroid/repo" version="20002">
+		<description>This is Repository of Lobanokivan11</description>
+	</repo>
+	<application id="org.fdroid.fdroid.privileged">
+		<id>org.fdroid.fdroid.privileged</id>
+		<added>2025-06-27</added>
+		<lastupdated>2025-06-27</lastupdated>
+		<name>F-Droid Privileged Extension Shizuku Edition</name>
+		<summary>F-Droid Privilege Extension that works with Shizuku (rootless) - UPDATES ARE ...</summary>
+		<desc>F-Droid Privileged Extension that works with Shizuku (rootless)
+</desc>
+		<license>Apache-2.0</license>
+		<categories>System</categories>
+		<category>System</category>
+		<web></web>
+		<source>https://github.com/Lobanokivan11/fdroid_shizuku_privileged_extension</source>
+		<tracker></tracker>
+		<author>Lobanokivan11</author>
+		<marketversion>dc5bb3f</marketversion>
+		<marketvercode>10000</marketvercode>
+		<package>
+			<version>dc5bb3f</version>
+			<versioncode>10000</versioncode>
+			<apkname>fdroidprivshizuku_github_nightly_debug.apk</apkname>
+			<hash type="sha256">3cef8092d7412786b35ae2ec9b30fcd37fcf861d6256fd2a994815f41af33df9</hash>
+			<size>2610296</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>33</targetSdkVersion>
+			<added>2025-06-27</added>
+			<sig>9bf31245c30b3a965b618ea1bd44e37b</sig>
+			<permissions>QUERY_ALL_PACKAGES,moe.shizuku.manager.permission.API_V23,org.fdroid.fdroid.privileged.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+		</package>
+	</application>
+	<application id="substratum.monet.all">
+		<id>substratum.monet.all</id>
+		<added>2025-06-27</added>
+		<lastupdated>2025-06-27</lastupdated>
+		<name>Substratum monetall</name>
+		<summary>MONET ALL, SUBSTRATUM MODE</summary>
+		<icon>substratum.monet.all.5.png</icon>
+		<desc>Monet All Substratum Mode
+</desc>
+		<license>Apache-2.0</license>
+		<categories>Theming</categories>
+		<category>Theming</category>
+		<web></web>
+		<source>https://github.com/Lobanokivan11/Substratum-monetall</source>
+		<tracker></tracker>
+		<author>Lobanokivan11</author>
+		<marketversion>5.0</marketversion>
+		<marketvercode>5</marketvercode>
+		<package>
+			<version>5.0</version>
+			<versioncode>5</versioncode>
+			<apkname>substratum-monetall_github_nightly_debug.apk</apkname>
+			<hash type="sha256">940e5553b1347a351a511be716474f6ce184ed05baa87619ff3845b7f1bbb592</hash>
+			<size>4163258</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>24</targetSdkVersion>
+			<added>2025-06-27</added>
+			<sig>44fac2e6e5a0e95de3a65b4b503bbf18</sig>
+			<permissions>INTERNET,com.android.vending.CHECK_LICENSE,substratum.monet.all.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+		</package>
+	</application>
+</fdroid>

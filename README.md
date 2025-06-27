@@ -8,6 +8,8 @@ This repository is a template for an [F-Droid](https://f-droid.org) repo using G
 <!-- This table is auto-generated. Do not edit -->
 | Icon | Name | Description | Version |
 | --- | --- | --- | --- |
+| <a href="https://github.com/Lobanokivan11/fdroid_shizuku_privileged_extension"><img src="fdroid/repo/icons/" alt="F-Droid Privileged Extension Shizuku Edition icon" width="36px" height="36px"></a> | [**F-Droid Privileged Extension Shizuku Edition**](https://github.com/Lobanokivan11/fdroid_shizuku_privileged_extension) | F-Droid Privilege Extension that works with Shizuku (rootless) - UPDATES ARE ... | dc5bb3f (10000) |
+| <a href="https://github.com/Lobanokivan11/Substratum-monetall"><img src="fdroid/repo/icons/substratum.monet.all.5.png" alt="Substratum monetall icon" width="36px" height="36px"></a> | [**Substratum monetall**](https://github.com/Lobanokivan11/Substratum-monetall) | MONET ALL, SUBSTRATUM MODE | 5.0 (5) |
 <!-- end apps table -->
 
 ### How to use
