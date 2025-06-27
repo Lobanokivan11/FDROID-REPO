@@ -29,14 +29,10 @@ jobs:
          sudo apt-get update
          sudo apt-get install fdroidserver
 
-      - name: Update ANDROGUARD Via Pip (FIX FDROID)
+      - name: Fix androidguard
         run: |
-         pip install androguard --user --upgrade
-
-      - name: Upgrade Apt
-        run: |
-         sudo apt update
-         sudo apt upgrade -y
+          sudo sed -i 's|raise ResParserError("res0 must be zero!")|log.warning("res0 must be zero!")|g' /usr/lib/python3/dist-packages/androguard/core/bytecodes/axml/__init__.py
+          sudo sed -i 's|raise ResParserError("res1 must be zero!")|log.warning("res1 must be zero!")|g' /usr/lib/python3/dist-packages/androguard/core/bytecodes/axml/__init__.py
 
       - name: Set up repo secrets
         run: |
