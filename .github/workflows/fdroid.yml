@@ -29,14 +29,9 @@ jobs:
          sudo apt-get update
          sudo apt-get install fdroidserver
 
-      - name: Update Apt Packages
-        run: |
-         sudo apt-get update
-         sudo apt-get upgrade -y
-
       - name: Update ANDROGUARD Via Pip (FIX FDROID)
         run: |
-         sudo pip install androguard --upgrade --break-system-packages
+         pip install androguard --user --upgrade
 
       - name: Set up repo secrets
         run: |
