@@ -1,0 +1,14 @@
+AuthorName: AndroidThemingRequiem
+Categories:
+    - Theming
+    - System
+    - Xposed
+CurrentVersion: beta5
+CurrentVersionCode: 6
+Description: |
+    XTheme Engine - Theme Engine That Use Xposed Bridge For Theming
+IssueTracker: ""
+Name: XTheme Engine
+SourceCode: https://github.com/AndroidThemingRequiem/Xtheme-Engine
+Summary: ""
+WebSite: ""

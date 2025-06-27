@@ -14,7 +14,7 @@
       }
     },
     "address": "https://raw.githubusercontent.com/Lobanokivan11/FDROID-REPO/refs/heads/main/fdroid/repo",
-    "timestamp": 1751045246000,
+    "timestamp": 1751046102000,
     "categories": {
       "Internet": {
         "name": {
@@ -23023,6 +23023,56 @@
                 "name": "android.permission.FAKE_PACKAGE_SIGNATURE"
               }
             ]
+          }
+        }
+      }
+    },
+    "sg.ruqqq.XThemeEngine": {
+      "metadata": {
+        "added": 1751046024000,
+        "categories": [
+          "Theming",
+          "System",
+          "Xposed"
+        ],
+        "lastUpdated": 1751046024000,
+        "sourceCode": "https://github.com/AndroidThemingRequiem/Xtheme-Engine",
+        "authorName": "AndroidThemingRequiem",
+        "name": {
+          "en-US": "XTheme Engine"
+        },
+        "description": {
+          "en-US": "XTheme Engine - Theme Engine That Use Xposed Bridge For Theming\n"
+        },
+        "icon": {
+          "en-US": {
+            "name": "/icons/sg.ruqqq.XThemeEngine.6.png",
+            "sha256": "aff9c043b050d56c73bf26cb2ab3cec988448fa05d9c35250998e26e63151627",
+            "size": 1538
+          }
+        },
+        "preferredSigner": "f38beef42d1f455bde79fd697b4495c12dec6d03ecbe20bad05c8d2089ad9ce5"
+      },
+      "versions": {
+        "f80d864f9aa68d895c55e072640ea9fb429bb07b1f46e1e7b745bdaa9662e30a": {
+          "added": 1751046024000,
+          "file": {
+            "name": "/xthemeengine_lsposed.apk",
+            "sha256": "f80d864f9aa68d895c55e072640ea9fb429bb07b1f46e1e7b745bdaa9662e30a",
+            "size": 1074643
+          },
+          "manifest": {
+            "versionName": "beta5",
+            "versionCode": 6,
+            "usesSdk": {
+              "minSdkVersion": 14,
+              "targetSdkVersion": 16
+            },
+            "signer": {
+              "sha256": [
+                "f38beef42d1f455bde79fd697b4495c12dec6d03ecbe20bad05c8d2089ad9ce5"
+              ]
+            }
           }
         }
       }

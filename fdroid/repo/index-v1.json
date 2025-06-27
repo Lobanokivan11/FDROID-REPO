@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1751045246000,
+    "timestamp": 1751046102000,
     "version": 20002,
     "name": "Lobanokivan11's F-Droid Repo",
     "icon": "icon.png",
@@ -157,6 +157,24 @@
           "whatsNew": "Debug Builds"
         }
       }
+    },
+    {
+      "authorName": "AndroidThemingRequiem",
+      "categories": [
+        "Theming",
+        "System",
+        "Xposed"
+      ],
+      "suggestedVersionName": "beta5",
+      "suggestedVersionCode": "6",
+      "description": "XTheme Engine - Theme Engine That Use Xposed Bridge For Theming\n",
+      "license": "Unknown",
+      "name": "XTheme Engine",
+      "sourceCode": "https://github.com/AndroidThemingRequiem/Xtheme-Engine",
+      "added": 1751046024000,
+      "icon": "sg.ruqqq.XThemeEngine.6.png",
+      "packageName": "sg.ruqqq.XThemeEngine",
+      "lastUpdated": 1751046024000
     }
   ],
   "packages": {
@@ -28165,6 +28183,22 @@
         ],
         "versionCode": 1022,
         "versionName": "one thousand twenty two"
+      }
+    ],
+    "sg.ruqqq.XThemeEngine": [
+      {
+        "added": 1751046024000,
+        "apkName": "xthemeengine_lsposed.apk",
+        "hash": "f80d864f9aa68d895c55e072640ea9fb429bb07b1f46e1e7b745bdaa9662e30a",
+        "hashType": "sha256",
+        "minSdkVersion": 14,
+        "packageName": "sg.ruqqq.XThemeEngine",
+        "sig": "a417958bd5d7dad75197d0df706c86a0",
+        "signer": "f38beef42d1f455bde79fd697b4495c12dec6d03ecbe20bad05c8d2089ad9ce5",
+        "size": 1074643,
+        "targetSdkVersion": 16,
+        "versionCode": 6,
+        "versionName": "beta5"
       }
     ],
     "substratum.monet.all": [

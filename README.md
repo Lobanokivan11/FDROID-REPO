@@ -15,6 +15,7 @@ This repository is a template for an [F-Droid](https://f-droid.org) repo using G
 | <a href="https://github.com/AndroidThemingRequiem/Substratum-apk"><img src="fdroid/repo/icons/projekt.substratum.1022.png" alt="Substratum icon" width="36px" height="36px"></a> | [**Substratum**](https://github.com/AndroidThemingRequiem/Substratum-apk) |  | one thousand twenty two (1022) |
 | <a href="https://github.com/Lobanokivan11/Substratum-monetall"><img src="fdroid/repo/icons/substratum.monet.all.5.png" alt="Substratum monetall icon" width="36px" height="36px"></a> | [**Substratum monetall**](https://github.com/Lobanokivan11/Substratum-monetall) | MONET ALL, SUBSTRATUM MODE | 5.0 (5) |
 | <a href="https://github.com/Lobanokivan11/XSpoofSignatures-Legends"><img src="fdroid/repo/icons/dev.materii.rushii.xspoofsignatures.5.png" alt="XSpoofSignatures-Legends icon" width="36px" height="36px"></a> | [**XSpoofSignatures-Legends**](https://github.com/Lobanokivan11/XSpoofSignatures-Legends) | Xposed module to spoof package signatures. | 2.5.0 (5) |
+| <a href="https://github.com/AndroidThemingRequiem/Xtheme-Engine"><img src="fdroid/repo/icons/sg.ruqqq.XThemeEngine.6.png" alt="XTheme Engine icon" width="36px" height="36px"></a> | [**XTheme Engine**](https://github.com/AndroidThemingRequiem/Xtheme-Engine) |  | beta5 (6) |
 <!-- end apps table -->
 
 ### How to use

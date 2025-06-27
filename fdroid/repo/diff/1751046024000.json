@@ -1,0 +1,27 @@
+{
+  "repo": {
+    "timestamp": 1751046102000,
+    "categories": {
+      "fdroid": null
+    }
+  },
+  "packages": {
+    "sg.ruqqq.XThemeEngine": {
+      "metadata": {
+        "categories": [
+          "Theming",
+          "System",
+          "Xposed"
+        ],
+        "sourceCode": "https://github.com/AndroidThemingRequiem/Xtheme-Engine",
+        "authorName": "AndroidThemingRequiem",
+        "name": {
+          "en-US": "XTheme Engine"
+        },
+        "description": {
+          "en-US": "XTheme Engine - Theme Engine That Use Xposed Bridge For Theming\n"
+        }
+      }
+    }
+  }
+}
