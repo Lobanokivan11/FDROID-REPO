@@ -6,11 +6,11 @@ substratum-monetall:
 
   categories: 
     - Theming
-xspoofsignatures-legends:
-  git: https://github.com/Lobanokivan11/XSpoofSignatures-Legends
-  name: "XSpoofSignatures-Legends"
+mpd:
+  git: https://github.com/Lobanokivan11/MPDAPK
+  name: "MPD"
   description: |
-    Xposed module to spoof package signatures.
+    MPD SERVER FOR ANDROID
 
   categories: 
-    - Xposed
+    - Music
