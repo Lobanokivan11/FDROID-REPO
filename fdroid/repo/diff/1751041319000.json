@@ -1,0 +1,27 @@
+{
+  "repo": {
+    "timestamp": 1751041388000,
+    "categories": {
+      "fdroid": null
+    }
+  },
+  "packages": {
+    "app.lawnchair": {
+      "metadata": {
+        "categories": [
+          "Theming",
+          "System"
+        ],
+        "license": "NOASSERTION",
+        "sourceCode": "https://github.com/Goooler/LawnchairRelease",
+        "authorName": "Goooler",
+        "summary": {
+          "en-US": "Easy to publish the latest Lawnchair release with my personal signing."
+        },
+        "description": {
+          "en-US": "Lawnchair - Launcher With Pixel Features For all devices\n"
+        }
+      }
+    }
+  }
+}

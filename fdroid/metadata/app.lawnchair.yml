@@ -1,0 +1,14 @@
+AuthorName: Goooler
+Categories:
+    - Theming
+    - System
+CurrentVersion: 15.0.0 (3250eb6)
+CurrentVersionCode: 15000000
+Description: |
+    Lawnchair - Launcher With Pixel Features For all devices
+IssueTracker: ""
+License: NOASSERTION
+Name: Lawnchair
+SourceCode: https://github.com/Goooler/LawnchairRelease
+Summary: Easy to publish the latest Lawnchair release with my personal signing.
+WebSite: ""
