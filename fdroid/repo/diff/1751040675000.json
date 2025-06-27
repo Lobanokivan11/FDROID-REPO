@@ -1,0 +1,29 @@
+{
+  "repo": {
+    "timestamp": 1751040722000,
+    "categories": {
+      "fdroid": null
+    }
+  },
+  "packages": {
+    "dev.materii.rushii.xspoofsignatures": {
+      "metadata": {
+        "categories": [
+          "Xposed"
+        ],
+        "license": "GPL-3.0",
+        "sourceCode": "https://github.com/Lobanokivan11/XSpoofSignatures-Legends",
+        "authorName": "Lobanokivan11",
+        "name": {
+          "en-US": "XSpoofSignatures-Legends"
+        },
+        "summary": {
+          "en-US": "Xposed module to spoof package signatures."
+        },
+        "description": {
+          "en-US": "<h1 id=\"xspoofsignatures-legends\">XSpoofSignatures Legends</h1>\n<p>Xposed module to spoof package signatures.</p>\n<h2 id=\"features\">Features</h2>\n<ul>\n<li>Supports Android &gt;= 1.5 (Cupcake)</li>\n<li>Compatible with the standardized spoofing\nmechanic (<a href=\"https://github.com/microg/GmsCore/tree/a787b52ccc56b2e197bf38e1229bb4206538cd12/patches\">microG</a>)</li>\n<li>Allow any package to spoof their signature through manifest properties<ul>\n<li>Allow bypassing GMS checks</li>\n</ul>\n</li>\n<li>Spoofing gated behind a permission</li>\n</ul>\n<h2 id=\"install\">Install</h2>\n<ol>\n<li>Use <a href=\"https://github.com/topjohnwu/Magisk\">Magisk</a> to root your device</li>\n<li>Enable Zygisk</li>\n<li>Install <a href=\"https://github.com/LSPosed/LSPosed\">LSPosed</a> or the updated <a href=\"https://github.com/mywalkb/LSPosed_mod\">LSPosed fork</a></li>\n<li>Install XSpoofSignatures-Legends from <a href=\"https://github.com/Lobanokivan11/XSpoofSignatures-Legends/releases/latest\">here</a></li>\n<li>Enable it in LSPosed</li>\n<li>Verify that signature spoofing works via <a href=\"https://f-droid.org/en/packages/lanchon.sigspoof.checker\">Signature Spoofing Checker</a></li>\n<li>You can now use apps that require signature spoofing (like microG)</li>\n</ol>\n<h2 id=\"usage-developers-\">Usage (developers)</h2>\n<p>XSpoofSignatures supports two methods of spoofing:</p>\n<ul>\n<li>Sole signer [DEFAULT]: spoof to be the only signer on a package</li>\n<li>First signer: spoof to be the first signer on a package (multi signers)<ul>\n<li>Note: this does not work for all signer checks such as GMS</li>\n</ul>\n</li>\n</ul>\n<p>Each package <strong>must</strong> declare and request (at runtime) the <code>android.permission.FAKE_PACKAGE_SIGNATURE</code> permission.\\\nIf the permission is not granted then no spoofing will occur.</p>\n<p>This module will check for two <a href=\"https://developer.android.com/guide/topics/manifest/meta-data-element\"><code>&lt;meta-data&gt;</code></a> tags for each package that wants\nto spoof it&#39;s own signature:</p>\n<ul>\n<li><code>fake-signature</code> -&gt; The certificate fingerprint in hex</li>\n<li><code>fake-signature-only</code> (optional, default <code>true</code>) -&gt; Refer to &quot;Sole signer&quot; above</li>\n</ul>\n<p>To see an example usage of signature spoofing, see <a href=\"https://github.com/Lanchon/sigspoof-checker\">sigspoof-checker</a>.</p>\n"
+        }
+      }
+    }
+  }
+}

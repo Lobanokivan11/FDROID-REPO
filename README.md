@@ -12,6 +12,7 @@ This repository is a template for an [F-Droid](https://f-droid.org) repo using G
 | <a href="https://github.com/dic1911/Momogram"><img src="fdroid/repo/icons/" alt="Momogram icon" width="36px" height="36px"></a> | [**Momogram**](https://github.com/dic1911/Momogram) | A third-party Telegram android app. | 11.12.0-626f2b5128 (10929) |
 | <a href="https://github.com/chsbuffer/ReVancedXposed"><img src="fdroid/repo/icons/" alt="ReVanced Xposed icon" width="36px" height="36px"></a> | [**ReVanced Xposed**](https://github.com/chsbuffer/ReVancedXposed) | ReVanced LSPosed module. YouTube &amp; YT Music Remove ads, Background playback | 1.0.19 (19) |
 | <a href="https://github.com/Lobanokivan11/Substratum-monetall"><img src="fdroid/repo/icons/substratum.monet.all.5.png" alt="Substratum monetall icon" width="36px" height="36px"></a> | [**Substratum monetall**](https://github.com/Lobanokivan11/Substratum-monetall) | MONET ALL, SUBSTRATUM MODE | 5.0 (5) |
+| <a href="https://github.com/Lobanokivan11/XSpoofSignatures-Legends"><img src="fdroid/repo/icons/dev.materii.rushii.xspoofsignatures.5.png" alt="XSpoofSignatures-Legends icon" width="36px" height="36px"></a> | [**XSpoofSignatures-Legends**](https://github.com/Lobanokivan11/XSpoofSignatures-Legends) | Xposed module to spoof package signatures. | 2.5.0 (5) |
 <!-- end apps table -->
 
 ### How to use
