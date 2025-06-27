@@ -6,11 +6,11 @@ substratum-monetall:
 
   categories: 
     - Theming
-mpd:
-  git: https://github.com/Lobanokivan11/MPDAPK
-  name: "MPD"
+fdroidprivshizuku:
+  git: https://github.com/Lobanokivan11/fdroid_shizuku_privileged_extension
+  name: "F-Droid Privileged Extension Shizuku Edition"
   description: |
-    MPD SERVER FOR ANDROID
+    F-Droid Privileged Extension that works with Shizuku (rootless)
 
   categories: 
-    - Music
+    - System
