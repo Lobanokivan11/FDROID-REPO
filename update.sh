@@ -22,8 +22,8 @@ elif [ $EXIT_CODE -eq 0 ]; then
 
     echo "This means that we now have changes we should push"
 
-    git config user.name 'Lobanokivan11'
-    git config user.email 'lobanokivan11@gmail.com'
+    git config user.name 'github-actions[bot]'
+    git config user.email 'github-actions[bot]@users.noreply.github.com'
 
     git add .
     git commit -m "Automated update"
