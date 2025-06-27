@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1751033343000,
+    "timestamp": 1751033733000,
     "version": 20002,
     "name": "Lobanokivan11's F-Droid Repo",
     "icon": "icon.png",
@@ -11,111 +11,6 @@
     "install": [],
     "uninstall": []
   },
-  "apps": [
-    {
-      "authorName": "Lobanokivan11",
-      "categories": [
-        "System"
-      ],
-      "suggestedVersionName": "dc5bb3f",
-      "suggestedVersionCode": "10000",
-      "description": "F-Droid Privileged Extension that works with Shizuku (rootless)\n",
-      "license": "Apache-2.0",
-      "name": "F-Droid Privileged Extension Shizuku Edition",
-      "sourceCode": "https://github.com/Lobanokivan11/fdroid_shizuku_privileged_extension",
-      "summary": "F-Droid Privilege Extension that works with Shizuku (rootless) - UPDATES ARE ...",
-      "added": 1751033337000,
-      "packageName": "org.fdroid.fdroid.privileged",
-      "lastUpdated": 1751033337000,
-      "localized": {
-        "en-US": {
-          "whatsNew": "Debug Builds"
-        }
-      }
-    },
-    {
-      "authorName": "Lobanokivan11",
-      "categories": [
-        "Theming"
-      ],
-      "suggestedVersionName": "5.0",
-      "suggestedVersionCode": "5",
-      "description": "Monet All Substratum Mode\n",
-      "license": "Apache-2.0",
-      "name": "Substratum monetall",
-      "sourceCode": "https://github.com/Lobanokivan11/Substratum-monetall",
-      "summary": "MONET ALL, SUBSTRATUM MODE",
-      "added": 1751031003000,
-      "icon": "substratum.monet.all.5.png",
-      "packageName": "substratum.monet.all",
-      "lastUpdated": 1751031003000,
-      "localized": {
-        "en-US": {
-          "whatsNew": "Debug Builds"
-        }
-      }
-    }
-  ],
-  "packages": {
-    "org.fdroid.fdroid.privileged": [
-      {
-        "added": 1751033337000,
-        "apkName": "fdroidprivshizuku_github_nightly_debug.apk",
-        "hash": "3cef8092d7412786b35ae2ec9b30fcd37fcf861d6256fd2a994815f41af33df9",
-        "hashType": "sha256",
-        "minSdkVersion": 24,
-        "packageName": "org.fdroid.fdroid.privileged",
-        "sig": "9bf31245c30b3a965b618ea1bd44e37b",
-        "signer": "52332bd0af6c510cd55e5be5b9a72ac51c9cbbfc495984400d44b1da04058813",
-        "size": 2610296,
-        "targetSdkVersion": 33,
-        "uses-permission": [
-          [
-            "android.permission.QUERY_ALL_PACKAGES",
-            null
-          ],
-          [
-            "org.fdroid.fdroid.privileged.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
-            null
-          ],
-          [
-            "moe.shizuku.manager.permission.API_V23",
-            null
-          ]
-        ],
-        "versionCode": 10000,
-        "versionName": "dc5bb3f"
-      }
-    ],
-    "substratum.monet.all": [
-      {
-        "added": 1751031003000,
-        "apkName": "substratum-monetall_github_nightly_debug.apk",
-        "hash": "940e5553b1347a351a511be716474f6ce184ed05baa87619ff3845b7f1bbb592",
-        "hashType": "sha256",
-        "minSdkVersion": 24,
-        "packageName": "substratum.monet.all",
-        "sig": "44fac2e6e5a0e95de3a65b4b503bbf18",
-        "signer": "002b10eb0181387484f2116c9d0dff214613c48c3f1d61e8f82cecca417b173f",
-        "size": 4163258,
-        "targetSdkVersion": 24,
-        "uses-permission": [
-          [
-            "com.android.vending.CHECK_LICENSE",
-            null
-          ],
-          [
-            "android.permission.INTERNET",
-            null
-          ],
-          [
-            "substratum.monet.all.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
-            null
-          ]
-        ],
-        "versionCode": 5,
-        "versionName": "5.0"
-      }
-    ]
-  }
+  "apps": [],
+  "packages": {}
 }
