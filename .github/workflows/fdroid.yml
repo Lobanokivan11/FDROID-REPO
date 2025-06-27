@@ -36,7 +36,7 @@ jobs:
 
       - name: Update Fdroid Via Pip (FIX FDROID)
         run: |
-         sudo pip install fdroidserver -U --break-system-packages
+         sudo pip install fdroidserver --upgrade --break-system-packages
 
       - name: Set up repo secrets
         run: |
