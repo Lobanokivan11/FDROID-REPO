@@ -1,0 +1,14 @@
+AuthorName: chsbuffer
+Categories:
+    - Xposed
+CurrentVersion: 1.0.19
+CurrentVersionCode: 19
+Description: |
+    Xposed Module With Revanced Patches
+    Better Than Mount
+IssueTracker: ""
+License: GPL-3.0
+Name: ReVanced Xposed
+SourceCode: https://github.com/chsbuffer/ReVancedXposed
+Summary: ReVanced LSPosed module. YouTube & YT Music Remove ads, Background playback
+WebSite: ""

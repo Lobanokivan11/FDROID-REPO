@@ -1,0 +1,34 @@
+{
+  "repo": {
+    "timestamp": 1751037260000,
+    "categories": {
+      "fdroid": null,
+      "Xposed": {
+        "name": {
+          "en-US": "Xposed"
+        }
+      }
+    }
+  },
+  "packages": {
+    "io.github.chsbuffer.revancedxposed": {
+      "metadata": {
+        "categories": [
+          "Xposed"
+        ],
+        "license": "GPL-3.0",
+        "sourceCode": "https://github.com/chsbuffer/ReVancedXposed",
+        "authorName": "chsbuffer",
+        "name": {
+          "en-US": "ReVanced Xposed"
+        },
+        "summary": {
+          "en-US": "ReVanced LSPosed module. YouTube & YT Music Remove ads, Background playback"
+        },
+        "description": {
+          "en-US": "Xposed Module With Revanced Patches\nBetter Than Mount\n"
+        }
+      }
+    }
+  }
+}

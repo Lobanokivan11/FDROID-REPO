@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1751034506000,
+    "timestamp": 1751037260000,
     "version": 20002,
     "name": "Lobanokivan11's F-Droid Repo",
     "icon": "icon.png",
@@ -34,6 +34,27 @@
       }
     },
     {
+      "authorName": "chsbuffer",
+      "categories": [
+        "Xposed"
+      ],
+      "suggestedVersionName": "1.0.19",
+      "suggestedVersionCode": "19",
+      "description": "Xposed Module With Revanced Patches\nBetter Than Mount\n",
+      "license": "GPL-3.0",
+      "name": "ReVanced Xposed",
+      "sourceCode": "https://github.com/chsbuffer/ReVancedXposed",
+      "summary": "ReVanced LSPosed module. YouTube & YT Music Remove ads, Background playback",
+      "added": 1751037249000,
+      "packageName": "io.github.chsbuffer.revancedxposed",
+      "lastUpdated": 1751037254000,
+      "localized": {
+        "en-US": {
+          "whatsNew": "### General\n- Detect if app is already patched\n- Add app icon\n\n### YouTube\n- Fix `Hide navigation buttons`\n- Sync `v5.28.0`\n  - Use modern style settings dialogs\n\n[Donate me on AFDian](https://afdian.com/a/ChsBuffer)"
+        }
+      }
+    },
+    {
       "authorName": "Lobanokivan11",
       "categories": [
         "Theming"
@@ -57,6 +78,395 @@
     }
   ],
   "packages": {
+    "io.github.chsbuffer.revancedxposed": [
+      {
+        "added": 1751037252000,
+        "apkName": "revancedxposed_1.0.19.apk",
+        "hash": "76ed20c72b5c4b65bbd622ca4ce6c950c7a1a5d7a2ecbecb60862ac854785b17",
+        "hashType": "sha256",
+        "minSdkVersion": 27,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "io.github.chsbuffer.revancedxposed",
+        "sig": "7392807993185028c55d4b14ba5b9f58",
+        "signer": "940d0f30e047642c72c94c6ef4bfab7910bb0cd4f69f9da735338beca0b2d12e",
+        "size": 3001764,
+        "targetSdkVersion": 35,
+        "versionCode": 19,
+        "versionName": "1.0.19"
+      },
+      {
+        "added": 1751037252000,
+        "apkName": "revancedxposed_1.0.17.apk",
+        "hash": "2857816f6b6803efafda27c5ddf21aa266cca04818220e9503e32332b434e3d4",
+        "hashType": "sha256",
+        "minSdkVersion": 27,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "io.github.chsbuffer.revancedxposed",
+        "sig": "7392807993185028c55d4b14ba5b9f58",
+        "signer": "940d0f30e047642c72c94c6ef4bfab7910bb0cd4f69f9da735338beca0b2d12e",
+        "size": 2767228,
+        "targetSdkVersion": 35,
+        "versionCode": 17,
+        "versionName": "1.0.17"
+      },
+      {
+        "added": 1751037252000,
+        "apkName": "revancedxposed_1.0.16.apk",
+        "hash": "431f1fe93ff8c995b9bac29274e7f22148a14190d0de4bc9b4f52bf2e635f10d",
+        "hashType": "sha256",
+        "minSdkVersion": 27,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "io.github.chsbuffer.revancedxposed",
+        "sig": "7392807993185028c55d4b14ba5b9f58",
+        "signer": "940d0f30e047642c72c94c6ef4bfab7910bb0cd4f69f9da735338beca0b2d12e",
+        "size": 2761385,
+        "targetSdkVersion": 35,
+        "versionCode": 16,
+        "versionName": "1.0.16"
+      },
+      {
+        "added": 1751037251000,
+        "apkName": "revancedxposed_1.0.15.apk",
+        "hash": "db41eaa764df245124744d3d1880e62d7af14faf891913b69895251ad899603d",
+        "hashType": "sha256",
+        "minSdkVersion": 27,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "io.github.chsbuffer.revancedxposed",
+        "sig": "7392807993185028c55d4b14ba5b9f58",
+        "signer": "940d0f30e047642c72c94c6ef4bfab7910bb0cd4f69f9da735338beca0b2d12e",
+        "size": 2760197,
+        "targetSdkVersion": 35,
+        "versionCode": 15,
+        "versionName": "1.0.15"
+      },
+      {
+        "added": 1751037251000,
+        "apkName": "revancedxposed_1.0.14.apk",
+        "hash": "d7b1538c613c8a9c7cad114cfec6ad133a7353ce9ff5eb91a9b3386cd9a95352",
+        "hashType": "sha256",
+        "minSdkVersion": 27,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "io.github.chsbuffer.revancedxposed",
+        "sig": "7392807993185028c55d4b14ba5b9f58",
+        "signer": "940d0f30e047642c72c94c6ef4bfab7910bb0cd4f69f9da735338beca0b2d12e",
+        "size": 2617281,
+        "targetSdkVersion": 35,
+        "versionCode": 14,
+        "versionName": "1.0.14"
+      },
+      {
+        "added": 1751037251000,
+        "apkName": "revancedxposed_1.0.13.apk",
+        "hash": "774e29fa94b46ca30222282baf63aa0da8048c3b522b05c04088e9c70941dff7",
+        "hashType": "sha256",
+        "minSdkVersion": 27,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "io.github.chsbuffer.revancedxposed",
+        "sig": "7392807993185028c55d4b14ba5b9f58",
+        "signer": "940d0f30e047642c72c94c6ef4bfab7910bb0cd4f69f9da735338beca0b2d12e",
+        "size": 2539509,
+        "targetSdkVersion": 35,
+        "versionCode": 13,
+        "versionName": "1.0.13"
+      },
+      {
+        "added": 1751037250000,
+        "apkName": "revancedxposed_1.0.12.apk",
+        "hash": "23b82be5c1096cfd621684e0b59eb99b65cfab8a61a84017341ae37e72acb7be",
+        "hashType": "sha256",
+        "minSdkVersion": 27,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "io.github.chsbuffer.revancedxposed",
+        "sig": "7392807993185028c55d4b14ba5b9f58",
+        "signer": "940d0f30e047642c72c94c6ef4bfab7910bb0cd4f69f9da735338beca0b2d12e",
+        "size": 2539493,
+        "targetSdkVersion": 35,
+        "versionCode": 12,
+        "versionName": "1.0.12"
+      },
+      {
+        "added": 1751037250000,
+        "apkName": "revancedxposed_1.0.11.apk",
+        "hash": "c14dd5ca9f2a7bf48510f0c4032915436142545e0e277451f9c293cd00e989b5",
+        "hashType": "sha256",
+        "minSdkVersion": 27,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "io.github.chsbuffer.revancedxposed",
+        "sig": "7392807993185028c55d4b14ba5b9f58",
+        "signer": "940d0f30e047642c72c94c6ef4bfab7910bb0cd4f69f9da735338beca0b2d12e",
+        "size": 2539493,
+        "targetSdkVersion": 35,
+        "versionCode": 11,
+        "versionName": "1.0.11"
+      },
+      {
+        "added": 1751037250000,
+        "apkName": "revancedxposed_1.0.10.apk",
+        "hash": "fe615253e91227b59996592c2ca66e6be0d182c3d5f4897577db1ec8540583bc",
+        "hashType": "sha256",
+        "minSdkVersion": 27,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "io.github.chsbuffer.revancedxposed",
+        "sig": "7392807993185028c55d4b14ba5b9f58",
+        "signer": "940d0f30e047642c72c94c6ef4bfab7910bb0cd4f69f9da735338beca0b2d12e",
+        "size": 2535681,
+        "targetSdkVersion": 35,
+        "versionCode": 10,
+        "versionName": "1.0.10"
+      },
+      {
+        "added": 1751037254000,
+        "apkName": "revancedxposed_1.0.9.apk",
+        "hash": "3a195f1d511e02f2281ac010034fba40598286772c906b2aad44166f4588a778",
+        "hashType": "sha256",
+        "minSdkVersion": 27,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "io.github.chsbuffer.revancedxposed",
+        "sig": "7392807993185028c55d4b14ba5b9f58",
+        "signer": "940d0f30e047642c72c94c6ef4bfab7910bb0cd4f69f9da735338beca0b2d12e",
+        "size": 2147535,
+        "targetSdkVersion": 35,
+        "versionCode": 9,
+        "versionName": "1.0.9"
+      },
+      {
+        "added": 1751037254000,
+        "apkName": "revancedxposed_1.0.8.apk",
+        "hash": "610790aa23fb29cce0a8b7a88fc8a0e2f37031b9142c43694bf95ce9d699b289",
+        "hashType": "sha256",
+        "minSdkVersion": 27,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "io.github.chsbuffer.revancedxposed",
+        "sig": "7392807993185028c55d4b14ba5b9f58",
+        "signer": "940d0f30e047642c72c94c6ef4bfab7910bb0cd4f69f9da735338beca0b2d12e",
+        "size": 1327494,
+        "targetSdkVersion": 35,
+        "versionCode": 8,
+        "versionName": "1.0.8"
+      },
+      {
+        "added": 1751037254000,
+        "apkName": "revancedxposed_1.0.7.apk",
+        "hash": "6978041e80404ba20f4b7aacec37c48e24765720b0b435d4ab8e4161fa896511",
+        "hashType": "sha256",
+        "minSdkVersion": 27,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "io.github.chsbuffer.revancedxposed",
+        "sig": "7392807993185028c55d4b14ba5b9f58",
+        "signer": "940d0f30e047642c72c94c6ef4bfab7910bb0cd4f69f9da735338beca0b2d12e",
+        "size": 1327494,
+        "targetSdkVersion": 35,
+        "versionCode": 7,
+        "versionName": "1.0.7"
+      },
+      {
+        "added": 1751037253000,
+        "apkName": "revancedxposed_1.0.6.apk",
+        "hash": "0075bdb416015d53edb2962d6cedc8d7ca35e4496aca315ab0d8cb9e4a5b01c6",
+        "hashType": "sha256",
+        "minSdkVersion": 27,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "io.github.chsbuffer.revancedxposed",
+        "sig": "7392807993185028c55d4b14ba5b9f58",
+        "signer": "940d0f30e047642c72c94c6ef4bfab7910bb0cd4f69f9da735338beca0b2d12e",
+        "size": 1327126,
+        "targetSdkVersion": 35,
+        "versionCode": 6,
+        "versionName": "1.0.6"
+      },
+      {
+        "added": 1751037253000,
+        "apkName": "revancedxposed_1.0.5.apk",
+        "hash": "04449cff28bd302b32869cd0362fb1bfb9582c4e6aeb2eebb40f789c68c85c09",
+        "hashType": "sha256",
+        "minSdkVersion": 27,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "io.github.chsbuffer.revancedxposed",
+        "sig": "7392807993185028c55d4b14ba5b9f58",
+        "signer": "940d0f30e047642c72c94c6ef4bfab7910bb0cd4f69f9da735338beca0b2d12e",
+        "size": 415046,
+        "targetSdkVersion": 35,
+        "versionCode": 5,
+        "versionName": "1.0.5"
+      },
+      {
+        "added": 1751037253000,
+        "apkName": "revancedxposed_1.0.4.apk",
+        "hash": "92e9abb6c1255be7cfcf300d9b0feb2fdf9c11e3fc87ed6a8ff873594c2d56f0",
+        "hashType": "sha256",
+        "minSdkVersion": 27,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "io.github.chsbuffer.revancedxposed",
+        "sig": "7392807993185028c55d4b14ba5b9f58",
+        "signer": "940d0f30e047642c72c94c6ef4bfab7910bb0cd4f69f9da735338beca0b2d12e",
+        "size": 425034,
+        "targetSdkVersion": 35,
+        "versionCode": 4,
+        "versionName": "1.0.4"
+      },
+      {
+        "added": 1751037253000,
+        "apkName": "revancedxposed_1.0.3.apk",
+        "hash": "cb55063a507a47844d93a185f2d40be345c20130db122d59fd295ba319c6f732",
+        "hashType": "sha256",
+        "minSdkVersion": 27,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "io.github.chsbuffer.revancedxposed",
+        "sig": "7392807993185028c55d4b14ba5b9f58",
+        "signer": "940d0f30e047642c72c94c6ef4bfab7910bb0cd4f69f9da735338beca0b2d12e",
+        "size": 425034,
+        "targetSdkVersion": 35,
+        "versionCode": 3,
+        "versionName": "1.0.3"
+      },
+      {
+        "added": 1751037253000,
+        "apkName": "revancedxposed_1.0.2.apk",
+        "hash": "4821c6cf532fafed7c94475d608a3689edf21bd2005d4613b246ce52cfaf47e8",
+        "hashType": "sha256",
+        "minSdkVersion": 24,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "io.github.chsbuffer.revancedxposed",
+        "sig": "7392807993185028c55d4b14ba5b9f58",
+        "signer": "940d0f30e047642c72c94c6ef4bfab7910bb0cd4f69f9da735338beca0b2d12e",
+        "size": 349910,
+        "targetSdkVersion": 35,
+        "versionCode": 2,
+        "versionName": "1.0.2"
+      },
+      {
+        "added": 1751037249000,
+        "apkName": "revancedxposed_0.0.1.apk",
+        "hash": "93c356fb4688d2921494cb14df895f44cb30ab00cdd5eb3e7ff5e43773850382",
+        "hashType": "sha256",
+        "minSdkVersion": 24,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "io.github.chsbuffer.revancedxposed",
+        "sig": "7392807993185028c55d4b14ba5b9f58",
+        "signer": "940d0f30e047642c72c94c6ef4bfab7910bb0cd4f69f9da735338beca0b2d12e",
+        "size": 333414,
+        "targetSdkVersion": 34,
+        "versionCode": 1,
+        "versionName": "1.0"
+      },
+      {
+        "added": 1751037249000,
+        "apkName": "revancedxposed_0.0.2.apk",
+        "hash": "3584f45db1be52bfa1cb4ab9c1243d1810d3216c9f9b788856cc23ca00ac9869",
+        "hashType": "sha256",
+        "minSdkVersion": 24,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "io.github.chsbuffer.revancedxposed",
+        "sig": "7392807993185028c55d4b14ba5b9f58",
+        "signer": "940d0f30e047642c72c94c6ef4bfab7910bb0cd4f69f9da735338beca0b2d12e",
+        "size": 333414,
+        "targetSdkVersion": 34,
+        "versionCode": 1,
+        "versionName": "1.0"
+      },
+      {
+        "added": 1751037249000,
+        "apkName": "revancedxposed_0.0.3.apk",
+        "hash": "2dd0c98ed647dc175bb4cc437504f0afa28bcb3c8b56e46d5f75c6ba751d4abd",
+        "hashType": "sha256",
+        "minSdkVersion": 24,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "io.github.chsbuffer.revancedxposed",
+        "sig": "7392807993185028c55d4b14ba5b9f58",
+        "signer": "940d0f30e047642c72c94c6ef4bfab7910bb0cd4f69f9da735338beca0b2d12e",
+        "size": 349842,
+        "targetSdkVersion": 34,
+        "versionCode": 1,
+        "versionName": "1.0"
+      },
+      {
+        "added": 1751037249000,
+        "apkName": "revancedxposed_0.0.4.apk",
+        "hash": "a7756613e2adfd1076ffb9d5bafe8fa11e4751fd6bbe5c7bccc09f3377070891",
+        "hashType": "sha256",
+        "minSdkVersion": 24,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "io.github.chsbuffer.revancedxposed",
+        "sig": "7392807993185028c55d4b14ba5b9f58",
+        "signer": "940d0f30e047642c72c94c6ef4bfab7910bb0cd4f69f9da735338beca0b2d12e",
+        "size": 349910,
+        "targetSdkVersion": 35,
+        "versionCode": 1,
+        "versionName": "1.0"
+      }
+    ],
     "org.fdroid.fdroid.privileged": [
       {
         "added": 1751034328000,

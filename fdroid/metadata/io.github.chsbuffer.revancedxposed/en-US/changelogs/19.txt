@@ -1,0 +1,10 @@
+### General
+- Detect if app is already patched
+- Add app icon
+
+### YouTube
+- Fix `Hide navigation buttons`
+- Sync `v5.28.0`
+  - Use modern style settings dialogs
+
+[Donate me on AFDian](https://afdian.com/a/ChsBuffer)

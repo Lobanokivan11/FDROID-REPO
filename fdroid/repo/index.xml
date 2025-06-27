@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="icon.png" name="Lobanokivan11's F-Droid Repo" pubkey="308204f0308202d8a003020102020900aa0527e64906854b300d06092a864886f70d01010b050030253110300e060355040b1307462d44726f69643111300f0603550403130841584f2d557365723020170d3235303632373132353035305a180f32303532313131323132353035305a30253110300e060355040b1307462d44726f69643111300f0603550403130841584f2d5573657230820222300d06092a864886f70d01010105000382020f003082020a0282020100e292f147f1d12c06b54004d33ef0249fbfa5cb575e74e33f7ef11740a06888eb14a68e3a7cda7854de7c0e16248289ef440b87b16015a6cdfc7456ca24b7c03f8abfa89f94215a0f235b2111b95d3edee214d2c747f13ea171ad07db5a119ddb91ebc4c089c54aaa20c719b7bf5fc3ed636489eafa1016c459269447a3fbc40622d62a3efb7437bbc1a4f8d06d26298398eb1145354be9deef0812b9a854f8547d015cda1b5242a0d32d92c1ead25dce341fef71a49ad4a8dc5441d8637cc69019fa528f05adc2cfb2b357d99f1226f700800b4401e461f475dff60170e5e2f7bf55cd7e7372441d33098f90d56010b90955d2aa81ebdf841b2e5780a1276a0073db5ffe644b5720578442c1dd44784a205331b4cee61f6456b89719b4c1c85c5325ac06bd744aa85fc620d7f59c6acc26c0f00713967e08f8a66c6b07fc23b3a3868f504e9afa0385823a1e890fabefc6d7aa68a3533894388dd7d04eb03b5f6f23aa2614dbfa6e3d32d5266edd8b643b6b4d903e663d448cd7c4803ee090c54cc8d0249dd3db53352259d3b7a79798eaed934462b9a79cb71844c55dff1a94076e740af209861aabab7f946b76c605c8f2a308ba87bd52e63c6335e1f98bf69c897259609c249f9c83907309db019d8cb3a4a0e26b23ba8dabf37918801fd1a8e2fc84f34192d41583255a4f35a20371c32fdf1a4c93cbe2b1a1b82597deb70203010001a321301f301d0603551d0e0416041470130289d750ce245977dbca02acb48dbff0e31e300d06092a864886f70d01010b050003820201005454d576c5f5f25e0ee7011e46266bb5bb07ff51a8179ba7ca6f9a6b17bf77bac316933e2ed8586cfaa34cb8af5bbfe89ffbfe9f3fffe66f5e039673f8544bde5e923cb08820d17531cc7414429c48a4272f65578351121b6cca17f3633025e4295a96316fcdf6343630c9662baedf6ecd9b8efedca812b80d6e6d50cd7618ee76dc3c88ae36570e37b5e62fa03734f7ff983918d373685766c23a8d99a8b5ec4c5e42b861cd79124686682a58a420b8ab677d528bb9e2d03e067f5fea4d78088318cad255bc8e5282385df32ec02be323e3ce4559e9f45757ae3aca1bf645bb6283a90086cddc7a82bfae486e57592339968acce21d0471f20e7f54c3ed5295ad91b0e61e5070283495558931c99ddfca434e22070e50759025b39294f08fde6c6449434649f5620f809f65eefa94c93e0dd5d23deda89efbc1c98f7265daaecf13f1d6e5a0de34e6c5aa0d34303e157dc3c28dc6f2ed3c91d1f0f8afbf8ee640007b8def8b2c57da43a8a65d22667421c9588376721b112f45237299c7bea99852c3558059af416ea99f36f191288f86b2f0e9b2c1f2824233d0f35044fc46cb88d4f0680f8706fe365d6e92e0cadeeb1f2de6b14c02eddfb6d4c324a79b9f46fb25533e2a0c02d3254c7f75d8931756f7b89da4092dd793bd1f717326a8ad57a3a5b3763b14470d2acb01560294094c97ef354afe7d6ee530b247f3bb211a" timestamp="1751034506" url="https://raw.githubusercontent.com/Lobanokivan11/FDROID-REPO/refs/heads/main/fdroid/repo" version="20002">
+	<repo icon="icon.png" name="Lobanokivan11's F-Droid Repo" pubkey="308204f0308202d8a003020102020900aa0527e64906854b300d06092a864886f70d01010b050030253110300e060355040b1307462d44726f69643111300f0603550403130841584f2d557365723020170d3235303632373132353035305a180f32303532313131323132353035305a30253110300e060355040b1307462d44726f69643111300f0603550403130841584f2d5573657230820222300d06092a864886f70d01010105000382020f003082020a0282020100e292f147f1d12c06b54004d33ef0249fbfa5cb575e74e33f7ef11740a06888eb14a68e3a7cda7854de7c0e16248289ef440b87b16015a6cdfc7456ca24b7c03f8abfa89f94215a0f235b2111b95d3edee214d2c747f13ea171ad07db5a119ddb91ebc4c089c54aaa20c719b7bf5fc3ed636489eafa1016c459269447a3fbc40622d62a3efb7437bbc1a4f8d06d26298398eb1145354be9deef0812b9a854f8547d015cda1b5242a0d32d92c1ead25dce341fef71a49ad4a8dc5441d8637cc69019fa528f05adc2cfb2b357d99f1226f700800b4401e461f475dff60170e5e2f7bf55cd7e7372441d33098f90d56010b90955d2aa81ebdf841b2e5780a1276a0073db5ffe644b5720578442c1dd44784a205331b4cee61f6456b89719b4c1c85c5325ac06bd744aa85fc620d7f59c6acc26c0f00713967e08f8a66c6b07fc23b3a3868f504e9afa0385823a1e890fabefc6d7aa68a3533894388dd7d04eb03b5f6f23aa2614dbfa6e3d32d5266edd8b643b6b4d903e663d448cd7c4803ee090c54cc8d0249dd3db53352259d3b7a79798eaed934462b9a79cb71844c55dff1a94076e740af209861aabab7f946b76c605c8f2a308ba87bd52e63c6335e1f98bf69c897259609c249f9c83907309db019d8cb3a4a0e26b23ba8dabf37918801fd1a8e2fc84f34192d41583255a4f35a20371c32fdf1a4c93cbe2b1a1b82597deb70203010001a321301f301d0603551d0e0416041470130289d750ce245977dbca02acb48dbff0e31e300d06092a864886f70d01010b050003820201005454d576c5f5f25e0ee7011e46266bb5bb07ff51a8179ba7ca6f9a6b17bf77bac316933e2ed8586cfaa34cb8af5bbfe89ffbfe9f3fffe66f5e039673f8544bde5e923cb08820d17531cc7414429c48a4272f65578351121b6cca17f3633025e4295a96316fcdf6343630c9662baedf6ecd9b8efedca812b80d6e6d50cd7618ee76dc3c88ae36570e37b5e62fa03734f7ff983918d373685766c23a8d99a8b5ec4c5e42b861cd79124686682a58a420b8ab677d528bb9e2d03e067f5fea4d78088318cad255bc8e5282385df32ec02be323e3ce4559e9f45757ae3aca1bf645bb6283a90086cddc7a82bfae486e57592339968acce21d0471f20e7f54c3ed5295ad91b0e61e5070283495558931c99ddfca434e22070e50759025b39294f08fde6c6449434649f5620f809f65eefa94c93e0dd5d23deda89efbc1c98f7265daaecf13f1d6e5a0de34e6c5aa0d34303e157dc3c28dc6f2ed3c91d1f0f8afbf8ee640007b8def8b2c57da43a8a65d22667421c9588376721b112f45237299c7bea99852c3558059af416ea99f36f191288f86b2f0e9b2c1f2824233d0f35044fc46cb88d4f0680f8706fe365d6e92e0cadeeb1f2de6b14c02eddfb6d4c324a79b9f46fb25533e2a0c02d3254c7f75d8931756f7b89da4092dd793bd1f717326a8ad57a3a5b3763b14470d2acb01560294094c97ef354afe7d6ee530b247f3bb211a" timestamp="1751037260" url="https://raw.githubusercontent.com/Lobanokivan11/FDROID-REPO/refs/heads/main/fdroid/repo" version="20002">
 		<description>This is Repository of Lobanokivan11</description>
 	</repo>
 	<application id="org.fdroid.fdroid.privileged">
@@ -31,6 +31,241 @@
 			<added>2025-06-27</added>
 			<sig>9bf31245c30b3a965b618ea1bd44e37b</sig>
 			<permissions>QUERY_ALL_PACKAGES,moe.shizuku.manager.permission.API_V23,org.fdroid.fdroid.privileged.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+		</package>
+	</application>
+	<application id="io.github.chsbuffer.revancedxposed">
+		<id>io.github.chsbuffer.revancedxposed</id>
+		<added>2025-06-27</added>
+		<lastupdated>2025-06-27</lastupdated>
+		<name>ReVanced Xposed</name>
+		<summary>ReVanced LSPosed module. YouTube &amp; YT Music Remove ads, Background playback</summary>
+		<desc>Xposed Module With Revanced Patches
+Better Than Mount
+</desc>
+		<license>GPL-3.0</license>
+		<categories>Xposed</categories>
+		<category>Xposed</category>
+		<web></web>
+		<source>https://github.com/chsbuffer/ReVancedXposed</source>
+		<tracker></tracker>
+		<author>chsbuffer</author>
+		<marketversion>1.0.19</marketversion>
+		<marketvercode>19</marketvercode>
+		<package>
+			<version>1.0.19</version>
+			<versioncode>19</versioncode>
+			<apkname>revancedxposed_1.0.19.apk</apkname>
+			<hash type="sha256">76ed20c72b5c4b65bbd622ca4ce6c950c7a1a5d7a2ecbecb60862ac854785b17</hash>
+			<size>3001764</size>
+			<sdkver>27</sdkver>
+			<targetSdkVersion>35</targetSdkVersion>
+			<added>2025-06-27</added>
+			<sig>7392807993185028c55d4b14ba5b9f58</sig>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>1.0.17</version>
+			<versioncode>17</versioncode>
+			<apkname>revancedxposed_1.0.17.apk</apkname>
+			<hash type="sha256">2857816f6b6803efafda27c5ddf21aa266cca04818220e9503e32332b434e3d4</hash>
+			<size>2767228</size>
+			<sdkver>27</sdkver>
+			<targetSdkVersion>35</targetSdkVersion>
+			<added>2025-06-27</added>
+			<sig>7392807993185028c55d4b14ba5b9f58</sig>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>1.0.16</version>
+			<versioncode>16</versioncode>
+			<apkname>revancedxposed_1.0.16.apk</apkname>
+			<hash type="sha256">431f1fe93ff8c995b9bac29274e7f22148a14190d0de4bc9b4f52bf2e635f10d</hash>
+			<size>2761385</size>
+			<sdkver>27</sdkver>
+			<targetSdkVersion>35</targetSdkVersion>
+			<added>2025-06-27</added>
+			<sig>7392807993185028c55d4b14ba5b9f58</sig>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>1.0.15</version>
+			<versioncode>15</versioncode>
+			<apkname>revancedxposed_1.0.15.apk</apkname>
+			<hash type="sha256">db41eaa764df245124744d3d1880e62d7af14faf891913b69895251ad899603d</hash>
+			<size>2760197</size>
+			<sdkver>27</sdkver>
+			<targetSdkVersion>35</targetSdkVersion>
+			<added>2025-06-27</added>
+			<sig>7392807993185028c55d4b14ba5b9f58</sig>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>1.0.14</version>
+			<versioncode>14</versioncode>
+			<apkname>revancedxposed_1.0.14.apk</apkname>
+			<hash type="sha256">d7b1538c613c8a9c7cad114cfec6ad133a7353ce9ff5eb91a9b3386cd9a95352</hash>
+			<size>2617281</size>
+			<sdkver>27</sdkver>
+			<targetSdkVersion>35</targetSdkVersion>
+			<added>2025-06-27</added>
+			<sig>7392807993185028c55d4b14ba5b9f58</sig>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>1.0.13</version>
+			<versioncode>13</versioncode>
+			<apkname>revancedxposed_1.0.13.apk</apkname>
+			<hash type="sha256">774e29fa94b46ca30222282baf63aa0da8048c3b522b05c04088e9c70941dff7</hash>
+			<size>2539509</size>
+			<sdkver>27</sdkver>
+			<targetSdkVersion>35</targetSdkVersion>
+			<added>2025-06-27</added>
+			<sig>7392807993185028c55d4b14ba5b9f58</sig>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>1.0.12</version>
+			<versioncode>12</versioncode>
+			<apkname>revancedxposed_1.0.12.apk</apkname>
+			<hash type="sha256">23b82be5c1096cfd621684e0b59eb99b65cfab8a61a84017341ae37e72acb7be</hash>
+			<size>2539493</size>
+			<sdkver>27</sdkver>
+			<targetSdkVersion>35</targetSdkVersion>
+			<added>2025-06-27</added>
+			<sig>7392807993185028c55d4b14ba5b9f58</sig>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>1.0.11</version>
+			<versioncode>11</versioncode>
+			<apkname>revancedxposed_1.0.11.apk</apkname>
+			<hash type="sha256">c14dd5ca9f2a7bf48510f0c4032915436142545e0e277451f9c293cd00e989b5</hash>
+			<size>2539493</size>
+			<sdkver>27</sdkver>
+			<targetSdkVersion>35</targetSdkVersion>
+			<added>2025-06-27</added>
+			<sig>7392807993185028c55d4b14ba5b9f58</sig>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>1.0.10</version>
+			<versioncode>10</versioncode>
+			<apkname>revancedxposed_1.0.10.apk</apkname>
+			<hash type="sha256">fe615253e91227b59996592c2ca66e6be0d182c3d5f4897577db1ec8540583bc</hash>
+			<size>2535681</size>
+			<sdkver>27</sdkver>
+			<targetSdkVersion>35</targetSdkVersion>
+			<added>2025-06-27</added>
+			<sig>7392807993185028c55d4b14ba5b9f58</sig>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>1.0.9</version>
+			<versioncode>9</versioncode>
+			<apkname>revancedxposed_1.0.9.apk</apkname>
+			<hash type="sha256">3a195f1d511e02f2281ac010034fba40598286772c906b2aad44166f4588a778</hash>
+			<size>2147535</size>
+			<sdkver>27</sdkver>
+			<targetSdkVersion>35</targetSdkVersion>
+			<added>2025-06-27</added>
+			<sig>7392807993185028c55d4b14ba5b9f58</sig>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>1.0.8</version>
+			<versioncode>8</versioncode>
+			<apkname>revancedxposed_1.0.8.apk</apkname>
+			<hash type="sha256">610790aa23fb29cce0a8b7a88fc8a0e2f37031b9142c43694bf95ce9d699b289</hash>
+			<size>1327494</size>
+			<sdkver>27</sdkver>
+			<targetSdkVersion>35</targetSdkVersion>
+			<added>2025-06-27</added>
+			<sig>7392807993185028c55d4b14ba5b9f58</sig>
+			<nativecode>arm64-v8a</nativecode>
+		</package>
+		<package>
+			<version>1.0.7</version>
+			<versioncode>7</versioncode>
+			<apkname>revancedxposed_1.0.7.apk</apkname>
+			<hash type="sha256">6978041e80404ba20f4b7aacec37c48e24765720b0b435d4ab8e4161fa896511</hash>
+			<size>1327494</size>
+			<sdkver>27</sdkver>
+			<targetSdkVersion>35</targetSdkVersion>
+			<added>2025-06-27</added>
+			<sig>7392807993185028c55d4b14ba5b9f58</sig>
+			<nativecode>arm64-v8a</nativecode>
+		</package>
+		<package>
+			<version>1.0.6</version>
+			<versioncode>6</versioncode>
+			<apkname>revancedxposed_1.0.6.apk</apkname>
+			<hash type="sha256">0075bdb416015d53edb2962d6cedc8d7ca35e4496aca315ab0d8cb9e4a5b01c6</hash>
+			<size>1327126</size>
+			<sdkver>27</sdkver>
+			<targetSdkVersion>35</targetSdkVersion>
+			<added>2025-06-27</added>
+			<sig>7392807993185028c55d4b14ba5b9f58</sig>
+			<nativecode>arm64-v8a</nativecode>
+		</package>
+		<package>
+			<version>1.0.5</version>
+			<versioncode>5</versioncode>
+			<apkname>revancedxposed_1.0.5.apk</apkname>
+			<hash type="sha256">04449cff28bd302b32869cd0362fb1bfb9582c4e6aeb2eebb40f789c68c85c09</hash>
+			<size>415046</size>
+			<sdkver>27</sdkver>
+			<targetSdkVersion>35</targetSdkVersion>
+			<added>2025-06-27</added>
+			<sig>7392807993185028c55d4b14ba5b9f58</sig>
+			<nativecode>arm64-v8a</nativecode>
+		</package>
+		<package>
+			<version>1.0.4</version>
+			<versioncode>4</versioncode>
+			<apkname>revancedxposed_1.0.4.apk</apkname>
+			<hash type="sha256">92e9abb6c1255be7cfcf300d9b0feb2fdf9c11e3fc87ed6a8ff873594c2d56f0</hash>
+			<size>425034</size>
+			<sdkver>27</sdkver>
+			<targetSdkVersion>35</targetSdkVersion>
+			<added>2025-06-27</added>
+			<sig>7392807993185028c55d4b14ba5b9f58</sig>
+			<nativecode>arm64-v8a</nativecode>
+		</package>
+		<package>
+			<version>1.0.3</version>
+			<versioncode>3</versioncode>
+			<apkname>revancedxposed_1.0.3.apk</apkname>
+			<hash type="sha256">cb55063a507a47844d93a185f2d40be345c20130db122d59fd295ba319c6f732</hash>
+			<size>425034</size>
+			<sdkver>27</sdkver>
+			<targetSdkVersion>35</targetSdkVersion>
+			<added>2025-06-27</added>
+			<sig>7392807993185028c55d4b14ba5b9f58</sig>
+			<nativecode>arm64-v8a</nativecode>
+		</package>
+		<package>
+			<version>1.0.2</version>
+			<versioncode>2</versioncode>
+			<apkname>revancedxposed_1.0.2.apk</apkname>
+			<hash type="sha256">4821c6cf532fafed7c94475d608a3689edf21bd2005d4613b246ce52cfaf47e8</hash>
+			<size>349910</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>35</targetSdkVersion>
+			<added>2025-06-27</added>
+			<sig>7392807993185028c55d4b14ba5b9f58</sig>
+			<nativecode>arm64-v8a</nativecode>
+		</package>
+		<package>
+			<version>1.0</version>
+			<versioncode>1</versioncode>
+			<apkname>revancedxposed_0.0.1.apk</apkname>
+			<hash type="sha256">93c356fb4688d2921494cb14df895f44cb30ab00cdd5eb3e7ff5e43773850382</hash>
+			<size>333414</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-06-27</added>
+			<sig>7392807993185028c55d4b14ba5b9f58</sig>
+			<nativecode>arm64-v8a</nativecode>
 		</package>
 	</application>
 	<application id="substratum.monet.all">
