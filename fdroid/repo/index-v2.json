@@ -14,7 +14,7 @@
       }
     },
     "address": "https://raw.githubusercontent.com/Lobanokivan11/FDROID-REPO/refs/heads/main/fdroid/repo",
-    "timestamp": 1751044688000,
+    "timestamp": 1751045246000,
     "categories": {
       "Internet": {
         "name": {
@@ -22916,6 +22916,111 @@
               },
               {
                 "name": "moe.shizuku.manager.permission.API_V23"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "projekt.substratum": {
+      "metadata": {
+        "added": 1751045175000,
+        "categories": [
+          "Theming",
+          "System"
+        ],
+        "lastUpdated": 1751045175000,
+        "sourceCode": "https://github.com/AndroidThemingRequiem/Substratum-apk",
+        "authorName": "AndroidThemingRequiem",
+        "name": {
+          "en-US": "Substratum"
+        },
+        "description": {
+          "en-US": "Substratum - Advanced Theme Engine That Use OMS\n"
+        },
+        "icon": {
+          "en-US": {
+            "name": "/icons/projekt.substratum.1022.png",
+            "sha256": "f534fbaa354cae2197cad2266c96486b21069a3c351efc963c2f70d74dcc496f",
+            "size": 1337
+          }
+        },
+        "preferredSigner": "a40da80a59d170caa950cf15c18c454d47a39b26989d8b640ecd745ba71bf5dc"
+      },
+      "versions": {
+        "64eb1bea134ed10d6d5af9ec347630470ef8a5995ba481b9a716892880ca041c": {
+          "added": 1751045175000,
+          "file": {
+            "name": "/substratum_1022.apk",
+            "sha256": "64eb1bea134ed10d6d5af9ec347630470ef8a5995ba481b9a716892880ca041c",
+            "size": 8843749
+          },
+          "manifest": {
+            "versionName": "one thousand twenty two",
+            "versionCode": 1022,
+            "usesSdk": {
+              "minSdkVersion": 26,
+              "targetSdkVersion": 28
+            },
+            "signer": {
+              "sha256": [
+                "a40da80a59d170caa950cf15c18c454d47a39b26989d8b640ecd745ba71bf5dc"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.PACKAGE_USAGE_STATS"
+              },
+              {
+                "name": "android.permission.SYSTEM_ALERT_WINDOW"
+              },
+              {
+                "name": "android.permission.KILL_BACKGROUND_PROCESSES"
+              },
+              {
+                "name": "android.permission.REQUEST_INSTALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.SET_WALLPAPER"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "com.android.launcher.permission.INSTALL_SHORTCUT"
+              },
+              {
+                "name": "android.permission.REQUEST_DELETE_PACKAGES"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.MODIFY_OVERLAYS"
+              },
+              {
+                "name": "projekt.interfacer.permission.ACCESS_SERVICE"
+              },
+              {
+                "name": "android.permission.FAKE_PACKAGE_SIGNATURE"
               }
             ]
           }

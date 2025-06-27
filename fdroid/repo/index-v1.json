@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1751044688000,
+    "timestamp": 1751045246000,
     "version": 20002,
     "name": "Lobanokivan11's F-Droid Repo",
     "icon": "icon.png",
@@ -96,6 +96,23 @@
           "whatsNew": "### General\n- Detect if app is already patched\n- Add app icon\n\n### YouTube\n- Fix `Hide navigation buttons`\n- Sync `v5.28.0`\n  - Use modern style settings dialogs\n\n[Donate me on AFDian](https://afdian.com/a/ChsBuffer)"
         }
       }
+    },
+    {
+      "authorName": "AndroidThemingRequiem",
+      "categories": [
+        "Theming",
+        "System"
+      ],
+      "suggestedVersionName": "one thousand twenty two",
+      "suggestedVersionCode": "1022",
+      "description": "Substratum - Advanced Theme Engine That Use OMS\n",
+      "license": "Unknown",
+      "name": "Substratum",
+      "sourceCode": "https://github.com/AndroidThemingRequiem/Substratum-apk",
+      "added": 1751045175000,
+      "icon": "projekt.substratum.1022.png",
+      "packageName": "projekt.substratum",
+      "lastUpdated": 1751045175000
     },
     {
       "authorName": "Lobanokivan11",
@@ -28058,6 +28075,96 @@
         ],
         "versionCode": 10000,
         "versionName": "dc5bb3f"
+      }
+    ],
+    "projekt.substratum": [
+      {
+        "added": 1751045175000,
+        "apkName": "substratum_1022.apk",
+        "hash": "64eb1bea134ed10d6d5af9ec347630470ef8a5995ba481b9a716892880ca041c",
+        "hashType": "sha256",
+        "minSdkVersion": 26,
+        "packageName": "projekt.substratum",
+        "sig": "e967c9e5fd92879f6bac96358de84d90",
+        "signer": "a40da80a59d170caa950cf15c18c454d47a39b26989d8b640ecd745ba71bf5dc",
+        "size": 8843749,
+        "targetSdkVersion": 28,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.PACKAGE_USAGE_STATS",
+            null
+          ],
+          [
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            null
+          ],
+          [
+            "android.permission.KILL_BACKGROUND_PROCESSES",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.SET_WALLPAPER",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "com.android.launcher.permission.INSTALL_SHORTCUT",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.MODIFY_OVERLAYS",
+            null
+          ],
+          [
+            "projekt.interfacer.permission.ACCESS_SERVICE",
+            null
+          ],
+          [
+            "android.permission.FAKE_PACKAGE_SIGNATURE",
+            null
+          ]
+        ],
+        "versionCode": 1022,
+        "versionName": "one thousand twenty two"
       }
     ],
     "substratum.monet.all": [

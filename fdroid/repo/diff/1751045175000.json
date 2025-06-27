@@ -1,0 +1,26 @@
+{
+  "repo": {
+    "timestamp": 1751045246000,
+    "categories": {
+      "fdroid": null
+    }
+  },
+  "packages": {
+    "projekt.substratum": {
+      "metadata": {
+        "categories": [
+          "Theming",
+          "System"
+        ],
+        "sourceCode": "https://github.com/AndroidThemingRequiem/Substratum-apk",
+        "authorName": "AndroidThemingRequiem",
+        "name": {
+          "en-US": "Substratum"
+        },
+        "description": {
+          "en-US": "Substratum - Advanced Theme Engine That Use OMS\n"
+        }
+      }
+    }
+  }
+}
