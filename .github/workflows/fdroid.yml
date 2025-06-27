@@ -33,6 +33,11 @@ jobs:
         run: |
          pip install androguard --user --upgrade
 
+      - name: Upgrade Apt
+        run: |
+         sudo apt update
+         sudo apt upgrade -y
+
       - name: Set up repo secrets
         run: |
           echo "${{ secrets.KEYSTORE_P12 }}" | base64 -d - > fdroid/keystore.p12
