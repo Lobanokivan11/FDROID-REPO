@@ -14,3 +14,11 @@ fdroidprivshizuku:
 
   categories: 
     - System
+revancedxposed:
+  git: https://github.com/chsbuffer/ReVancedXposed
+  name: "ReVanced Xposed"
+  description: |
+    Xposed Module With Revanced Patches
+		Better Than Mount
+  categories: 
+    - Xposed
