@@ -77,3 +77,12 @@ xspoofsignatureslegends:
 
   categories: 
     - Xposed
+lawnchair:
+  git: https://github.com/Goooler/LawnchairRelease
+  name: "Lawnchair"
+  description: |
+    Lawnchair - Launcher With Pixel Features For all devices
+
+  categories: 
+    - Theming
+    - System
