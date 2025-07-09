@@ -1,0 +1,9 @@
+Added:
+- Support translating to-do list
+
+Fixed:
+- Parse muted account option caused exception
+
+Misc:
+- Show both camera and media permission cell on attach media selector if both are not granted
+- Translation updates
