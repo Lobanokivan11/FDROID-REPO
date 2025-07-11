@@ -1,0 +1,8 @@
+## Sync 5.30.0
+### YouTube
+* **SponsorBlock:** Add "Undo automatic skip toast"
+* **Hide ads:** Hide new type of product ad in video description
+### Spotify
+* Fix hiding context menu ads on newest versions
+
+[Donate me on AFDian](https://afdian.com/a/ChsBuffer)

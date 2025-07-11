@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1752196356000,
+    "timestamp": 1752204624000,
     "version": 20002,
     "name": "Lobanokivan11's F-Droid Repo",
     "icon": "icon.png",
@@ -81,8 +81,8 @@
       "categories": [
         "Xposed"
       ],
-      "suggestedVersionName": "1.0.19",
-      "suggestedVersionCode": "19",
+      "suggestedVersionName": "1.0.20",
+      "suggestedVersionCode": "20",
       "description": "Xposed Module With Revanced Patches\nBetter Than Mount\n",
       "license": "GPL-3.0",
       "name": "ReVanced Xposed",
@@ -90,10 +90,10 @@
       "summary": "ReVanced LSPosed module. YouTube & YT Music Remove ads, Background playback",
       "added": 1751037249000,
       "packageName": "io.github.chsbuffer.revancedxposed",
-      "lastUpdated": 1751037254000,
+      "lastUpdated": 1752204546000,
       "localized": {
         "en-US": {
-          "whatsNew": "### General\n- Detect if app is already patched\n- Add app icon\n\n### YouTube\n- Fix `Hide navigation buttons`\n- Sync `v5.28.0`\n  - Use modern style settings dialogs\n\n[Donate me on AFDian](https://afdian.com/a/ChsBuffer)"
+          "whatsNew": "## Sync 5.30.0\n### YouTube\n* **SponsorBlock:** Add \"Undo automatic skip toast\"\n* **Hide ads:** Hide new type of product ad in video description\n### Spotify\n* Fix hiding context menu ads on newest versions\n\n[Donate me on AFDian](https://afdian.com/a/ChsBuffer)"
         }
       }
     },
@@ -22371,6 +22371,26 @@
       }
     ],
     "io.github.chsbuffer.revancedxposed": [
+      {
+        "added": 1752204546000,
+        "apkName": "revancedxposed_1.0.20.apk",
+        "hash": "d48dabf7e906e052ef8b2ed576df7f187886ae39eaa4d219c6b28f2aaa2e5cf5",
+        "hashType": "sha256",
+        "minSdkVersion": 27,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "io.github.chsbuffer.revancedxposed",
+        "sig": "7392807993185028c55d4b14ba5b9f58",
+        "signer": "940d0f30e047642c72c94c6ef4bfab7910bb0cd4f69f9da735338beca0b2d12e",
+        "size": 3038628,
+        "targetSdkVersion": 35,
+        "versionCode": 20,
+        "versionName": "1.0.20"
+      },
       {
         "added": 1751037252000,
         "apkName": "revancedxposed_1.0.19.apk",
