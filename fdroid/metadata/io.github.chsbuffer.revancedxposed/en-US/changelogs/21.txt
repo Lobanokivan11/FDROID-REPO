@@ -1,0 +1,12 @@
+### Spotify
+- Sync v5.31.1
+  - Fix hiding context menu ads for latest version
+  - Remove wrongfully hidden non ad browse sections
+  - Remove other ads type from the browse screen
+  - Remove support for old versions
+### YouTube
+- Add `Remember Video Quality`
+- Sync v5.31.1
+  - `Hide ads`: Hide new type of general ad
+
+[Donate me on AFDian](https://afdian.com/a/ChsBuffer)
