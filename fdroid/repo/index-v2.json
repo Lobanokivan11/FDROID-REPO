@@ -14,7 +14,7 @@
       }
     },
     "address": "https://raw.githubusercontent.com/Lobanokivan11/FDROID-REPO/refs/heads/main/fdroid/repo",
-    "timestamp": 1752323419000,
+    "timestamp": 1752327076000,
     "categories": {
       "Internet": {
         "name": {
@@ -46,7 +46,7 @@
           "Theming",
           "System"
         ],
-        "lastUpdated": 1752045622000,
+        "lastUpdated": 1752326941000,
         "license": "NOASSERTION",
         "sourceCode": "https://github.com/Goooler/LawnchairRelease",
         "authorName": "Goooler",
@@ -7415,6 +7415,197 @@
               "x86_64"
             ],
             "versionName": "15.0.0 (8e2974d)",
+            "versionCode": 15000000,
+            "usesSdk": {
+              "minSdkVersion": 26,
+              "targetSdkVersion": 35
+            },
+            "signer": {
+              "sha256": [
+                "8f5b1353db08cd9287f8ecc6bad2eb9be2668d476af90415bd7bfdff257840e4"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.PACKAGE_USAGE_STATS"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "com.google.android.apps.nexuslauncher.permission.QSB"
+              },
+              {
+                "name": "com.kieronquinn.app.smartspacer.permission.ACCESS_SMARTSPACER"
+              },
+              {
+                "name": "android.permission.READ_CONTACTS"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_IMAGES"
+              },
+              {
+                "name": "android.permission.READ_HISTORY_BOOKMARKS"
+              },
+              {
+                "name": "android.permission.WRITE_HISTORY_BOOKMARKS"
+              },
+              {
+                "name": "android.permission.INTERACT_ACROSS_USERS"
+              },
+              {
+                "name": "android.permission.INTERACT_ACROSS_USERS_FULL"
+              },
+              {
+                "name": "android.permission.MANAGE_USERS"
+              },
+              {
+                "name": "android.permission.FORCE_STOP_PACKAGES"
+              },
+              {
+                "name": "android.permission.STATUS_BAR_SERVICE"
+              },
+              {
+                "name": "android.permission.SUSPEND_APPS"
+              },
+              {
+                "name": "android.permission.REQUEST_INSTALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.MANAGE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.BROADCAST_CLOSE_SYSTEM_DIALOGS"
+              },
+              {
+                "name": "android.permission.CONTROL_REMOTE_APP_TRANSITION_ANIMATIONS"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.QUERY_ALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.START_TASKS_FROM_RECENTS"
+              },
+              {
+                "name": "android.permission.REMOVE_TASKS"
+              },
+              {
+                "name": "android.permission.WRITE_SECURE_SETTINGS"
+              },
+              {
+                "name": "android.permission.MANAGE_ACTIVITY_TASKS"
+              },
+              {
+                "name": "android.permission.INTERNAL_SYSTEM_WINDOW"
+              },
+              {
+                "name": "android.permission.STATUS_BAR"
+              },
+              {
+                "name": "android.permission.STOP_APP_SWITCHES"
+              },
+              {
+                "name": "android.permission.SET_ORIENTATION"
+              },
+              {
+                "name": "android.permission.READ_FRAME_BUFFER"
+              },
+              {
+                "name": "android.permission.MANAGE_ACCESSIBILITY"
+              },
+              {
+                "name": "android.permission.MONITOR_INPUT"
+              },
+              {
+                "name": "android.permission.ALLOW_SLIPPERY_TOUCHES"
+              },
+              {
+                "name": "android.permission.ACCESS_SHORTCUTS"
+              },
+              {
+                "name": "android.permission.SYSTEM_APPLICATION_OVERLAY"
+              },
+              {
+                "name": "android.permission.ACCESS_HIDDEN_PROFILES_FULL"
+              },
+              {
+                "name": "android.permission.ACCESS_HIDDEN_PROFILES"
+              },
+              {
+                "name": "android.permission.CALL_PHONE"
+              },
+              {
+                "name": "android.permission.SET_WALLPAPER"
+              },
+              {
+                "name": "android.permission.SET_WALLPAPER_HINTS"
+              },
+              {
+                "name": "android.permission.BIND_APPWIDGET"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.REQUEST_DELETE_PACKAGES"
+              },
+              {
+                "name": "android.permission.READ_DEVICE_CONFIG"
+              },
+              {
+                "name": "android.permission.EXPAND_STATUS_BAR"
+              },
+              {
+                "name": "android.permission.ACCESS_RESTRICTED_SETTINGS"
+              },
+              {
+                "name": "android.permission.ROTATE_SURFACE_FLINGER"
+              },
+              {
+                "name": "android.permission.WAKEUP_SURFACE_FLINGER"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "app.lawnchair.permission.READ_SETTINGS"
+              },
+              {
+                "name": "app.lawnchair.permission.WRITE_SETTINGS"
+              },
+              {
+                "name": "android.permission.CAPTURE_BLACKOUT_CONTENT"
+              },
+              {
+                "name": "app.lawnchair.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        },
+        "62036cb29b0cf849806587a8dc4c94ca28461cf7b29d9a802d937b2d8e18058e": {
+          "added": 1752326941000,
+          "file": {
+            "name": "/lawnchair_15.0.0-20250712.apk",
+            "sha256": "62036cb29b0cf849806587a8dc4c94ca28461cf7b29d9a802d937b2d8e18058e",
+            "size": 15740847
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "15.0.0 (3e1f77f)",
             "versionCode": 15000000,
             "usesSdk": {
               "minSdkVersion": 26,
