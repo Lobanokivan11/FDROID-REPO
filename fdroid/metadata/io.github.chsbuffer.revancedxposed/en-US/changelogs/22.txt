@@ -1,0 +1,9 @@
+## Spotify
+- Add `Hide Create button`
+
+## YouTube
+- `SponsorBlock` `Hide and change navigation buttons` support YT 20.28.35
+
+**Sync v5.31.2**
+
+[Donate me on AFDian](https://afdian.com/a/ChsBuffer)
