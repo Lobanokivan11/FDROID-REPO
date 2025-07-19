@@ -2,7 +2,7 @@
 - Add `Fix third party launchers widgets`
 
 ## YouTube
-- `SponsorBlock, NavigationButtons, SwipeControls` support 20.28.40
-- `Settings` support 20.29.37
+- `Remember video quality` support 20.28.40
+- `ReVanced Settings` support 20.29.37
 
 [Donate me on AFDian](https://afdian.com/a/ChsBuffer)

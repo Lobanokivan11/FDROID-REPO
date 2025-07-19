@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1752906402000,
+    "timestamp": 1752909581000,
     "version": 20002,
     "name": "Lobanokivan11's F-Droid Repo",
     "icon": "icon.png",
@@ -93,7 +93,7 @@
       "lastUpdated": 1752906330000,
       "localized": {
         "en-US": {
-          "whatsNew": "## Spotify\n- Add `Fix third party launchers widgets`\n\n## YouTube\n- `SponsorBlock, NavigationButtons, SwipeControls` support 20.28.40\n- `Settings` support 20.29.37\n\n[Donate me on AFDian](https://afdian.com/a/ChsBuffer)"
+          "whatsNew": "## Spotify\n- Add `Fix third party launchers widgets`\n\n## YouTube\n- `Remember video quality` support 20.28.40\n- `ReVanced Settings` support 20.29.37\n\n[Donate me on AFDian](https://afdian.com/a/ChsBuffer)"
         }
       }
     },
