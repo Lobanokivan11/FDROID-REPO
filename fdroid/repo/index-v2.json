@@ -14,7 +14,7 @@
       }
     },
     "address": "https://raw.githubusercontent.com/Lobanokivan11/FDROID-REPO/refs/heads/main/fdroid/repo",
-    "timestamp": 1752902655000,
+    "timestamp": 1752906402000,
     "categories": {
       "Internet": {
         "name": {
@@ -18641,7 +18641,7 @@
         "categories": [
           "Xposed"
         ],
-        "lastUpdated": 1752582909000,
+        "lastUpdated": 1752906330000,
         "license": "GPL-3.0",
         "sourceCode": "https://github.com/chsbuffer/ReVancedXposed",
         "authorName": "chsbuffer",
@@ -18657,6 +18657,33 @@
         "preferredSigner": "940d0f30e047642c72c94c6ef4bfab7910bb0cd4f69f9da735338beca0b2d12e"
       },
       "versions": {
+        "8ad4915aad62aa6d0fc929da3ca611941a906c838d18fb9f74e3ce4dbf49d399": {
+          "added": 1752906330000,
+          "file": {
+            "name": "/revancedxposed_1.0.23.apk",
+            "sha256": "8ad4915aad62aa6d0fc929da3ca611941a906c838d18fb9f74e3ce4dbf49d399",
+            "size": 3221049
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "1.0.23",
+            "versionCode": 23,
+            "usesSdk": {
+              "minSdkVersion": 27,
+              "targetSdkVersion": 36
+            },
+            "signer": {
+              "sha256": [
+                "940d0f30e047642c72c94c6ef4bfab7910bb0cd4f69f9da735338beca0b2d12e"
+              ]
+            }
+          }
+        },
         "1ad9f737d8affd5d9ed1721858fb5f2c90a6da5db81df45b471d11f7e01d9c9e": {
           "added": 1752582909000,
           "file": {

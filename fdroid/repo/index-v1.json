@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1752902655000,
+    "timestamp": 1752906402000,
     "version": 20002,
     "name": "Lobanokivan11's F-Droid Repo",
     "icon": "icon.png",
@@ -81,8 +81,8 @@
       "categories": [
         "Xposed"
       ],
-      "suggestedVersionName": "1.0.22",
-      "suggestedVersionCode": "22",
+      "suggestedVersionName": "1.0.23",
+      "suggestedVersionCode": "23",
       "description": "Xposed Module With Revanced Patches\nBetter Than Mount\n",
       "license": "GPL-3.0",
       "name": "ReVanced Xposed",
@@ -90,10 +90,10 @@
       "summary": "ReVanced LSPosed module. YouTube & YT Music Remove ads, Background playback",
       "added": 1751037249000,
       "packageName": "io.github.chsbuffer.revancedxposed",
-      "lastUpdated": 1752582909000,
+      "lastUpdated": 1752906330000,
       "localized": {
         "en-US": {
-          "whatsNew": "## Spotify\n- Add `Hide Create button`\n\n## YouTube\n- `SponsorBlock` `Hide and change navigation buttons` support YT 20.28.35\n\n**Sync v5.31.2**\n\n[Donate me on AFDian](https://afdian.com/a/ChsBuffer)"
+          "whatsNew": "## Spotify\n- Add `Fix third party launchers widgets`\n\n## YouTube\n- `SponsorBlock, NavigationButtons, SwipeControls` support 20.28.40\n- `Settings` support 20.29.37\n\n[Donate me on AFDian](https://afdian.com/a/ChsBuffer)"
         }
       }
     },
@@ -23085,6 +23085,26 @@
       }
     ],
     "io.github.chsbuffer.revancedxposed": [
+      {
+        "added": 1752906330000,
+        "apkName": "revancedxposed_1.0.23.apk",
+        "hash": "8ad4915aad62aa6d0fc929da3ca611941a906c838d18fb9f74e3ce4dbf49d399",
+        "hashType": "sha256",
+        "minSdkVersion": 27,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "io.github.chsbuffer.revancedxposed",
+        "sig": "7392807993185028c55d4b14ba5b9f58",
+        "signer": "940d0f30e047642c72c94c6ef4bfab7910bb0cd4f69f9da735338beca0b2d12e",
+        "size": 3221049,
+        "targetSdkVersion": 36,
+        "versionCode": 23,
+        "versionName": "1.0.23"
+      },
       {
         "added": 1752582909000,
         "apkName": "revancedxposed_1.0.22.apk",
