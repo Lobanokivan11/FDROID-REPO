@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="icon.png" name="Lobanokivan11's F-Droid Repo" pubkey="308204f0308202d8a003020102020900aa0527e64906854b300d06092a864886f70d01010b050030253110300e060355040b1307462d44726f69643111300f0603550403130841584f2d557365723020170d3235303632373132353035305a180f32303532313131323132353035305a30253110300e060355040b1307462d44726f69643111300f0603550403130841584f2d5573657230820222300d06092a864886f70d01010105000382020f003082020a0282020100e292f147f1d12c06b54004d33ef0249fbfa5cb575e74e33f7ef11740a06888eb14a68e3a7cda7854de7c0e16248289ef440b87b16015a6cdfc7456ca24b7c03f8abfa89f94215a0f235b2111b95d3edee214d2c747f13ea171ad07db5a119ddb91ebc4c089c54aaa20c719b7bf5fc3ed636489eafa1016c459269447a3fbc40622d62a3efb7437bbc1a4f8d06d26298398eb1145354be9deef0812b9a854f8547d015cda1b5242a0d32d92c1ead25dce341fef71a49ad4a8dc5441d8637cc69019fa528f05adc2cfb2b357d99f1226f700800b4401e461f475dff60170e5e2f7bf55cd7e7372441d33098f90d56010b90955d2aa81ebdf841b2e5780a1276a0073db5ffe644b5720578442c1dd44784a205331b4cee61f6456b89719b4c1c85c5325ac06bd744aa85fc620d7f59c6acc26c0f00713967e08f8a66c6b07fc23b3a3868f504e9afa0385823a1e890fabefc6d7aa68a3533894388dd7d04eb03b5f6f23aa2614dbfa6e3d32d5266edd8b643b6b4d903e663d448cd7c4803ee090c54cc8d0249dd3db53352259d3b7a79798eaed934462b9a79cb71844c55dff1a94076e740af209861aabab7f946b76c605c8f2a308ba87bd52e63c6335e1f98bf69c897259609c249f9c83907309db019d8cb3a4a0e26b23ba8dabf37918801fd1a8e2fc84f34192d41583255a4f35a20371c32fdf1a4c93cbe2b1a1b82597deb70203010001a321301f301d0603551d0e0416041470130289d750ce245977dbca02acb48dbff0e31e300d06092a864886f70d01010b050003820201005454d576c5f5f25e0ee7011e46266bb5bb07ff51a8179ba7ca6f9a6b17bf77bac316933e2ed8586cfaa34cb8af5bbfe89ffbfe9f3fffe66f5e039673f8544bde5e923cb08820d17531cc7414429c48a4272f65578351121b6cca17f3633025e4295a96316fcdf6343630c9662baedf6ecd9b8efedca812b80d6e6d50cd7618ee76dc3c88ae36570e37b5e62fa03734f7ff983918d373685766c23a8d99a8b5ec4c5e42b861cd79124686682a58a420b8ab677d528bb9e2d03e067f5fea4d78088318cad255bc8e5282385df32ec02be323e3ce4559e9f45757ae3aca1bf645bb6283a90086cddc7a82bfae486e57592339968acce21d0471f20e7f54c3ed5295ad91b0e61e5070283495558931c99ddfca434e22070e50759025b39294f08fde6c6449434649f5620f809f65eefa94c93e0dd5d23deda89efbc1c98f7265daaecf13f1d6e5a0de34e6c5aa0d34303e157dc3c28dc6f2ed3c91d1f0f8afbf8ee640007b8def8b2c57da43a8a65d22667421c9588376721b112f45237299c7bea99852c3558059af416ea99f36f191288f86b2f0e9b2c1f2824233d0f35044fc46cb88d4f0680f8706fe365d6e92e0cadeeb1f2de6b14c02eddfb6d4c324a79b9f46fb25533e2a0c02d3254c7f75d8931756f7b89da4092dd793bd1f717326a8ad57a3a5b3763b14470d2acb01560294094c97ef354afe7d6ee530b247f3bb211a" timestamp="1753691324" url="https://raw.githubusercontent.com/Lobanokivan11/FDROID-REPO/refs/heads/main/fdroid/repo" version="20002">
+	<repo icon="icon.png" name="Lobanokivan11's F-Droid Repo" pubkey="308204f0308202d8a003020102020900aa0527e64906854b300d06092a864886f70d01010b050030253110300e060355040b1307462d44726f69643111300f0603550403130841584f2d557365723020170d3235303632373132353035305a180f32303532313131323132353035305a30253110300e060355040b1307462d44726f69643111300f0603550403130841584f2d5573657230820222300d06092a864886f70d01010105000382020f003082020a0282020100e292f147f1d12c06b54004d33ef0249fbfa5cb575e74e33f7ef11740a06888eb14a68e3a7cda7854de7c0e16248289ef440b87b16015a6cdfc7456ca24b7c03f8abfa89f94215a0f235b2111b95d3edee214d2c747f13ea171ad07db5a119ddb91ebc4c089c54aaa20c719b7bf5fc3ed636489eafa1016c459269447a3fbc40622d62a3efb7437bbc1a4f8d06d26298398eb1145354be9deef0812b9a854f8547d015cda1b5242a0d32d92c1ead25dce341fef71a49ad4a8dc5441d8637cc69019fa528f05adc2cfb2b357d99f1226f700800b4401e461f475dff60170e5e2f7bf55cd7e7372441d33098f90d56010b90955d2aa81ebdf841b2e5780a1276a0073db5ffe644b5720578442c1dd44784a205331b4cee61f6456b89719b4c1c85c5325ac06bd744aa85fc620d7f59c6acc26c0f00713967e08f8a66c6b07fc23b3a3868f504e9afa0385823a1e890fabefc6d7aa68a3533894388dd7d04eb03b5f6f23aa2614dbfa6e3d32d5266edd8b643b6b4d903e663d448cd7c4803ee090c54cc8d0249dd3db53352259d3b7a79798eaed934462b9a79cb71844c55dff1a94076e740af209861aabab7f946b76c605c8f2a308ba87bd52e63c6335e1f98bf69c897259609c249f9c83907309db019d8cb3a4a0e26b23ba8dabf37918801fd1a8e2fc84f34192d41583255a4f35a20371c32fdf1a4c93cbe2b1a1b82597deb70203010001a321301f301d0603551d0e0416041470130289d750ce245977dbca02acb48dbff0e31e300d06092a864886f70d01010b050003820201005454d576c5f5f25e0ee7011e46266bb5bb07ff51a8179ba7ca6f9a6b17bf77bac316933e2ed8586cfaa34cb8af5bbfe89ffbfe9f3fffe66f5e039673f8544bde5e923cb08820d17531cc7414429c48a4272f65578351121b6cca17f3633025e4295a96316fcdf6343630c9662baedf6ecd9b8efedca812b80d6e6d50cd7618ee76dc3c88ae36570e37b5e62fa03734f7ff983918d373685766c23a8d99a8b5ec4c5e42b861cd79124686682a58a420b8ab677d528bb9e2d03e067f5fea4d78088318cad255bc8e5282385df32ec02be323e3ce4559e9f45757ae3aca1bf645bb6283a90086cddc7a82bfae486e57592339968acce21d0471f20e7f54c3ed5295ad91b0e61e5070283495558931c99ddfca434e22070e50759025b39294f08fde6c6449434649f5620f809f65eefa94c93e0dd5d23deda89efbc1c98f7265daaecf13f1d6e5a0de34e6c5aa0d34303e157dc3c28dc6f2ed3c91d1f0f8afbf8ee640007b8def8b2c57da43a8a65d22667421c9588376721b112f45237299c7bea99852c3558059af416ea99f36f191288f86b2f0e9b2c1f2824233d0f35044fc46cb88d4f0680f8706fe365d6e92e0cadeeb1f2de6b14c02eddfb6d4c324a79b9f46fb25533e2a0c02d3254c7f75d8931756f7b89da4092dd793bd1f717326a8ad57a3a5b3763b14470d2acb01560294094c97ef354afe7d6ee530b247f3bb211a" timestamp="1753696414" url="https://raw.githubusercontent.com/Lobanokivan11/FDROID-REPO/refs/heads/main/fdroid/repo" version="20002">
 		<description>This is Repository of Lobanokivan11</description>
 	</repo>
 	<application id="org.fdroid.fdroid.privileged">
@@ -101,6 +101,263 @@
 			<sig>4cfc0fd17b05b53e0f83c03a57fcf19a</sig>
 			<permissions>ACCESS_RESTRICTED_SETTINGS,ALLOW_SLIPPERY_TOUCHES,BIND_APPWIDGET,BROADCAST_CLOSE_SYSTEM_DIALOGS,CALL_PHONE,CONTROL_REMOTE_APP_TRANSITION_ANIMATIONS,EXPAND_STATUS_BAR,FOREGROUND_SERVICE,INTERNET,MANAGE_ACCESSIBILITY,MANAGE_ACTIVITY_TASKS,MONITOR_INPUT,PACKAGE_USAGE_STATS,QUERY_ALL_PACKAGES,READ_DEVICE_CONFIG,READ_EXTERNAL_STORAGE,READ_FRAME_BUFFER,RECEIVE_BOOT_COMPLETED,REMOVE_TASKS,REQUEST_DELETE_PACKAGES,ROTATE_SURFACE_FLINGER,SET_ORIENTATION,SET_WALLPAPER,SET_WALLPAPER_HINTS,START_TASKS_FROM_RECENTS,STATUS_BAR,STOP_APP_SWITCHES,SYSTEM_APPLICATION_OVERLAY,VIBRATE,WRITE_SECURE_SETTINGS,app.lawnchair.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,app.lawnchair.permission.READ_SETTINGS,app.lawnchair.permission.WRITE_SETTINGS,com.google.android.apps.nexuslauncher.permission.QSB</permissions>
 			<nativecode>arm64-v8a</nativecode>
+		</package>
+	</application>
+	<application id="app.revanced.android.gms">
+		<id>app.revanced.android.gms</id>
+		<added>2025-07-28</added>
+		<lastupdated>2025-07-28</lastupdated>
+		<name>MicroG-RE</name>
+		<summary>GmsCore fork for ReVanced with Material You, features and improvements</summary>
+		<desc>GmsCore From WSTxda For Revanced (NON-ROOT) APPS
+</desc>
+		<license>Apache-2.0</license>
+		<categories>System</categories>
+		<category>System</category>
+		<web></web>
+		<source>https://github.com/WSTxda/MicroG-RE</source>
+		<tracker></tracker>
+		<author>WSTxda</author>
+		<marketversion>5.11 GMS-25.14.62</marketversion>
+		<marketvercode>251462000</marketvercode>
+		<package>
+			<version>5.11 GMS-25.14.62</version>
+			<versioncode>251462000</versioncode>
+			<apkname>microgre_5.11.apk</apkname>
+			<hash type="sha256">9633940cd16d51c2854cbcd7b4dfe97fd3e125f92c8c1071cbaa10f43f3cf6de</hash>
+			<size>12378239</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2025-07-28</added>
+			<sig>5240e2ad5320f9481d29b0440f5bfeda</sig>
+			<permissions>ACCESS_NETWORK_STATE,AUTHENTICATE_ACCOUNTS,CHANGE_DEVICE_IDLE_TEMP_WHITELIST,FOREGROUND_SERVICE,GET_ACCOUNTS,INTERNET,MANAGE_ACCOUNTS,READ_EXTERNAL_STORAGE,READ_SYNC_SETTINGS,READ_SYNC_STATS,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,UPDATE_APP_OPS_STATS,USE_CREDENTIALS,USE_EXACT_ALARM,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,app.revanced.android.c2dm.permission.RECEIVE,app.revanced.android.c2dm.permission.SEND,app.revanced.android.gms.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,app.revanced.android.gtalkservice.permission.GTALK_SERVICE,app.revanced.microg.gms.STATUS_BROADCAST</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>5.10 GMS-24.47.38</version>
+			<versioncode>244738000</versioncode>
+			<apkname>microgre_5.10.apk</apkname>
+			<hash type="sha256">a19a333b003f11784d8a5fc825fb627d87acfc81bd447ba994de8261fd6d37f4</hash>
+			<size>11845083</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2025-07-28</added>
+			<sig>5240e2ad5320f9481d29b0440f5bfeda</sig>
+			<permissions>ACCESS_NETWORK_STATE,AUTHENTICATE_ACCOUNTS,CHANGE_DEVICE_IDLE_TEMP_WHITELIST,FOREGROUND_SERVICE,GET_ACCOUNTS,INTERNET,MANAGE_ACCOUNTS,READ_EXTERNAL_STORAGE,READ_SYNC_SETTINGS,READ_SYNC_STATS,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,UPDATE_APP_OPS_STATS,USE_CREDENTIALS,USE_EXACT_ALARM,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,app.revanced.android.c2dm.permission.RECEIVE,app.revanced.android.c2dm.permission.SEND,app.revanced.android.gms.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,app.revanced.android.gtalkservice.permission.GTALK_SERVICE,app.revanced.microg.gms.STATUS_BROADCAST</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>5.9 GMS-243864</version>
+			<versioncode>243864000</versioncode>
+			<apkname>microgre_5.9.apk</apkname>
+			<hash type="sha256">3096958faeb9437ff5e5dded45506499d8e0e3e5f07856728bd96f6099265e38</hash>
+			<size>9677523</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2025-07-28</added>
+			<sig>5240e2ad5320f9481d29b0440f5bfeda</sig>
+			<permissions>ACCESS_NETWORK_STATE,AUTHENTICATE_ACCOUNTS,CHANGE_DEVICE_IDLE_TEMP_WHITELIST,FOREGROUND_SERVICE,GET_ACCOUNTS,INTERNET,MANAGE_ACCOUNTS,READ_EXTERNAL_STORAGE,READ_SYNC_SETTINGS,READ_SYNC_STATS,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,UPDATE_APP_OPS_STATS,USE_CREDENTIALS,USE_EXACT_ALARM,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,app.revanced.android.c2dm.permission.RECEIVE,app.revanced.android.c2dm.permission.SEND,app.revanced.android.gms.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,app.revanced.android.gtalkservice.permission.GTALK_SERVICE,app.revanced.microg.gms.STATUS_BROADCAST</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+		<package>
+			<version>5.8 GMS-243136</version>
+			<versioncode>243136000</versioncode>
+			<apkname>microgre_5.8.apk</apkname>
+			<hash type="sha256">ff9d5a1496f450aa448252be06164029064700e98b60237d7a598e54b7876f9d</hash>
+			<size>9652947</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2025-07-28</added>
+			<sig>5240e2ad5320f9481d29b0440f5bfeda</sig>
+			<permissions>ACCESS_NETWORK_STATE,AUTHENTICATE_ACCOUNTS,CHANGE_DEVICE_IDLE_TEMP_WHITELIST,FOREGROUND_SERVICE,GET_ACCOUNTS,INTERNET,MANAGE_ACCOUNTS,READ_EXTERNAL_STORAGE,READ_SYNC_SETTINGS,READ_SYNC_STATS,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,UPDATE_APP_OPS_STATS,USE_CREDENTIALS,USE_EXACT_ALARM,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,app.revanced.android.c2dm.permission.RECEIVE,app.revanced.android.c2dm.permission.SEND,app.revanced.android.gms.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,app.revanced.android.gtalkservice.permission.GTALK_SERVICE,app.revanced.microg.gms.STATUS_BROADCAST</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+		<package>
+			<version>5.6 GMS-242662</version>
+			<versioncode>242662000</versioncode>
+			<apkname>microgre_5.6.apk</apkname>
+			<hash type="sha256">eeb14dc7f59b83262ad62aad99c815e420f3720731304d607d40d894a7e1423d</hash>
+			<size>9827680</size>
+			<sdkver>23</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2025-07-28</added>
+			<sig>5240e2ad5320f9481d29b0440f5bfeda</sig>
+			<permissions>ACCESS_NETWORK_STATE,AUTHENTICATE_ACCOUNTS,CHANGE_DEVICE_IDLE_TEMP_WHITELIST,FOREGROUND_SERVICE,GET_ACCOUNTS,INTERNET,MANAGE_ACCOUNTS,READ_EXTERNAL_STORAGE,READ_SYNC_SETTINGS,READ_SYNC_STATS,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,UPDATE_APP_OPS_STATS,USE_CREDENTIALS,USE_EXACT_ALARM,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,app.revanced.android.c2dm.permission.RECEIVE,app.revanced.android.c2dm.permission.SEND,app.revanced.android.gms.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,app.revanced.android.gtalkservice.permission.GTALK_SERVICE,app.revanced.microg.gms.STATUS_BROADCAST</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+		<package>
+			<version>5.5 GMS-242632</version>
+			<versioncode>242632000</versioncode>
+			<apkname>microgre_5.5.apk</apkname>
+			<hash type="sha256">64cdebeac5299d32a8ce493155ce4916a3612184f0deade9c44dd7768a8f634f</hash>
+			<size>9827680</size>
+			<sdkver>23</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2025-07-28</added>
+			<sig>5240e2ad5320f9481d29b0440f5bfeda</sig>
+			<permissions>ACCESS_NETWORK_STATE,AUTHENTICATE_ACCOUNTS,CHANGE_DEVICE_IDLE_TEMP_WHITELIST,FOREGROUND_SERVICE,GET_ACCOUNTS,INTERNET,MANAGE_ACCOUNTS,READ_EXTERNAL_STORAGE,READ_SYNC_SETTINGS,READ_SYNC_STATS,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,UPDATE_APP_OPS_STATS,USE_CREDENTIALS,USE_EXACT_ALARM,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,app.revanced.android.c2dm.permission.RECEIVE,app.revanced.android.c2dm.permission.SEND,app.revanced.android.gms.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,app.revanced.android.gtalkservice.permission.GTALK_SERVICE,app.revanced.microg.gms.STATUS_BROADCAST</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+		<package>
+			<version>5.3 GMS-240914</version>
+			<versioncode>240914000</versioncode>
+			<apkname>microgre_5.3.apk</apkname>
+			<hash type="sha256">2b96f6c9cf6d4d2f08a05c72540775fc43425f28161f6a87dbbb6ed6c4509924</hash>
+			<size>9745192</size>
+			<sdkver>23</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2025-07-28</added>
+			<sig>5240e2ad5320f9481d29b0440f5bfeda</sig>
+			<permissions>ACCESS_NETWORK_STATE,AUTHENTICATE_ACCOUNTS,CHANGE_DEVICE_IDLE_TEMP_WHITELIST,FOREGROUND_SERVICE,GET_ACCOUNTS,INTERNET,MANAGE_ACCOUNTS,READ_EXTERNAL_STORAGE,READ_SYNC_SETTINGS,READ_SYNC_STATS,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,UPDATE_APP_OPS_STATS,USE_CREDENTIALS,USE_EXACT_ALARM,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,app.revanced.android.c2dm.permission.RECEIVE,app.revanced.android.c2dm.permission.SEND,app.revanced.android.gms.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,app.revanced.android.gtalkservice.permission.GTALK_SERVICE,org.microg.gms.STATUS_BROADCAST</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+	</application>
+	<application id="com.mgoogle.android.gms">
+		<id>com.mgoogle.android.gms</id>
+		<added>2025-07-28</added>
+		<lastupdated>2025-07-28</lastupdated>
+		<name>MicroG-RE</name>
+		<summary>GmsCore fork for ReVanced with Material You, features and improvements</summary>
+		<desc>GmsCore From WSTxda For Revanced (NON-ROOT) APPS
+</desc>
+		<license>Apache-2.0</license>
+		<categories>System</categories>
+		<category>System</category>
+		<web></web>
+		<source>https://github.com/WSTxda/MicroG-RE</source>
+		<tracker></tracker>
+		<author>WSTxda</author>
+		<marketversion>5.2 GMS-240856</marketversion>
+		<marketvercode>240856000</marketvercode>
+		<package>
+			<version>5.2 GMS-240856</version>
+			<versioncode>240856000</versioncode>
+			<apkname>microgre_5.2.apk</apkname>
+			<hash type="sha256">167c4e163518cdbb6ea527b2c1986ef9ad445ba28cf79e41cec53a3813287e8e</hash>
+			<size>9745079</size>
+			<sdkver>23</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2025-07-28</added>
+			<sig>5240e2ad5320f9481d29b0440f5bfeda</sig>
+			<permissions>ACCESS_NETWORK_STATE,AUTHENTICATE_ACCOUNTS,CHANGE_DEVICE_IDLE_TEMP_WHITELIST,FOREGROUND_SERVICE,GET_ACCOUNTS,INTERNET,MANAGE_ACCOUNTS,READ_EXTERNAL_STORAGE,READ_SYNC_SETTINGS,READ_SYNC_STATS,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,UPDATE_APP_OPS_STATS,USE_CREDENTIALS,USE_EXACT_ALARM,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,com.mgoogle.android.c2dm.permission.RECEIVE,com.mgoogle.android.c2dm.permission.SEND,com.mgoogle.android.gms.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,com.mgoogle.android.gtalkservice.permission.GTALK_SERVICE,org.microg.gms.STATUS_BROADCAST</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+		<package>
+			<version>5.1 GMS-240812</version>
+			<versioncode>240812000</versioncode>
+			<apkname>microgre_5.1.apk</apkname>
+			<hash type="sha256">afb54cfc707f5bfec696ffeb3e48655ce9eac9a75ac9159bd1f328f54abf1ae1</hash>
+			<size>9740928</size>
+			<sdkver>23</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2025-07-28</added>
+			<sig>5240e2ad5320f9481d29b0440f5bfeda</sig>
+			<permissions>ACCESS_NETWORK_STATE,AUTHENTICATE_ACCOUNTS,CHANGE_DEVICE_IDLE_TEMP_WHITELIST,FOREGROUND_SERVICE,GET_ACCOUNTS,INTERNET,MANAGE_ACCOUNTS,READ_EXTERNAL_STORAGE,READ_SYNC_SETTINGS,READ_SYNC_STATS,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,UPDATE_APP_OPS_STATS,USE_CREDENTIALS,USE_EXACT_ALARM,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,com.mgoogle.android.c2dm.permission.RECEIVE,com.mgoogle.android.c2dm.permission.SEND,com.mgoogle.android.gms.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,com.mgoogle.android.gtalkservice.permission.GTALK_SERVICE,org.microg.gms.STATUS_BROADCAST</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+		<package>
+			<version>5.0 GMS-240515</version>
+			<versioncode>240515000</versioncode>
+			<apkname>microgre_5.0.apk</apkname>
+			<hash type="sha256">4739e047da22b01d08ff438eff3dfd1e3ef6a291eafddd9ac66c9bd7aa036d1b</hash>
+			<size>9379797</size>
+			<sdkver>23</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2025-07-28</added>
+			<sig>5240e2ad5320f9481d29b0440f5bfeda</sig>
+			<permissions>ACCESS_NETWORK_STATE,AUTHENTICATE_ACCOUNTS,CHANGE_DEVICE_IDLE_TEMP_WHITELIST,FOREGROUND_SERVICE,GET_ACCOUNTS,INTERNET,MANAGE_ACCOUNTS,READ_EXTERNAL_STORAGE,READ_SYNC_SETTINGS,READ_SYNC_STATS,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,UPDATE_APP_OPS_STATS,USE_CREDENTIALS,USE_EXACT_ALARM,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,com.mgoogle.android.c2dm.permission.RECEIVE,com.mgoogle.android.c2dm.permission.SEND,com.mgoogle.android.gms.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,com.mgoogle.android.gtalkservice.permission.GTALK_SERVICE,org.microg.gms.STATUS_BROADCAST</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+		<package>
+			<version>4.7 GMS-240255</version>
+			<versioncode>240255000</versioncode>
+			<apkname>microgre_4.7.apk</apkname>
+			<hash type="sha256">85a9498506f81320fddc755d51936f0d29822032fa7de5f13415beb76bb0be04</hash>
+			<size>9921052</size>
+			<sdkver>23</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2025-07-28</added>
+			<sig>5240e2ad5320f9481d29b0440f5bfeda</sig>
+			<permissions>ACCESS_NETWORK_STATE,AUTHENTICATE_ACCOUNTS,CHANGE_DEVICE_IDLE_TEMP_WHITELIST,FOREGROUND_SERVICE,GET_ACCOUNTS,INTERNET,MANAGE_ACCOUNTS,READ_EXTERNAL_STORAGE,READ_SYNC_SETTINGS,READ_SYNC_STATS,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,UPDATE_APP_OPS_STATS,USE_CREDENTIALS,USE_EXACT_ALARM,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,com.mgoogle.android.c2dm.permission.RECEIVE,com.mgoogle.android.c2dm.permission.SEND,com.mgoogle.android.gms.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,com.mgoogle.android.gtalkservice.permission.GTALK_SERVICE,org.microg.gms.STATUS_BROADCAST</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+		<package>
+			<version>4.6 GMS-240213</version>
+			<versioncode>240213000</versioncode>
+			<apkname>microgre_4.6.apk</apkname>
+			<hash type="sha256">84bf3d49afd9136a523cada309b28bf244da8c2a4a50fa5f24a8d125ba60caae</hash>
+			<size>9929244</size>
+			<sdkver>23</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2025-07-28</added>
+			<sig>5240e2ad5320f9481d29b0440f5bfeda</sig>
+			<permissions>ACCESS_NETWORK_STATE,AUTHENTICATE_ACCOUNTS,CHANGE_DEVICE_IDLE_TEMP_WHITELIST,FOREGROUND_SERVICE,GET_ACCOUNTS,INTERNET,MANAGE_ACCOUNTS,READ_EXTERNAL_STORAGE,READ_SYNC_SETTINGS,READ_SYNC_STATS,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,SCHEDULE_EXACT_ALARM,UPDATE_APP_OPS_STATS,USE_CREDENTIALS,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,com.mgoogle.android.c2dm.permission.RECEIVE,com.mgoogle.android.c2dm.permission.SEND,com.mgoogle.android.gms.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,com.mgoogle.android.gtalkservice.permission.GTALK_SERVICE,org.microg.gms.STATUS_BROADCAST</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+		<package>
+			<version>4.4 GMS.235014</version>
+			<versioncode>235014000</versioncode>
+			<apkname>microgre_4.4.apk</apkname>
+			<hash type="sha256">fb00ad2d3e3d7c50a31378d06b930c71430849879c2f3eea7bef89d8e82a77b5</hash>
+			<size>9347107</size>
+			<sdkver>23</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2025-07-28</added>
+			<sig>5240e2ad5320f9481d29b0440f5bfeda</sig>
+			<permissions>ACCESS_NETWORK_STATE,AUTHENTICATE_ACCOUNTS,CHANGE_DEVICE_IDLE_TEMP_WHITELIST,FOREGROUND_SERVICE,GET_ACCOUNTS,INTERNET,MANAGE_ACCOUNTS,READ_EXTERNAL_STORAGE,READ_SYNC_SETTINGS,READ_SYNC_STATS,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,UPDATE_APP_OPS_STATS,USE_CREDENTIALS,USE_EXACT_ALARM,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,com.mgoogle.android.c2dm.permission.RECEIVE,com.mgoogle.android.c2dm.permission.SEND,com.mgoogle.android.gms.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,com.mgoogle.android.gtalkservice.permission.GTALK_SERVICE,org.microg.gms.STATUS_BROADCAST</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+		<package>
+			<version>4.3 GMS.234955</version>
+			<versioncode>234955000</versioncode>
+			<apkname>microgre_4.3.apk</apkname>
+			<hash type="sha256">697d6f7c279e7ea3c5f6549b7362fcf3cec82d94a681dfe1692e7d16ecbaf88c</hash>
+			<size>9242354</size>
+			<sdkver>23</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2025-07-28</added>
+			<sig>5240e2ad5320f9481d29b0440f5bfeda</sig>
+			<permissions>ACCESS_NETWORK_STATE,AUTHENTICATE_ACCOUNTS,CHANGE_DEVICE_IDLE_TEMP_WHITELIST,FOREGROUND_SERVICE,GET_ACCOUNTS,INTERNET,MANAGE_ACCOUNTS,READ_EXTERNAL_STORAGE,READ_SYNC_SETTINGS,READ_SYNC_STATS,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,UPDATE_APP_OPS_STATS,USE_CREDENTIALS,USE_EXACT_ALARM,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,com.mgoogle.android.c2dm.permission.RECEIVE,com.mgoogle.android.c2dm.permission.SEND,com.mgoogle.android.gms.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,com.mgoogle.android.gtalkservice.permission.GTALK_SERVICE,org.microg.gms.STATUS_BROADCAST</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+		<package>
+			<version>4.2 GMS.234914</version>
+			<versioncode>234914000</versioncode>
+			<apkname>microgre_4.2.apk</apkname>
+			<hash type="sha256">fcf58c7a1f718f9ad2b7eb447abf6adcd9ec4a4549c230420349618df13c22a2</hash>
+			<size>9183938</size>
+			<sdkver>23</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2025-07-28</added>
+			<sig>5240e2ad5320f9481d29b0440f5bfeda</sig>
+			<permissions>ACCESS_NETWORK_STATE,AUTHENTICATE_ACCOUNTS,CHANGE_DEVICE_IDLE_TEMP_WHITELIST,FOREGROUND_SERVICE,GET_ACCOUNTS,INTERNET,MANAGE_ACCOUNTS,READ_EXTERNAL_STORAGE,READ_SYNC_SETTINGS,READ_SYNC_STATS,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,UPDATE_APP_OPS_STATS,USE_CREDENTIALS,USE_EXACT_ALARM,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,com.mgoogle.android.c2dm.permission.RECEIVE,com.mgoogle.android.c2dm.permission.SEND,com.mgoogle.android.gms.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,com.mgoogle.android.gtalkservice.permission.GTALK_SERVICE,org.microg.gms.STATUS_BROADCAST</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+		<package>
+			<version>4.1 GMS.234523</version>
+			<versioncode>234523000</versioncode>
+			<apkname>microgre_4.1.apk</apkname>
+			<hash type="sha256">1ad3a02a085aaf05e20e9ced847d6052743d8567a14ceaae0b8ed533dd318638</hash>
+			<size>10909642</size>
+			<sdkver>23</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2025-07-28</added>
+			<sig>5240e2ad5320f9481d29b0440f5bfeda</sig>
+			<permissions>ACCESS_NETWORK_STATE,AUTHENTICATE_ACCOUNTS,CHANGE_DEVICE_IDLE_TEMP_WHITELIST,FOREGROUND_SERVICE,GET_ACCOUNTS,INTERNET,MANAGE_ACCOUNTS,READ_EXTERNAL_STORAGE,READ_SYNC_SETTINGS,READ_SYNC_STATS,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,UPDATE_APP_OPS_STATS,USE_CREDENTIALS,USE_EXACT_ALARM,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,com.mgoogle.android.c2dm.permission.RECEIVE,com.mgoogle.android.c2dm.permission.SEND,com.mgoogle.android.gms.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,com.mgoogle.android.gtalkservice.permission.GTALK_SERVICE,org.microg.gms.STATUS_BROADCAST</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+		<package>
+			<version>4.0 GMS.234522</version>
+			<versioncode>234522000</versioncode>
+			<apkname>microgre_4.0.apk</apkname>
+			<hash type="sha256">0e0375d8a3826e564c5c3abbaa7e0fb829220ff889d683cdef5fb5817cb01461</hash>
+			<size>9167723</size>
+			<sdkver>23</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2025-07-28</added>
+			<sig>5240e2ad5320f9481d29b0440f5bfeda</sig>
+			<permissions>ACCESS_NETWORK_STATE,AUTHENTICATE_ACCOUNTS,CHANGE_DEVICE_IDLE_TEMP_WHITELIST,FOREGROUND_SERVICE,GET_ACCOUNTS,INTERNET,MANAGE_ACCOUNTS,READ_EXTERNAL_STORAGE,READ_SYNC_SETTINGS,READ_SYNC_STATS,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,UPDATE_APP_OPS_STATS,USE_CREDENTIALS,USE_EXACT_ALARM,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,com.mgoogle.android.c2dm.permission.RECEIVE,com.mgoogle.android.c2dm.permission.SEND,com.mgoogle.android.gms.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,com.mgoogle.android.gtalkservice.permission.GTALK_SERVICE,org.microg.gms.STATUS_BROADCAST</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
 		</package>
 	</application>
 	<application id="nekox.messenger.broken">

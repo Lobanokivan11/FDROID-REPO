@@ -1,0 +1,21 @@
+- Bump GMS version to `25.14.62`
+- Redesign login screen:
+  - Added support for tablet proportion
+  - Introduced material shared axis animation for opening/closing the login screen
+  - Use Material3Expressive for components
+- Switched to `Material3Expressive` themes and styles
+- Fixed Google Photos spoof package support (#57)
+- Fixed when the icon visibility is disabled, the battery optimization options are hidden in `HyperOS 2 Android 15`. also fix (#67)
+- Fixed foreground service notification intent
+- No disable check update button on verification
+- Disable scrollbars in settings preferences
+- Update included libraries list in about
+- Update preference dialogs design
+- Update theme colors
+- Update Gradle and dependencies
+- Added Turkish translation by @mikropsoft
+- Added Vietnamese translation by @chemchetchagio
+- Various other improvements
+- Small changes
+
+**Full Changelog**: https://github.com/WSTxda/MicroG-RE/compare/5.10...5.11

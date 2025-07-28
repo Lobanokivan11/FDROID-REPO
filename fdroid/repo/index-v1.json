@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1753691324000,
+    "timestamp": 1753696414000,
     "version": 20002,
     "name": "Lobanokivan11's F-Droid Repo",
     "icon": "icon.png",
@@ -52,6 +52,48 @@
       "localized": {
         "en-US": {
           "whatsNew": "<!-- Release notes generated using configuration in .github/release.yml at trunk -->\n\n\n\n**Full Changelog**: https://github.com/Goooler/LawnchairRelease/compare/15.0.0-20250218...15.0.0-20250226"
+        }
+      }
+    },
+    {
+      "authorName": "WSTxda",
+      "categories": [
+        "System"
+      ],
+      "suggestedVersionName": "5.11 GMS-25.14.62",
+      "suggestedVersionCode": "251462000",
+      "description": "GmsCore From WSTxda For Revanced (NON-ROOT) APPS\n",
+      "license": "Apache-2.0",
+      "name": "MicroG-RE",
+      "sourceCode": "https://github.com/WSTxda/MicroG-RE",
+      "summary": "GmsCore fork for ReVanced with Material You, features and improvements",
+      "added": 1753696270000,
+      "packageName": "app.revanced.android.gms",
+      "lastUpdated": 1753696276000,
+      "localized": {
+        "en-US": {
+          "whatsNew": "- Bump GMS version to `25.14.62`\n- Redesign login screen:\n  - Added support for tablet proportion\n  - Introduced material shared axis animation for opening/closing the login screen\n  - Use Material3Expressive for components\n- Switched to `Material3Expressive` themes and styles\n- Fixed Google Photos spoof package support (#57)\n- Fixed when the icon visibility is disabled, the battery optimization options are hidden in `HyperOS 2 Android 15`. also fix (#67)\n- Fixed foreground service notification "
+        }
+      }
+    },
+    {
+      "authorName": "WSTxda",
+      "categories": [
+        "System"
+      ],
+      "suggestedVersionName": "5.2 GMS-240856",
+      "suggestedVersionCode": "240856000",
+      "description": "GmsCore From WSTxda For Revanced (NON-ROOT) APPS\n",
+      "license": "Apache-2.0",
+      "name": "MicroG-RE",
+      "sourceCode": "https://github.com/WSTxda/MicroG-RE",
+      "summary": "GmsCore fork for ReVanced with Material You, features and improvements",
+      "added": 1753696263000,
+      "packageName": "com.mgoogle.android.gms",
+      "lastUpdated": 1753696272000,
+      "localized": {
+        "en-US": {
+          "whatsNew": "## MicroG RE\n\n- Added Anddea package detection\n- Added rufusin package detection\n- Remove self-check preference in settings\n- Improvement switch bar color state\n- Somes design, typo refactor\n\n## GmsCore\n\n- Auth: Make account visible after creation when configured to do so (microg#2235)\n- Auth: Return result from login activity (microg#2227)\n- Fake signature: Add additional packages\n- Self-Check: Adjust to better cover most signature spoofing scenarios\n- Correctly handle optional spaces at the st"
         }
       }
     },
@@ -23298,6 +23340,2030 @@
         ],
         "versionCode": 12010005,
         "versionName": "12.1.0 (f960dfe)"
+      }
+    ],
+    "app.revanced.android.gms": [
+      {
+        "added": 1753696271000,
+        "apkName": "microgre_5.11.apk",
+        "hash": "9633940cd16d51c2854cbcd7b4dfe97fd3e125f92c8c1071cbaa10f43f3cf6de",
+        "hashType": "sha256",
+        "minSdkVersion": 24,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "app.revanced.android.gms",
+        "sig": "5240e2ad5320f9481d29b0440f5bfeda",
+        "signer": "756f92c44ea9bf34d1c7f92425f40c88996854b5e72fac733650a9c41363d019",
+        "size": 12378239,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.USE_EXACT_ALARM",
+            null
+          ],
+          [
+            "android.permission.AUTHENTICATE_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.GET_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.MANAGE_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.USE_CREDENTIALS",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.READ_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.WRITE_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.READ_SYNC_STATS",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "app.revanced.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "app.revanced.android.c2dm.permission.SEND",
+            null
+          ],
+          [
+            "app.revanced.android.gtalkservice.permission.GTALK_SERVICE",
+            null
+          ],
+          [
+            "app.revanced.microg.gms.STATUS_BROADCAST",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.CHANGE_DEVICE_IDLE_TEMP_WHITELIST",
+            null
+          ],
+          [
+            "android.permission.UPDATE_APP_OPS_STATS",
+            null
+          ],
+          [
+            "app.revanced.android.gms.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 251462000,
+        "versionName": "5.11 GMS-25.14.62"
+      },
+      {
+        "added": 1753696270000,
+        "apkName": "microgre_5.10.apk",
+        "hash": "a19a333b003f11784d8a5fc825fb627d87acfc81bd447ba994de8261fd6d37f4",
+        "hashType": "sha256",
+        "minSdkVersion": 24,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "app.revanced.android.gms",
+        "sig": "5240e2ad5320f9481d29b0440f5bfeda",
+        "signer": "756f92c44ea9bf34d1c7f92425f40c88996854b5e72fac733650a9c41363d019",
+        "size": 11845083,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.USE_EXACT_ALARM",
+            null
+          ],
+          [
+            "android.permission.AUTHENTICATE_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.GET_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.MANAGE_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.USE_CREDENTIALS",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.READ_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.WRITE_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.READ_SYNC_STATS",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "app.revanced.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "app.revanced.android.c2dm.permission.SEND",
+            null
+          ],
+          [
+            "app.revanced.android.gtalkservice.permission.GTALK_SERVICE",
+            null
+          ],
+          [
+            "app.revanced.microg.gms.STATUS_BROADCAST",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.CHANGE_DEVICE_IDLE_TEMP_WHITELIST",
+            null
+          ],
+          [
+            "android.permission.UPDATE_APP_OPS_STATS",
+            null
+          ],
+          [
+            "app.revanced.android.gms.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 244738000,
+        "versionName": "5.10 GMS-24.47.38"
+      },
+      {
+        "added": 1753696276000,
+        "apkName": "microgre_5.9.apk",
+        "hash": "3096958faeb9437ff5e5dded45506499d8e0e3e5f07856728bd96f6099265e38",
+        "hashType": "sha256",
+        "minSdkVersion": 24,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a"
+        ],
+        "packageName": "app.revanced.android.gms",
+        "sig": "5240e2ad5320f9481d29b0440f5bfeda",
+        "signer": "756f92c44ea9bf34d1c7f92425f40c88996854b5e72fac733650a9c41363d019",
+        "size": 9677523,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.USE_EXACT_ALARM",
+            null
+          ],
+          [
+            "android.permission.AUTHENTICATE_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.GET_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.MANAGE_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.USE_CREDENTIALS",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.READ_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.WRITE_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.READ_SYNC_STATS",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "app.revanced.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "app.revanced.android.c2dm.permission.SEND",
+            null
+          ],
+          [
+            "app.revanced.android.gtalkservice.permission.GTALK_SERVICE",
+            null
+          ],
+          [
+            "app.revanced.microg.gms.STATUS_BROADCAST",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.CHANGE_DEVICE_IDLE_TEMP_WHITELIST",
+            null
+          ],
+          [
+            "android.permission.UPDATE_APP_OPS_STATS",
+            null
+          ],
+          [
+            "app.revanced.android.gms.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 243864000,
+        "versionName": "5.9 GMS-243864"
+      },
+      {
+        "added": 1753696276000,
+        "apkName": "microgre_5.8.apk",
+        "hash": "ff9d5a1496f450aa448252be06164029064700e98b60237d7a598e54b7876f9d",
+        "hashType": "sha256",
+        "minSdkVersion": 24,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a"
+        ],
+        "packageName": "app.revanced.android.gms",
+        "sig": "5240e2ad5320f9481d29b0440f5bfeda",
+        "signer": "756f92c44ea9bf34d1c7f92425f40c88996854b5e72fac733650a9c41363d019",
+        "size": 9652947,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.USE_EXACT_ALARM",
+            null
+          ],
+          [
+            "android.permission.AUTHENTICATE_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.GET_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.MANAGE_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.USE_CREDENTIALS",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.READ_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.WRITE_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.READ_SYNC_STATS",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "app.revanced.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "app.revanced.android.c2dm.permission.SEND",
+            null
+          ],
+          [
+            "app.revanced.android.gtalkservice.permission.GTALK_SERVICE",
+            null
+          ],
+          [
+            "app.revanced.microg.gms.STATUS_BROADCAST",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.CHANGE_DEVICE_IDLE_TEMP_WHITELIST",
+            null
+          ],
+          [
+            "android.permission.UPDATE_APP_OPS_STATS",
+            null
+          ],
+          [
+            "app.revanced.android.gms.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 243136000,
+        "versionName": "5.8 GMS-243136"
+      },
+      {
+        "added": 1753696275000,
+        "apkName": "microgre_5.6.apk",
+        "hash": "eeb14dc7f59b83262ad62aad99c815e420f3720731304d607d40d894a7e1423d",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a"
+        ],
+        "packageName": "app.revanced.android.gms",
+        "sig": "5240e2ad5320f9481d29b0440f5bfeda",
+        "signer": "756f92c44ea9bf34d1c7f92425f40c88996854b5e72fac733650a9c41363d019",
+        "size": 9827680,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.USE_EXACT_ALARM",
+            null
+          ],
+          [
+            "android.permission.AUTHENTICATE_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.GET_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.MANAGE_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.USE_CREDENTIALS",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.READ_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.WRITE_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.READ_SYNC_STATS",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "app.revanced.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "app.revanced.android.c2dm.permission.SEND",
+            null
+          ],
+          [
+            "app.revanced.android.gtalkservice.permission.GTALK_SERVICE",
+            null
+          ],
+          [
+            "app.revanced.microg.gms.STATUS_BROADCAST",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.CHANGE_DEVICE_IDLE_TEMP_WHITELIST",
+            null
+          ],
+          [
+            "android.permission.UPDATE_APP_OPS_STATS",
+            null
+          ],
+          [
+            "app.revanced.android.gms.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 242662000,
+        "versionName": "5.6 GMS-242662"
+      },
+      {
+        "added": 1753696274000,
+        "apkName": "microgre_5.5.apk",
+        "hash": "64cdebeac5299d32a8ce493155ce4916a3612184f0deade9c44dd7768a8f634f",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a"
+        ],
+        "packageName": "app.revanced.android.gms",
+        "sig": "5240e2ad5320f9481d29b0440f5bfeda",
+        "signer": "756f92c44ea9bf34d1c7f92425f40c88996854b5e72fac733650a9c41363d019",
+        "size": 9827680,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.USE_EXACT_ALARM",
+            null
+          ],
+          [
+            "android.permission.AUTHENTICATE_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.GET_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.MANAGE_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.USE_CREDENTIALS",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.READ_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.WRITE_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.READ_SYNC_STATS",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "app.revanced.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "app.revanced.android.c2dm.permission.SEND",
+            null
+          ],
+          [
+            "app.revanced.android.gtalkservice.permission.GTALK_SERVICE",
+            null
+          ],
+          [
+            "app.revanced.microg.gms.STATUS_BROADCAST",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.CHANGE_DEVICE_IDLE_TEMP_WHITELIST",
+            null
+          ],
+          [
+            "android.permission.UPDATE_APP_OPS_STATS",
+            null
+          ],
+          [
+            "app.revanced.android.gms.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 242632000,
+        "versionName": "5.5 GMS-242632"
+      },
+      {
+        "added": 1753696273000,
+        "apkName": "microgre_5.3.apk",
+        "hash": "2b96f6c9cf6d4d2f08a05c72540775fc43425f28161f6a87dbbb6ed6c4509924",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a"
+        ],
+        "packageName": "app.revanced.android.gms",
+        "sig": "5240e2ad5320f9481d29b0440f5bfeda",
+        "signer": "756f92c44ea9bf34d1c7f92425f40c88996854b5e72fac733650a9c41363d019",
+        "size": 9745192,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.USE_EXACT_ALARM",
+            null
+          ],
+          [
+            "android.permission.AUTHENTICATE_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.GET_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.MANAGE_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.USE_CREDENTIALS",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.READ_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.WRITE_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.READ_SYNC_STATS",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "app.revanced.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "app.revanced.android.c2dm.permission.SEND",
+            null
+          ],
+          [
+            "app.revanced.android.gtalkservice.permission.GTALK_SERVICE",
+            null
+          ],
+          [
+            "org.microg.gms.STATUS_BROADCAST",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.CHANGE_DEVICE_IDLE_TEMP_WHITELIST",
+            null
+          ],
+          [
+            "android.permission.UPDATE_APP_OPS_STATS",
+            null
+          ],
+          [
+            "app.revanced.android.gms.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 240914000,
+        "versionName": "5.3 GMS-240914"
+      }
+    ],
+    "com.mgoogle.android.gms": [
+      {
+        "added": 1753696272000,
+        "apkName": "microgre_5.2.apk",
+        "hash": "167c4e163518cdbb6ea527b2c1986ef9ad445ba28cf79e41cec53a3813287e8e",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a"
+        ],
+        "packageName": "com.mgoogle.android.gms",
+        "sig": "5240e2ad5320f9481d29b0440f5bfeda",
+        "signer": "756f92c44ea9bf34d1c7f92425f40c88996854b5e72fac733650a9c41363d019",
+        "size": 9745079,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.USE_EXACT_ALARM",
+            null
+          ],
+          [
+            "android.permission.AUTHENTICATE_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.GET_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.MANAGE_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.USE_CREDENTIALS",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.READ_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.WRITE_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.READ_SYNC_STATS",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "com.mgoogle.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "com.mgoogle.android.c2dm.permission.SEND",
+            null
+          ],
+          [
+            "com.mgoogle.android.gtalkservice.permission.GTALK_SERVICE",
+            null
+          ],
+          [
+            "org.microg.gms.STATUS_BROADCAST",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.CHANGE_DEVICE_IDLE_TEMP_WHITELIST",
+            null
+          ],
+          [
+            "android.permission.UPDATE_APP_OPS_STATS",
+            null
+          ],
+          [
+            "com.mgoogle.android.gms.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 240856000,
+        "versionName": "5.2 GMS-240856"
+      },
+      {
+        "added": 1753696270000,
+        "apkName": "microgre_5.1.apk",
+        "hash": "afb54cfc707f5bfec696ffeb3e48655ce9eac9a75ac9159bd1f328f54abf1ae1",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a"
+        ],
+        "packageName": "com.mgoogle.android.gms",
+        "sig": "5240e2ad5320f9481d29b0440f5bfeda",
+        "signer": "756f92c44ea9bf34d1c7f92425f40c88996854b5e72fac733650a9c41363d019",
+        "size": 9740928,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.USE_EXACT_ALARM",
+            null
+          ],
+          [
+            "android.permission.AUTHENTICATE_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.GET_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.MANAGE_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.USE_CREDENTIALS",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.READ_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.WRITE_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.READ_SYNC_STATS",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "com.mgoogle.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "com.mgoogle.android.c2dm.permission.SEND",
+            null
+          ],
+          [
+            "com.mgoogle.android.gtalkservice.permission.GTALK_SERVICE",
+            null
+          ],
+          [
+            "org.microg.gms.STATUS_BROADCAST",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.CHANGE_DEVICE_IDLE_TEMP_WHITELIST",
+            null
+          ],
+          [
+            "android.permission.UPDATE_APP_OPS_STATS",
+            null
+          ],
+          [
+            "com.mgoogle.android.gms.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 240812000,
+        "versionName": "5.1 GMS-240812"
+      },
+      {
+        "added": 1753696269000,
+        "apkName": "microgre_5.0.apk",
+        "hash": "4739e047da22b01d08ff438eff3dfd1e3ef6a291eafddd9ac66c9bd7aa036d1b",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a"
+        ],
+        "packageName": "com.mgoogle.android.gms",
+        "sig": "5240e2ad5320f9481d29b0440f5bfeda",
+        "signer": "756f92c44ea9bf34d1c7f92425f40c88996854b5e72fac733650a9c41363d019",
+        "size": 9379797,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.USE_EXACT_ALARM",
+            null
+          ],
+          [
+            "android.permission.AUTHENTICATE_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.GET_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.MANAGE_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.USE_CREDENTIALS",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.READ_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.WRITE_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.READ_SYNC_STATS",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "com.mgoogle.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "com.mgoogle.android.c2dm.permission.SEND",
+            null
+          ],
+          [
+            "com.mgoogle.android.gtalkservice.permission.GTALK_SERVICE",
+            null
+          ],
+          [
+            "org.microg.gms.STATUS_BROADCAST",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.CHANGE_DEVICE_IDLE_TEMP_WHITELIST",
+            null
+          ],
+          [
+            "android.permission.UPDATE_APP_OPS_STATS",
+            null
+          ],
+          [
+            "com.mgoogle.android.gms.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 240515000,
+        "versionName": "5.0 GMS-240515"
+      },
+      {
+        "added": 1753696268000,
+        "apkName": "microgre_4.7.apk",
+        "hash": "85a9498506f81320fddc755d51936f0d29822032fa7de5f13415beb76bb0be04",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a"
+        ],
+        "packageName": "com.mgoogle.android.gms",
+        "sig": "5240e2ad5320f9481d29b0440f5bfeda",
+        "signer": "756f92c44ea9bf34d1c7f92425f40c88996854b5e72fac733650a9c41363d019",
+        "size": 9921052,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.USE_EXACT_ALARM",
+            null
+          ],
+          [
+            "android.permission.AUTHENTICATE_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.GET_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.MANAGE_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.USE_CREDENTIALS",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.READ_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.WRITE_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.READ_SYNC_STATS",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "com.mgoogle.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "com.mgoogle.android.c2dm.permission.SEND",
+            null
+          ],
+          [
+            "com.mgoogle.android.gtalkservice.permission.GTALK_SERVICE",
+            null
+          ],
+          [
+            "org.microg.gms.STATUS_BROADCAST",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.CHANGE_DEVICE_IDLE_TEMP_WHITELIST",
+            null
+          ],
+          [
+            "android.permission.UPDATE_APP_OPS_STATS",
+            null
+          ],
+          [
+            "com.mgoogle.android.gms.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 240255000,
+        "versionName": "4.7 GMS-240255"
+      },
+      {
+        "added": 1753696267000,
+        "apkName": "microgre_4.6.apk",
+        "hash": "84bf3d49afd9136a523cada309b28bf244da8c2a4a50fa5f24a8d125ba60caae",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a"
+        ],
+        "packageName": "com.mgoogle.android.gms",
+        "sig": "5240e2ad5320f9481d29b0440f5bfeda",
+        "signer": "756f92c44ea9bf34d1c7f92425f40c88996854b5e72fac733650a9c41363d019",
+        "size": 9929244,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.SCHEDULE_EXACT_ALARM",
+            null
+          ],
+          [
+            "android.permission.AUTHENTICATE_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.GET_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.MANAGE_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.USE_CREDENTIALS",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.READ_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.WRITE_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.READ_SYNC_STATS",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "com.mgoogle.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "com.mgoogle.android.c2dm.permission.SEND",
+            null
+          ],
+          [
+            "com.mgoogle.android.gtalkservice.permission.GTALK_SERVICE",
+            null
+          ],
+          [
+            "org.microg.gms.STATUS_BROADCAST",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.CHANGE_DEVICE_IDLE_TEMP_WHITELIST",
+            null
+          ],
+          [
+            "android.permission.UPDATE_APP_OPS_STATS",
+            null
+          ],
+          [
+            "com.mgoogle.android.gms.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 240213000,
+        "versionName": "4.6 GMS-240213"
+      },
+      {
+        "added": 1753696266000,
+        "apkName": "microgre_4.4.apk",
+        "hash": "fb00ad2d3e3d7c50a31378d06b930c71430849879c2f3eea7bef89d8e82a77b5",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a"
+        ],
+        "packageName": "com.mgoogle.android.gms",
+        "sig": "5240e2ad5320f9481d29b0440f5bfeda",
+        "signer": "756f92c44ea9bf34d1c7f92425f40c88996854b5e72fac733650a9c41363d019",
+        "size": 9347107,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.USE_EXACT_ALARM",
+            null
+          ],
+          [
+            "android.permission.AUTHENTICATE_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.GET_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.MANAGE_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.USE_CREDENTIALS",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.READ_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.WRITE_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.READ_SYNC_STATS",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "com.mgoogle.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "com.mgoogle.android.c2dm.permission.SEND",
+            null
+          ],
+          [
+            "com.mgoogle.android.gtalkservice.permission.GTALK_SERVICE",
+            null
+          ],
+          [
+            "org.microg.gms.STATUS_BROADCAST",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.CHANGE_DEVICE_IDLE_TEMP_WHITELIST",
+            null
+          ],
+          [
+            "android.permission.UPDATE_APP_OPS_STATS",
+            null
+          ],
+          [
+            "com.mgoogle.android.gms.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 235014000,
+        "versionName": "4.4 GMS.235014"
+      },
+      {
+        "added": 1753696267000,
+        "apkName": "microgre_4.5.apk",
+        "hash": "62f5623639b437fc856edcb003a7fdf9df654f09de376c7c3f8ee5f0e43247d5",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a"
+        ],
+        "packageName": "com.mgoogle.android.gms",
+        "sig": "5240e2ad5320f9481d29b0440f5bfeda",
+        "signer": "756f92c44ea9bf34d1c7f92425f40c88996854b5e72fac733650a9c41363d019",
+        "size": 9347107,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.USE_EXACT_ALARM",
+            null
+          ],
+          [
+            "android.permission.AUTHENTICATE_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.GET_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.MANAGE_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.USE_CREDENTIALS",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.READ_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.WRITE_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.READ_SYNC_STATS",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "com.mgoogle.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "com.mgoogle.android.c2dm.permission.SEND",
+            null
+          ],
+          [
+            "com.mgoogle.android.gtalkservice.permission.GTALK_SERVICE",
+            null
+          ],
+          [
+            "org.microg.gms.STATUS_BROADCAST",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.CHANGE_DEVICE_IDLE_TEMP_WHITELIST",
+            null
+          ],
+          [
+            "android.permission.UPDATE_APP_OPS_STATS",
+            null
+          ],
+          [
+            "com.mgoogle.android.gms.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 235014000,
+        "versionName": "4.5 GMS.235014"
+      },
+      {
+        "added": 1753696265000,
+        "apkName": "microgre_4.3.apk",
+        "hash": "697d6f7c279e7ea3c5f6549b7362fcf3cec82d94a681dfe1692e7d16ecbaf88c",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a"
+        ],
+        "packageName": "com.mgoogle.android.gms",
+        "sig": "5240e2ad5320f9481d29b0440f5bfeda",
+        "signer": "756f92c44ea9bf34d1c7f92425f40c88996854b5e72fac733650a9c41363d019",
+        "size": 9242354,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.USE_EXACT_ALARM",
+            null
+          ],
+          [
+            "android.permission.AUTHENTICATE_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.GET_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.MANAGE_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.USE_CREDENTIALS",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.READ_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.WRITE_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.READ_SYNC_STATS",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "com.mgoogle.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "com.mgoogle.android.c2dm.permission.SEND",
+            null
+          ],
+          [
+            "com.mgoogle.android.gtalkservice.permission.GTALK_SERVICE",
+            null
+          ],
+          [
+            "org.microg.gms.STATUS_BROADCAST",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.CHANGE_DEVICE_IDLE_TEMP_WHITELIST",
+            null
+          ],
+          [
+            "android.permission.UPDATE_APP_OPS_STATS",
+            null
+          ],
+          [
+            "com.mgoogle.android.gms.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 234955000,
+        "versionName": "4.3 GMS.234955"
+      },
+      {
+        "added": 1753696264000,
+        "apkName": "microgre_4.2.apk",
+        "hash": "fcf58c7a1f718f9ad2b7eb447abf6adcd9ec4a4549c230420349618df13c22a2",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a"
+        ],
+        "packageName": "com.mgoogle.android.gms",
+        "sig": "5240e2ad5320f9481d29b0440f5bfeda",
+        "signer": "756f92c44ea9bf34d1c7f92425f40c88996854b5e72fac733650a9c41363d019",
+        "size": 9183938,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.USE_EXACT_ALARM",
+            null
+          ],
+          [
+            "android.permission.AUTHENTICATE_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.GET_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.MANAGE_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.USE_CREDENTIALS",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.READ_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.WRITE_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.READ_SYNC_STATS",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "com.mgoogle.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "com.mgoogle.android.c2dm.permission.SEND",
+            null
+          ],
+          [
+            "com.mgoogle.android.gtalkservice.permission.GTALK_SERVICE",
+            null
+          ],
+          [
+            "org.microg.gms.STATUS_BROADCAST",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.CHANGE_DEVICE_IDLE_TEMP_WHITELIST",
+            null
+          ],
+          [
+            "android.permission.UPDATE_APP_OPS_STATS",
+            null
+          ],
+          [
+            "com.mgoogle.android.gms.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 234914000,
+        "versionName": "4.2 GMS.234914"
+      },
+      {
+        "added": 1753696264000,
+        "apkName": "microgre_4.1.apk",
+        "hash": "1ad3a02a085aaf05e20e9ced847d6052743d8567a14ceaae0b8ed533dd318638",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a"
+        ],
+        "packageName": "com.mgoogle.android.gms",
+        "sig": "5240e2ad5320f9481d29b0440f5bfeda",
+        "signer": "756f92c44ea9bf34d1c7f92425f40c88996854b5e72fac733650a9c41363d019",
+        "size": 10909642,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.USE_EXACT_ALARM",
+            null
+          ],
+          [
+            "android.permission.AUTHENTICATE_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.GET_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.MANAGE_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.USE_CREDENTIALS",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.READ_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.WRITE_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.READ_SYNC_STATS",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "com.mgoogle.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "com.mgoogle.android.c2dm.permission.SEND",
+            null
+          ],
+          [
+            "com.mgoogle.android.gtalkservice.permission.GTALK_SERVICE",
+            null
+          ],
+          [
+            "org.microg.gms.STATUS_BROADCAST",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.CHANGE_DEVICE_IDLE_TEMP_WHITELIST",
+            null
+          ],
+          [
+            "android.permission.UPDATE_APP_OPS_STATS",
+            null
+          ],
+          [
+            "com.mgoogle.android.gms.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 234523000,
+        "versionName": "4.1 GMS.234523"
+      },
+      {
+        "added": 1753696263000,
+        "apkName": "microgre_4.0.apk",
+        "hash": "0e0375d8a3826e564c5c3abbaa7e0fb829220ff889d683cdef5fb5817cb01461",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a"
+        ],
+        "packageName": "com.mgoogle.android.gms",
+        "sig": "5240e2ad5320f9481d29b0440f5bfeda",
+        "signer": "756f92c44ea9bf34d1c7f92425f40c88996854b5e72fac733650a9c41363d019",
+        "size": 9167723,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.USE_EXACT_ALARM",
+            null
+          ],
+          [
+            "android.permission.AUTHENTICATE_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.GET_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.MANAGE_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.USE_CREDENTIALS",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.READ_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.WRITE_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.READ_SYNC_STATS",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "com.mgoogle.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "com.mgoogle.android.c2dm.permission.SEND",
+            null
+          ],
+          [
+            "com.mgoogle.android.gtalkservice.permission.GTALK_SERVICE",
+            null
+          ],
+          [
+            "org.microg.gms.STATUS_BROADCAST",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.CHANGE_DEVICE_IDLE_TEMP_WHITELIST",
+            null
+          ],
+          [
+            "android.permission.UPDATE_APP_OPS_STATS",
+            null
+          ],
+          [
+            "com.mgoogle.android.gms.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 234522000,
+        "versionName": "4.0 GMS.234522"
       }
     ],
     "dev.materii.rushii.xspoofsignatures": [

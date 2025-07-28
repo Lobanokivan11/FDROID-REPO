@@ -1,0 +1,18 @@
+## MicroG RE
+
+- Added Anddea package detection
+- Added rufusin package detection
+- Remove self-check preference in settings
+- Improvement switch bar color state
+- Somes design, typo refactor
+
+## GmsCore
+
+- Auth: Make account visible after creation when configured to do so (microg#2235)
+- Auth: Return result from login activity (microg#2227)
+- Fake signature: Add additional packages
+- Self-Check: Adjust to better cover most signature spoofing scenarios
+- Correctly handle optional spaces at the start of the error message in the GitHub workflow (microg#2251)
+- Separate assemble and check on GitHub workflow
+
+**Full Changelog**: https://github.com/WSTxda/MicroG-RE/compare/5.1...5.2
