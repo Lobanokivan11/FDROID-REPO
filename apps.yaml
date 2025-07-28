@@ -105,15 +105,6 @@ xthemeengine:
     - Theming
     - System
     - Xposed
-substratum:
-  git: https://github.com/AndroidThemingRequiem/Substratum-apk
-  name: "Substratum"
-  description: |
-    Substratum - Advanced Theme Engine That Use OMS
-
-  categories: 
-    - Theming
-    - System
 microgre:
   git: https://github.com/WSTxda/MicroG-RE
   name: "MicroG-RE"
