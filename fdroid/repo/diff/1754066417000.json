@@ -1,0 +1,33 @@
+{
+  "repo": {
+    "timestamp": 1754066489000,
+    "categories": {
+      "fdroid": null,
+      "Games": {
+        "name": {
+          "en-US": "Games"
+        }
+      }
+    }
+  },
+  "packages": {
+    "com.playstation.psstore": {
+      "metadata": {
+        "categories": [
+          "Games"
+        ],
+        "sourceCode": "https://github.com/Lobanokivan11/NOPSSDRMAPK",
+        "authorName": "Lobanokivan11",
+        "name": {
+          "en-US": "NoPssDrm No-Root"
+        },
+        "summary": {
+          "en-US": "Prebuilt (NO-ROOT) NOPSSDRM PROJECT"
+        },
+        "description": {
+          "en-US": "NoPssDrm No-Root App\n"
+        }
+      }
+    }
+  }
+}
