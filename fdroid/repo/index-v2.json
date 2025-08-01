@@ -14,7 +14,7 @@
       }
     },
     "address": "https://raw.githubusercontent.com/Lobanokivan11/FDROID-REPO/refs/heads/main/fdroid/repo",
-    "timestamp": 1754062125000,
+    "timestamp": 1754063351000,
     "categories": {
       "Internet": {
         "name": {
@@ -27253,6 +27253,246 @@
               },
               {
                 "name": "substratum.psm.walls.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "substratum.revanced.theming": {
+      "metadata": {
+        "added": 1754063237000,
+        "categories": [
+          "Theming"
+        ],
+        "lastUpdated": 1754063237000,
+        "license": "Apache-2.0",
+        "sourceCode": "https://github.com/Lobanokivan11/REVANCED-SUBSTRATUM",
+        "authorName": "Lobanokivan11",
+        "name": {
+          "en-US": "Revanced SUBSTRATUM"
+        },
+        "description": {
+          "en-US": "Substratum Tweaks For ReVanced\n"
+        },
+        "icon": {
+          "en-US": {
+            "name": "/icons/substratum.revanced.theming.3.png",
+            "sha256": "f7285edbbae3a9957832a6512e5defbd545c0d868c6335554ab4155fe35a2dfd",
+            "size": 1213
+          }
+        },
+        "preferredSigner": "3faa5fd13cfc1104ff57730cea7010768848567c38baca16c4b3b33329253c0b"
+      },
+      "versions": {
+        "8a1c6150a058ef5447064b129446208ce7873de5532191898db1935a47558daf": {
+          "added": 1754063237000,
+          "file": {
+            "name": "/substratumrevanced_github_nightly_debug.apk",
+            "sha256": "8a1c6150a058ef5447064b129446208ce7873de5532191898db1935a47558daf",
+            "size": 4028163
+          },
+          "manifest": {
+            "versionName": "3.0",
+            "versionCode": 3,
+            "usesSdk": {
+              "minSdkVersion": 24,
+              "targetSdkVersion": 24
+            },
+            "signer": {
+              "sha256": [
+                "3faa5fd13cfc1104ff57730cea7010768848567c38baca16c4b3b33329253c0b"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "com.android.vending.CHECK_LICENSE"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "substratum.revanced.theming.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "substratum.theme.microgprofiles": {
+      "metadata": {
+        "added": 1754063236000,
+        "categories": [
+          "Theming"
+        ],
+        "lastUpdated": 1754063236000,
+        "license": "Apache-2.0",
+        "sourceCode": "https://github.com/Lobanokivan11/MICROG-PROFILES-SUBSTRATUM",
+        "authorName": "Lobanokivan11",
+        "name": {
+          "en-US": "Revanced SUBSTRATUM"
+        },
+        "description": {
+          "en-US": "Substratum Tweaks For MicroG's Profiles\n"
+        },
+        "icon": {
+          "en-US": {
+            "name": "/icons/substratum.theme.microgprofiles.3.png",
+            "sha256": "f7285edbbae3a9957832a6512e5defbd545c0d868c6335554ab4155fe35a2dfd",
+            "size": 1213
+          }
+        },
+        "preferredSigner": "75f3f23dd492d124533d29a262c76fe2c920ce3a11967902677447e73080a6e8"
+      },
+      "versions": {
+        "4f63f25d4734fe3f6e83d8796e7d290523bad52c457d518aa856e46fafe0b5a8": {
+          "added": 1754063236000,
+          "file": {
+            "name": "/substratummicrogprofiles_github_nightly_debug.apk",
+            "sha256": "4f63f25d4734fe3f6e83d8796e7d290523bad52c457d518aa856e46fafe0b5a8",
+            "size": 3895531
+          },
+          "manifest": {
+            "versionName": "3.0",
+            "versionCode": 3,
+            "usesSdk": {
+              "minSdkVersion": 24,
+              "targetSdkVersion": 24
+            },
+            "signer": {
+              "sha256": [
+                "75f3f23dd492d124533d29a262c76fe2c920ce3a11967902677447e73080a6e8"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "com.android.vending.CHECK_LICENSE"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "substratum.theme.microgprofiles.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "substratum.theme.sesameextra": {
+      "metadata": {
+        "added": 1754063237000,
+        "categories": [
+          "Theming"
+        ],
+        "lastUpdated": 1754063237000,
+        "license": "Apache-2.0",
+        "sourceCode": "https://github.com/Lobanokivan11/SUBSTRATUM-SESAMEEXTRA",
+        "authorName": "Lobanokivan11",
+        "name": {
+          "en-US": "SESAME EXTRA SUBSTRATUM"
+        },
+        "description": {
+          "en-US": "Sesame Tweaks Via Substratum\n"
+        },
+        "icon": {
+          "en-US": {
+            "name": "/icons/substratum.theme.sesameextra.2.png",
+            "sha256": "f7285edbbae3a9957832a6512e5defbd545c0d868c6335554ab4155fe35a2dfd",
+            "size": 1213
+          }
+        },
+        "preferredSigner": "cf9e1d0294e13c02879e7107fd86a368f0934e173a1b92d8056508413ca1887c"
+      },
+      "versions": {
+        "b1a70e7ef27b3bb9a327c318ecc60d51c2b468474cd95f8d7d4fc3ebbaed8b04": {
+          "added": 1754063237000,
+          "file": {
+            "name": "/substratumsesame_github_nightly_debug.apk",
+            "sha256": "b1a70e7ef27b3bb9a327c318ecc60d51c2b468474cd95f8d7d4fc3ebbaed8b04",
+            "size": 3793083
+          },
+          "manifest": {
+            "versionName": "2.0",
+            "versionCode": 2,
+            "usesSdk": {
+              "minSdkVersion": 24,
+              "targetSdkVersion": 24
+            },
+            "signer": {
+              "sha256": [
+                "cf9e1d0294e13c02879e7107fd86a368f0934e173a1b92d8056508413ca1887c"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "com.android.vending.CHECK_LICENSE"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "substratum.theme.sesameextra.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "substratum.theme.webview": {
+      "metadata": {
+        "added": 1754063236000,
+        "categories": [
+          "Theming"
+        ],
+        "lastUpdated": 1754063236000,
+        "license": "Apache-2.0",
+        "sourceCode": "https://github.com/Lobanokivan11/SubstratumplusWebviews",
+        "authorName": "Lobanokivan11",
+        "name": {
+          "en-US": "SESAME EXTRA SUBSTRATUM"
+        },
+        "description": {
+          "en-US": "Substratum Tweaks For Webviews\n"
+        },
+        "icon": {
+          "en-US": {
+            "name": "/icons/substratum.theme.webview.4.png",
+            "sha256": "f7285edbbae3a9957832a6512e5defbd545c0d868c6335554ab4155fe35a2dfd",
+            "size": 1213
+          }
+        },
+        "preferredSigner": "3553b739a443440493242165ebf6de080eae13aa209afba5faf5bcbec614a097"
+      },
+      "versions": {
+        "e183cc7828f392a306790e2539dad9e568b7edb608d2bcf442140d64985bd360": {
+          "added": 1754063236000,
+          "file": {
+            "name": "/substratumpluswebviews_github_nightly_debug.apk",
+            "sha256": "e183cc7828f392a306790e2539dad9e568b7edb608d2bcf442140d64985bd360",
+            "size": 3806172
+          },
+          "manifest": {
+            "versionName": "4.0",
+            "versionCode": 4,
+            "usesSdk": {
+              "minSdkVersion": 24,
+              "targetSdkVersion": 24
+            },
+            "signer": {
+              "sha256": [
+                "3553b739a443440493242165ebf6de080eae13aa209afba5faf5bcbec614a097"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "com.android.vending.CHECK_LICENSE"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "substratum.theme.webview.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
               }
             ]
           }
