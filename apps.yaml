@@ -155,3 +155,10 @@ nopssdrm:
     NoPssDrm No-Root App
   categories: 
     - Games
+pkga:
+  git: https://silica.codes/Li/pkga.git
+  name: "PKGa"
+  description: |
+    NoPayStation client for Android Devices Mainly Using For Playstation Mobile (NOPSSDRM)
+  categories: 
+    - Games
