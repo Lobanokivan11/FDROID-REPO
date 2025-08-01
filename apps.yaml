@@ -148,3 +148,10 @@ substratummicrogprofiles:
     Substratum Tweaks For MicroG's Profiles
   categories: 
     - Theming
+nopssdrm:
+  git: https://github.com/Lobanokivan11/NOPSSDRMAPK
+  name: "NoPssDrm No-Root"
+  description: |
+    NoPssDrm No-Root App
+  categories: 
+    - Games
