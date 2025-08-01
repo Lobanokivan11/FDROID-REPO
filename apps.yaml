@@ -113,3 +113,10 @@ microgre:
 
   categories: 
     - System
+substratumpsmbackground:
+  git: https://github.com/Lobanokivan11/PSM-BACKGROUND-SUBSTRATUM
+  name: "PSM BACKGROUND SUBSTRATUM"
+  description: |
+    PSM Background Pack For Playstation Mobile(NOPSSDRM) APP VIA SUBSTRATUM
+  categories: 
+    - Theming
