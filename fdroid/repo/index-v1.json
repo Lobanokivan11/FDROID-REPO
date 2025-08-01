@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1754058315000,
+    "timestamp": 1754062125000,
     "version": 20002,
     "name": "Lobanokivan11's F-Droid Repo",
     "icon": "icon.png",
@@ -115,6 +115,27 @@
       "localized": {
         "en-US": {
           "whatsNew": "Added:\n- Support translating to-do list\n\nFixed:\n- Parse muted account option caused exception\n\nMisc:\n- Show both camera and media permission cell on attach media selector if both are not granted\n- Translation updates"
+        }
+      }
+    },
+    {
+      "authorName": "Lobanokivan11",
+      "categories": [
+        "Theming"
+      ],
+      "suggestedVersionName": "5.0",
+      "suggestedVersionCode": "5",
+      "description": "PSM Background Pack For Playstation Mobile(NOPSSDRM) APP VIA SUBSTRATUM\n",
+      "license": "Apache-2.0",
+      "name": "PSM BACKGROUND SUBSTRATUM",
+      "sourceCode": "https://github.com/Lobanokivan11/PSM-BACKGROUND-SUBSTRATUM",
+      "added": 1754062047000,
+      "icon": "substratum.psm.walls.5.png",
+      "packageName": "substratum.psm.walls",
+      "lastUpdated": 1754062047000,
+      "localized": {
+        "en-US": {
+          "whatsNew": "Debug Builds"
         }
       }
     },
@@ -33081,6 +33102,36 @@
           ],
           [
             "substratum.monet.all.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 5,
+        "versionName": "5.0"
+      }
+    ],
+    "substratum.psm.walls": [
+      {
+        "added": 1754062047000,
+        "apkName": "substratumpsmbackground_github_nightly_debug.apk",
+        "hash": "ae16666e8970260a9f3677f2f09ccd38607af2f94cf7b9cab5a7fb870662f509",
+        "hashType": "sha256",
+        "minSdkVersion": 24,
+        "packageName": "substratum.psm.walls",
+        "sig": "c7188e4326cf4e48e2179f772b42e2b7",
+        "signer": "9940f3f8bbc4d1b0a8e8b6d727aec8b56274c2ba6dda9a19291569360564fad4",
+        "size": 6726687,
+        "targetSdkVersion": 24,
+        "uses-permission": [
+          [
+            "com.android.vending.CHECK_LICENSE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "substratum.psm.walls.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
             null
           ]
         ],

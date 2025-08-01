@@ -14,7 +14,7 @@
       }
     },
     "address": "https://raw.githubusercontent.com/Lobanokivan11/FDROID-REPO/refs/heads/main/fdroid/repo",
-    "timestamp": 1754058315000,
+    "timestamp": 1754062125000,
     "categories": {
       "Internet": {
         "name": {
@@ -27193,6 +27193,66 @@
               },
               {
                 "name": "substratum.monet.all.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "substratum.psm.walls": {
+      "metadata": {
+        "added": 1754062047000,
+        "categories": [
+          "Theming"
+        ],
+        "lastUpdated": 1754062047000,
+        "license": "Apache-2.0",
+        "sourceCode": "https://github.com/Lobanokivan11/PSM-BACKGROUND-SUBSTRATUM",
+        "authorName": "Lobanokivan11",
+        "name": {
+          "en-US": "PSM BACKGROUND SUBSTRATUM"
+        },
+        "description": {
+          "en-US": "PSM Background Pack For Playstation Mobile(NOPSSDRM) APP VIA SUBSTRATUM\n"
+        },
+        "icon": {
+          "en-US": {
+            "name": "/icons/substratum.psm.walls.5.png",
+            "sha256": "f7285edbbae3a9957832a6512e5defbd545c0d868c6335554ab4155fe35a2dfd",
+            "size": 1213
+          }
+        },
+        "preferredSigner": "9940f3f8bbc4d1b0a8e8b6d727aec8b56274c2ba6dda9a19291569360564fad4"
+      },
+      "versions": {
+        "ae16666e8970260a9f3677f2f09ccd38607af2f94cf7b9cab5a7fb870662f509": {
+          "added": 1754062047000,
+          "file": {
+            "name": "/substratumpsmbackground_github_nightly_debug.apk",
+            "sha256": "ae16666e8970260a9f3677f2f09ccd38607af2f94cf7b9cab5a7fb870662f509",
+            "size": 6726687
+          },
+          "manifest": {
+            "versionName": "5.0",
+            "versionCode": 5,
+            "usesSdk": {
+              "minSdkVersion": 24,
+              "targetSdkVersion": 24
+            },
+            "signer": {
+              "sha256": [
+                "9940f3f8bbc4d1b0a8e8b6d727aec8b56274c2ba6dda9a19291569360564fad4"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "com.android.vending.CHECK_LICENSE"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "substratum.psm.walls.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
               }
             ]
           }

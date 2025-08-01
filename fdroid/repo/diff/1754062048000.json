@@ -1,0 +1,26 @@
+{
+  "repo": {
+    "timestamp": 1754062125000,
+    "categories": {
+      "fdroid": null
+    }
+  },
+  "packages": {
+    "substratum.psm.walls": {
+      "metadata": {
+        "categories": [
+          "Theming"
+        ],
+        "license": "Apache-2.0",
+        "sourceCode": "https://github.com/Lobanokivan11/PSM-BACKGROUND-SUBSTRATUM",
+        "authorName": "Lobanokivan11",
+        "name": {
+          "en-US": "PSM BACKGROUND SUBSTRATUM"
+        },
+        "description": {
+          "en-US": "PSM Background Pack For Playstation Mobile(NOPSSDRM) APP VIA SUBSTRATUM\n"
+        }
+      }
+    }
+  }
+}
