@@ -120,3 +120,31 @@ substratumpsmbackground:
     PSM Background Pack For Playstation Mobile(NOPSSDRM) APP VIA SUBSTRATUM
   categories: 
     - Theming
+substratumsesame:
+  git: https://github.com/Lobanokivan11/SUBSTRATUM-SESAMEEXTRA
+  name: "SESAME EXTRA SUBSTRATUM"
+  description: |
+    Sesame Tweaks Via Substratum
+  categories: 
+    - Theming
+substratumpluswebviews:
+  git: https://github.com/Lobanokivan11/SubstratumplusWebviews
+  name: "SESAME EXTRA SUBSTRATUM"
+  description: |
+    Substratum Tweaks For Webviews
+  categories: 
+    - Theming
+substratumrevanced:
+  git: https://github.com/Lobanokivan11/REVANCED-SUBSTRATUM
+  name: "Revanced SUBSTRATUM"
+  description: |
+    Substratum Tweaks For ReVanced
+  categories: 
+    - Theming
+substratummicrogprofiles:
+  git: https://github.com/Lobanokivan11/MICROG-PROFILES-SUBSTRATUM
+  name: "Revanced SUBSTRATUM"
+  description: |
+    Substratum Tweaks For MicroG's Profiles
+  categories: 
+    - Theming
