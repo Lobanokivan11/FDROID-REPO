@@ -155,3 +155,17 @@ nopssdrm:
     NoPssDrm No-Root App
   categories: 
     - Games
+mmrl:
+  git: https://github.com/MMRLApp/MMRL
+  name: "MMRL"
+  description: |
+    Magisk Advanced Module Manager
+  categories: 
+    - System
+webuix:
+  git: https://github.com/MMRLApp/WebUI-X-Portable
+  name: "MMRL"
+  description: |
+    Manage Module's Settings On Magisk
+  categories: 
+    - System
