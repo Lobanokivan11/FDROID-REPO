@@ -1,0 +1,13 @@
+AuthorName: MMRLApp
+Categories:
+    - System
+CurrentVersion: v142-release
+CurrentVersionCode: 142
+Description: |
+    Manage Module's Settings On Magisk
+IssueTracker: ""
+License: GPL-3.0
+Name: MMRL
+SourceCode: https://github.com/MMRLApp/WebUI-X-Portable
+Summary: WebUI X from MMRL but portable!
+WebSite: ""

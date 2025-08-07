@@ -1,0 +1,127 @@
+{
+  "repo": {
+    "timestamp": 1754557876000,
+    "categories": {
+      "fdroid": null
+    }
+  },
+  "packages": {
+    "com.dergoogler.mmrl": {
+      "metadata": {
+        "categories": [
+          "System"
+        ],
+        "license": "GPL-3.0",
+        "sourceCode": "https://github.com/MMRLApp/MMRL",
+        "screenshots": {
+          "phone": {
+            "en-US": [
+              {
+                "name": "/com.dergoogler.mmrl/en-US/phoneScreenshots/1.png",
+                "sha256": "3b48a4be09a65b8d2b25fdfc36ac9b2813300d8ec02e73834f15972bdcadce9d",
+                "size": 380645
+              },
+              {
+                "name": "/com.dergoogler.mmrl/en-US/phoneScreenshots/2.png",
+                "sha256": "451f4a21c3e80c1ed600ceb5c68aaa0e15477716bd7136e76b74fa173e5e48ae",
+                "size": 301662
+              },
+              {
+                "name": "/com.dergoogler.mmrl/en-US/phoneScreenshots/3.png",
+                "sha256": "07c8c67b127897bf863baf0cc72882b33d524947422d17745a479c0ca1a61dbf",
+                "size": 268428
+              },
+              {
+                "name": "/com.dergoogler.mmrl/en-US/phoneScreenshots/4.png",
+                "sha256": "b40e07062c713dacd343a64116dcfeecd070a5a7d20f5dbe8713eb12b786c23c",
+                "size": 298829
+              },
+              {
+                "name": "/com.dergoogler.mmrl/en-US/phoneScreenshots/5.png",
+                "sha256": "568e7d40f9878d4ee1ee12429e06722c296a307f6bcbf5b79195208d8117fa57",
+                "size": 338296
+              },
+              {
+                "name": "/com.dergoogler.mmrl/en-US/phoneScreenshots/6.png",
+                "sha256": "a8b6487648ed1daec1409761bc5cd0fc18d3331bc0ac8bb08a878ba8898ce02c",
+                "size": 345171
+              }
+            ]
+          }
+        },
+        "authorName": "MMRLApp",
+        "summary": {
+          "en-US": "MMRL is an Android app that helps manage your own modules repository."
+        },
+        "description": {
+          "en-US": "Magisk Advanced Module Manager\n"
+        }
+      }
+    },
+    "com.dergoogler.mmrl.wx": {
+      "metadata": {
+        "categories": [
+          "System"
+        ],
+        "license": "GPL-3.0",
+        "sourceCode": "https://github.com/MMRLApp/WebUI-X-Portable",
+        "screenshots": {
+          "phone": {
+            "en-US": [
+              {
+                "name": "/com.dergoogler.mmrl.wx/en-US/phoneScreenshots/1.png",
+                "sha256": "423c50bb9a06aaa411bb10fb40237975d903bc5f6e60e67d09cdba0fa6f34adb",
+                "size": 269684
+              },
+              {
+                "name": "/com.dergoogler.mmrl.wx/en-US/phoneScreenshots/2.png",
+                "sha256": "619a13b24496e0c8867613bf9b56a84a2db759c087ff7c649426347bc188c5ad",
+                "size": 404530
+              },
+              {
+                "name": "/com.dergoogler.mmrl.wx/en-US/phoneScreenshots/3.png",
+                "sha256": "cedc77461d233b82d1f1a6bc87e830e36a3fc304636d3e824ce722a948714be2",
+                "size": 354448
+              },
+              {
+                "name": "/com.dergoogler.mmrl.wx/en-US/phoneScreenshots/4.png",
+                "sha256": "033be22611007b9814ea81ea8261486c30e92ad41e73ce002195568bfc7788ab",
+                "size": 335209
+              },
+              {
+                "name": "/com.dergoogler.mmrl.wx/en-US/phoneScreenshots/5.png",
+                "sha256": "4b55189104197a21ff6e0544371737252a28b985c50f0fcaa804c89d42d118ee",
+                "size": 254413
+              }
+            ]
+          }
+        },
+        "authorName": "MMRLApp",
+        "name": {
+          "en-US": "MMRL"
+        },
+        "summary": {
+          "en-US": "WebUI X from MMRL but portable!"
+        },
+        "description": {
+          "en-US": "Manage Module's Settings On Magisk\n"
+        }
+      }
+    },
+    "com.playstation.psstore": {
+      "metadata": {
+        "screenshots": {
+          "phone": {
+            "en-US": [
+              {
+                "name": "/com.playstation.psstore/en-US/phoneScreenshots/1.png",
+                "sha256": "10e063b267786bfe380dbc7f0ce1a0d43f08eaa93cab3497756a184af8dcf4d6",
+                "size": 237904
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

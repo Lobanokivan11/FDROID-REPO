@@ -1,0 +1,15 @@
+**WebUI X: Portable**
+#ci_142
+
+Build on 2025-07-04 23:07:20.
+
+## What's new?
+
+- Handle null modules in navigation graphs
+- Move setForeground call to onStartCommand
+- Refactor modId property initialization in WXActivity
+- Remove redundant file creation in config setup
+- Make modId property private and initialize in onCreate
+
+Type: Release
+[Workflow run](https://github.com/MMRLApp/WebUI-X-Portable/actions/runs/16081997776)

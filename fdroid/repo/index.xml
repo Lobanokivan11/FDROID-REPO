@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="icon.png" name="Lobanokivan11's F-Droid Repo" pubkey="308204f0308202d8a003020102020900aa0527e64906854b300d06092a864886f70d01010b050030253110300e060355040b1307462d44726f69643111300f0603550403130841584f2d557365723020170d3235303632373132353035305a180f32303532313131323132353035305a30253110300e060355040b1307462d44726f69643111300f0603550403130841584f2d5573657230820222300d06092a864886f70d01010105000382020f003082020a0282020100e292f147f1d12c06b54004d33ef0249fbfa5cb575e74e33f7ef11740a06888eb14a68e3a7cda7854de7c0e16248289ef440b87b16015a6cdfc7456ca24b7c03f8abfa89f94215a0f235b2111b95d3edee214d2c747f13ea171ad07db5a119ddb91ebc4c089c54aaa20c719b7bf5fc3ed636489eafa1016c459269447a3fbc40622d62a3efb7437bbc1a4f8d06d26298398eb1145354be9deef0812b9a854f8547d015cda1b5242a0d32d92c1ead25dce341fef71a49ad4a8dc5441d8637cc69019fa528f05adc2cfb2b357d99f1226f700800b4401e461f475dff60170e5e2f7bf55cd7e7372441d33098f90d56010b90955d2aa81ebdf841b2e5780a1276a0073db5ffe644b5720578442c1dd44784a205331b4cee61f6456b89719b4c1c85c5325ac06bd744aa85fc620d7f59c6acc26c0f00713967e08f8a66c6b07fc23b3a3868f504e9afa0385823a1e890fabefc6d7aa68a3533894388dd7d04eb03b5f6f23aa2614dbfa6e3d32d5266edd8b643b6b4d903e663d448cd7c4803ee090c54cc8d0249dd3db53352259d3b7a79798eaed934462b9a79cb71844c55dff1a94076e740af209861aabab7f946b76c605c8f2a308ba87bd52e63c6335e1f98bf69c897259609c249f9c83907309db019d8cb3a4a0e26b23ba8dabf37918801fd1a8e2fc84f34192d41583255a4f35a20371c32fdf1a4c93cbe2b1a1b82597deb70203010001a321301f301d0603551d0e0416041470130289d750ce245977dbca02acb48dbff0e31e300d06092a864886f70d01010b050003820201005454d576c5f5f25e0ee7011e46266bb5bb07ff51a8179ba7ca6f9a6b17bf77bac316933e2ed8586cfaa34cb8af5bbfe89ffbfe9f3fffe66f5e039673f8544bde5e923cb08820d17531cc7414429c48a4272f65578351121b6cca17f3633025e4295a96316fcdf6343630c9662baedf6ecd9b8efedca812b80d6e6d50cd7618ee76dc3c88ae36570e37b5e62fa03734f7ff983918d373685766c23a8d99a8b5ec4c5e42b861cd79124686682a58a420b8ab677d528bb9e2d03e067f5fea4d78088318cad255bc8e5282385df32ec02be323e3ce4559e9f45757ae3aca1bf645bb6283a90086cddc7a82bfae486e57592339968acce21d0471f20e7f54c3ed5295ad91b0e61e5070283495558931c99ddfca434e22070e50759025b39294f08fde6c6449434649f5620f809f65eefa94c93e0dd5d23deda89efbc1c98f7265daaecf13f1d6e5a0de34e6c5aa0d34303e157dc3c28dc6f2ed3c91d1f0f8afbf8ee640007b8def8b2c57da43a8a65d22667421c9588376721b112f45237299c7bea99852c3558059af416ea99f36f191288f86b2f0e9b2c1f2824233d0f35044fc46cb88d4f0680f8706fe365d6e92e0cadeeb1f2de6b14c02eddfb6d4c324a79b9f46fb25533e2a0c02d3254c7f75d8931756f7b89da4092dd793bd1f717326a8ad57a3a5b3763b14470d2acb01560294094c97ef354afe7d6ee530b247f3bb211a" timestamp="1754555442" url="https://raw.githubusercontent.com/Lobanokivan11/FDROID-REPO/refs/heads/main/fdroid/repo" version="20002">
+	<repo icon="icon.png" name="Lobanokivan11's F-Droid Repo" pubkey="308204f0308202d8a003020102020900aa0527e64906854b300d06092a864886f70d01010b050030253110300e060355040b1307462d44726f69643111300f0603550403130841584f2d557365723020170d3235303632373132353035305a180f32303532313131323132353035305a30253110300e060355040b1307462d44726f69643111300f0603550403130841584f2d5573657230820222300d06092a864886f70d01010105000382020f003082020a0282020100e292f147f1d12c06b54004d33ef0249fbfa5cb575e74e33f7ef11740a06888eb14a68e3a7cda7854de7c0e16248289ef440b87b16015a6cdfc7456ca24b7c03f8abfa89f94215a0f235b2111b95d3edee214d2c747f13ea171ad07db5a119ddb91ebc4c089c54aaa20c719b7bf5fc3ed636489eafa1016c459269447a3fbc40622d62a3efb7437bbc1a4f8d06d26298398eb1145354be9deef0812b9a854f8547d015cda1b5242a0d32d92c1ead25dce341fef71a49ad4a8dc5441d8637cc69019fa528f05adc2cfb2b357d99f1226f700800b4401e461f475dff60170e5e2f7bf55cd7e7372441d33098f90d56010b90955d2aa81ebdf841b2e5780a1276a0073db5ffe644b5720578442c1dd44784a205331b4cee61f6456b89719b4c1c85c5325ac06bd744aa85fc620d7f59c6acc26c0f00713967e08f8a66c6b07fc23b3a3868f504e9afa0385823a1e890fabefc6d7aa68a3533894388dd7d04eb03b5f6f23aa2614dbfa6e3d32d5266edd8b643b6b4d903e663d448cd7c4803ee090c54cc8d0249dd3db53352259d3b7a79798eaed934462b9a79cb71844c55dff1a94076e740af209861aabab7f946b76c605c8f2a308ba87bd52e63c6335e1f98bf69c897259609c249f9c83907309db019d8cb3a4a0e26b23ba8dabf37918801fd1a8e2fc84f34192d41583255a4f35a20371c32fdf1a4c93cbe2b1a1b82597deb70203010001a321301f301d0603551d0e0416041470130289d750ce245977dbca02acb48dbff0e31e300d06092a864886f70d01010b050003820201005454d576c5f5f25e0ee7011e46266bb5bb07ff51a8179ba7ca6f9a6b17bf77bac316933e2ed8586cfaa34cb8af5bbfe89ffbfe9f3fffe66f5e039673f8544bde5e923cb08820d17531cc7414429c48a4272f65578351121b6cca17f3633025e4295a96316fcdf6343630c9662baedf6ecd9b8efedca812b80d6e6d50cd7618ee76dc3c88ae36570e37b5e62fa03734f7ff983918d373685766c23a8d99a8b5ec4c5e42b861cd79124686682a58a420b8ab677d528bb9e2d03e067f5fea4d78088318cad255bc8e5282385df32ec02be323e3ce4559e9f45757ae3aca1bf645bb6283a90086cddc7a82bfae486e57592339968acce21d0471f20e7f54c3ed5295ad91b0e61e5070283495558931c99ddfca434e22070e50759025b39294f08fde6c6449434649f5620f809f65eefa94c93e0dd5d23deda89efbc1c98f7265daaecf13f1d6e5a0de34e6c5aa0d34303e157dc3c28dc6f2ed3c91d1f0f8afbf8ee640007b8def8b2c57da43a8a65d22667421c9588376721b112f45237299c7bea99852c3558059af416ea99f36f191288f86b2f0e9b2c1f2824233d0f35044fc46cb88d4f0680f8706fe365d6e92e0cadeeb1f2de6b14c02eddfb6d4c324a79b9f46fb25533e2a0c02d3254c7f75d8931756f7b89da4092dd793bd1f717326a8ad57a3a5b3763b14470d2acb01560294094c97ef354afe7d6ee530b247f3bb211a" timestamp="1754557876" url="https://raw.githubusercontent.com/Lobanokivan11/FDROID-REPO/refs/heads/main/fdroid/repo" version="20002">
 		<description>This is Repository of Lobanokivan11</description>
 	</repo>
 	<application id="org.fdroid.fdroid.privileged">
@@ -360,6 +360,1392 @@
 			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
 		</package>
 	</application>
+	<application id="com.dergoogler.mmrl.wx">
+		<id>com.dergoogler.mmrl.wx</id>
+		<added>2025-08-07</added>
+		<lastupdated>2025-08-07</lastupdated>
+		<name>MMRL</name>
+		<summary>WebUI X from MMRL but portable!</summary>
+		<desc>Manage Module's Settings On Magisk
+</desc>
+		<license>GPL-3.0</license>
+		<categories>System</categories>
+		<category>System</category>
+		<web></web>
+		<source>https://github.com/MMRLApp/WebUI-X-Portable</source>
+		<tracker></tracker>
+		<author>MMRLApp</author>
+		<marketversion>v142-release</marketversion>
+		<marketvercode>142</marketvercode>
+		<package>
+			<version>v142-release</version>
+			<versioncode>142</versioncode>
+			<apkname>webuix_v142.apk</apkname>
+			<hash type="sha256">73f96c80b238299a6d43399beaf2ad008fa6a3f9a47408ed2d992326eb3c4640</hash>
+			<size>19904229</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,com.dergoogler.mmrl.permission.WEBUI_LEGACY,com.dergoogler.mmrl.permission.WEBUI_X,moe.shizuku.manager.permission.API_V23</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>v131-release</version>
+			<versioncode>131</versioncode>
+			<apkname>webuix_v131.apk</apkname>
+			<hash type="sha256">7b412a555463c9ec174d5d9f150091afdfb187b80e6a146c44d43d90f30940ae</hash>
+			<size>19904229</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,com.dergoogler.mmrl.permission.WEBUI_LEGACY,com.dergoogler.mmrl.permission.WEBUI_X,moe.shizuku.manager.permission.API_V23</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>v130-release</version>
+			<versioncode>130</versioncode>
+			<apkname>webuix_v130.apk</apkname>
+			<hash type="sha256">defa9d00653e084ceed1909254712d2bbdd6a03f8b977321dd775fd0638936f1</hash>
+			<size>19904229</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,com.dergoogler.mmrl.permission.WEBUI_LEGACY,com.dergoogler.mmrl.permission.WEBUI_X,moe.shizuku.manager.permission.API_V23</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>v115-release</version>
+			<versioncode>115</versioncode>
+			<apkname>webuix_v115.apk</apkname>
+			<hash type="sha256">bfaf29402436ee29bed729e9bda9b424ecfbcb2f48f475919324b94747851b40</hash>
+			<size>4050995</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,com.dergoogler.mmrl.permission.WEBUI_LEGACY,com.dergoogler.mmrl.permission.WEBUI_X,moe.shizuku.manager.permission.API_V23</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>v114-release</version>
+			<versioncode>114</versioncode>
+			<apkname>webuix_v114.apk</apkname>
+			<hash type="sha256">9db5e60bf7300c024daa3b75ede9f8cfac40fa0fd39c3b6f6bf198ccb03de3f7</hash>
+			<size>4049927</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,com.dergoogler.mmrl.permission.WEBUI_LEGACY,com.dergoogler.mmrl.permission.WEBUI_X,moe.shizuku.manager.permission.API_V23</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>v112-release</version>
+			<versioncode>112</versioncode>
+			<apkname>webuix_v112.apk</apkname>
+			<hash type="sha256">b712655a6390f2c9a4a49ff948160b9e8244a20601b563fe5162c27b3bb54cad</hash>
+			<size>4049927</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,com.dergoogler.mmrl.permission.WEBUI_LEGACY,com.dergoogler.mmrl.permission.WEBUI_X,moe.shizuku.manager.permission.API_V23</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>v101-release</version>
+			<versioncode>101</versioncode>
+			<apkname>webuix_v101.apk</apkname>
+			<hash type="sha256">8b12226053c5ae97129a82f7dfc6796a81c1d4d4b3fcb5fff955923e12c234bd</hash>
+			<size>3918120</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,com.dergoogler.mmrl.permission.WEBUI_LEGACY,com.dergoogler.mmrl.permission.WEBUI_X,moe.shizuku.manager.permission.API_V23</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>v100-release</version>
+			<versioncode>100</versioncode>
+			<apkname>webuix_v100.apk</apkname>
+			<hash type="sha256">bb6f7b257421342e57094b4cf3181ae6eb0969cb9b9fdaae49c723e6e4246735</hash>
+			<size>3918120</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,com.dergoogler.mmrl.permission.WEBUI_LEGACY,com.dergoogler.mmrl.permission.WEBUI_X,moe.shizuku.manager.permission.API_V23</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>v80-release</version>
+			<versioncode>80</versioncode>
+			<apkname>webuix_v80.apk</apkname>
+			<hash type="sha256">973f6a45025556800cb059769f8e78652dd1a4ba83186d228e873cb4f5672c3d</hash>
+			<size>3810440</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,com.dergoogler.mmrl.permission.WEBUI_LEGACY,com.dergoogler.mmrl.permission.WEBUI_X,moe.shizuku.manager.permission.API_V23</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>v71-release</version>
+			<versioncode>71</versioncode>
+			<apkname>webuix_v71.apk</apkname>
+			<hash type="sha256">71537785f61b13a19ac054479ee40bde9c7d7e2e5aa613521db48feb5ccef115</hash>
+			<size>3791864</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,com.dergoogler.mmrl.permission.WEBUI_LEGACY,com.dergoogler.mmrl.permission.WEBUI_X,moe.shizuku.manager.permission.API_V23</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>v64-release</version>
+			<versioncode>64</versioncode>
+			<apkname>webuix_v64.apk</apkname>
+			<hash type="sha256">aa41e1cbda05da4478e900b2b5a26d48983fbeb12ee29a488b001afce43e7361</hash>
+			<size>3773452</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,com.dergoogler.mmrl.permission.WEBUI_LEGACY,com.dergoogler.mmrl.permission.WEBUI_X,moe.shizuku.manager.permission.API_V23</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>v61-release</version>
+			<versioncode>61</versioncode>
+			<apkname>webuix_v61.apk</apkname>
+			<hash type="sha256">acf2df02eca81738363910f03ebe1392a84177a0b8a1da9631fe9bc262ca0404</hash>
+			<size>3771112</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,com.dergoogler.mmrl.permission.WEBUI_LEGACY,com.dergoogler.mmrl.permission.WEBUI_X,moe.shizuku.manager.permission.API_V23</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>v50-release</version>
+			<versioncode>50</versioncode>
+			<apkname>webuix_v50.apk</apkname>
+			<hash type="sha256">64316f318c7499fc852cf3b92ca2eb601aceebc5d10aa92c2fad8e72d4ab8a10</hash>
+			<size>3765212</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,moe.shizuku.manager.permission.API_V23</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>v43-release</version>
+			<versioncode>43</versioncode>
+			<apkname>webuix_v43.apk</apkname>
+			<hash type="sha256">cc1ac58f73dd05d407e46d97fd5d9341bb5618b5e05e97d010c6e7c4907b2949</hash>
+			<size>3759395</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,moe.shizuku.manager.permission.API_V23</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>v38-release</version>
+			<versioncode>38</versioncode>
+			<apkname>webuix_v38.apk</apkname>
+			<hash type="sha256">032735232cee6bec4f6d922aff08b1b70202b9110e6e7db36a2e186811d5b9be</hash>
+			<size>3743811</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,moe.shizuku.manager.permission.API_V23</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>v29-release</version>
+			<versioncode>29</versioncode>
+			<apkname>webuix_v29.apk</apkname>
+			<hash type="sha256">d86608bad9ceee9d85898b78a98d72adcce77734fd7c4f5f3e23ecca39939db7</hash>
+			<size>3699211</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,moe.shizuku.manager.permission.API_V23</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>v27-release</version>
+			<versioncode>27</versioncode>
+			<apkname>webuix_v27.apk</apkname>
+			<hash type="sha256">34b608312ccfeb322abe287c0bebbff429bb99fd062584ac6732b80edf7707bc</hash>
+			<size>3698906</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,moe.shizuku.manager.permission.API_V23</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>v22-release</version>
+			<versioncode>22</versioncode>
+			<apkname>webuix_v22.apk</apkname>
+			<hash type="sha256">1d72b97201610510edf945d2fcf1acf398bf4db617f8f8e82c670ae9fd575cf6</hash>
+			<size>3616266</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,moe.shizuku.manager.permission.API_V23</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+	</application>
+	<application id="com.dergoogler.mmrl">
+		<id>com.dergoogler.mmrl</id>
+		<added>2025-08-07</added>
+		<lastupdated>2025-08-07</lastupdated>
+		<name>MMRL</name>
+		<summary>MMRL is an Android app that helps manage your own modules repository.</summary>
+		<desc>Magisk Advanced Module Manager
+</desc>
+		<license>GPL-3.0</license>
+		<categories>System</categories>
+		<category>System</category>
+		<web></web>
+		<source>https://github.com/MMRLApp/MMRL</source>
+		<tracker></tracker>
+		<author>MMRLApp</author>
+		<marketversion>v33920-release</marketversion>
+		<marketvercode>33920</marketvercode>
+		<package>
+			<version>v33920-release</version>
+			<versioncode>33920</versioncode>
+			<apkname>mmrl_v33920.apk</apkname>
+			<hash type="sha256">24185d029dfd55b98fd852ff92d13dd96630ecc83d0daae496180c864c43702d</hash>
+			<size>5157757</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_DATA_SYNC,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,com.dergoogler.mmrl.permission.WEBUI_LEGACY,com.dergoogler.mmrl.permission.WEBUI_X,moe.shizuku.manager.permission.API_V23</permissions>
+			<uses-permission maxSdkVersion="29" name="android.permission.READ_EXTERNAL_STORAGE"/>
+			<uses-permission maxSdkVersion="29" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>v33913-release</version>
+			<versioncode>33913</versioncode>
+			<apkname>mmrl_v33913.apk</apkname>
+			<hash type="sha256">b2f4c375bb2c70a033ac8a28b3a3121c2043616bda7dc55c25a30ac37c436961</hash>
+			<size>5157505</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_DATA_SYNC,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,com.dergoogler.mmrl.permission.WEBUI_LEGACY,com.dergoogler.mmrl.permission.WEBUI_X,moe.shizuku.manager.permission.API_V23</permissions>
+			<uses-permission maxSdkVersion="29" name="android.permission.READ_EXTERNAL_STORAGE"/>
+			<uses-permission maxSdkVersion="29" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>v33911-release</version>
+			<versioncode>33911</versioncode>
+			<apkname>mmrl_v33911.apk</apkname>
+			<hash type="sha256">1366efe7fa158b19087b8a171264586d355c185b097e423317a0468289d18c7a</hash>
+			<size>5157505</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_DATA_SYNC,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,com.dergoogler.mmrl.permission.WEBUI_LEGACY,com.dergoogler.mmrl.permission.WEBUI_X,moe.shizuku.manager.permission.API_V23</permissions>
+			<uses-permission maxSdkVersion="29" name="android.permission.READ_EXTERNAL_STORAGE"/>
+			<uses-permission maxSdkVersion="29" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>v33890-release</version>
+			<versioncode>33890</versioncode>
+			<apkname>mmrl_v33890.apk</apkname>
+			<hash type="sha256">26c04fbe10bfad2ca8b258ea327ebc13376bf283f7bafa22b14f725c92355f3e</hash>
+			<size>5152410</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_DATA_SYNC,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,com.dergoogler.mmrl.permission.WEBUI_LEGACY,com.dergoogler.mmrl.permission.WEBUI_X,moe.shizuku.manager.permission.API_V23</permissions>
+			<uses-permission maxSdkVersion="29" name="android.permission.READ_EXTERNAL_STORAGE"/>
+			<uses-permission maxSdkVersion="29" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>v33884-release</version>
+			<versioncode>33884</versioncode>
+			<apkname>mmrl_v33884.apk</apkname>
+			<hash type="sha256">e8e84fc960f6f26b1c0385a9c03085dd77f763049b559a35728ced9e031e9627</hash>
+			<size>5136030</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_DATA_SYNC,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,com.dergoogler.mmrl.permission.WEBUI_LEGACY,com.dergoogler.mmrl.permission.WEBUI_X,moe.shizuku.manager.permission.API_V23</permissions>
+			<uses-permission maxSdkVersion="29" name="android.permission.READ_EXTERNAL_STORAGE"/>
+			<uses-permission maxSdkVersion="29" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>v33858-release</version>
+			<versioncode>33858</versioncode>
+			<apkname>mmrl_v33858.apk</apkname>
+			<hash type="sha256">296ecbced1b019adedf84b332ed0e63302dba5c1f8e9c6d3119859309badcaa8</hash>
+			<size>5133666</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_DATA_SYNC,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,com.dergoogler.mmrl.permission.WEBUI_LEGACY,com.dergoogler.mmrl.permission.WEBUI_X,moe.shizuku.manager.permission.API_V23</permissions>
+			<uses-permission maxSdkVersion="29" name="android.permission.READ_EXTERNAL_STORAGE"/>
+			<uses-permission maxSdkVersion="29" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>v33818-release</version>
+			<versioncode>33818</versioncode>
+			<apkname>mmrl_v33818.apk</apkname>
+			<hash type="sha256">7e17af7aeee3d404df0a1926ede5dd2e81bbc7baf81de452eb3b56fc5d054473</hash>
+			<size>5047346</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_DATA_SYNC,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,com.dergoogler.mmrl.permission.WEBUI_LEGACY,com.dergoogler.mmrl.permission.WEBUI_X,moe.shizuku.manager.permission.API_V23</permissions>
+			<uses-permission maxSdkVersion="29" name="android.permission.READ_EXTERNAL_STORAGE"/>
+			<uses-permission maxSdkVersion="29" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>v33813-release</version>
+			<versioncode>33813</versioncode>
+			<apkname>mmrl_v33813.apk</apkname>
+			<hash type="sha256">0e0973c1e4e01e9a412fb697fc5c0c095468d4ca7b1b7d81cdc7319c786f0747</hash>
+			<size>5047266</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_DATA_SYNC,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,com.dergoogler.mmrl.permission.WEBUI_LEGACY,com.dergoogler.mmrl.permission.WEBUI_X,moe.shizuku.manager.permission.API_V23</permissions>
+			<uses-permission maxSdkVersion="29" name="android.permission.READ_EXTERNAL_STORAGE"/>
+			<uses-permission maxSdkVersion="29" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>v33812-release</version>
+			<versioncode>33812</versioncode>
+			<apkname>mmrl_v33812.apk</apkname>
+			<hash type="sha256">93673a2ef6d4fbfd179316b63077318a2f55de16066ebd909b8fca356d231c82</hash>
+			<size>5047266</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_DATA_SYNC,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,com.dergoogler.mmrl.permission.WEBUI_LEGACY,com.dergoogler.mmrl.permission.WEBUI_X,moe.shizuku.manager.permission.API_V23</permissions>
+			<uses-permission maxSdkVersion="29" name="android.permission.READ_EXTERNAL_STORAGE"/>
+			<uses-permission maxSdkVersion="29" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>v33780-release</version>
+			<versioncode>33780</versioncode>
+			<apkname>mmrl_v33780.apk</apkname>
+			<hash type="sha256">b865dda83a6e9f22c9940e41ae0524f59b9e9e3751960cee3218ca3d09a7846f</hash>
+			<size>5011722</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_DATA_SYNC,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,com.dergoogler.mmrl.permission.WEBUI_LEGACY,com.dergoogler.mmrl.permission.WEBUI_X,moe.shizuku.manager.permission.API_V23</permissions>
+			<uses-permission maxSdkVersion="29" name="android.permission.READ_EXTERNAL_STORAGE"/>
+			<uses-permission maxSdkVersion="29" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>v33773-release</version>
+			<versioncode>33773</versioncode>
+			<apkname>mmrl_v33773.apk</apkname>
+			<hash type="sha256">caec2ed80e218ceb29b24020bed3089567e53ed7d486601100b5a800d5929486</hash>
+			<size>5011250</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_DATA_SYNC,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,com.dergoogler.mmrl.permission.WEBUI_LEGACY,com.dergoogler.mmrl.permission.WEBUI_X,moe.shizuku.manager.permission.API_V23</permissions>
+			<uses-permission maxSdkVersion="29" name="android.permission.READ_EXTERNAL_STORAGE"/>
+			<uses-permission maxSdkVersion="29" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>v33751-release</version>
+			<versioncode>33751</versioncode>
+			<apkname>mmrl_v33751.apk</apkname>
+			<hash type="sha256">79cdf7a66c84a3e9d3a6b62570b6cc1c8f6ff9ac3ce16d2865eddb29a2957c08</hash>
+			<size>5057058</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_DATA_SYNC,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,moe.shizuku.manager.permission.API_V23</permissions>
+			<uses-permission maxSdkVersion="29" name="android.permission.READ_EXTERNAL_STORAGE"/>
+			<uses-permission maxSdkVersion="29" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>v33653-release</version>
+			<versioncode>33653</versioncode>
+			<apkname>mmrl_v33653.apk</apkname>
+			<hash type="sha256">491188526743497c1cc98ab3e774dfdca0932708b06820776353a9dabb7b2653</hash>
+			<size>5004830</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_DATA_SYNC,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,moe.shizuku.manager.permission.API_V23</permissions>
+			<uses-permission maxSdkVersion="29" name="android.permission.READ_EXTERNAL_STORAGE"/>
+			<uses-permission maxSdkVersion="29" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>v33633-release</version>
+			<versioncode>33633</versioncode>
+			<apkname>mmrl_v33633.apk</apkname>
+			<hash type="sha256">9c1fdfe26dafa2cccf5803b5c8a540a73b64fbb91e84c98f2660ab796b8ad53b</hash>
+			<size>5001342</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_DATA_SYNC,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,moe.shizuku.manager.permission.API_V23</permissions>
+			<uses-permission maxSdkVersion="29" name="android.permission.READ_EXTERNAL_STORAGE"/>
+			<uses-permission maxSdkVersion="29" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>v33624-release</version>
+			<versioncode>33624</versioncode>
+			<apkname>mmrl_v33624.apk</apkname>
+			<hash type="sha256">d373106bf5e57dfbbeb4c8682fa8f70b8a53a4c634d65720e4703c499ff518ac</hash>
+			<size>5001045</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_DATA_SYNC,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,moe.shizuku.manager.permission.API_V23</permissions>
+			<uses-permission maxSdkVersion="29" name="android.permission.READ_EXTERNAL_STORAGE"/>
+			<uses-permission maxSdkVersion="29" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>v33613-release</version>
+			<versioncode>33613</versioncode>
+			<apkname>mmrl_v33613.apk</apkname>
+			<hash type="sha256">05ffd850df63e68d117b2fd4aa407258e2f9d6aa752f4a1dfbce95b49479440c</hash>
+			<size>5019118</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_DATA_SYNC,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,moe.shizuku.manager.permission.API_V23</permissions>
+			<uses-permission maxSdkVersion="29" name="android.permission.READ_EXTERNAL_STORAGE"/>
+			<uses-permission maxSdkVersion="29" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>v33612-release</version>
+			<versioncode>33612</versioncode>
+			<apkname>mmrl_v33612.apk</apkname>
+			<hash type="sha256">bbb4862b585d94b8c169451432ac734f22003df66493b41faece07aa5ca57182</hash>
+			<size>5019118</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_DATA_SYNC,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,moe.shizuku.manager.permission.API_V23</permissions>
+			<uses-permission maxSdkVersion="29" name="android.permission.READ_EXTERNAL_STORAGE"/>
+			<uses-permission maxSdkVersion="29" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>v33599-release</version>
+			<versioncode>33599</versioncode>
+			<apkname>mmrl_v33599.apk</apkname>
+			<hash type="sha256">3e395949b3eb5cfd43f5c64c1ccd3a51792c60658fc212d900365de7b9c24522</hash>
+			<size>5001730</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_DATA_SYNC,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,moe.shizuku.manager.permission.API_V23</permissions>
+			<uses-permission maxSdkVersion="29" name="android.permission.READ_EXTERNAL_STORAGE"/>
+			<uses-permission maxSdkVersion="29" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>v33597-release</version>
+			<versioncode>33597</versioncode>
+			<apkname>mmrl_v33597.apk</apkname>
+			<hash type="sha256">21c1e1fbf54708780b5af52069c8916ea13708032b69bdc40a28c541f6c92e1f</hash>
+			<size>5001730</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_DATA_SYNC,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,moe.shizuku.manager.permission.API_V23</permissions>
+			<uses-permission maxSdkVersion="29" name="android.permission.READ_EXTERNAL_STORAGE"/>
+			<uses-permission maxSdkVersion="29" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>v33553-alpha</version>
+			<versioncode>33553</versioncode>
+			<apkname>mmrl_v33553.apk</apkname>
+			<hash type="sha256">6b6afd836a1ce0bac8b82d087409d22abac1a45e605eba3e776d5744d75e0650</hash>
+			<size>8847973</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_DATA_SYNC,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,moe.shizuku.manager.permission.API_V23</permissions>
+			<uses-permission maxSdkVersion="29" name="android.permission.READ_EXTERNAL_STORAGE"/>
+			<uses-permission maxSdkVersion="29" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>v33424-playstore</version>
+			<versioncode>33424</versioncode>
+			<apkname>mmrl_v33424.apk</apkname>
+			<hash type="sha256">ff7acb609c57d61322bc99a27a3b2a659e52207867e9cfc8ff5a3f1cb209ae9d</hash>
+			<size>4036088</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_DATA_SYNC,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,moe.shizuku.manager.permission.API_V23</permissions>
+			<uses-permission maxSdkVersion="29" name="android.permission.READ_EXTERNAL_STORAGE"/>
+			<uses-permission maxSdkVersion="29" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>v33412-playstore</version>
+			<versioncode>33412</versioncode>
+			<apkname>mmrl_v33412.apk</apkname>
+			<hash type="sha256">a2dd0353d784caebe7eb9de15b4287c1886414afc7d312c560baa673004dcfb0</hash>
+			<size>3907452</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_DATA_SYNC,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,moe.shizuku.manager.permission.API_V23</permissions>
+			<uses-permission maxSdkVersion="29" name="android.permission.READ_EXTERNAL_STORAGE"/>
+			<uses-permission maxSdkVersion="29" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>5.32.44-release</version>
+			<versioncode>33404</versioncode>
+			<apkname>mmrl_v5.32.44.apk</apkname>
+			<hash type="sha256">d79165937b93bab484c0b5acce253bf3ca779b1f1b6a93b36e187df73c9bdf05</hash>
+			<size>13325903</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_DATA_SYNC,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,moe.shizuku.manager.permission.API_V23</permissions>
+			<uses-permission maxSdkVersion="29" name="android.permission.READ_EXTERNAL_STORAGE"/>
+			<uses-permission maxSdkVersion="29" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>5.32.43-release</version>
+			<versioncode>33393</versioncode>
+			<apkname>mmrl_v5.32.43.apk</apkname>
+			<hash type="sha256">6a97f81bfe9d47caffa2e07f60dd137c290fe396c1305d269b8c6242249dea8e</hash>
+			<size>3890156</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_DATA_SYNC,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,moe.shizuku.manager.permission.API_V23</permissions>
+			<uses-permission maxSdkVersion="29" name="android.permission.READ_EXTERNAL_STORAGE"/>
+			<uses-permission maxSdkVersion="29" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>5.31.42-release</version>
+			<versioncode>33033</versioncode>
+			<apkname>mmrl_v5.31.42.apk</apkname>
+			<hash type="sha256">fa49d98dddb55826ce08997ce030f3d6679c39ac4b14296354d65b8bda4cbd7d</hash>
+			<size>3334893</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_DATA_SYNC,INTERNET,POST_NOTIFICATIONS,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,moe.shizuku.manager.permission.API_V23</permissions>
+			<uses-permission maxSdkVersion="29" name="android.permission.READ_EXTERNAL_STORAGE"/>
+			<uses-permission maxSdkVersion="29" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>5.30.41-release</version>
+			<versioncode>33016</versioncode>
+			<apkname>mmrl_v5.30.41.apk</apkname>
+			<hash type="sha256">93fe598f0ba875249fe5d1ca0788e430ade805d2e1b81f22cdbcfc218df54345</hash>
+			<size>3332129</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_DATA_SYNC,INTERNET,POST_NOTIFICATIONS,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,moe.shizuku.manager.permission.API_V23</permissions>
+			<uses-permission maxSdkVersion="29" name="android.permission.READ_EXTERNAL_STORAGE"/>
+			<uses-permission maxSdkVersion="29" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>5.30.40-release</version>
+			<versioncode>32987</versioncode>
+			<apkname>mmrl_v5.30.40.apk</apkname>
+			<hash type="sha256">c5b57413987ddbb468f9571167177eb663e2908e04b5c83ba3aed3775eb00601</hash>
+			<size>3329497</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_DATA_SYNC,INTERNET,POST_NOTIFICATIONS,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,moe.shizuku.manager.permission.API_V23</permissions>
+			<uses-permission maxSdkVersion="29" name="android.permission.READ_EXTERNAL_STORAGE"/>
+			<uses-permission maxSdkVersion="29" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>5.29.39</version>
+			<versioncode>32717</versioncode>
+			<apkname>mmrl_v5.29.39.apk</apkname>
+			<hash type="sha256">66a98607944659a793e148579e36ac4d3d621e74d202dc5a22f19ce66cb29650</hash>
+			<size>3106730</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_DATA_SYNC,INTERNET,POST_NOTIFICATIONS,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,moe.shizuku.manager.permission.API_V23</permissions>
+			<uses-permission maxSdkVersion="29" name="android.permission.READ_EXTERNAL_STORAGE"/>
+			<uses-permission maxSdkVersion="29" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>5.28.38</version>
+			<versioncode>32689</versioncode>
+			<apkname>mmrl_v5.28.38.apk</apkname>
+			<hash type="sha256">2223c4ce2e3a4f0226e2dd81db703a32dee036700dbb843cf723323570118cb9</hash>
+			<size>3051526</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_DATA_SYNC,INTERNET,POST_NOTIFICATIONS,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,moe.shizuku.manager.permission.API_V23</permissions>
+			<uses-permission maxSdkVersion="29" name="android.permission.READ_EXTERNAL_STORAGE"/>
+			<uses-permission maxSdkVersion="29" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>5.27.37</version>
+			<versioncode>32669</versioncode>
+			<apkname>mmrl_v5.27.37.apk</apkname>
+			<hash type="sha256">0aa40701de58d97698e89ba309fc925b661e2eaade867371c44fa9fdcf0ca286</hash>
+			<size>3042145</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_DATA_SYNC,INTERNET,POST_NOTIFICATIONS,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,moe.shizuku.manager.permission.API_V23</permissions>
+			<uses-permission maxSdkVersion="29" name="android.permission.READ_EXTERNAL_STORAGE"/>
+			<uses-permission maxSdkVersion="29" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>5.26.35</version>
+			<versioncode>32638</versioncode>
+			<apkname>mmrl_v5.26.35.apk</apkname>
+			<hash type="sha256">78c0a38292a74df71de8afeaa3df625e335aaf28f3f9cf640de0c0470339af6d</hash>
+			<size>10855186</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_DATA_SYNC,INTERNET,POST_NOTIFICATIONS,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,moe.shizuku.manager.permission.API_V23</permissions>
+			<uses-permission maxSdkVersion="29" name="android.permission.READ_EXTERNAL_STORAGE"/>
+			<uses-permission maxSdkVersion="29" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>4.26.34</version>
+			<versioncode>32583</versioncode>
+			<apkname>mmrl_v4.26.34.apk</apkname>
+			<hash type="sha256">87125ba100b45bf45f5b10b1415420a143b51933d1ff556fbec7e467d3b707e6</hash>
+			<size>10745285</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_DATA_SYNC,INTERNET,POST_NOTIFICATIONS,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,moe.shizuku.manager.permission.API_V23</permissions>
+			<uses-permission maxSdkVersion="29" name="android.permission.READ_EXTERNAL_STORAGE"/>
+			<uses-permission maxSdkVersion="29" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>4.26.33</version>
+			<versioncode>32576</versioncode>
+			<apkname>mmrl_v4.26.33.apk</apkname>
+			<hash type="sha256">0c8b2681b7c7ef53069a343cf344ceff611110ee4eb2d19ad0a87e0b39eff832</hash>
+			<size>10745021</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_DATA_SYNC,INTERNET,POST_NOTIFICATIONS,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,moe.shizuku.manager.permission.API_V23</permissions>
+			<uses-permission maxSdkVersion="29" name="android.permission.READ_EXTERNAL_STORAGE"/>
+			<uses-permission maxSdkVersion="29" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>4.25.33</version>
+			<versioncode>32469</versioncode>
+			<apkname>mmrl_v4.25.33.apk</apkname>
+			<hash type="sha256">752c06f2ad1f7d2fcb674d634dcc3ffafac876bf3150680daeed052af94bd966</hash>
+			<size>2821518</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>FOREGROUND_SERVICE,FOREGROUND_SERVICE_DATA_SYNC,INTERNET,POST_NOTIFICATIONS,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,moe.shizuku.manager.permission.API_V23</permissions>
+			<uses-permission maxSdkVersion="29" name="android.permission.READ_EXTERNAL_STORAGE"/>
+			<uses-permission maxSdkVersion="29" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>4.25.32</version>
+			<versioncode>32448</versioncode>
+			<apkname>mmrl_v4.25.32.apk</apkname>
+			<hash type="sha256">d7f3538081010c83ecc8f6b660b30d6d4fb4846fdfd15684c63bdde529a3d2c3</hash>
+			<size>2804122</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>FOREGROUND_SERVICE,FOREGROUND_SERVICE_DATA_SYNC,INTERNET,POST_NOTIFICATIONS,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,moe.shizuku.manager.permission.API_V23</permissions>
+			<uses-permission maxSdkVersion="29" name="android.permission.READ_EXTERNAL_STORAGE"/>
+			<uses-permission maxSdkVersion="29" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>4.24.32</version>
+			<versioncode>32434</versioncode>
+			<apkname>mmrl_v4.24.32.apk</apkname>
+			<hash type="sha256">e51a72a566074af9357c4b6b6bd3be1488d02c36326e53dc6fc79c85dc1f421f</hash>
+			<size>2798993</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>FOREGROUND_SERVICE,FOREGROUND_SERVICE_DATA_SYNC,INTERNET,POST_NOTIFICATIONS,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,moe.shizuku.manager.permission.API_V23</permissions>
+			<uses-permission maxSdkVersion="29" name="android.permission.READ_EXTERNAL_STORAGE"/>
+			<uses-permission maxSdkVersion="29" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>3.24.32</version>
+			<versioncode>32432</versioncode>
+			<apkname>mmrl_v3.24.32.apk</apkname>
+			<hash type="sha256">d28cad06814e055c6a0d5aedf54c75b10de9592be506b103d52d504bdc2d406f</hash>
+			<size>3971664</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,WAKE_LOCK</permissions>
+		</package>
+		<package>
+			<version>3.24.31</version>
+			<versioncode>32431</versioncode>
+			<apkname>mmrl_v3.24.31.apk</apkname>
+			<hash type="sha256">124c57e1340c6f843779bb30e8a2034dd68ebae3fead9e59f6f469ac08e862e7</hash>
+			<size>3971660</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,WAKE_LOCK</permissions>
+		</package>
+		<package>
+			<version>3.24.30</version>
+			<versioncode>32430</versioncode>
+			<apkname>mmrl_v3.24.30.apk</apkname>
+			<hash type="sha256">df2ce708e8d55db4f35afeabf9908f029fa081156d908a985eae8dc49198dfd2</hash>
+			<size>3971240</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,WAKE_LOCK</permissions>
+		</package>
+		<package>
+			<version>3.24.29</version>
+			<versioncode>32429</versioncode>
+			<apkname>mmrl_v3.24.29.apk</apkname>
+			<hash type="sha256">765845746e84bae39bc2ff9c2880629a2077c1c58b99a45accef61e9971d9c3f</hash>
+			<size>3971240</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,WAKE_LOCK</permissions>
+		</package>
+		<package>
+			<version>3.24.28</version>
+			<versioncode>32428</versioncode>
+			<apkname>mmrl_v3.24.28.apk</apkname>
+			<hash type="sha256">6a90c5c15883055b28e98cca65bab510ebac32e248f1185fc3dbca3be4627047</hash>
+			<size>3912534</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,WAKE_LOCK</permissions>
+		</package>
+		<package>
+			<version>3.24.26</version>
+			<versioncode>32426</versioncode>
+			<apkname>mmrl_v3.24.26.apk</apkname>
+			<hash type="sha256">2d6dea0ec63f1c916bf651cad097b777b96b8a9f336024fcfd16eebf5e4906da</hash>
+			<size>3917922</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,WAKE_LOCK</permissions>
+		</package>
+		<package>
+			<version>3.23.26</version>
+			<versioncode>32326</versioncode>
+			<apkname>mmrl_v3.23.26.apk</apkname>
+			<hash type="sha256">d1f461811185d115a36627fa07d0bbc028bc711a6d8fb23ddb91b3655762a2c9</hash>
+			<size>3912226</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,WAKE_LOCK</permissions>
+		</package>
+		<package>
+			<version>3.23.25</version>
+			<versioncode>32325</versioncode>
+			<apkname>mmrl_v3.23.25.apk</apkname>
+			<hash type="sha256">dc82f121dd06f2220cc88667fb22cef43cc5ff34277d7f336db8aa7c28dee876</hash>
+			<size>3909758</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,WAKE_LOCK</permissions>
+		</package>
+		<package>
+			<version>3.22.24</version>
+			<versioncode>32224</versioncode>
+			<apkname>mmrl_v3.22.24.apk</apkname>
+			<hash type="sha256">f786f973abcbf972a68e2ba986901f3269adfd217e535ee9887a4410c2c22c79</hash>
+			<size>3899314</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,WAKE_LOCK</permissions>
+		</package>
+		<package>
+			<version>3.22.23</version>
+			<versioncode>32223</versioncode>
+			<apkname>mmrl_v3.22.23.apk</apkname>
+			<hash type="sha256">8c798b19d355fd6d159e57d78d733cc898829419cf627d4f3ad1710d57377598</hash>
+			<size>3899350</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,WAKE_LOCK</permissions>
+		</package>
+		<package>
+			<version>2.20.21</version>
+			<versioncode>22021</versioncode>
+			<apkname>mmrl_v2.20.21.apk</apkname>
+			<hash type="sha256">8221cca71071d4ddc5eb81c107dc12b01f55609aadfa7c44bb041855f05c0d33</hash>
+			<size>5871850</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,WAKE_LOCK</permissions>
+		</package>
+		<package>
+			<version>2.20.20</version>
+			<versioncode>22020</versioncode>
+			<apkname>mmrl_v2.20.20.apk</apkname>
+			<hash type="sha256">de2e8f04af74ca241cb1906b42b921d2a391230786edd0546d5ab834e4b6ffc8</hash>
+			<size>5869010</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,WAKE_LOCK</permissions>
+		</package>
+		<package>
+			<version>2.19.18</version>
+			<versioncode>21918</versioncode>
+			<apkname>mmrl_v2.19.18.apk</apkname>
+			<hash type="sha256">efc838454f264fdbf992a8b16bbc5d8206f3f6a1bbc5c5b4bc91f22a480fae7b</hash>
+			<size>5867706</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,WAKE_LOCK</permissions>
+		</package>
+		<package>
+			<version>2.19.17</version>
+			<versioncode>21917</versioncode>
+			<apkname>mmrl_v2.19.17-bump.apk</apkname>
+			<hash type="sha256">0747c812ddbf4ac7a5c762e3f042e5c287f2b5f3358e5e26d52be9ed761ef38b</hash>
+			<size>5867714</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,WAKE_LOCK</permissions>
+		</package>
+		<package>
+			<version>2.18.17</version>
+			<versioncode>21817</versioncode>
+			<apkname>mmrl_v2.18.17.apk</apkname>
+			<hash type="sha256">cc4311d814bcba4771a6d25407817a3a696a73d8788b11798a52f38c88130e42</hash>
+			<size>5865158</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,WAKE_LOCK</permissions>
+		</package>
+		<package>
+			<version>2.17.16</version>
+			<versioncode>21716</versioncode>
+			<apkname>mmrl_v2.17.16.apk</apkname>
+			<hash type="sha256">685ea23d05b1e65a5356789d6ba366ffbe3a9f59470c7b5936e6a5bd9e25c087</hash>
+			<size>5863334</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,WAKE_LOCK</permissions>
+		</package>
+		<package>
+			<version>2.17.15</version>
+			<versioncode>21715</versioncode>
+			<apkname>mmrl_v2.17.15.apk</apkname>
+			<hash type="sha256">7905ee718201f20d508ad41b1574596e2cd4b904d16b2ba33622391aadb83061</hash>
+			<size>5863382</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,WAKE_LOCK</permissions>
+		</package>
+		<package>
+			<version>2.16.13</version>
+			<versioncode>21613</versioncode>
+			<apkname>mmrl_v2.16.13.apk</apkname>
+			<hash type="sha256">17a4717a3d636b50c527d5e4d5d7a0ee10199ebb1b2460a92338bd5de473e72e</hash>
+			<size>5739233</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,com.dergoogler.mmrl.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+		</package>
+		<package>
+			<version>2.15.12</version>
+			<versioncode>21512</versioncode>
+			<apkname>mmrl_v2.15.12.apk</apkname>
+			<hash type="sha256">54527160befb7540d1604a646a02fdbdada3c61f9172ba993947354bb9ec8ce2</hash>
+			<size>5652858</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,com.dergoogler.mmrl.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+		</package>
+		<package>
+			<version>2.15.11</version>
+			<versioncode>21511</versioncode>
+			<apkname>mmrl_v2.15.11.apk</apkname>
+			<hash type="sha256">4413790efa704643934cb55e2c10bc34b64d1c11b1473b11f0bbca07a33579bc</hash>
+			<size>5652542</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,com.dergoogler.mmrl.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+		</package>
+		<package>
+			<version>2.15.10</version>
+			<versioncode>21510</versioncode>
+			<apkname>mmrl_v2.15.10.apk</apkname>
+			<hash type="sha256">751c641581d14721d12cb33bd822b6fce3e792ae67f569b84628257031b6fbf9</hash>
+			<size>5651626</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,com.dergoogler.mmrl.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+		</package>
+		<package>
+			<version>2.14.10</version>
+			<versioncode>21410</versioncode>
+			<apkname>mmrl_v2.14.10.apk</apkname>
+			<hash type="sha256">ce8ad468c66ceb2ffa6e6030dac63de1871aa72990b24250393bf7b679e0df3f</hash>
+			<size>5638452</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,com.dergoogler.mmrl.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+		</package>
+		<package>
+			<version>2.13.9</version>
+			<versioncode>2139</versioncode>
+			<apkname>mmrl_v2.13.9.apk</apkname>
+			<hash type="sha256">4d2579317e1b36d6a75c286130951237d33307553a8d942d2b061dd781ee2de8</hash>
+			<size>5510792</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,com.dergoogler.mmrl.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+		</package>
+		<package>
+			<version>1.13.9</version>
+			<versioncode>1139</versioncode>
+			<apkname>mmrl_v1.13.9.apk</apkname>
+			<hash type="sha256">120d667edbaa72f838a1aee6b437b3530994e2b44886a2f0e3e28fe4472b526d</hash>
+			<size>12349816</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,com.dergoogler.mmrl.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<uses-permission maxSdkVersion="32" name="android.permission.READ_EXTERNAL_STORAGE"/>
+			<uses-permission maxSdkVersion="32" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+			<nativecode>arm64-v8a</nativecode>
+		</package>
+		<package>
+			<version>1.13.8</version>
+			<versioncode>1138</versioncode>
+			<apkname>mmrl_v1.13.8.apk</apkname>
+			<hash type="sha256">f9908fc21e4acb098edf30d93a0c2e564b5a83e6a1046735c5cf16b4d4c98dd1</hash>
+			<size>12349840</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,com.dergoogler.mmrl.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<uses-permission maxSdkVersion="32" name="android.permission.READ_EXTERNAL_STORAGE"/>
+			<uses-permission maxSdkVersion="32" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+			<nativecode>arm64-v8a</nativecode>
+		</package>
+		<package>
+			<version>1.12.8</version>
+			<versioncode>1128</versioncode>
+			<apkname>mmrl_v1.12.8.apk</apkname>
+			<hash type="sha256">7289e7c2b75698419f33ac0667ecbe3f9f4bfe61c8b99104fa9a8df5edc6575f</hash>
+			<size>12223846</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,com.dergoogler.mmrl.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<uses-permission maxSdkVersion="32" name="android.permission.READ_EXTERNAL_STORAGE"/>
+			<uses-permission maxSdkVersion="32" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+			<nativecode>arm64-v8a</nativecode>
+		</package>
+		<package>
+			<version>1.11.8</version>
+			<versioncode>1118</versioncode>
+			<apkname>mmrl_v1.11.8.apk</apkname>
+			<hash type="sha256">2758d496ba73d11548b4c5697e4c5a8589aff9969301c8fe2fe13b581531bc8f</hash>
+			<size>12223814</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,com.dergoogler.mmrl.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<uses-permission maxSdkVersion="32" name="android.permission.READ_EXTERNAL_STORAGE"/>
+			<uses-permission maxSdkVersion="32" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+			<nativecode>arm64-v8a</nativecode>
+		</package>
+		<package>
+			<version>1.10.7</version>
+			<versioncode>1107</versioncode>
+			<apkname>mmrl_v1.10.7.apk</apkname>
+			<hash type="sha256">9df36007fc197088c0d27f01a73dbf1699e8fe952b92b19095f260a2fce237f7</hash>
+			<size>12223442</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,com.dergoogler.mmrl.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<uses-permission maxSdkVersion="32" name="android.permission.READ_EXTERNAL_STORAGE"/>
+			<uses-permission maxSdkVersion="32" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+			<nativecode>arm64-v8a</nativecode>
+		</package>
+		<package>
+			<version>1.10.6</version>
+			<versioncode>1106</versioncode>
+			<apkname>mmrl_v1.10.6.apk</apkname>
+			<hash type="sha256">3ea9b9a45a61a9cde87b4dcec01c1bee210cd09225845a976f5e8ee42ace4a90</hash>
+			<size>12231046</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,com.dergoogler.mmrl.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<uses-permission maxSdkVersion="32" name="android.permission.READ_EXTERNAL_STORAGE"/>
+			<uses-permission maxSdkVersion="32" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+			<nativecode>arm64-v8a</nativecode>
+		</package>
+		<package>
+			<version>1.9.6</version>
+			<versioncode>196</versioncode>
+			<apkname>mmrl_v1.9.6.apk</apkname>
+			<hash type="sha256">af6b441a0c96bbec80faf0ac2c6ea6dd8149db18e9c0dfa58fcaa3fdb7b61086</hash>
+			<size>12195534</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,com.dergoogler.mmrl.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<uses-permission maxSdkVersion="32" name="android.permission.READ_EXTERNAL_STORAGE"/>
+			<uses-permission maxSdkVersion="32" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+			<nativecode>arm64-v8a</nativecode>
+		</package>
+		<package>
+			<version>1.9.5</version>
+			<versioncode>195</versioncode>
+			<apkname>mmrl_v1.9.5.apk</apkname>
+			<hash type="sha256">e0beee46d508d30627f9ab17f9c17be847236379f1b9bbba87eb051984a80b40</hash>
+			<size>12195490</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,com.dergoogler.mmrl.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<uses-permission maxSdkVersion="32" name="android.permission.READ_EXTERNAL_STORAGE"/>
+			<uses-permission maxSdkVersion="32" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+			<nativecode>arm64-v8a</nativecode>
+		</package>
+		<package>
+			<version>1.8.5</version>
+			<versioncode>185</versioncode>
+			<apkname>mmrl_v1.8.5.apk</apkname>
+			<hash type="sha256">e6d5e2a47dc0aa7f8aa833c5a407b4b5f21958e3a200af29992b4ea871eb2c3e</hash>
+			<size>14301546</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,com.dergoogler.mmrl.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<nativecode>arm64-v8a</nativecode>
+		</package>
+		<package>
+			<version>1.7.5</version>
+			<versioncode>175</versioncode>
+			<apkname>mmrl_v1.7.5.apk</apkname>
+			<hash type="sha256">0b71efdd0f31395d607bc4ff7ca28e00c60c865b2bddbaa9a78ae790de14eeed</hash>
+			<size>10583059</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>26</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,com.dergoogler.mmrl.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<nativecode>arm64-v8a</nativecode>
+		</package>
+		<package>
+			<version>1.7.4</version>
+			<versioncode>174</versioncode>
+			<apkname>mmrl_v1.7.4.apk</apkname>
+			<hash type="sha256">420163e4871d3c52fa43efc2783b738402cda60d278acc42befc39edd1a4bee6</hash>
+			<size>10581729</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>26</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,com.dergoogler.mmrl.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<nativecode>arm64-v8a</nativecode>
+		</package>
+		<package>
+			<version>1.7.3</version>
+			<versioncode>173</versioncode>
+			<apkname>mmrl_v1.7.3.apk</apkname>
+			<hash type="sha256">4a7329fc3dafeb02a68c80d734887ae5ec576f150cad537cc2e9c803ed3e5ce8</hash>
+			<size>10589913</size>
+			<sdkver>33</sdkver>
+			<targetSdkVersion>33</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,com.dergoogler.mmrl.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<nativecode>arm64-v8a</nativecode>
+		</package>
+		<package>
+			<version>1.7.1</version>
+			<versioncode>171</versioncode>
+			<apkname>mmrl_v1.7.1.apk</apkname>
+			<hash type="sha256">3daaf247967e42873352a2b58860015c665c81e50fa18ad9a78643b85f0af204</hash>
+			<size>9882841</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>26</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>INTERNET,MANAGE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,com.dergoogler.mmrl.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<nativecode>arm64-v8a</nativecode>
+		</package>
+		<package>
+			<version>1.7.0</version>
+			<versioncode>170</versioncode>
+			<apkname>mmrl_v1.7.0.apk</apkname>
+			<hash type="sha256">38e63572595349ab1859a93761e385ab15134bf5735190e89e3868a45cfb4f89</hash>
+			<size>11737632</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>33</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>INTERNET,MANAGE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,com.dergoogler.mmrl.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<nativecode>arm64-v8a</nativecode>
+		</package>
+		<package>
+			<version>1.6.5</version>
+			<versioncode>165</versioncode>
+			<apkname>mmrl_v1.6.5.apk</apkname>
+			<hash type="sha256">05be842f2b2ce2af46a79e5454b273e28300cb7d9b96036b0f6edbdfa493c2f3</hash>
+			<size>11735261</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>33</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>INTERNET,MANAGE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,com.dergoogler.mmrl.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<nativecode>arm64-v8a</nativecode>
+		</package>
+		<package>
+			<version>1.6.4</version>
+			<versioncode>164</versioncode>
+			<apkname>mmrl_v1.6.4.apk</apkname>
+			<hash type="sha256">77750fbabfc732ca99b1360950db2480ffc95cd1c453bf8ea27be279cc69596f</hash>
+			<size>28301714</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>33</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>INTERNET,MANAGE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,com.dergoogler.mmrl.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>1.6.3</version>
+			<versioncode>163</versioncode>
+			<apkname>mmrl_v1.6.3.apk</apkname>
+			<hash type="sha256">296e52646b0ad0fc69276c7948a39ea0ec029f5ce68191b37365c3d6cca558fc</hash>
+			<size>28300106</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>33</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>INTERNET,MANAGE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,com.dergoogler.mmrl.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>1.6.2</version>
+			<versioncode>162</versioncode>
+			<apkname>mmrl_v1.6.2.apk</apkname>
+			<hash type="sha256">04d15ea5976835ca4c1370318d7f2247ebd55bd21ddd229009ee7307cd7c5b19</hash>
+			<size>28490702</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>33</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>INTERNET,MANAGE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,com.dergoogler.mmrl.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>1.6.1</version>
+			<versioncode>161</versioncode>
+			<apkname>mmrl_v1.6.1.apk</apkname>
+			<hash type="sha256">88d7c75d37ecb2bfd61d496d6e06aaf33f8fe447d39d8e3f03edcd1d576301c3</hash>
+			<size>28489898</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>33</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>INTERNET,MANAGE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,com.dergoogler.mmrl.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>1.6.0</version>
+			<versioncode>160</versioncode>
+			<apkname>mmrl_1.6.0-beta.apk</apkname>
+			<hash type="sha256">eacafb746ca7d86bf94575eaaf71c87dd6a73521de27ed66c41003abce6c42ac</hash>
+			<size>6658178</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>33</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>INTERNET,MANAGE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,com.dergoogler.mmrl.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+		</package>
+		<package>
+			<version>1.4.1</version>
+			<versioncode>141</versioncode>
+			<apkname>mmrl_1.4.1-141.apk</apkname>
+			<hash type="sha256">5e5abc0d440824cff5abc73259f267a8217da41ade32040b5bf4bfa466e80f1d</hash>
+			<size>3451691</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>32</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>INTERNET,MANAGE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
+		</package>
+		<package>
+			<version>1.4.0@alpha-2</version>
+			<versioncode>140</versioncode>
+			<apkname>mmrl_1.4.0Alpha-2.apk</apkname>
+			<hash type="sha256">c9ada775a912827393ce74fc7054b51b930d4387616f04039a600b7b03d3e025</hash>
+			<size>27349956</size>
+			<sdkver>28</sdkver>
+			<targetSdkVersion>32</targetSdkVersion>
+			<added>2025-08-07</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>INTERNET,MANAGE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,com.dergoogler.mmrl.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+	</application>
 	<application id="nekox.messenger.broken">
 		<id>nekox.messenger.broken</id>
 		<added>2025-06-27</added>
@@ -591,7 +1977,7 @@
 	<application id="com.playstation.psstore">
 		<id>com.playstation.psstore</id>
 		<added>2025-08-01</added>
-		<lastupdated>2025-08-01</lastupdated>
+		<lastupdated>2025-08-07</lastupdated>
 		<name>NoPssDrm No-Root</name>
 		<summary>Prebuilt (NO-ROOT) NOPSSDRM PROJECT</summary>
 		<icon>com.playstation.psstore.1170.png</icon>
@@ -609,12 +1995,12 @@
 		<package>
 			<version>1.7.0</version>
 			<versioncode>1170</versioncode>
-			<apkname>nopssdrm_4.apk</apkname>
-			<hash type="sha256">304b5d5fca9f5c05df4b4f53c0192c9d269d42d074cacd1c8610904fb849fa24</hash>
+			<apkname>nopssdrm_5.apk</apkname>
+			<hash type="sha256">6fdee68490dc711c459d5318954da85c1717288ee79b0ee5f9583b683ac815e5</hash>
 			<size>18346931</size>
 			<sdkver>10</sdkver>
 			<targetSdkVersion>10</targetSdkVersion>
-			<added>2025-08-01</added>
+			<added>2025-08-07</added>
 			<sig>9bf31245c30b3a965b618ea1bd44e37b</sig>
 			<permissions>ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,AUTHENTICATE_ACCOUNTS,BATTERY_STATS,BLUETOOTH,BLUETOOTH_ADMIN,CAMERA,CHANGE_CONFIGURATION,CHANGE_NETWORK_STATE,CHANGE_WIFI_MULTICAST_STATE,CHANGE_WIFI_STATE,GET_ACCOUNTS,INTERNET,MANAGE_ACCOUNTS,MODIFY_AUDIO_SETTINGS,PERSISTENT_ACTIVITY,READ_EXTERNAL_STORAGE,READ_OWNER_DATA,READ_PHONE_STATE,READ_SYNC_SETTINGS,READ_SYNC_STATS,RECORD_AUDIO,SYSTEM_ALERT_WINDOW,USE_CREDENTIALS,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,WRITE_SETTINGS,WRITE_SYNC_SETTINGS,com.android.launcher.permission.INSTALL_SHORTCUT,com.android.launcher.permission.UNINSTALL_SHORTCUT,com.android.vending.CHECK_LICENSE,com.playstation.psstore.permission</permissions>
 			<nativecode>armeabi</nativecode>

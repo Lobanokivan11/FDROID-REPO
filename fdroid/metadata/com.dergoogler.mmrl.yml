@@ -1,0 +1,13 @@
+AuthorName: MMRLApp
+Categories:
+    - System
+CurrentVersion: v33920-release
+CurrentVersionCode: 33920
+Description: |
+    Magisk Advanced Module Manager
+IssueTracker: ""
+License: GPL-3.0
+Name: MMRL
+SourceCode: https://github.com/MMRLApp/MMRL
+Summary: MMRL is an Android app that helps manage your own modules repository.
+WebSite: ""

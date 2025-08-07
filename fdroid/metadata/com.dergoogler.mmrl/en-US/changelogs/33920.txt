@@ -1,0 +1,11 @@
+**MMRL**
+#ci_33920
+
+Build on 2025-07-04 23:18:28.
+
+## What's new?
+  
+- Move setForeground calls to service start methods
+- Use IO dispatcher for executeAction shell commands
+
+[Workflow run](https://github.com/MMRLApp/MMRL/actions/runs/16082071671)
