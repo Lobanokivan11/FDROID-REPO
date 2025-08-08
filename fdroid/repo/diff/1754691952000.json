@@ -1,0 +1,21 @@
+{
+  "repo": {
+    "timestamp": 1754692044000
+  },
+  "packages": {
+    "com.dergoogler.mmrl": {
+      "versions": {
+        "8c6f76525af815b8d70545339733b0450c10d3773d0dba74f827bf4390a69f16": {
+          "releaseChannels": null
+        }
+      }
+    },
+    "com.dergoogler.mmrl.wx": {
+      "versions": {
+        "c54e6a25b3f17fdd8d8d4f631a20dcc5e1da3b472255aba2c5568d93c930b9da": {
+          "releaseChannels": null
+        }
+      }
+    }
+  }
+}

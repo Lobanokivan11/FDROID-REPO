@@ -14,7 +14,7 @@
       }
     },
     "address": "https://raw.githubusercontent.com/Lobanokivan11/FDROID-REPO/refs/heads/main/fdroid/repo",
-    "timestamp": 1754688579000,
+    "timestamp": 1754692044000,
     "categories": {
       "Games": {
         "name": {
@@ -20691,7 +20691,7 @@
         "categories": [
           "System"
         ],
-        "lastUpdated": 1754557698000,
+        "lastUpdated": 1754691851000,
         "license": "GPL-3.0",
         "sourceCode": "https://github.com/MMRLApp/MMRL",
         "screenshots": {
@@ -20743,6 +20743,79 @@
         "preferredSigner": "102c2579a177579073dfc69bdf889ad04de9e7c53726a99d65873ec122183860"
       },
       "versions": {
+        "8c6f76525af815b8d70545339733b0450c10d3773d0dba74f827bf4390a69f16": {
+          "added": 1754691851000,
+          "file": {
+            "name": "/mmrl_v2632.apk",
+            "sha256": "8c6f76525af815b8d70545339733b0450c10d3773d0dba74f827bf4390a69f16",
+            "size": 5216884
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "v33952-release",
+            "versionCode": 33952,
+            "usesSdk": {
+              "minSdkVersion": 26,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "102c2579a177579073dfc69bdf889ad04de9e7c53726a99d65873ec122183860"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_DATA_SYNC"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_SPECIAL_USE"
+              },
+              {
+                "name": "com.android.launcher.permission.INSTALL_SHORTCUT"
+              },
+              {
+                "name": "com.dergoogler.mmrl.permission.WEBUI_X"
+              },
+              {
+                "name": "com.dergoogler.mmrl.permission.WEBUI_LEGACY"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE",
+                "maxSdkVersion": 29
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE",
+                "maxSdkVersion": 29
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "moe.shizuku.manager.permission.API_V23"
+              }
+            ]
+          }
+        },
         "24185d029dfd55b98fd852ff92d13dd96630ecc83d0daae496180c864c43702d": {
           "added": 1754557694000,
           "file": {
@@ -24819,7 +24892,7 @@
         "categories": [
           "System"
         ],
-        "lastUpdated": 1754557783000,
+        "lastUpdated": 1754691948000,
         "license": "GPL-3.0",
         "sourceCode": "https://github.com/MMRLApp/WebUI-X-Portable",
         "screenshots": {
@@ -24866,6 +24939,65 @@
         "preferredSigner": "102c2579a177579073dfc69bdf889ad04de9e7c53726a99d65873ec122183860"
       },
       "versions": {
+        "c54e6a25b3f17fdd8d8d4f631a20dcc5e1da3b472255aba2c5568d93c930b9da": {
+          "added": 1754691948000,
+          "file": {
+            "name": "/webuix_v212.apk",
+            "sha256": "c54e6a25b3f17fdd8d8d4f631a20dcc5e1da3b472255aba2c5568d93c930b9da",
+            "size": 22227202
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "v212-release",
+            "versionCode": 212,
+            "usesSdk": {
+              "minSdkVersion": 26,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "102c2579a177579073dfc69bdf889ad04de9e7c53726a99d65873ec122183860"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_SPECIAL_USE"
+              },
+              {
+                "name": "com.dergoogler.mmrl.permission.WEBUI_X"
+              },
+              {
+                "name": "com.dergoogler.mmrl.permission.WEBUI_LEGACY"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "moe.shizuku.manager.permission.API_V23"
+              }
+            ]
+          }
+        },
         "73f96c80b238299a6d43399beaf2ad008fa6a3f9a47408ed2d992326eb3c4640": {
           "added": 1754557779000,
           "file": {

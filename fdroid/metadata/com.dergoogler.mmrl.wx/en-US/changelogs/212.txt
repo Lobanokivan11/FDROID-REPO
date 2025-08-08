@@ -1,0 +1,58 @@
+## What's new?
+
+- Refactor loading renderer to accept color scheme
+- Update commits.sh
+- Update commits.sh
+- Add licenses screen and related models
+- Add Licensee plugin for license management
+- Translated using Weblate (Chinese (Simplified Han script))
+- Added translation using Weblate (Asu)
+- Translated using Weblate (French)
+- Translated using Weblate (Japanese)
+- Refactor module extraction and base dir handling
+- Fix escape character in Italian shortcut icon error string
+- Use putPlatform and string ModId in intent creation
+- Update strings_webui.xml
+- Add input validation for cachingMaxAge field
+- Refactor config file reading logic
+- Translated using Weblate (Polish)
+- Disable exit confirm switch when JS back interceptor is used
+- Replace finish() with handleNativeBack() on back press
+- Add SuFile text read/write extensions and JSONCollection types
+- Add WebUI config options for CSP and caching
+- Refactor FeaturedManager to use WorkingMode and add SukiSU
+- Switch module storage to internal app filesDir
+- Add composable error screens for WebView errors
+- Refactor WebView initialization and add debug helpers
+- Refactor script injection and cleanup unused variables
+- Prevent handling of data: URLs in WXClient
+- Refactor WebUI clients and split Chrome/RenderProcess logic
+- Refactor JavaScript interface removal in WebUIView
+- Translated using Weblate (Polish)
+- Translated using Weblate (Turkish)
+- Translated using Weblate (Turkish)
+- Translated using Weblate (Chinese (Simplified Han script))
+- Refactor cleanup logic and add @CallSuper annotations
+- Refactor contentSecurityPolicy to non-nullable String
+- Add WebView render process client for unresponsive handling
+- Localize error messages in WebUIClient
+- Add CSP and caching options to WebUI config and handler
+- Add auto-open Eruda console option to WebUI
+- Refactor DataStore to local module and add auto-open Eruda
+- Fix cleanup method to properly remove WXView from parent
+- Add modular error page system for WebUI
+- Add webuix-demo2.zip asset and extraction logic
+- Add non-root module removal and refactor file usage
+- Pass baseDir to toModId for module lookup
+- Remove unused import from WebColors.kt
+- Add tonalSurface CSS variable to WebColors
+- Move require.js to assets and update injection logic
+- Refactor web color CSS generation to WebColors class
+- Translated using Weblate (Portuguese)
+- Translated using Weblate (Russian)
+- Translated using Weblate (Japanese)
+- Add permission constants and annotations to WebUILauncher
+
+[See all changes here](https://github.com/MMRLApp/WebUI-X-Portable/compare/v142...master)
+
+[Workflow run](https://github.com/MMRLApp/WebUI-X-Portable/actions/runs/16841367646)

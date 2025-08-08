@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1754688579000,
+    "timestamp": 1754692044000,
     "version": 20002,
     "name": "Lobanokivan11's F-Droid Repo",
     "icon": "icon.png",
@@ -105,8 +105,8 @@
       "categories": [
         "System"
       ],
-      "suggestedVersionName": "v142-release",
-      "suggestedVersionCode": "142",
+      "suggestedVersionName": "v212-release",
+      "suggestedVersionCode": "212",
       "description": "Manage Module's Settings On Magisk\n",
       "license": "GPL-3.0",
       "name": "MMRL",
@@ -114,7 +114,7 @@
       "summary": "WebUI X from MMRL but portable!",
       "added": 1754557775000,
       "packageName": "com.dergoogler.mmrl.wx",
-      "lastUpdated": 1754557783000,
+      "lastUpdated": 1754691948000,
       "localized": {
         "en-US": {
           "phoneScreenshots": [
@@ -124,7 +124,7 @@
             "4.png",
             "5.png"
           ],
-          "whatsNew": "**WebUI X: Portable**\n#ci_142\n\nBuild on 2025-07-04 23:07:20.\n\n## What's new?\n\n- Handle null modules in navigation graphs\n- Move setForeground call to onStartCommand\n- Refactor modId property initialization in WXActivity\n- Remove redundant file creation in config setup\n- Make modId property private and initialize in onCreate\n\nType: Release\n[Workflow run](https://github.com/MMRLApp/WebUI-X-Portable/actions/runs/16081997776)"
+          "whatsNew": "## What's new?\n\n- Refactor loading renderer to accept color scheme\n- Update commits.sh\n- Update commits.sh\n- Add licenses screen and related models\n- Add Licensee plugin for license management\n- Translated using Weblate (Chinese (Simplified Han script))\n- Added translation using Weblate (Asu)\n- Translated using Weblate (French)\n- Translated using Weblate (Japanese)\n- Refactor module extraction and base dir handling\n- Fix escape character in Italian shortcut icon error string\n- Use putPlatform an"
         }
       }
     },
@@ -133,8 +133,8 @@
       "categories": [
         "System"
       ],
-      "suggestedVersionName": "v33920-release",
-      "suggestedVersionCode": "33920",
+      "suggestedVersionName": "v33952-release",
+      "suggestedVersionCode": "33952",
       "description": "Magisk Advanced Module Manager\n",
       "license": "GPL-3.0",
       "name": "MMRL",
@@ -142,7 +142,7 @@
       "summary": "MMRL is an Android app that helps manage your own modules repository.",
       "added": 1754557672000,
       "packageName": "com.dergoogler.mmrl",
-      "lastUpdated": 1754557698000,
+      "lastUpdated": 1754691851000,
       "localized": {
         "en-US": {
           "phoneScreenshots": [
@@ -153,7 +153,7 @@
             "5.png",
             "6.png"
           ],
-          "whatsNew": "**MMRL**\n#ci_33920\n\nBuild on 2025-07-04 23:18:28.\n\n## What's new?\n  \n- Move setForeground calls to service start methods\n- Use IO dispatcher for executeAction shell commands\n\n[Workflow run](https://github.com/MMRLApp/MMRL/actions/runs/16082071671)"
+          "whatsNew": "## What's new?\n\n- Enable MagicMount and add action environment variables\n- Refactor WebUI launch logic and add helper dependency\n- Add LoadData and PaddingValues extension utilities\n- Added translation using Weblate (Asu)\n- Translated using Weblate (French)\n- Translated using Weblate (Italian)\n- Translated using Weblate (Polish)\n- Translated using Weblate (Turkish)\n- Translated using Weblate (Chinese (Simplified Han script))\n- Translated using Weblate (Turkish)\n- Translated using Weblate (Chines"
         }
       }
     },
@@ -25824,6 +25824,84 @@
     ],
     "com.dergoogler.mmrl": [
       {
+        "added": 1754691851000,
+        "apkName": "mmrl_v2632.apk",
+        "hash": "8c6f76525af815b8d70545339733b0450c10d3773d0dba74f827bf4390a69f16",
+        "hashType": "sha256",
+        "minSdkVersion": 26,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.dergoogler.mmrl",
+        "sig": "540480bcf62aea562549755418702e5b",
+        "signer": "102c2579a177579073dfc69bdf889ad04de9e7c53726a99d65873ec122183860",
+        "size": 5216884,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_SPECIAL_USE",
+            null
+          ],
+          [
+            "com.android.launcher.permission.INSTALL_SHORTCUT",
+            null
+          ],
+          [
+            "com.dergoogler.mmrl.permission.WEBUI_X",
+            null
+          ],
+          [
+            "com.dergoogler.mmrl.permission.WEBUI_LEGACY",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            29
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            29
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "moe.shizuku.manager.permission.API_V23",
+            null
+          ]
+        ],
+        "versionCode": 33952,
+        "versionName": "v33952-release"
+      },
+      {
         "added": 1754557694000,
         "apkName": "mmrl_v33920.apk",
         "hash": "24185d029dfd55b98fd852ff92d13dd96630ecc83d0daae496180c864c43702d",
@@ -29832,6 +29910,68 @@
       }
     ],
     "com.dergoogler.mmrl.wx": [
+      {
+        "added": 1754691948000,
+        "apkName": "webuix_v212.apk",
+        "hash": "c54e6a25b3f17fdd8d8d4f631a20dcc5e1da3b472255aba2c5568d93c930b9da",
+        "hashType": "sha256",
+        "minSdkVersion": 26,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.dergoogler.mmrl.wx",
+        "sig": "540480bcf62aea562549755418702e5b",
+        "signer": "102c2579a177579073dfc69bdf889ad04de9e7c53726a99d65873ec122183860",
+        "size": 22227202,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_SPECIAL_USE",
+            null
+          ],
+          [
+            "com.dergoogler.mmrl.permission.WEBUI_X",
+            null
+          ],
+          [
+            "com.dergoogler.mmrl.permission.WEBUI_LEGACY",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "moe.shizuku.manager.permission.API_V23",
+            null
+          ]
+        ],
+        "versionCode": 212,
+        "versionName": "v212-release"
+      },
       {
         "added": 1754557779000,
         "apkName": "webuix_v142.apk",

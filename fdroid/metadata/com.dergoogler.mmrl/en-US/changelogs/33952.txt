@@ -1,0 +1,29 @@
+## What's new?
+
+- Enable MagicMount and add action environment variables
+- Refactor WebUI launch logic and add helper dependency
+- Add LoadData and PaddingValues extension utilities
+- Added translation using Weblate (Asu)
+- Translated using Weblate (French)
+- Translated using Weblate (Italian)
+- Translated using Weblate (Polish)
+- Translated using Weblate (Turkish)
+- Translated using Weblate (Chinese (Simplified Han script))
+- Translated using Weblate (Turkish)
+- Translated using Weblate (Chinese (Traditional Han script))
+- Update translation files
+- Translated using Weblate (Portuguese)
+- Translated using Weblate (Japanese)
+- Translated using Weblate (Russian)
+- Update SuFile.kt
+- Support loading multiple shared objects in FileManager
+- Refactor library loading to use native shared object method
+- Refactor library loading to use class context
+- Update SuFile.kt
+- Update SuFile.kt
+- Add loadLibrary support to FileManager and SuFile
+- Delete spoof
+
+[See all changes here](https://github.com/MMRLApp/MMRL/compare/v33920...master)
+
+[Workflow run](https://github.com/MMRLApp/MMRL/actions/runs/16841360402)
