@@ -1,0 +1,7 @@
+## What's new?
+
+- fix version code
+
+[See all changes here](https://github.com/MMRLApp/MMRL/compare/v2632...master)
+
+[Workflow run](https://github.com/MMRLApp/MMRL/actions/runs/16847633703)

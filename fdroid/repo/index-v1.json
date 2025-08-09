@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1754728039000,
+    "timestamp": 1754731372000,
     "version": 20002,
     "name": "Lobanokivan11's F-Droid Repo",
     "icon": "icon.png",
@@ -133,8 +133,8 @@
       "categories": [
         "System"
       ],
-      "suggestedVersionName": "v33952-release",
-      "suggestedVersionCode": "33952",
+      "suggestedVersionName": "v33953-release",
+      "suggestedVersionCode": "33953",
       "description": "Magisk Advanced Module Manager\n",
       "license": "GPL-3.0",
       "name": "MMRL",
@@ -142,7 +142,7 @@
       "summary": "MMRL is an Android app that helps manage your own modules repository.",
       "added": 1754557672000,
       "packageName": "com.dergoogler.mmrl",
-      "lastUpdated": 1754691851000,
+      "lastUpdated": 1754731204000,
       "localized": {
         "en-US": {
           "phoneScreenshots": [
@@ -153,7 +153,7 @@
             "5.png",
             "6.png"
           ],
-          "whatsNew": "## What's new?\n\n- Enable MagicMount and add action environment variables\n- Refactor WebUI launch logic and add helper dependency\n- Add LoadData and PaddingValues extension utilities\n- Added translation using Weblate (Asu)\n- Translated using Weblate (French)\n- Translated using Weblate (Italian)\n- Translated using Weblate (Polish)\n- Translated using Weblate (Turkish)\n- Translated using Weblate (Chinese (Simplified Han script))\n- Translated using Weblate (Turkish)\n- Translated using Weblate (Chines"
+          "whatsNew": "## What's new?\n\n- fix version code\n\n[See all changes here](https://github.com/MMRLApp/MMRL/compare/v2632...master)\n\n[Workflow run](https://github.com/MMRLApp/MMRL/actions/runs/16847633703)"
         }
       }
     },
@@ -25823,6 +25823,84 @@
       }
     ],
     "com.dergoogler.mmrl": [
+      {
+        "added": 1754731204000,
+        "apkName": "mmrl_v33953.apk",
+        "hash": "acb792616b97f80b45554517b9ec43b141b6cf20198663ffeedb6989c52f2b72",
+        "hashType": "sha256",
+        "minSdkVersion": 26,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.dergoogler.mmrl",
+        "sig": "540480bcf62aea562549755418702e5b",
+        "signer": "102c2579a177579073dfc69bdf889ad04de9e7c53726a99d65873ec122183860",
+        "size": 5216884,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_SPECIAL_USE",
+            null
+          ],
+          [
+            "com.android.launcher.permission.INSTALL_SHORTCUT",
+            null
+          ],
+          [
+            "com.dergoogler.mmrl.permission.WEBUI_X",
+            null
+          ],
+          [
+            "com.dergoogler.mmrl.permission.WEBUI_LEGACY",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            29
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            29
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "moe.shizuku.manager.permission.API_V23",
+            null
+          ]
+        ],
+        "versionCode": 33953,
+        "versionName": "v33953-release"
+      },
       {
         "added": 1754691851000,
         "apkName": "mmrl_v2632.apk",
