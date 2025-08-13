@@ -22,16 +22,12 @@ jobs:
           oauth-secret: ${{ secrets.TS_OAUTH_SECRET }}
           tags: tag:github-app-connector
 
-      - name: Upgrade
-        run: |
-          sudo apt update 
-          sudo apt upgrade -y
-
       - name: Create basic directory structure
         run: mkdir -p fdroid/repo
 
       - name: Restore correct mtime
         run: |
+          sudo apt update
           sudo apt install git-restore-mtime 
           git restore-mtime
 
