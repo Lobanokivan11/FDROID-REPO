@@ -15,15 +15,13 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - name: Tailscale
-        uses: tailscale/github-action@v3
-        with:
-          oauth-client-id: ${{ secrets.TS_OAUTH_CLIENT_ID }}
-          oauth-secret: ${{ secrets.TS_OAUTH_SECRET }}
-          tags: tag:github-app-connector
-
       - name: Create basic directory structure
-        run: mkdir -p fdroid/repo
+        run: mkdir -p fdroid/rep
+
+      - name: Update
+        run: |
+          sudo apt update
+          sudo apt upgrade -y
 
       - name: Restore correct mtime
         run: |
