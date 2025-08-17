@@ -1,13 +1,13 @@
 AuthorName: WSTxda
 Categories:
     - System
-CurrentVersion: 5.11 GMS-25.14.62
-CurrentVersionCode: 251462000
+CurrentVersion: 5.12 GMS-25.31.33
+CurrentVersionCode: 253133000
 Description: |
     GmsCore From WSTxda For Revanced (NON-ROOT) APPS
 IssueTracker: ""
 License: Apache-2.0
 Name: MicroG-RE
 SourceCode: https://github.com/WSTxda/MicroG-RE
-Summary: GmsCore fork for ReVanced with Material You, features and improvements
+Summary: GmsCore fork for ReVanced with Material 3 Expressive design, enhanced feature...
 WebSite: ""

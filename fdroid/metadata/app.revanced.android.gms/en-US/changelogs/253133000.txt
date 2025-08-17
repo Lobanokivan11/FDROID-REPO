@@ -1,0 +1,31 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1d0abfa5-0fc0-441f-b4d5-342a7bfe801e" alt="Material3Expressive" />
+</p>
+
+- Bump GMS version to `25.31.33`
+- Refresh UI with [Material 3 Expressive](https://m3.material.io/blog/building-with-m3-expressive) design
+- Update Login Assistant layout
+- Update Remove Account dialog layout
+- Refactored `AccountsFragment` and improved lifecycle handling
+- Updated signature retrieval for API compatibility
+- Fixed ask push permission dialog and data flow registration
+- General improvements and optimizations
+- Hide trust google authentication preference
+- Updated used libraries list
+- Updated MicroG RE icon resources
+- Prevented `LoginActivity` from being recreated on screen rotation (#76)
+- Enabled edge-to-edge and implement window insets listener
+- Added Ukrainian translation by @btncua
+- Updated Gradle and dependencies
+- Minor changes and fixes
+
+**Full Changelog**: https://github.com/WSTxda/MicroG-RE/compare/5.11...5.12
+
+<details>
+  <summary>Screenshots</summary>
+
+| ![Home](https://github.com/user-attachments/assets/a4da92f1-2827-42dc-9cd6-1fed8cf4ae1c) | ![Accounts](https://github.com/user-attachments/assets/dbe4cc73-a4c9-427f-88af-db8233215caa) | ![Login](https://github.com/user-attachments/assets/9686d591-ca9e-4ab8-8330-2fc1a38f3150) |
+|---|---|---|
+| ![Push dialog](https://github.com/user-attachments/assets/62e830cb-0957-4f35-8b1d-c99d582ec9dd) | ![Push app](https://github.com/user-attachments/assets/005ccf87-86e0-4852-a95d-f6ed1fcd5441) | ![Push all apps](https://github.com/user-attachments/assets/b53330aa-5ceb-4aeb-a4f4-a6cb9f52d70d) |
+
+</details>

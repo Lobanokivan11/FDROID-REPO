@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1755386589000,
+    "timestamp": 1755393573000,
     "version": 20002,
     "name": "Lobanokivan11's F-Droid Repo",
     "icon": "icon.png",
@@ -63,19 +63,19 @@
       "categories": [
         "System"
       ],
-      "suggestedVersionName": "5.11 GMS-25.14.62",
-      "suggestedVersionCode": "251462000",
+      "suggestedVersionName": "5.12 GMS-25.31.33",
+      "suggestedVersionCode": "253133000",
       "description": "GmsCore From WSTxda For Revanced (NON-ROOT) APPS\n",
       "license": "Apache-2.0",
       "name": "MicroG-RE",
       "sourceCode": "https://github.com/WSTxda/MicroG-RE",
-      "summary": "GmsCore fork for ReVanced with Material You, features and improvements",
+      "summary": "GmsCore fork for ReVanced with Material 3 Expressive design, enhanced feature...",
       "added": 1753696270000,
       "packageName": "app.revanced.android.gms",
-      "lastUpdated": 1753696276000,
+      "lastUpdated": 1755393375000,
       "localized": {
         "en-US": {
-          "whatsNew": "- Bump GMS version to `25.14.62`\n- Redesign login screen:\n  - Added support for tablet proportion\n  - Introduced material shared axis animation for opening/closing the login screen\n  - Use Material3Expressive for components\n- Switched to `Material3Expressive` themes and styles\n- Fixed Google Photos spoof package support (#57)\n- Fixed when the icon visibility is disabled, the battery optimization options are hidden in `HyperOS 2 Android 15`. also fix (#67)\n- Fixed foreground service notification "
+          "whatsNew": "<p align=\"center\">\n  <img src=\"https://github.com/user-attachments/assets/1d0abfa5-0fc0-441f-b4d5-342a7bfe801e\" alt=\"Material3Expressive\" />\n</p>\n\n- Bump GMS version to `25.31.33`\n- Refresh UI with [Material 3 Expressive](https://m3.material.io/blog/building-with-m3-expressive) design\n- Update Login Assistant layout\n- Update Remove Account dialog layout\n- Refactored `AccountsFragment` and improved lifecycle handling\n- Updated signature retrieval for API compatibility\n- Fixed ask push permission "
         }
       }
     },
@@ -90,7 +90,7 @@
       "license": "Apache-2.0",
       "name": "MicroG-RE",
       "sourceCode": "https://github.com/WSTxda/MicroG-RE",
-      "summary": "GmsCore fork for ReVanced with Material You, features and improvements",
+      "summary": "GmsCore fork for ReVanced with Material 3 Expressive design, enhanced feature...",
       "added": 1753696263000,
       "packageName": "com.mgoogle.android.gms",
       "lastUpdated": 1753696272000,
@@ -25033,6 +25033,124 @@
       }
     ],
     "app.revanced.android.gms": [
+      {
+        "added": 1755393375000,
+        "apkName": "microgre_5.12.apk",
+        "hash": "25f71580d8c98b0e9ce25e801f0ec15393f4926b1bcc498f878bf168970bf5b5",
+        "hashType": "sha256",
+        "minSdkVersion": 24,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "app.revanced.android.gms",
+        "sig": "5240e2ad5320f9481d29b0440f5bfeda",
+        "signer": "756f92c44ea9bf34d1c7f92425f40c88996854b5e72fac733650a9c41363d019",
+        "size": 12651481,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.USE_EXACT_ALARM",
+            null
+          ],
+          [
+            "android.permission.AUTHENTICATE_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.GET_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.MANAGE_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.USE_CREDENTIALS",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.READ_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.WRITE_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.READ_SYNC_STATS",
+            null
+          ],
+          [
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "app.revanced.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "app.revanced.android.c2dm.permission.SEND",
+            null
+          ],
+          [
+            "app.revanced.android.gtalkservice.permission.GTALK_SERVICE",
+            null
+          ],
+          [
+            "app.revanced.microg.gms.STATUS_BROADCAST",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.CHANGE_DEVICE_IDLE_TEMP_WHITELIST",
+            null
+          ],
+          [
+            "android.permission.UPDATE_APP_OPS_STATS",
+            null
+          ],
+          [
+            "app.revanced.android.gms.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 253133000,
+        "versionName": "5.12 GMS-25.31.33"
+      },
       {
         "added": 1753696271000,
         "apkName": "microgre_5.11.apk",
