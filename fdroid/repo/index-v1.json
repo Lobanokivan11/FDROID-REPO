@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1755393573000,
+    "timestamp": 1755401534000,
     "version": 20002,
     "name": "Lobanokivan11's F-Droid Repo",
     "icon": "icon.png",
@@ -75,7 +75,7 @@
       "lastUpdated": 1755393375000,
       "localized": {
         "en-US": {
-          "whatsNew": "<p align=\"center\">\n  <img src=\"https://github.com/user-attachments/assets/1d0abfa5-0fc0-441f-b4d5-342a7bfe801e\" alt=\"Material3Expressive\" />\n</p>\n\n- Bump GMS version to `25.31.33`\n- Refresh UI with [Material 3 Expressive](https://m3.material.io/blog/building-with-m3-expressive) design\n- Update Login Assistant layout\n- Update Remove Account dialog layout\n- Refactored `AccountsFragment` and improved lifecycle handling\n- Updated signature retrieval for API compatibility\n- Fixed ask push permission "
+          "whatsNew": "<p align=\"center\">\n  <img src=\"https://github.com/user-attachments/assets/1d0abfa5-0fc0-441f-b4d5-342a7bfe801e\" alt=\"Material3Expressive\" />\n</p>\n\n- Bump GMS version to `25.31.33`\n- Refresh UI with [Material 3 Expressive](https://m3.material.io/blog/building-with-m3-expressive) design\n- Update Login Assistant layout\n- Update Remove Account dialog layout\n- Refactored `AccountsFragment` and improved lifecycle handling\n- Updated signature retrieval for API compatibility\n- Fixed ask push notificatio"
         }
       }
     },

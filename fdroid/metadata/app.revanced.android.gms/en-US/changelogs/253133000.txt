@@ -8,7 +8,7 @@
 - Update Remove Account dialog layout
 - Refactored `AccountsFragment` and improved lifecycle handling
 - Updated signature retrieval for API compatibility
-- Fixed ask push permission dialog and data flow registration
+- Fixed ask push notification permission dialog and data flow registration
 - General improvements and optimizations
 - Hide trust google authentication preference
 - Updated used libraries list
