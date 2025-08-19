@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1755631237000,
+    "timestamp": 1755635056000,
     "version": 20002,
     "name": "Lobanokivan11's F-Droid Repo",
     "icon": "icon.png",
@@ -105,8 +105,8 @@
       "categories": [
         "System"
       ],
-      "suggestedVersionName": "v212-release",
-      "suggestedVersionCode": "212",
+      "suggestedVersionName": "v243-release",
+      "suggestedVersionCode": "243",
       "description": "Manage Module's Settings On Magisk\n",
       "license": "GPL-3.0",
       "name": "MMRL",
@@ -114,7 +114,7 @@
       "summary": "WebUI X from MMRL but portable!",
       "added": 1754557775000,
       "packageName": "com.dergoogler.mmrl.wx",
-      "lastUpdated": 1754691948000,
+      "lastUpdated": 1755634972000,
       "localized": {
         "en-US": {
           "phoneScreenshots": [
@@ -124,7 +124,7 @@
             "4.png",
             "5.png"
           ],
-          "whatsNew": "## What's new?\n\n- Refactor loading renderer to accept color scheme\n- Update commits.sh\n- Update commits.sh\n- Add licenses screen and related models\n- Add Licensee plugin for license management\n- Translated using Weblate (Chinese (Simplified Han script))\n- Added translation using Weblate (Asu)\n- Translated using Weblate (French)\n- Translated using Weblate (Japanese)\n- Refactor module extraction and base dir handling\n- Fix escape character in Italian shortcut icon error string\n- Use putPlatform an"
+          "whatsNew": "## What's new?\n\n- Migrate navigation to Compose Destinations\n- Add force kill option for WebUI process\n- Refactor WebUI activity lifecycle and initialization\n- Refactor NavButton to use generic implementation\n- Refactor navigation to use sealed route classes\n- Add build info section to DeveloperScreen\n- Move developer settings to separate screen\n- Add build config fields for SDK and commit info\n- Centralize SDK config and suppress unused warnings\n- Deleted translation using Weblate (Filipino)\n- "
         }
       }
     },
@@ -30356,6 +30356,75 @@
       }
     ],
     "com.dergoogler.mmrl.wx": [
+      {
+        "added": 1755634972000,
+        "apkName": "webuix_v243.apk",
+        "hash": "e3c4795f921073b9b93b818118a6f805d92d1bf6d6dd412220942bd32d9e4ddc",
+        "hashType": "sha256",
+        "minSdkVersion": 26,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi",
+          "armeabi-v7a",
+          "mips",
+          "mips64",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.dergoogler.mmrl.wx",
+        "sig": "540480bcf62aea562549755418702e5b",
+        "signer": "102c2579a177579073dfc69bdf889ad04de9e7c53726a99d65873ec122183860",
+        "size": 23421343,
+        "targetSdkVersion": 36,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.KILL_BACKGROUND_PROCESSES",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_SPECIAL_USE",
+            null
+          ],
+          [
+            "com.dergoogler.mmrl.permission.WEBUI_X",
+            null
+          ],
+          [
+            "com.dergoogler.mmrl.permission.WEBUI_LEGACY",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "moe.shizuku.manager.permission.API_V23",
+            null
+          ]
+        ],
+        "versionCode": 243,
+        "versionName": "v243-release"
+      },
       {
         "added": 1754691948000,
         "apkName": "webuix_v212.apk",

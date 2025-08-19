@@ -1,8 +1,8 @@
 AuthorName: MMRLApp
 Categories:
     - System
-CurrentVersion: v212-release
-CurrentVersionCode: 212
+CurrentVersion: v243-release
+CurrentVersionCode: 243
 Description: |
     Manage Module's Settings On Magisk
 IssueTracker: ""

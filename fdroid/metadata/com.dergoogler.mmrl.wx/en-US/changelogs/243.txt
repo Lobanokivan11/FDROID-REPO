@@ -1,0 +1,36 @@
+## What's new?
+
+- Migrate navigation to Compose Destinations
+- Add force kill option for WebUI process
+- Refactor WebUI activity lifecycle and initialization
+- Refactor NavButton to use generic implementation
+- Refactor navigation to use sealed route classes
+- Add build info section to DeveloperScreen
+- Move developer settings to separate screen
+- Add build config fields for SDK and commit info
+- Centralize SDK config and suppress unused warnings
+- Deleted translation using Weblate (Filipino)
+- Deleted translation using Weblate (Filipino)
+- Deleted translation using Weblate (Asu)
+- Deleted translation using Weblate (Asu)
+- Translated using Weblate (Spanish)
+- Translated using Weblate (Chinese (Simplified Han script))
+- Translated using Weblate (Japanese)
+- Translated using Weblate (Polish)
+- Append modId to native library registration names
+- Update mmrl version in libs.versions.toml
+- Add support for custom asset handlers in WebUI
+- Relax type constraints for library registration methods
+- Refactor WXLibrary load and unregister methods
+- Add WXNativeLong and WXPointerByReference interfaces
+- Add WXCallback interface and enhance WXLibrary
+- Add JNA wrapper interfaces and classes
+- Add isLibraryRegistered method to WXInterface
+- Add JNA library registration methods to WXInterface
+- Add extra field to WebUIConfig data class
+- Refactor shared object loading for JavaScript interfaces
+- Add JNA integration and shared object support
+
+[See all changes here](https://github.com/MMRLApp/WebUI-X-Portable/compare/v212...master)
+
+[Workflow run](https://github.com/MMRLApp/WebUI-X-Portable/actions/runs/17080189020)
