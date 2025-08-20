@@ -164,7 +164,7 @@ mmrl:
     - System
 webuix:
   git: https://github.com/MMRLApp/WebUI-X-Portable
-  name: "MMRL"
+  name: "WebUi X"
   description: |
     Manage Module's Settings On Magisk
   categories: 
