@@ -1,0 +1,14 @@
+{
+  "repo": {
+    "timestamp": 1755675800000
+  },
+  "packages": {
+    "com.dergoogler.mmrl.wx": {
+      "metadata": {
+        "name": {
+          "en-US": "WebUi X"
+        }
+      }
+    }
+  }
+}

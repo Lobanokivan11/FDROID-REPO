@@ -14,7 +14,7 @@
       }
     },
     "address": "https://raw.githubusercontent.com/Lobanokivan11/FDROID-REPO/refs/heads/main/fdroid/repo",
-    "timestamp": 1755674736000,
+    "timestamp": 1755675800000,
     "categories": {
       "Games": {
         "name": {
@@ -25302,7 +25302,7 @@
         },
         "authorName": "MMRLApp",
         "name": {
-          "en-US": "MMRL"
+          "en-US": "WebUi X"
         },
         "summary": {
           "en-US": "WebUI X from MMRL but portable!"

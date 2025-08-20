@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1755674736000,
+    "timestamp": 1755675800000,
     "version": 20002,
     "name": "Lobanokivan11's F-Droid Repo",
     "icon": "icon.png",
@@ -97,34 +97,6 @@
       "localized": {
         "en-US": {
           "whatsNew": "## MicroG RE\n\n- Added Anddea package detection\n- Added rufusin package detection\n- Remove self-check preference in settings\n- Improvement switch bar color state\n- Somes design, typo refactor\n\n## GmsCore\n\n- Auth: Make account visible after creation when configured to do so (microg#2235)\n- Auth: Return result from login activity (microg#2227)\n- Fake signature: Add additional packages\n- Self-Check: Adjust to better cover most signature spoofing scenarios\n- Correctly handle optional spaces at the st"
-        }
-      }
-    },
-    {
-      "authorName": "MMRLApp",
-      "categories": [
-        "System"
-      ],
-      "suggestedVersionName": "v243-release",
-      "suggestedVersionCode": "243",
-      "description": "Manage Module's Settings On Magisk\n",
-      "license": "GPL-3.0",
-      "name": "MMRL",
-      "sourceCode": "https://github.com/MMRLApp/WebUI-X-Portable",
-      "summary": "WebUI X from MMRL but portable!",
-      "added": 1754557775000,
-      "packageName": "com.dergoogler.mmrl.wx",
-      "lastUpdated": 1755634972000,
-      "localized": {
-        "en-US": {
-          "phoneScreenshots": [
-            "1.png",
-            "2.png",
-            "3.png",
-            "4.png",
-            "5.png"
-          ],
-          "whatsNew": "## What's new?\n\n- Migrate navigation to Compose Destinations\n- Add force kill option for WebUI process\n- Refactor WebUI activity lifecycle and initialization\n- Refactor NavButton to use generic implementation\n- Refactor navigation to use sealed route classes\n- Add build info section to DeveloperScreen\n- Move developer settings to separate screen\n- Add build config fields for SDK and commit info\n- Centralize SDK config and suppress unused warnings\n- Deleted translation using Weblate (Filipino)\n- "
         }
       }
     },
@@ -365,6 +337,34 @@
       "localized": {
         "en-US": {
           "whatsNew": "Debug Builds"
+        }
+      }
+    },
+    {
+      "authorName": "MMRLApp",
+      "categories": [
+        "System"
+      ],
+      "suggestedVersionName": "v243-release",
+      "suggestedVersionCode": "243",
+      "description": "Manage Module's Settings On Magisk\n",
+      "license": "GPL-3.0",
+      "name": "WebUi X",
+      "sourceCode": "https://github.com/MMRLApp/WebUI-X-Portable",
+      "summary": "WebUI X from MMRL but portable!",
+      "added": 1754557775000,
+      "packageName": "com.dergoogler.mmrl.wx",
+      "lastUpdated": 1755634972000,
+      "localized": {
+        "en-US": {
+          "phoneScreenshots": [
+            "1.png",
+            "2.png",
+            "3.png",
+            "4.png",
+            "5.png"
+          ],
+          "whatsNew": "## What's new?\n\n- Migrate navigation to Compose Destinations\n- Add force kill option for WebUI process\n- Refactor WebUI activity lifecycle and initialization\n- Refactor NavButton to use generic implementation\n- Refactor navigation to use sealed route classes\n- Add build info section to DeveloperScreen\n- Move developer settings to separate screen\n- Add build config fields for SDK and commit info\n- Centralize SDK config and suppress unused warnings\n- Deleted translation using Weblate (Filipino)\n- "
         }
       }
     },
