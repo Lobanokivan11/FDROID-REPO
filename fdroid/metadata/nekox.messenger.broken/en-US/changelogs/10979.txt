@@ -1,0 +1,7 @@
+Added:
+- Boosted rating mark for contacts (enabled by default)
+- Disable star reaction placeholder by default
+- Don't preload next music track if repeating single track
+
+Misc:
+- Minor bug fixes
