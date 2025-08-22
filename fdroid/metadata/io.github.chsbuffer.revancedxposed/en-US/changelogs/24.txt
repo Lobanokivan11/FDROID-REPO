@@ -1,0 +1,9 @@
+## YouTube
+- `Litho Filter` support 20.33.38
+- Fix `ReVanced Settings` on Android 12 and below
+- Fix `Remember video quality` hook fails
+
+## Strava
+- Add `Unlock subscription features` and `Disable subscription suggestions` by @bru02 
+
+[Donate me on AFDian](https://afdian.com/a/ChsBuffer)
