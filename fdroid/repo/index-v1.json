@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1755840281000,
+    "timestamp": 1755844181000,
     "version": 20002,
     "name": "Lobanokivan11's F-Droid Repo",
     "icon": "icon.png",
@@ -105,8 +105,8 @@
       "categories": [
         "System"
       ],
-      "suggestedVersionName": "v33953-release",
-      "suggestedVersionCode": "33953",
+      "suggestedVersionName": "v34016-release",
+      "suggestedVersionCode": "34016",
       "description": "Magisk Advanced Module Manager\n",
       "license": "GPL-3.0",
       "name": "MMRL",
@@ -114,7 +114,7 @@
       "summary": "MMRL is an Android app that helps manage your own modules repository.",
       "added": 1754557672000,
       "packageName": "com.dergoogler.mmrl",
-      "lastUpdated": 1754731204000,
+      "lastUpdated": 1755844011000,
       "localized": {
         "en-US": {
           "phoneScreenshots": [
@@ -125,7 +125,7 @@
             "5.png",
             "6.png"
           ],
-          "whatsNew": "## What's new?\n\n- fix version code\n\n[See all changes here](https://github.com/MMRLApp/MMRL/compare/v2632...master)\n\n[Workflow run](https://github.com/MMRLApp/MMRL/actions/runs/16847633703)"
+          "whatsNew": "## What's new?\n\nNo commits found since the latest tag.\n\n[Workflow run](https://github.com/MMRLApp/MMRL/actions/runs/17146848511)"
         }
       }
     },
@@ -26191,6 +26191,84 @@
       }
     ],
     "com.dergoogler.mmrl": [
+      {
+        "added": 1755844011000,
+        "apkName": "mmrl_v34016.apk",
+        "hash": "fa763118a0e1b808c833aca55c42c096edc27afb30a353487c5ce99f85366f54",
+        "hashType": "sha256",
+        "minSdkVersion": 26,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.dergoogler.mmrl",
+        "sig": "540480bcf62aea562549755418702e5b",
+        "signer": "102c2579a177579073dfc69bdf889ad04de9e7c53726a99d65873ec122183860",
+        "size": 5240020,
+        "targetSdkVersion": 36,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_SPECIAL_USE",
+            null
+          ],
+          [
+            "com.android.launcher.permission.INSTALL_SHORTCUT",
+            null
+          ],
+          [
+            "com.dergoogler.mmrl.permission.WEBUI_X",
+            null
+          ],
+          [
+            "com.dergoogler.mmrl.permission.WEBUI_LEGACY",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            29
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            29
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "moe.shizuku.manager.permission.API_V23",
+            null
+          ]
+        ],
+        "versionCode": 34016,
+        "versionName": "v34016-release"
+      },
       {
         "added": 1754731204000,
         "apkName": "mmrl_v33953.apk",
