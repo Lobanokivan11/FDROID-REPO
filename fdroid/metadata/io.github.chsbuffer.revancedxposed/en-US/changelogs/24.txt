@@ -6,4 +6,5 @@
 ## Strava
 - Add `Unlock subscription features` and `Disable subscription suggestions` by @bru02 
 
+#### Sync v5.33.0
 [Donate me on AFDian](https://afdian.com/a/ChsBuffer)

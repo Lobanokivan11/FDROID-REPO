@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1755911367000,
+    "timestamp": 1755916515000,
     "version": 20002,
     "name": "Lobanokivan11's F-Droid Repo",
     "icon": "icon.png",
@@ -255,7 +255,7 @@
       "lastUpdated": 1755876286000,
       "localized": {
         "en-US": {
-          "whatsNew": "## YouTube\n- `Litho Filter` support 20.33.38\n- Fix `ReVanced Settings` on Android 12 and below\n- Fix `Remember video quality` hook fails\n\n## Strava\n- Add `Unlock subscription features` and `Disable subscription suggestions` by @bru02 \n\n[Donate me on AFDian](https://afdian.com/a/ChsBuffer)"
+          "whatsNew": "## YouTube\n- `Litho Filter` support 20.33.38\n- Fix `ReVanced Settings` on Android 12 and below\n- Fix `Remember video quality` hook fails\n\n## Strava\n- Add `Unlock subscription features` and `Disable subscription suggestions` by @bru02 \n\n#### Sync v5.33.0\n[Donate me on AFDian](https://afdian.com/a/ChsBuffer)"
         }
       }
     },
