@@ -14,7 +14,7 @@
       }
     },
     "address": "https://raw.githubusercontent.com/Lobanokivan11/FDROID-REPO/refs/heads/main/fdroid/repo",
-    "timestamp": 1756225536000,
+    "timestamp": 1756229034000,
     "categories": {
       "Games": {
         "name": {
@@ -21036,7 +21036,7 @@
           "en-US": "MMRL"
         },
         "summary": {
-          "en-US": "MMRL is an Android app that helps manage your own modules repository."
+          "en-US": "A app for managing, sharing, and exploring Magisk modules across repositories"
         },
         "description": {
           "en-US": "Magisk Advanced Module Manager\n"

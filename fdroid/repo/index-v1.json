@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1756225536000,
+    "timestamp": 1756229034000,
     "version": 20002,
     "name": "Lobanokivan11's F-Droid Repo",
     "icon": "icon.png",
@@ -111,7 +111,7 @@
       "license": "GPL-3.0",
       "name": "MMRL",
       "sourceCode": "https://github.com/MMRLApp/MMRL",
-      "summary": "MMRL is an Android app that helps manage your own modules repository.",
+      "summary": "A app for managing, sharing, and exploring Magisk modules across repositories",
       "added": 1754557672000,
       "packageName": "com.dergoogler.mmrl",
       "lastUpdated": 1755844011000,
