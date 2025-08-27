@@ -1,0 +1,13 @@
+AuthorName: ClassicOldSong
+Categories:
+    - Games
+CurrentVersion: 20.2.6
+CurrentVersionCode: 57
+Description: |
+    Stream Pc Games From Pc of yours (Requires Apollo)
+IssueTracker: ""
+License: GPL-3.0
+Name: Artemis
+SourceCode: https://github.com/ClassicOldSong/moonlight-android
+Summary: GameStream client for Android
+WebSite: ""

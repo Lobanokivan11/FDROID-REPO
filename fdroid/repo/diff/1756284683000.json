@@ -1,0 +1,267 @@
+{
+  "repo": {
+    "timestamp": 1756284791000,
+    "categories": {
+      "fdroid": null
+    }
+  },
+  "packages": {
+    "com.limelight.game.noir": {
+      "metadata": {
+        "categories": [
+          "Games"
+        ],
+        "license": "GPL-3.0",
+        "sourceCode": "https://github.com/ClassicOldSong/moonlight-android",
+        "screenshots": {
+          "phone": {
+            "en-US": [
+              {
+                "name": "/com.limelight.game.noir/en-US/phoneScreenshots/1.png",
+                "sha256": "26549b2cfd283ca125e4afcc543b32c3aa9d3cdeb4777cbae0afbcc402e7aed6",
+                "size": 33809
+              },
+              {
+                "name": "/com.limelight.game.noir/en-US/phoneScreenshots/2.png",
+                "sha256": "323e2d9fff4c904818b002dc5c860439b2f2984b432a43f15b3f365218a9f478",
+                "size": 167331
+              },
+              {
+                "name": "/com.limelight.game.noir/en-US/phoneScreenshots/3.png",
+                "sha256": "2845fa2aaa3f998a03cb7603a83cc36dd10f6f651a9c05a6bd3ed7aa9884c0fe",
+                "size": 30180
+              },
+              {
+                "name": "/com.limelight.game.noir/en-US/phoneScreenshots/4.png",
+                "sha256": "1b552a9c94133652458dee980b2975afe3d309283c53c14d06efcfa3d74c1304",
+                "size": 183740
+              },
+              {
+                "name": "/com.limelight.game.noir/en-US/phoneScreenshots/5.png",
+                "sha256": "17b99910cdddffaf65511651fc0df94d4d626995db2b87c83c4885effe081644",
+                "size": 39388
+              },
+              {
+                "name": "/com.limelight.game.noir/en-US/phoneScreenshots/6.png",
+                "sha256": "468ec9b314bc1d22237585a0c8fe0216e3810902ab1545529ef5f3d00e83b33f",
+                "size": 176723
+              },
+              {
+                "name": "/com.limelight.game.noir/en-US/phoneScreenshots/7.png",
+                "sha256": "cc41fb08321c8c88f13db912626681710813971c1acb6e7fbf419e352f5e42c2",
+                "size": 27515
+              },
+              {
+                "name": "/com.limelight.game.noir/en-US/phoneScreenshots/8.png",
+                "sha256": "aea3714feece75f30805d882773037c466608103746d62383b5ebd1520291186",
+                "size": 96815
+              }
+            ]
+          }
+        },
+        "authorName": "ClassicOldSong",
+        "name": {
+          "en-US": "Artemis"
+        },
+        "summary": {
+          "en-US": "GameStream client for Android"
+        },
+        "description": {
+          "en-US": "Stream Pc Games From Pc of yours (Requires Apollo)\n"
+        }
+      }
+    },
+    "com.limelight.nior": {
+      "metadata": {
+        "categories": [
+          "Games"
+        ],
+        "license": "GPL-3.0",
+        "sourceCode": "https://github.com/ClassicOldSong/moonlight-android",
+        "screenshots": {
+          "phone": {
+            "en-US": [
+              {
+                "name": "/com.limelight.nior/en-US/phoneScreenshots/1.png",
+                "sha256": "26549b2cfd283ca125e4afcc543b32c3aa9d3cdeb4777cbae0afbcc402e7aed6",
+                "size": 33809
+              },
+              {
+                "name": "/com.limelight.nior/en-US/phoneScreenshots/2.png",
+                "sha256": "323e2d9fff4c904818b002dc5c860439b2f2984b432a43f15b3f365218a9f478",
+                "size": 167331
+              },
+              {
+                "name": "/com.limelight.nior/en-US/phoneScreenshots/3.png",
+                "sha256": "2845fa2aaa3f998a03cb7603a83cc36dd10f6f651a9c05a6bd3ed7aa9884c0fe",
+                "size": 30180
+              },
+              {
+                "name": "/com.limelight.nior/en-US/phoneScreenshots/4.png",
+                "sha256": "1b552a9c94133652458dee980b2975afe3d309283c53c14d06efcfa3d74c1304",
+                "size": 183740
+              },
+              {
+                "name": "/com.limelight.nior/en-US/phoneScreenshots/5.png",
+                "sha256": "17b99910cdddffaf65511651fc0df94d4d626995db2b87c83c4885effe081644",
+                "size": 39388
+              },
+              {
+                "name": "/com.limelight.nior/en-US/phoneScreenshots/6.png",
+                "sha256": "468ec9b314bc1d22237585a0c8fe0216e3810902ab1545529ef5f3d00e83b33f",
+                "size": 176723
+              },
+              {
+                "name": "/com.limelight.nior/en-US/phoneScreenshots/7.png",
+                "sha256": "cc41fb08321c8c88f13db912626681710813971c1acb6e7fbf419e352f5e42c2",
+                "size": 27515
+              },
+              {
+                "name": "/com.limelight.nior/en-US/phoneScreenshots/8.png",
+                "sha256": "aea3714feece75f30805d882773037c466608103746d62383b5ebd1520291186",
+                "size": 96815
+              }
+            ]
+          }
+        },
+        "authorName": "ClassicOldSong",
+        "name": {
+          "en-US": "Artemis"
+        },
+        "summary": {
+          "en-US": "GameStream client for Android"
+        },
+        "description": {
+          "en-US": "Stream Pc Games From Pc of yours (Requires Apollo)\n"
+        }
+      }
+    },
+    "com.limelight.noir": {
+      "metadata": {
+        "categories": [
+          "Games"
+        ],
+        "license": "GPL-3.0",
+        "sourceCode": "https://github.com/ClassicOldSong/moonlight-android",
+        "screenshots": {
+          "phone": {
+            "en-US": [
+              {
+                "name": "/com.limelight.noir/en-US/phoneScreenshots/1.png",
+                "sha256": "26549b2cfd283ca125e4afcc543b32c3aa9d3cdeb4777cbae0afbcc402e7aed6",
+                "size": 33809
+              },
+              {
+                "name": "/com.limelight.noir/en-US/phoneScreenshots/2.png",
+                "sha256": "323e2d9fff4c904818b002dc5c860439b2f2984b432a43f15b3f365218a9f478",
+                "size": 167331
+              },
+              {
+                "name": "/com.limelight.noir/en-US/phoneScreenshots/3.png",
+                "sha256": "2845fa2aaa3f998a03cb7603a83cc36dd10f6f651a9c05a6bd3ed7aa9884c0fe",
+                "size": 30180
+              },
+              {
+                "name": "/com.limelight.noir/en-US/phoneScreenshots/4.png",
+                "sha256": "1b552a9c94133652458dee980b2975afe3d309283c53c14d06efcfa3d74c1304",
+                "size": 183740
+              },
+              {
+                "name": "/com.limelight.noir/en-US/phoneScreenshots/5.png",
+                "sha256": "17b99910cdddffaf65511651fc0df94d4d626995db2b87c83c4885effe081644",
+                "size": 39388
+              },
+              {
+                "name": "/com.limelight.noir/en-US/phoneScreenshots/6.png",
+                "sha256": "468ec9b314bc1d22237585a0c8fe0216e3810902ab1545529ef5f3d00e83b33f",
+                "size": 176723
+              },
+              {
+                "name": "/com.limelight.noir/en-US/phoneScreenshots/7.png",
+                "sha256": "cc41fb08321c8c88f13db912626681710813971c1acb6e7fbf419e352f5e42c2",
+                "size": 27515
+              },
+              {
+                "name": "/com.limelight.noir/en-US/phoneScreenshots/8.png",
+                "sha256": "aea3714feece75f30805d882773037c466608103746d62383b5ebd1520291186",
+                "size": 96815
+              }
+            ]
+          }
+        },
+        "authorName": "ClassicOldSong",
+        "summary": {
+          "en-US": "GameStream client for Android"
+        },
+        "description": {
+          "en-US": "Stream Pc Games From Pc of yours (Requires Apollo)\n"
+        }
+      }
+    },
+    "com.limelight.unofficialBLACK": {
+      "metadata": {
+        "categories": [
+          "Games"
+        ],
+        "license": "GPL-3.0",
+        "sourceCode": "https://github.com/ClassicOldSong/moonlight-android",
+        "screenshots": {
+          "phone": {
+            "en-US": [
+              {
+                "name": "/com.limelight.unofficialBLACK/en-US/phoneScreenshots/1.png",
+                "sha256": "26549b2cfd283ca125e4afcc543b32c3aa9d3cdeb4777cbae0afbcc402e7aed6",
+                "size": 33809
+              },
+              {
+                "name": "/com.limelight.unofficialBLACK/en-US/phoneScreenshots/2.png",
+                "sha256": "323e2d9fff4c904818b002dc5c860439b2f2984b432a43f15b3f365218a9f478",
+                "size": 167331
+              },
+              {
+                "name": "/com.limelight.unofficialBLACK/en-US/phoneScreenshots/3.png",
+                "sha256": "2845fa2aaa3f998a03cb7603a83cc36dd10f6f651a9c05a6bd3ed7aa9884c0fe",
+                "size": 30180
+              },
+              {
+                "name": "/com.limelight.unofficialBLACK/en-US/phoneScreenshots/4.png",
+                "sha256": "1b552a9c94133652458dee980b2975afe3d309283c53c14d06efcfa3d74c1304",
+                "size": 183740
+              },
+              {
+                "name": "/com.limelight.unofficialBLACK/en-US/phoneScreenshots/5.png",
+                "sha256": "17b99910cdddffaf65511651fc0df94d4d626995db2b87c83c4885effe081644",
+                "size": 39388
+              },
+              {
+                "name": "/com.limelight.unofficialBLACK/en-US/phoneScreenshots/6.png",
+                "sha256": "468ec9b314bc1d22237585a0c8fe0216e3810902ab1545529ef5f3d00e83b33f",
+                "size": 176723
+              },
+              {
+                "name": "/com.limelight.unofficialBLACK/en-US/phoneScreenshots/7.png",
+                "sha256": "cc41fb08321c8c88f13db912626681710813971c1acb6e7fbf419e352f5e42c2",
+                "size": 27515
+              },
+              {
+                "name": "/com.limelight.unofficialBLACK/en-US/phoneScreenshots/8.png",
+                "sha256": "aea3714feece75f30805d882773037c466608103746d62383b5ebd1520291186",
+                "size": 96815
+              }
+            ]
+          }
+        },
+        "authorName": "ClassicOldSong",
+        "name": {
+          "en-US": "Artemis"
+        },
+        "summary": {
+          "en-US": "GameStream client for Android"
+        },
+        "description": {
+          "en-US": "Stream Pc Games From Pc of yours (Requires Apollo)\n"
+        }
+      }
+    }
+  }
+}

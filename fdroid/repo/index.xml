@@ -1,8 +1,584 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="icon.png" name="Lobanokivan11's F-Droid Repo" pubkey="308204f0308202d8a003020102020900aa0527e64906854b300d06092a864886f70d01010b050030253110300e060355040b1307462d44726f69643111300f0603550403130841584f2d557365723020170d3235303632373132353035305a180f32303532313131323132353035305a30253110300e060355040b1307462d44726f69643111300f0603550403130841584f2d5573657230820222300d06092a864886f70d01010105000382020f003082020a0282020100e292f147f1d12c06b54004d33ef0249fbfa5cb575e74e33f7ef11740a06888eb14a68e3a7cda7854de7c0e16248289ef440b87b16015a6cdfc7456ca24b7c03f8abfa89f94215a0f235b2111b95d3edee214d2c747f13ea171ad07db5a119ddb91ebc4c089c54aaa20c719b7bf5fc3ed636489eafa1016c459269447a3fbc40622d62a3efb7437bbc1a4f8d06d26298398eb1145354be9deef0812b9a854f8547d015cda1b5242a0d32d92c1ead25dce341fef71a49ad4a8dc5441d8637cc69019fa528f05adc2cfb2b357d99f1226f700800b4401e461f475dff60170e5e2f7bf55cd7e7372441d33098f90d56010b90955d2aa81ebdf841b2e5780a1276a0073db5ffe644b5720578442c1dd44784a205331b4cee61f6456b89719b4c1c85c5325ac06bd744aa85fc620d7f59c6acc26c0f00713967e08f8a66c6b07fc23b3a3868f504e9afa0385823a1e890fabefc6d7aa68a3533894388dd7d04eb03b5f6f23aa2614dbfa6e3d32d5266edd8b643b6b4d903e663d448cd7c4803ee090c54cc8d0249dd3db53352259d3b7a79798eaed934462b9a79cb71844c55dff1a94076e740af209861aabab7f946b76c605c8f2a308ba87bd52e63c6335e1f98bf69c897259609c249f9c83907309db019d8cb3a4a0e26b23ba8dabf37918801fd1a8e2fc84f34192d41583255a4f35a20371c32fdf1a4c93cbe2b1a1b82597deb70203010001a321301f301d0603551d0e0416041470130289d750ce245977dbca02acb48dbff0e31e300d06092a864886f70d01010b050003820201005454d576c5f5f25e0ee7011e46266bb5bb07ff51a8179ba7ca6f9a6b17bf77bac316933e2ed8586cfaa34cb8af5bbfe89ffbfe9f3fffe66f5e039673f8544bde5e923cb08820d17531cc7414429c48a4272f65578351121b6cca17f3633025e4295a96316fcdf6343630c9662baedf6ecd9b8efedca812b80d6e6d50cd7618ee76dc3c88ae36570e37b5e62fa03734f7ff983918d373685766c23a8d99a8b5ec4c5e42b861cd79124686682a58a420b8ab677d528bb9e2d03e067f5fea4d78088318cad255bc8e5282385df32ec02be323e3ce4559e9f45757ae3aca1bf645bb6283a90086cddc7a82bfae486e57592339968acce21d0471f20e7f54c3ed5295ad91b0e61e5070283495558931c99ddfca434e22070e50759025b39294f08fde6c6449434649f5620f809f65eefa94c93e0dd5d23deda89efbc1c98f7265daaecf13f1d6e5a0de34e6c5aa0d34303e157dc3c28dc6f2ed3c91d1f0f8afbf8ee640007b8def8b2c57da43a8a65d22667421c9588376721b112f45237299c7bea99852c3558059af416ea99f36f191288f86b2f0e9b2c1f2824233d0f35044fc46cb88d4f0680f8706fe365d6e92e0cadeeb1f2de6b14c02eddfb6d4c324a79b9f46fb25533e2a0c02d3254c7f75d8931756f7b89da4092dd793bd1f717326a8ad57a3a5b3763b14470d2acb01560294094c97ef354afe7d6ee530b247f3bb211a" timestamp="1756283442" url="https://raw.githubusercontent.com/Lobanokivan11/FDROID-REPO/refs/heads/main/fdroid/repo" version="20002">
+	<repo icon="icon.png" name="Lobanokivan11's F-Droid Repo" pubkey="308204f0308202d8a003020102020900aa0527e64906854b300d06092a864886f70d01010b050030253110300e060355040b1307462d44726f69643111300f0603550403130841584f2d557365723020170d3235303632373132353035305a180f32303532313131323132353035305a30253110300e060355040b1307462d44726f69643111300f0603550403130841584f2d5573657230820222300d06092a864886f70d01010105000382020f003082020a0282020100e292f147f1d12c06b54004d33ef0249fbfa5cb575e74e33f7ef11740a06888eb14a68e3a7cda7854de7c0e16248289ef440b87b16015a6cdfc7456ca24b7c03f8abfa89f94215a0f235b2111b95d3edee214d2c747f13ea171ad07db5a119ddb91ebc4c089c54aaa20c719b7bf5fc3ed636489eafa1016c459269447a3fbc40622d62a3efb7437bbc1a4f8d06d26298398eb1145354be9deef0812b9a854f8547d015cda1b5242a0d32d92c1ead25dce341fef71a49ad4a8dc5441d8637cc69019fa528f05adc2cfb2b357d99f1226f700800b4401e461f475dff60170e5e2f7bf55cd7e7372441d33098f90d56010b90955d2aa81ebdf841b2e5780a1276a0073db5ffe644b5720578442c1dd44784a205331b4cee61f6456b89719b4c1c85c5325ac06bd744aa85fc620d7f59c6acc26c0f00713967e08f8a66c6b07fc23b3a3868f504e9afa0385823a1e890fabefc6d7aa68a3533894388dd7d04eb03b5f6f23aa2614dbfa6e3d32d5266edd8b643b6b4d903e663d448cd7c4803ee090c54cc8d0249dd3db53352259d3b7a79798eaed934462b9a79cb71844c55dff1a94076e740af209861aabab7f946b76c605c8f2a308ba87bd52e63c6335e1f98bf69c897259609c249f9c83907309db019d8cb3a4a0e26b23ba8dabf37918801fd1a8e2fc84f34192d41583255a4f35a20371c32fdf1a4c93cbe2b1a1b82597deb70203010001a321301f301d0603551d0e0416041470130289d750ce245977dbca02acb48dbff0e31e300d06092a864886f70d01010b050003820201005454d576c5f5f25e0ee7011e46266bb5bb07ff51a8179ba7ca6f9a6b17bf77bac316933e2ed8586cfaa34cb8af5bbfe89ffbfe9f3fffe66f5e039673f8544bde5e923cb08820d17531cc7414429c48a4272f65578351121b6cca17f3633025e4295a96316fcdf6343630c9662baedf6ecd9b8efedca812b80d6e6d50cd7618ee76dc3c88ae36570e37b5e62fa03734f7ff983918d373685766c23a8d99a8b5ec4c5e42b861cd79124686682a58a420b8ab677d528bb9e2d03e067f5fea4d78088318cad255bc8e5282385df32ec02be323e3ce4559e9f45757ae3aca1bf645bb6283a90086cddc7a82bfae486e57592339968acce21d0471f20e7f54c3ed5295ad91b0e61e5070283495558931c99ddfca434e22070e50759025b39294f08fde6c6449434649f5620f809f65eefa94c93e0dd5d23deda89efbc1c98f7265daaecf13f1d6e5a0de34e6c5aa0d34303e157dc3c28dc6f2ed3c91d1f0f8afbf8ee640007b8def8b2c57da43a8a65d22667421c9588376721b112f45237299c7bea99852c3558059af416ea99f36f191288f86b2f0e9b2c1f2824233d0f35044fc46cb88d4f0680f8706fe365d6e92e0cadeeb1f2de6b14c02eddfb6d4c324a79b9f46fb25533e2a0c02d3254c7f75d8931756f7b89da4092dd793bd1f717326a8ad57a3a5b3763b14470d2acb01560294094c97ef354afe7d6ee530b247f3bb211a" timestamp="1756284791" url="https://raw.githubusercontent.com/Lobanokivan11/FDROID-REPO/refs/heads/main/fdroid/repo" version="20002">
 		<description>This is Repository of Lobanokivan11</description>
 	</repo>
+	<application id="com.limelight.game.noir">
+		<id>com.limelight.game.noir</id>
+		<added>2025-08-27</added>
+		<lastupdated>2025-08-27</lastupdated>
+		<name>Artemis</name>
+		<summary>GameStream client for Android</summary>
+		<desc>Stream Pc Games From Pc of yours (Requires Apollo)
+</desc>
+		<license>GPL-3.0</license>
+		<categories>Games</categories>
+		<category>Games</category>
+		<web></web>
+		<source>https://github.com/ClassicOldSong/moonlight-android</source>
+		<tracker></tracker>
+		<author>ClassicOldSong</author>
+		<marketversion>12.1-artemis-241031</marketversion>
+		<marketvercode>31</marketvercode>
+		<package>
+			<version>12.1-artemis-241031</version>
+			<versioncode>31</versioncode>
+			<apkname>artemis_v12.1-artemis-241031.apk</apkname>
+			<hash type="sha256">9ec1caf7c9c096a40215de9c849ee9bfaf55f0564a355f5b4289222be54b9f16</hash>
+			<size>10265395</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-27</added>
+			<sig>b84758022d923dec01d828c2ad2e0cdf</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CHANGE_WIFI_MULTICAST_STATE,INTERNET,VIBRATE,WAKE_LOCK,com.android.providers.tv.permission.READ_EPG_DATA,com.android.providers.tv.permission.WRITE_EPG_DATA,com.limelight.game.noir.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<uses-permission maxSdkVersion="33" name="android.permission.CHANGE_WIFI_MULTICAST_STATE"/>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+	</application>
+	<application id="com.limelight.nior">
+		<id>com.limelight.nior</id>
+		<added>2025-08-27</added>
+		<lastupdated>2025-08-27</lastupdated>
+		<name>Artemis</name>
+		<summary>GameStream client for Android</summary>
+		<desc>Stream Pc Games From Pc of yours (Requires Apollo)
+</desc>
+		<license>GPL-3.0</license>
+		<categories>Games</categories>
+		<category>Games</category>
+		<web></web>
+		<source>https://github.com/ClassicOldSong/moonlight-android</source>
+		<tracker></tracker>
+		<author>ClassicOldSong</author>
+		<marketversion>12.1-240717-nior</marketversion>
+		<marketvercode>314</marketvercode>
+		<package>
+			<version>12.1-240712-nior</version>
+			<versioncode>314</versioncode>
+			<apkname>artemis_v12.1-240712-NIOR.apk</apkname>
+			<hash type="sha256">c90ae7e14dea2c01c7c05d8f11d5fa146116ad04f02840f2040722a652259655</hash>
+			<size>9616156</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-27</added>
+			<sig>b84758022d923dec01d828c2ad2e0cdf</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CHANGE_WIFI_MULTICAST_STATE,INTERNET,VIBRATE,WAKE_LOCK,com.android.providers.tv.permission.READ_EPG_DATA,com.android.providers.tv.permission.WRITE_EPG_DATA</permissions>
+			<uses-permission maxSdkVersion="33" name="android.permission.CHANGE_WIFI_MULTICAST_STATE"/>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+	</application>
+	<application id="com.limelight.noir">
+		<id>com.limelight.noir</id>
+		<added>2025-08-27</added>
+		<lastupdated>2025-08-27</lastupdated>
+		<name>Artemis</name>
+		<summary>GameStream client for Android</summary>
+		<desc>Stream Pc Games From Pc of yours (Requires Apollo)
+</desc>
+		<license>GPL-3.0</license>
+		<categories>Games</categories>
+		<category>Games</category>
+		<web></web>
+		<source>https://github.com/ClassicOldSong/moonlight-android</source>
+		<tracker></tracker>
+		<author>ClassicOldSong</author>
+		<marketversion>20.2.6</marketversion>
+		<marketvercode>57</marketvercode>
+		<package>
+			<version>20.2.6</version>
+			<versioncode>57</versioncode>
+			<apkname>artemis_v20.2.6.apk</apkname>
+			<hash type="sha256">6735b5fdd790410ea726754235f49757fa594ef01da1e5acadf72690c9423f6c</hash>
+			<size>12082799</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-27</added>
+			<sig>b84758022d923dec01d828c2ad2e0cdf</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CHANGE_WIFI_MULTICAST_STATE,INTERNET,POST_NOTIFICATIONS,REORDER_TASKS,VIBRATE,WAKE_LOCK,com.android.providers.tv.permission.READ_EPG_DATA,com.android.providers.tv.permission.WRITE_EPG_DATA,com.limelight.noir.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<uses-permission maxSdkVersion="33" name="android.permission.CHANGE_WIFI_MULTICAST_STATE"/>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>20.1.5</version>
+			<versioncode>50</versioncode>
+			<apkname>artemis_v20.1.5.apk</apkname>
+			<hash type="sha256">54d30ed008212ac7519362f7851ac125224ed383b38746ca14d39951ba5c4671</hash>
+			<size>12066235</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-27</added>
+			<sig>b84758022d923dec01d828c2ad2e0cdf</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CHANGE_WIFI_MULTICAST_STATE,INTERNET,VIBRATE,WAKE_LOCK,com.android.providers.tv.permission.READ_EPG_DATA,com.android.providers.tv.permission.WRITE_EPG_DATA,com.limelight.noir.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<uses-permission maxSdkVersion="33" name="android.permission.CHANGE_WIFI_MULTICAST_STATE"/>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>20.0.0+250712</version>
+			<versioncode>44</versioncode>
+			<apkname>artemis_v20.0.0250712.apk</apkname>
+			<hash type="sha256">5c3d9a733c62e5259db62a75e6290be96d522e2aa3b7cae9f9c42a3c49568a35</hash>
+			<size>12033663</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-27</added>
+			<sig>b84758022d923dec01d828c2ad2e0cdf</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CHANGE_WIFI_MULTICAST_STATE,INTERNET,VIBRATE,WAKE_LOCK,com.android.providers.tv.permission.READ_EPG_DATA,com.android.providers.tv.permission.WRITE_EPG_DATA,com.limelight.noir.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<uses-permission maxSdkVersion="33" name="android.permission.CHANGE_WIFI_MULTICAST_STATE"/>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>12.1.250118</version>
+			<versioncode>43</versioncode>
+			<apkname>artemis_v12.1.250118.apk</apkname>
+			<hash type="sha256">348f99f1d35a308b4f75749f473538a8fc0bc712a4fc78fd7fdbf5b0481a2eed</hash>
+			<size>10303714</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-27</added>
+			<sig>b84758022d923dec01d828c2ad2e0cdf</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CHANGE_WIFI_MULTICAST_STATE,INTERNET,VIBRATE,WAKE_LOCK,com.android.providers.tv.permission.READ_EPG_DATA,com.android.providers.tv.permission.WRITE_EPG_DATA,com.limelight.noir.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<uses-permission maxSdkVersion="33" name="android.permission.CHANGE_WIFI_MULTICAST_STATE"/>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>12.1.241217-2</version>
+			<versioncode>39</versioncode>
+			<apkname>artemis_v12.1.241217-2.apk</apkname>
+			<hash type="sha256">085ff03b6d7de465de9e25b69b2da387f73d12c899eaebca8772c86260cbec69</hash>
+			<size>10299201</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-27</added>
+			<sig>b84758022d923dec01d828c2ad2e0cdf</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CHANGE_WIFI_MULTICAST_STATE,INTERNET,VIBRATE,WAKE_LOCK,com.android.providers.tv.permission.READ_EPG_DATA,com.android.providers.tv.permission.WRITE_EPG_DATA,com.limelight.noir.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<uses-permission maxSdkVersion="33" name="android.permission.CHANGE_WIFI_MULTICAST_STATE"/>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>12.1.241203-2</version>
+			<versioncode>37</versioncode>
+			<apkname>artemis_v12.1.241203-2.apk</apkname>
+			<hash type="sha256">26bfbc58ce976de22ecb056cd15377b7aca11419ab558531c9dff9683017d70e</hash>
+			<size>10297615</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-27</added>
+			<sig>b84758022d923dec01d828c2ad2e0cdf</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CHANGE_WIFI_MULTICAST_STATE,INTERNET,VIBRATE,WAKE_LOCK,com.android.providers.tv.permission.READ_EPG_DATA,com.android.providers.tv.permission.WRITE_EPG_DATA,com.limelight.noir.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<uses-permission maxSdkVersion="33" name="android.permission.CHANGE_WIFI_MULTICAST_STATE"/>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>12.1.241202</version>
+			<versioncode>35</versioncode>
+			<apkname>artemis_v12.1.241202.apk</apkname>
+			<hash type="sha256">41b78e47f655f27170a02cbb0a0c3a9b07dadb8492ef0d9fed87285a9ea9af89</hash>
+			<size>10296225</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-27</added>
+			<sig>b84758022d923dec01d828c2ad2e0cdf</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CHANGE_WIFI_MULTICAST_STATE,INTERNET,VIBRATE,WAKE_LOCK,com.android.providers.tv.permission.READ_EPG_DATA,com.android.providers.tv.permission.WRITE_EPG_DATA,com.limelight.noir.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<uses-permission maxSdkVersion="33" name="android.permission.CHANGE_WIFI_MULTICAST_STATE"/>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>12.1.241128-2</version>
+			<versioncode>34</versioncode>
+			<apkname>artemis_v12.1.241128-2.apk</apkname>
+			<hash type="sha256">4ea7585079b71779d0f3575fab4d5369992b2e9142bf0c1d5c9dd8685da61888</hash>
+			<size>10291253</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-27</added>
+			<sig>b84758022d923dec01d828c2ad2e0cdf</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CHANGE_WIFI_MULTICAST_STATE,INTERNET,VIBRATE,WAKE_LOCK,com.android.providers.tv.permission.READ_EPG_DATA,com.android.providers.tv.permission.WRITE_EPG_DATA,com.limelight.noir.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<uses-permission maxSdkVersion="33" name="android.permission.CHANGE_WIFI_MULTICAST_STATE"/>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>12.1-artemis-241120</version>
+			<versioncode>32</versioncode>
+			<apkname>artemis_v12.1-artemis-241120.apk</apkname>
+			<hash type="sha256">ea95c3c281c4dffc4de5b1f3250713f784359ae5cd732b8710eb2462fa175573</hash>
+			<size>10265985</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-27</added>
+			<sig>b84758022d923dec01d828c2ad2e0cdf</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CHANGE_WIFI_MULTICAST_STATE,INTERNET,VIBRATE,WAKE_LOCK,com.android.providers.tv.permission.READ_EPG_DATA,com.android.providers.tv.permission.WRITE_EPG_DATA,com.limelight.noir.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<uses-permission maxSdkVersion="33" name="android.permission.CHANGE_WIFI_MULTICAST_STATE"/>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>12.1-artemis-241013</version>
+			<versioncode>29</versioncode>
+			<apkname>artemis_v12.1-artemis-241013.apk</apkname>
+			<hash type="sha256">e7b3b0fa2151b0bdc6400b41918fd47f0e5d445c31ea8bbba65cfa2b363263f2</hash>
+			<size>10259861</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-27</added>
+			<sig>b84758022d923dec01d828c2ad2e0cdf</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CHANGE_WIFI_MULTICAST_STATE,INTERNET,VIBRATE,WAKE_LOCK,com.android.providers.tv.permission.READ_EPG_DATA,com.android.providers.tv.permission.WRITE_EPG_DATA,com.limelight.noir.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<uses-permission maxSdkVersion="33" name="android.permission.CHANGE_WIFI_MULTICAST_STATE"/>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>12.1-artemis-241009</version>
+			<versioncode>24</versioncode>
+			<apkname>artemis_v12.1-artemis-241009.apk</apkname>
+			<hash type="sha256">c2f5f03db4d551d777794821163516a80b76e76661da5f97ab55a8c910069fd7</hash>
+			<size>9694357</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-27</added>
+			<sig>b84758022d923dec01d828c2ad2e0cdf</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CHANGE_WIFI_MULTICAST_STATE,INTERNET,VIBRATE,WAKE_LOCK,com.android.providers.tv.permission.READ_EPG_DATA,com.android.providers.tv.permission.WRITE_EPG_DATA</permissions>
+			<uses-permission maxSdkVersion="33" name="android.permission.CHANGE_WIFI_MULTICAST_STATE"/>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>12.1-artemis-241006</version>
+			<versioncode>23</versioncode>
+			<apkname>artemis_v12.1-artemis-241006.apk</apkname>
+			<hash type="sha256">b223c3241590ef80a09a0b1897d80c4aa46cf9b3dd92aceb1ea50fb403173a98</hash>
+			<size>9693944</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-27</added>
+			<sig>b84758022d923dec01d828c2ad2e0cdf</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CHANGE_WIFI_MULTICAST_STATE,INTERNET,VIBRATE,WAKE_LOCK,com.android.providers.tv.permission.READ_EPG_DATA,com.android.providers.tv.permission.WRITE_EPG_DATA</permissions>
+			<uses-permission maxSdkVersion="33" name="android.permission.CHANGE_WIFI_MULTICAST_STATE"/>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>12.1-artemis-241003</version>
+			<versioncode>22</versioncode>
+			<apkname>artemis_v12.1-artemis-241003.apk</apkname>
+			<hash type="sha256">ffcd4de7a9a9f1fb008679ec1f5ad4b90099246982a94743e021352c7e57dcec</hash>
+			<size>9687577</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-27</added>
+			<sig>b84758022d923dec01d828c2ad2e0cdf</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CHANGE_WIFI_MULTICAST_STATE,INTERNET,VIBRATE,WAKE_LOCK,com.android.providers.tv.permission.READ_EPG_DATA,com.android.providers.tv.permission.WRITE_EPG_DATA</permissions>
+			<uses-permission maxSdkVersion="33" name="android.permission.CHANGE_WIFI_MULTICAST_STATE"/>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>12.1-artemis-240929</version>
+			<versioncode>21</versioncode>
+			<apkname>artemis_v12.1-artemis-240929.apk</apkname>
+			<hash type="sha256">3c30497ef790f0d68e6704fae4b6416d2c3b02f8a7aff0ab26569b54c38ee1cd</hash>
+			<size>9687628</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-27</added>
+			<sig>b84758022d923dec01d828c2ad2e0cdf</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CHANGE_WIFI_MULTICAST_STATE,INTERNET,VIBRATE,WAKE_LOCK,com.android.providers.tv.permission.READ_EPG_DATA,com.android.providers.tv.permission.WRITE_EPG_DATA</permissions>
+			<uses-permission maxSdkVersion="33" name="android.permission.CHANGE_WIFI_MULTICAST_STATE"/>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>12.1-artemis-240928</version>
+			<versioncode>20</versioncode>
+			<apkname>artemis_v12.1-artemis-240928.apk</apkname>
+			<hash type="sha256">f3dc71002db740c6d18875b9c2ebf3d8c0fb9eee8ac1c18b699056e280d63831</hash>
+			<size>9680544</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-27</added>
+			<sig>b84758022d923dec01d828c2ad2e0cdf</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CHANGE_WIFI_MULTICAST_STATE,INTERNET,VIBRATE,WAKE_LOCK,com.android.providers.tv.permission.READ_EPG_DATA,com.android.providers.tv.permission.WRITE_EPG_DATA</permissions>
+			<uses-permission maxSdkVersion="33" name="android.permission.CHANGE_WIFI_MULTICAST_STATE"/>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>12.1-artemis-240925-2</version>
+			<versioncode>19</versioncode>
+			<apkname>artemis_v12.1-artemis-240925-2.apk</apkname>
+			<hash type="sha256">95c2cb00d1cbb95181bb9c130cf4ed119abe13c92519bf29845d12a94c4243d9</hash>
+			<size>9671866</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-27</added>
+			<sig>b84758022d923dec01d828c2ad2e0cdf</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CHANGE_WIFI_MULTICAST_STATE,INTERNET,VIBRATE,WAKE_LOCK,com.android.providers.tv.permission.READ_EPG_DATA,com.android.providers.tv.permission.WRITE_EPG_DATA</permissions>
+			<uses-permission maxSdkVersion="33" name="android.permission.CHANGE_WIFI_MULTICAST_STATE"/>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>12.1-artemis-240924</version>
+			<versioncode>17</versioncode>
+			<apkname>artemis_v12.1-artemis-240924.apk</apkname>
+			<hash type="sha256">06775508f0fc793b4a1fcca0256f70a4e0a963e58d3c8e42b53acedb05151c5c</hash>
+			<size>9671819</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-27</added>
+			<sig>b84758022d923dec01d828c2ad2e0cdf</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CHANGE_WIFI_MULTICAST_STATE,INTERNET,VIBRATE,WAKE_LOCK,com.android.providers.tv.permission.READ_EPG_DATA,com.android.providers.tv.permission.WRITE_EPG_DATA</permissions>
+			<uses-permission maxSdkVersion="33" name="android.permission.CHANGE_WIFI_MULTICAST_STATE"/>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>12.1-artemis-240911</version>
+			<versioncode>16</versioncode>
+			<apkname>artemis_v12.1-artemis-240911.apk</apkname>
+			<hash type="sha256">d67e809e37f86e7dd9098739672ebd1f12b6d5c8bccb270bf5aad0aa9cada79c</hash>
+			<size>9670681</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-27</added>
+			<sig>b84758022d923dec01d828c2ad2e0cdf</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CHANGE_WIFI_MULTICAST_STATE,INTERNET,VIBRATE,WAKE_LOCK,com.android.providers.tv.permission.READ_EPG_DATA,com.android.providers.tv.permission.WRITE_EPG_DATA</permissions>
+			<uses-permission maxSdkVersion="33" name="android.permission.CHANGE_WIFI_MULTICAST_STATE"/>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>12.1-artemis-240903</version>
+			<versioncode>15</versioncode>
+			<apkname>artemis_v12.1-artemis-240903.apk</apkname>
+			<hash type="sha256">ac6e3daaf89458b17573d1b795ee65c3a1032fc7455222b99e57d575b37e1452</hash>
+			<size>9666041</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-27</added>
+			<sig>b84758022d923dec01d828c2ad2e0cdf</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CHANGE_WIFI_MULTICAST_STATE,INTERNET,VIBRATE,WAKE_LOCK,com.android.providers.tv.permission.READ_EPG_DATA,com.android.providers.tv.permission.WRITE_EPG_DATA</permissions>
+			<uses-permission maxSdkVersion="33" name="android.permission.CHANGE_WIFI_MULTICAST_STATE"/>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>12.1-artemis-240831</version>
+			<versioncode>14</versioncode>
+			<apkname>artemis_v12.1-artemis-240831.apk</apkname>
+			<hash type="sha256">a80aa0961e78f0a5fb6cc347b90c1a4a2a5486b0028d981b119acdc88ca7ed02</hash>
+			<size>9665990</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-27</added>
+			<sig>b84758022d923dec01d828c2ad2e0cdf</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CHANGE_WIFI_MULTICAST_STATE,INTERNET,VIBRATE,WAKE_LOCK,com.android.providers.tv.permission.READ_EPG_DATA,com.android.providers.tv.permission.WRITE_EPG_DATA</permissions>
+			<uses-permission maxSdkVersion="33" name="android.permission.CHANGE_WIFI_MULTICAST_STATE"/>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>12.1-artemis-240828</version>
+			<versioncode>13</versioncode>
+			<apkname>artemis_v12.1-artemis-240828.apk</apkname>
+			<hash type="sha256">7555a3e26f946b1717870e7fdaeec9a180ddd9a3b83771c7318d0d94a99777c8</hash>
+			<size>9656758</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-27</added>
+			<sig>b84758022d923dec01d828c2ad2e0cdf</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CHANGE_WIFI_MULTICAST_STATE,INTERNET,VIBRATE,WAKE_LOCK,com.android.providers.tv.permission.READ_EPG_DATA,com.android.providers.tv.permission.WRITE_EPG_DATA</permissions>
+			<uses-permission maxSdkVersion="33" name="android.permission.CHANGE_WIFI_MULTICAST_STATE"/>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>12.1-artemis-240823</version>
+			<versioncode>12</versioncode>
+			<apkname>artemis_v12.1-artemis-240823.apk</apkname>
+			<hash type="sha256">6c25150e1a4f4708013a1fb7d35236f3894d02053f18fe86887156e59469b048</hash>
+			<size>9651598</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-27</added>
+			<sig>b84758022d923dec01d828c2ad2e0cdf</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CHANGE_WIFI_MULTICAST_STATE,INTERNET,VIBRATE,WAKE_LOCK,com.android.providers.tv.permission.READ_EPG_DATA,com.android.providers.tv.permission.WRITE_EPG_DATA</permissions>
+			<uses-permission maxSdkVersion="33" name="android.permission.CHANGE_WIFI_MULTICAST_STATE"/>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>12.1-artemis-240820</version>
+			<versioncode>11</versioncode>
+			<apkname>artemis_v12.1-artemis-240820.apk</apkname>
+			<hash type="sha256">5dc62784929370b6bbcb598b4743737f52add879cd3f0043fdfc6b236200cd0b</hash>
+			<size>9650205</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-27</added>
+			<sig>b84758022d923dec01d828c2ad2e0cdf</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CHANGE_WIFI_MULTICAST_STATE,INTERNET,VIBRATE,WAKE_LOCK,com.android.providers.tv.permission.READ_EPG_DATA,com.android.providers.tv.permission.WRITE_EPG_DATA</permissions>
+			<uses-permission maxSdkVersion="33" name="android.permission.CHANGE_WIFI_MULTICAST_STATE"/>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>12.1-artemis-240818-2</version>
+			<versioncode>10</versioncode>
+			<apkname>artemis_v12.1-artemis-240818-2.apk</apkname>
+			<hash type="sha256">c3c2fecb00076a8fcc52e8618cd21bf6eda8bfd9d9046309884d00f54098f0be</hash>
+			<size>9648764</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-27</added>
+			<sig>b84758022d923dec01d828c2ad2e0cdf</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CHANGE_WIFI_MULTICAST_STATE,INTERNET,VIBRATE,WAKE_LOCK,com.android.providers.tv.permission.READ_EPG_DATA,com.android.providers.tv.permission.WRITE_EPG_DATA</permissions>
+			<uses-permission maxSdkVersion="33" name="android.permission.CHANGE_WIFI_MULTICAST_STATE"/>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>12.1-noir-240816</version>
+			<versioncode>9</versioncode>
+			<apkname>artemis_v12.1-noir-240816.apk</apkname>
+			<hash type="sha256">21629e8c1516a510d7ab72c77728247219f87b37790afcc88bad747a464246fb</hash>
+			<size>9641518</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-27</added>
+			<sig>b84758022d923dec01d828c2ad2e0cdf</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CHANGE_WIFI_MULTICAST_STATE,INTERNET,VIBRATE,WAKE_LOCK,com.android.providers.tv.permission.READ_EPG_DATA,com.android.providers.tv.permission.WRITE_EPG_DATA</permissions>
+			<uses-permission maxSdkVersion="33" name="android.permission.CHANGE_WIFI_MULTICAST_STATE"/>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>12.1-noir-240802</version>
+			<versioncode>8</versioncode>
+			<apkname>artemis_v12.1-noir-240802.apk</apkname>
+			<hash type="sha256">c802a0c4055a830fee6de558c8ba8220b0d600798d92364da2522205081f8d92</hash>
+			<size>9641606</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-27</added>
+			<sig>b84758022d923dec01d828c2ad2e0cdf</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CHANGE_WIFI_MULTICAST_STATE,INTERNET,VIBRATE,WAKE_LOCK,com.android.providers.tv.permission.READ_EPG_DATA,com.android.providers.tv.permission.WRITE_EPG_DATA</permissions>
+			<uses-permission maxSdkVersion="33" name="android.permission.CHANGE_WIFI_MULTICAST_STATE"/>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>12.1-noir-240729</version>
+			<versioncode>7</versioncode>
+			<apkname>artemis_v12.1-noir-240729.apk</apkname>
+			<hash type="sha256">2b334233cf186a23e33715052f44cf19a0dd292b9af636c6b3f2b24165cb6bfe</hash>
+			<size>9641459</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-27</added>
+			<sig>b84758022d923dec01d828c2ad2e0cdf</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CHANGE_WIFI_MULTICAST_STATE,INTERNET,VIBRATE,WAKE_LOCK,com.android.providers.tv.permission.READ_EPG_DATA,com.android.providers.tv.permission.WRITE_EPG_DATA</permissions>
+			<uses-permission maxSdkVersion="33" name="android.permission.CHANGE_WIFI_MULTICAST_STATE"/>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>12.1-noir-240728</version>
+			<versioncode>6</versioncode>
+			<apkname>artemis_v12.1-noir-240728.apk</apkname>
+			<hash type="sha256">fd069a56e988e565f96653a9fef3f4ef01c873bf9c03b3a05cae5eb7bf0e922d</hash>
+			<size>9638874</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-27</added>
+			<sig>b84758022d923dec01d828c2ad2e0cdf</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CHANGE_WIFI_MULTICAST_STATE,INTERNET,VIBRATE,WAKE_LOCK,com.android.providers.tv.permission.READ_EPG_DATA,com.android.providers.tv.permission.WRITE_EPG_DATA</permissions>
+			<uses-permission maxSdkVersion="33" name="android.permission.CHANGE_WIFI_MULTICAST_STATE"/>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>12.1-noir-240723</version>
+			<versioncode>5</versioncode>
+			<apkname>artemis_v12.1-noir-240723.apk</apkname>
+			<hash type="sha256">bfd559ad6d334e94cbbcf3f853b1f6e27d592121c04301e2fd8fc272e0e682d3</hash>
+			<size>9631204</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-27</added>
+			<sig>b84758022d923dec01d828c2ad2e0cdf</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CHANGE_WIFI_MULTICAST_STATE,INTERNET,VIBRATE,WAKE_LOCK,com.android.providers.tv.permission.READ_EPG_DATA,com.android.providers.tv.permission.WRITE_EPG_DATA</permissions>
+			<uses-permission maxSdkVersion="33" name="android.permission.CHANGE_WIFI_MULTICAST_STATE"/>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>12.1-noir-240722.2</version>
+			<versioncode>4</versioncode>
+			<apkname>artemis_v12.1-noir-240722.2.apk</apkname>
+			<hash type="sha256">e6c78520e5342f5d484b6ffc40d5db688c9803dd6b3d3f65c78465deba85fded</hash>
+			<size>9630726</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-27</added>
+			<sig>b84758022d923dec01d828c2ad2e0cdf</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CHANGE_WIFI_MULTICAST_STATE,INTERNET,VIBRATE,WAKE_LOCK,com.android.providers.tv.permission.READ_EPG_DATA,com.android.providers.tv.permission.WRITE_EPG_DATA</permissions>
+			<uses-permission maxSdkVersion="33" name="android.permission.CHANGE_WIFI_MULTICAST_STATE"/>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>12.1-noir-240722</version>
+			<versioncode>3</versioncode>
+			<apkname>artemis_v12.1-noir-240722.apk</apkname>
+			<hash type="sha256">2068aa3a06b42a1544842e7d2fa10a2c8abaf1a0ea851ead84b2cb718532f600</hash>
+			<size>9628747</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-27</added>
+			<sig>b84758022d923dec01d828c2ad2e0cdf</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CHANGE_WIFI_MULTICAST_STATE,INTERNET,VIBRATE,WAKE_LOCK,com.android.providers.tv.permission.READ_EPG_DATA,com.android.providers.tv.permission.WRITE_EPG_DATA</permissions>
+			<uses-permission maxSdkVersion="33" name="android.permission.CHANGE_WIFI_MULTICAST_STATE"/>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>12.1-noir-240721</version>
+			<versioncode>2</versioncode>
+			<apkname>artemis_v12.1-noir-240721.apk</apkname>
+			<hash type="sha256">e0fd3247d7d87b8194c8e865e3b0fddec31e99aa38183d02b281c84a391777ce</hash>
+			<size>9628687</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-27</added>
+			<sig>b84758022d923dec01d828c2ad2e0cdf</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CHANGE_WIFI_MULTICAST_STATE,INTERNET,VIBRATE,WAKE_LOCK,com.android.providers.tv.permission.READ_EPG_DATA,com.android.providers.tv.permission.WRITE_EPG_DATA</permissions>
+			<uses-permission maxSdkVersion="33" name="android.permission.CHANGE_WIFI_MULTICAST_STATE"/>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>12.1-noir-240718-hotfix-1</version>
+			<versioncode>1</versioncode>
+			<apkname>artemis_v12.1-noir-240718-hotfix-1.apk</apkname>
+			<hash type="sha256">af0ae9ed3615319bbe719ccb4662f3dc016232c54b2b5b833213d6fa9746d03e</hash>
+			<size>9625675</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-27</added>
+			<sig>b84758022d923dec01d828c2ad2e0cdf</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CHANGE_WIFI_MULTICAST_STATE,INTERNET,VIBRATE,WAKE_LOCK,com.android.providers.tv.permission.READ_EPG_DATA,com.android.providers.tv.permission.WRITE_EPG_DATA</permissions>
+			<uses-permission maxSdkVersion="33" name="android.permission.CHANGE_WIFI_MULTICAST_STATE"/>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+	</application>
+	<application id="com.limelight.unofficialBLACK">
+		<id>com.limelight.unofficialBLACK</id>
+		<added>2025-08-27</added>
+		<lastupdated>2025-08-27</lastupdated>
+		<name>Artemis</name>
+		<summary>GameStream client for Android</summary>
+		<desc>Stream Pc Games From Pc of yours (Requires Apollo)
+</desc>
+		<license>GPL-3.0</license>
+		<categories>Games</categories>
+		<category>Games</category>
+		<web></web>
+		<source>https://github.com/ClassicOldSong/moonlight-android</source>
+		<tracker></tracker>
+		<author>ClassicOldSong</author>
+		<marketversion>12.1-240707-axi</marketversion>
+		<marketvercode>314</marketvercode>
+		<package>
+			<version>12.1-240707-axi</version>
+			<versioncode>314</versioncode>
+			<apkname>artemis_v12.1-BLACK.apk</apkname>
+			<hash type="sha256">c02a920d76bd772f4f34a816e26ea038526a3e1760722ff662deb5687c947375</hash>
+			<size>9573059</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-08-27</added>
+			<sig>b84758022d923dec01d828c2ad2e0cdf</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CHANGE_WIFI_MULTICAST_STATE,INTERNET,VIBRATE,WAKE_LOCK,com.android.providers.tv.permission.READ_EPG_DATA,com.android.providers.tv.permission.WRITE_EPG_DATA</permissions>
+			<uses-permission maxSdkVersion="33" name="android.permission.CHANGE_WIFI_MULTICAST_STATE"/>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+	</application>
 	<application id="org.fdroid.fdroid.privileged">
 		<id>org.fdroid.fdroid.privileged</id>
 		<added>2025-06-27</added>

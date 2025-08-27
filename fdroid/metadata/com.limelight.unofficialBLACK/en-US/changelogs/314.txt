@@ -1,0 +1,8 @@
+Based on https://github.com/Axixi2233/moonlight-android
+
+1. Improved physical trackpad usability:
+	- Tap as click
+	- Double tap as double click
+	- Double tap to drag
+	- Two finger click as right click
+	- Two finger scrolling

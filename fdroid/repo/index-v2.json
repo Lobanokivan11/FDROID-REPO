@@ -14,7 +14,7 @@
       }
     },
     "address": "https://raw.githubusercontent.com/Lobanokivan11/FDROID-REPO/refs/heads/main/fdroid/repo",
-    "timestamp": 1756283442000,
+    "timestamp": 1756284791000,
     "categories": {
       "Games": {
         "name": {
@@ -26496,6 +26496,2938 @@
               },
               {
                 "name": "moe.shizuku.manager.permission.API_V23"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "com.limelight.game.noir": {
+      "metadata": {
+        "added": 1756284395000,
+        "categories": [
+          "Games"
+        ],
+        "lastUpdated": 1756284395000,
+        "license": "GPL-3.0",
+        "sourceCode": "https://github.com/ClassicOldSong/moonlight-android",
+        "screenshots": {
+          "phone": {
+            "en-US": [
+              {
+                "name": "/com.limelight.game.noir/en-US/phoneScreenshots/1.png",
+                "sha256": "26549b2cfd283ca125e4afcc543b32c3aa9d3cdeb4777cbae0afbcc402e7aed6",
+                "size": 33809
+              },
+              {
+                "name": "/com.limelight.game.noir/en-US/phoneScreenshots/2.png",
+                "sha256": "323e2d9fff4c904818b002dc5c860439b2f2984b432a43f15b3f365218a9f478",
+                "size": 167331
+              },
+              {
+                "name": "/com.limelight.game.noir/en-US/phoneScreenshots/3.png",
+                "sha256": "2845fa2aaa3f998a03cb7603a83cc36dd10f6f651a9c05a6bd3ed7aa9884c0fe",
+                "size": 30180
+              },
+              {
+                "name": "/com.limelight.game.noir/en-US/phoneScreenshots/4.png",
+                "sha256": "1b552a9c94133652458dee980b2975afe3d309283c53c14d06efcfa3d74c1304",
+                "size": 183740
+              },
+              {
+                "name": "/com.limelight.game.noir/en-US/phoneScreenshots/5.png",
+                "sha256": "17b99910cdddffaf65511651fc0df94d4d626995db2b87c83c4885effe081644",
+                "size": 39388
+              },
+              {
+                "name": "/com.limelight.game.noir/en-US/phoneScreenshots/6.png",
+                "sha256": "468ec9b314bc1d22237585a0c8fe0216e3810902ab1545529ef5f3d00e83b33f",
+                "size": 176723
+              },
+              {
+                "name": "/com.limelight.game.noir/en-US/phoneScreenshots/7.png",
+                "sha256": "cc41fb08321c8c88f13db912626681710813971c1acb6e7fbf419e352f5e42c2",
+                "size": 27515
+              },
+              {
+                "name": "/com.limelight.game.noir/en-US/phoneScreenshots/8.png",
+                "sha256": "aea3714feece75f30805d882773037c466608103746d62383b5ebd1520291186",
+                "size": 96815
+              }
+            ]
+          }
+        },
+        "authorName": "ClassicOldSong",
+        "name": {
+          "en-US": "Artemis"
+        },
+        "summary": {
+          "en-US": "GameStream client for Android"
+        },
+        "description": {
+          "en-US": "Stream Pc Games From Pc of yours (Requires Apollo)\n"
+        },
+        "preferredSigner": "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6"
+      },
+      "versions": {
+        "9ec1caf7c9c096a40215de9c849ee9bfaf55f0564a355f5b4289222be54b9f16": {
+          "added": 1756284395000,
+          "file": {
+            "name": "/artemis_v12.1-artemis-241031.apk",
+            "sha256": "9ec1caf7c9c096a40215de9c849ee9bfaf55f0564a355f5b4289222be54b9f16",
+            "size": 10265395
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "12.1-artemis-241031",
+            "versionCode": 31,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.ACCESS_WIFI_STATE"
+              },
+              {
+                "name": "com.android.providers.tv.permission.READ_EPG_DATA"
+              },
+              {
+                "name": "com.android.providers.tv.permission.WRITE_EPG_DATA"
+              },
+              {
+                "name": "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+                "maxSdkVersion": 33
+              },
+              {
+                "name": "com.limelight.game.noir.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "com.limelight.nior": {
+      "metadata": {
+        "added": 1756284383000,
+        "categories": [
+          "Games"
+        ],
+        "lastUpdated": 1756284386000,
+        "license": "GPL-3.0",
+        "sourceCode": "https://github.com/ClassicOldSong/moonlight-android",
+        "screenshots": {
+          "phone": {
+            "en-US": [
+              {
+                "name": "/com.limelight.nior/en-US/phoneScreenshots/1.png",
+                "sha256": "26549b2cfd283ca125e4afcc543b32c3aa9d3cdeb4777cbae0afbcc402e7aed6",
+                "size": 33809
+              },
+              {
+                "name": "/com.limelight.nior/en-US/phoneScreenshots/2.png",
+                "sha256": "323e2d9fff4c904818b002dc5c860439b2f2984b432a43f15b3f365218a9f478",
+                "size": 167331
+              },
+              {
+                "name": "/com.limelight.nior/en-US/phoneScreenshots/3.png",
+                "sha256": "2845fa2aaa3f998a03cb7603a83cc36dd10f6f651a9c05a6bd3ed7aa9884c0fe",
+                "size": 30180
+              },
+              {
+                "name": "/com.limelight.nior/en-US/phoneScreenshots/4.png",
+                "sha256": "1b552a9c94133652458dee980b2975afe3d309283c53c14d06efcfa3d74c1304",
+                "size": 183740
+              },
+              {
+                "name": "/com.limelight.nior/en-US/phoneScreenshots/5.png",
+                "sha256": "17b99910cdddffaf65511651fc0df94d4d626995db2b87c83c4885effe081644",
+                "size": 39388
+              },
+              {
+                "name": "/com.limelight.nior/en-US/phoneScreenshots/6.png",
+                "sha256": "468ec9b314bc1d22237585a0c8fe0216e3810902ab1545529ef5f3d00e83b33f",
+                "size": 176723
+              },
+              {
+                "name": "/com.limelight.nior/en-US/phoneScreenshots/7.png",
+                "sha256": "cc41fb08321c8c88f13db912626681710813971c1acb6e7fbf419e352f5e42c2",
+                "size": 27515
+              },
+              {
+                "name": "/com.limelight.nior/en-US/phoneScreenshots/8.png",
+                "sha256": "aea3714feece75f30805d882773037c466608103746d62383b5ebd1520291186",
+                "size": 96815
+              }
+            ]
+          }
+        },
+        "authorName": "ClassicOldSong",
+        "name": {
+          "en-US": "Artemis"
+        },
+        "summary": {
+          "en-US": "GameStream client for Android"
+        },
+        "description": {
+          "en-US": "Stream Pc Games From Pc of yours (Requires Apollo)\n"
+        },
+        "preferredSigner": "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6"
+      },
+      "versions": {
+        "c90ae7e14dea2c01c7c05d8f11d5fa146116ad04f02840f2040722a652259655": {
+          "added": 1756284383000,
+          "file": {
+            "name": "/artemis_v12.1-240712-NIOR.apk",
+            "sha256": "c90ae7e14dea2c01c7c05d8f11d5fa146116ad04f02840f2040722a652259655",
+            "size": 9616156
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "12.1-240712-nior",
+            "versionCode": 314,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.ACCESS_WIFI_STATE"
+              },
+              {
+                "name": "com.android.providers.tv.permission.READ_EPG_DATA"
+              },
+              {
+                "name": "com.android.providers.tv.permission.WRITE_EPG_DATA"
+              },
+              {
+                "name": "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+                "maxSdkVersion": 33
+              }
+            ]
+          }
+        },
+        "9b879dd188ae3fcacb6d52ac50e0d88103e8fa5e69c92c3843a3a80c9f1f1560": {
+          "added": 1756284383000,
+          "file": {
+            "name": "/artemis_v12.1-240713-NIOR.apk",
+            "sha256": "9b879dd188ae3fcacb6d52ac50e0d88103e8fa5e69c92c3843a3a80c9f1f1560",
+            "size": 9618360
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "12.1-240713-nior",
+            "versionCode": 314,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.ACCESS_WIFI_STATE"
+              },
+              {
+                "name": "com.android.providers.tv.permission.READ_EPG_DATA"
+              },
+              {
+                "name": "com.android.providers.tv.permission.WRITE_EPG_DATA"
+              },
+              {
+                "name": "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+                "maxSdkVersion": 33
+              }
+            ]
+          }
+        },
+        "10ba2ef56eea6ec3dc8ae52be403cd7e554c2958d095094c58228af431c3fdaa": {
+          "added": 1756284384000,
+          "file": {
+            "name": "/artemis_v12.1-240714-NIOR.apk",
+            "sha256": "10ba2ef56eea6ec3dc8ae52be403cd7e554c2958d095094c58228af431c3fdaa",
+            "size": 9619946
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "12.1-240714-nior",
+            "versionCode": 314,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.ACCESS_WIFI_STATE"
+              },
+              {
+                "name": "com.android.providers.tv.permission.READ_EPG_DATA"
+              },
+              {
+                "name": "com.android.providers.tv.permission.WRITE_EPG_DATA"
+              },
+              {
+                "name": "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+                "maxSdkVersion": 33
+              }
+            ]
+          }
+        },
+        "02b1679119ed31d3716b1cb44c4889495bd9694b7fade05764e308ac4216b4d4": {
+          "added": 1756284384000,
+          "file": {
+            "name": "/artemis_v12.1-240715-NIOR.apk",
+            "sha256": "02b1679119ed31d3716b1cb44c4889495bd9694b7fade05764e308ac4216b4d4",
+            "size": 9621131
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "12.1-240715-nior",
+            "versionCode": 314,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.ACCESS_WIFI_STATE"
+              },
+              {
+                "name": "com.android.providers.tv.permission.READ_EPG_DATA"
+              },
+              {
+                "name": "com.android.providers.tv.permission.WRITE_EPG_DATA"
+              },
+              {
+                "name": "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+                "maxSdkVersion": 33
+              }
+            ]
+          }
+        },
+        "156f0695ddbab7685fc9a47b81e7440504f8e4ec06bfdc95c4f798bbd78dae45": {
+          "added": 1756284385000,
+          "file": {
+            "name": "/artemis_v12.1-240716-2-NIOR.apk",
+            "sha256": "156f0695ddbab7685fc9a47b81e7440504f8e4ec06bfdc95c4f798bbd78dae45",
+            "size": 9625639
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "12.1-240716-2-nior",
+            "versionCode": 314,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.ACCESS_WIFI_STATE"
+              },
+              {
+                "name": "com.android.providers.tv.permission.READ_EPG_DATA"
+              },
+              {
+                "name": "com.android.providers.tv.permission.WRITE_EPG_DATA"
+              },
+              {
+                "name": "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+                "maxSdkVersion": 33
+              }
+            ]
+          }
+        },
+        "572c3f85c588073bad98d47d05c13afa8e992af208a62452d657c8e488a1b61c": {
+          "added": 1756284386000,
+          "file": {
+            "name": "/artemis_v12.1-240717-NIOR.apk",
+            "sha256": "572c3f85c588073bad98d47d05c13afa8e992af208a62452d657c8e488a1b61c",
+            "size": 9624370
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "12.1-240717-nior",
+            "versionCode": 314,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.ACCESS_WIFI_STATE"
+              },
+              {
+                "name": "com.android.providers.tv.permission.READ_EPG_DATA"
+              },
+              {
+                "name": "com.android.providers.tv.permission.WRITE_EPG_DATA"
+              },
+              {
+                "name": "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+                "maxSdkVersion": 33
+              }
+            ]
+          }
+        }
+      }
+    },
+    "com.limelight.noir": {
+      "metadata": {
+        "added": 1756284387000,
+        "categories": [
+          "Games"
+        ],
+        "lastUpdated": 1756284409000,
+        "license": "GPL-3.0",
+        "sourceCode": "https://github.com/ClassicOldSong/moonlight-android",
+        "screenshots": {
+          "phone": {
+            "en-US": [
+              {
+                "name": "/com.limelight.noir/en-US/phoneScreenshots/1.png",
+                "sha256": "26549b2cfd283ca125e4afcc543b32c3aa9d3cdeb4777cbae0afbcc402e7aed6",
+                "size": 33809
+              },
+              {
+                "name": "/com.limelight.noir/en-US/phoneScreenshots/2.png",
+                "sha256": "323e2d9fff4c904818b002dc5c860439b2f2984b432a43f15b3f365218a9f478",
+                "size": 167331
+              },
+              {
+                "name": "/com.limelight.noir/en-US/phoneScreenshots/3.png",
+                "sha256": "2845fa2aaa3f998a03cb7603a83cc36dd10f6f651a9c05a6bd3ed7aa9884c0fe",
+                "size": 30180
+              },
+              {
+                "name": "/com.limelight.noir/en-US/phoneScreenshots/4.png",
+                "sha256": "1b552a9c94133652458dee980b2975afe3d309283c53c14d06efcfa3d74c1304",
+                "size": 183740
+              },
+              {
+                "name": "/com.limelight.noir/en-US/phoneScreenshots/5.png",
+                "sha256": "17b99910cdddffaf65511651fc0df94d4d626995db2b87c83c4885effe081644",
+                "size": 39388
+              },
+              {
+                "name": "/com.limelight.noir/en-US/phoneScreenshots/6.png",
+                "sha256": "468ec9b314bc1d22237585a0c8fe0216e3810902ab1545529ef5f3d00e83b33f",
+                "size": 176723
+              },
+              {
+                "name": "/com.limelight.noir/en-US/phoneScreenshots/7.png",
+                "sha256": "cc41fb08321c8c88f13db912626681710813971c1acb6e7fbf419e352f5e42c2",
+                "size": 27515
+              },
+              {
+                "name": "/com.limelight.noir/en-US/phoneScreenshots/8.png",
+                "sha256": "aea3714feece75f30805d882773037c466608103746d62383b5ebd1520291186",
+                "size": 96815
+              }
+            ]
+          }
+        },
+        "authorName": "ClassicOldSong",
+        "name": {
+          "en-US": "Artemis"
+        },
+        "summary": {
+          "en-US": "GameStream client for Android"
+        },
+        "description": {
+          "en-US": "Stream Pc Games From Pc of yours (Requires Apollo)\n"
+        },
+        "preferredSigner": "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6"
+      },
+      "versions": {
+        "6735b5fdd790410ea726754235f49757fa594ef01da1e5acadf72690c9423f6c": {
+          "added": 1756284409000,
+          "file": {
+            "name": "/artemis_v20.2.6.apk",
+            "sha256": "6735b5fdd790410ea726754235f49757fa594ef01da1e5acadf72690c9423f6c",
+            "size": 12082799
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "20.2.6",
+            "versionCode": 57,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.REORDER_TASKS"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.ACCESS_WIFI_STATE"
+              },
+              {
+                "name": "com.android.providers.tv.permission.READ_EPG_DATA"
+              },
+              {
+                "name": "com.android.providers.tv.permission.WRITE_EPG_DATA"
+              },
+              {
+                "name": "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+                "maxSdkVersion": 33
+              },
+              {
+                "name": "com.limelight.noir.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        },
+        "54d30ed008212ac7519362f7851ac125224ed383b38746ca14d39951ba5c4671": {
+          "added": 1756284408000,
+          "file": {
+            "name": "/artemis_v20.1.5.apk",
+            "sha256": "54d30ed008212ac7519362f7851ac125224ed383b38746ca14d39951ba5c4671",
+            "size": 12066235
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "20.1.5",
+            "versionCode": 50,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.ACCESS_WIFI_STATE"
+              },
+              {
+                "name": "com.android.providers.tv.permission.READ_EPG_DATA"
+              },
+              {
+                "name": "com.android.providers.tv.permission.WRITE_EPG_DATA"
+              },
+              {
+                "name": "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+                "maxSdkVersion": 33
+              },
+              {
+                "name": "com.limelight.noir.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        },
+        "5c3d9a733c62e5259db62a75e6290be96d522e2aa3b7cae9f9c42a3c49568a35": {
+          "added": 1756284408000,
+          "file": {
+            "name": "/artemis_v20.0.0250712.apk",
+            "sha256": "5c3d9a733c62e5259db62a75e6290be96d522e2aa3b7cae9f9c42a3c49568a35",
+            "size": 12033663
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "20.0.0+250712",
+            "versionCode": 44,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.ACCESS_WIFI_STATE"
+              },
+              {
+                "name": "com.android.providers.tv.permission.READ_EPG_DATA"
+              },
+              {
+                "name": "com.android.providers.tv.permission.WRITE_EPG_DATA"
+              },
+              {
+                "name": "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+                "maxSdkVersion": 33
+              },
+              {
+                "name": "com.limelight.noir.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        },
+        "348f99f1d35a308b4f75749f473538a8fc0bc712a4fc78fd7fdbf5b0481a2eed": {
+          "added": 1756284403000,
+          "file": {
+            "name": "/artemis_v12.1.250118.apk",
+            "sha256": "348f99f1d35a308b4f75749f473538a8fc0bc712a4fc78fd7fdbf5b0481a2eed",
+            "size": 10303714
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "12.1.250118",
+            "versionCode": 43,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.ACCESS_WIFI_STATE"
+              },
+              {
+                "name": "com.android.providers.tv.permission.READ_EPG_DATA"
+              },
+              {
+                "name": "com.android.providers.tv.permission.WRITE_EPG_DATA"
+              },
+              {
+                "name": "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+                "maxSdkVersion": 33
+              },
+              {
+                "name": "com.limelight.noir.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        },
+        "51d42a905c9d0492251ec9f48c063ce648a1d1671826c592ff967e5fa1e0a377": {
+          "added": 1756284403000,
+          "file": {
+            "name": "/artemis_v12.1.250410-1.apk",
+            "sha256": "51d42a905c9d0492251ec9f48c063ce648a1d1671826c592ff967e5fa1e0a377",
+            "size": 10526151
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "12.1.250410-1",
+            "versionCode": 43,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.ACCESS_WIFI_STATE"
+              },
+              {
+                "name": "com.android.providers.tv.permission.READ_EPG_DATA"
+              },
+              {
+                "name": "com.android.providers.tv.permission.WRITE_EPG_DATA"
+              },
+              {
+                "name": "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+                "maxSdkVersion": 33
+              },
+              {
+                "name": "com.limelight.noir.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        },
+        "18cd347dca2366e3f7ee5a5addd04053fe56774e6494275a5156d0d4c8e20903": {
+          "added": 1756284404000,
+          "file": {
+            "name": "/artemis_v12.1.250415.apk",
+            "sha256": "18cd347dca2366e3f7ee5a5addd04053fe56774e6494275a5156d0d4c8e20903",
+            "size": 10527239
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "12.1.250415",
+            "versionCode": 43,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.ACCESS_WIFI_STATE"
+              },
+              {
+                "name": "com.android.providers.tv.permission.READ_EPG_DATA"
+              },
+              {
+                "name": "com.android.providers.tv.permission.WRITE_EPG_DATA"
+              },
+              {
+                "name": "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+                "maxSdkVersion": 33
+              },
+              {
+                "name": "com.limelight.noir.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        },
+        "84162f9f6f89da9d2fab4cddde9bdf2617c299d447f7c196ab69d480a7cdb95c": {
+          "added": 1756284405000,
+          "file": {
+            "name": "/artemis_v12.1.250521.apk",
+            "sha256": "84162f9f6f89da9d2fab4cddde9bdf2617c299d447f7c196ab69d480a7cdb95c",
+            "size": 10498931
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "12.1.250521",
+            "versionCode": 43,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.ACCESS_WIFI_STATE"
+              },
+              {
+                "name": "com.android.providers.tv.permission.READ_EPG_DATA"
+              },
+              {
+                "name": "com.android.providers.tv.permission.WRITE_EPG_DATA"
+              },
+              {
+                "name": "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+                "maxSdkVersion": 33
+              },
+              {
+                "name": "com.limelight.noir.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        },
+        "a2186e2c24d1ddb03af6ff3c5b95b1911d9e6fcd49ec969b77ac7c16c6c4f104": {
+          "added": 1756284405000,
+          "file": {
+            "name": "/artemis_v12.1.250529.apk",
+            "sha256": "a2186e2c24d1ddb03af6ff3c5b95b1911d9e6fcd49ec969b77ac7c16c6c4f104",
+            "size": 10498964
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "12.1.250529",
+            "versionCode": 43,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.ACCESS_WIFI_STATE"
+              },
+              {
+                "name": "com.android.providers.tv.permission.READ_EPG_DATA"
+              },
+              {
+                "name": "com.android.providers.tv.permission.WRITE_EPG_DATA"
+              },
+              {
+                "name": "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+                "maxSdkVersion": 33
+              },
+              {
+                "name": "com.limelight.noir.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        },
+        "678b962b5d65650b0df734a0f8cab451c1ef21124db5e5436a5152bc93545ed7": {
+          "added": 1756284406000,
+          "file": {
+            "name": "/artemis_v12.1.250603.apk",
+            "sha256": "678b962b5d65650b0df734a0f8cab451c1ef21124db5e5436a5152bc93545ed7",
+            "size": 10528068
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "12.1.250603",
+            "versionCode": 43,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.ACCESS_WIFI_STATE"
+              },
+              {
+                "name": "com.android.providers.tv.permission.READ_EPG_DATA"
+              },
+              {
+                "name": "com.android.providers.tv.permission.WRITE_EPG_DATA"
+              },
+              {
+                "name": "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+                "maxSdkVersion": 33
+              },
+              {
+                "name": "com.limelight.noir.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        },
+        "11033ed915324cb33a214f5a870fc209303df67bbb8ef8e404cccf8994f78c6d": {
+          "added": 1756284406000,
+          "file": {
+            "name": "/artemis_v12.1.250605.apk",
+            "sha256": "11033ed915324cb33a214f5a870fc209303df67bbb8ef8e404cccf8994f78c6d",
+            "size": 10528323
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "12.1.250605",
+            "versionCode": 43,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.ACCESS_WIFI_STATE"
+              },
+              {
+                "name": "com.android.providers.tv.permission.READ_EPG_DATA"
+              },
+              {
+                "name": "com.android.providers.tv.permission.WRITE_EPG_DATA"
+              },
+              {
+                "name": "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+                "maxSdkVersion": 33
+              },
+              {
+                "name": "com.limelight.noir.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        },
+        "f77ac3dc4bcb5d242143052043843af1f10dc30c6c7579daecded2a7931ba3a4": {
+          "added": 1756284407000,
+          "file": {
+            "name": "/artemis_v12.1.250609.apk",
+            "sha256": "f77ac3dc4bcb5d242143052043843af1f10dc30c6c7579daecded2a7931ba3a4",
+            "size": 10529064
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "12.1.250609",
+            "versionCode": 43,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.ACCESS_WIFI_STATE"
+              },
+              {
+                "name": "com.android.providers.tv.permission.READ_EPG_DATA"
+              },
+              {
+                "name": "com.android.providers.tv.permission.WRITE_EPG_DATA"
+              },
+              {
+                "name": "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+                "maxSdkVersion": 33
+              },
+              {
+                "name": "com.limelight.noir.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        },
+        "085ff03b6d7de465de9e25b69b2da387f73d12c899eaebca8772c86260cbec69": {
+          "added": 1756284402000,
+          "file": {
+            "name": "/artemis_v12.1.241217-2.apk",
+            "sha256": "085ff03b6d7de465de9e25b69b2da387f73d12c899eaebca8772c86260cbec69",
+            "size": 10299201
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "12.1.241217-2",
+            "versionCode": 39,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.ACCESS_WIFI_STATE"
+              },
+              {
+                "name": "com.android.providers.tv.permission.READ_EPG_DATA"
+              },
+              {
+                "name": "com.android.providers.tv.permission.WRITE_EPG_DATA"
+              },
+              {
+                "name": "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+                "maxSdkVersion": 33
+              },
+              {
+                "name": "com.limelight.noir.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        },
+        "26bfbc58ce976de22ecb056cd15377b7aca11419ab558531c9dff9683017d70e": {
+          "added": 1756284402000,
+          "file": {
+            "name": "/artemis_v12.1.241203-2.apk",
+            "sha256": "26bfbc58ce976de22ecb056cd15377b7aca11419ab558531c9dff9683017d70e",
+            "size": 10297615
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "12.1.241203-2",
+            "versionCode": 37,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.ACCESS_WIFI_STATE"
+              },
+              {
+                "name": "com.android.providers.tv.permission.READ_EPG_DATA"
+              },
+              {
+                "name": "com.android.providers.tv.permission.WRITE_EPG_DATA"
+              },
+              {
+                "name": "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+                "maxSdkVersion": 33
+              },
+              {
+                "name": "com.limelight.noir.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        },
+        "41b78e47f655f27170a02cbb0a0c3a9b07dadb8492ef0d9fed87285a9ea9af89": {
+          "added": 1756284401000,
+          "file": {
+            "name": "/artemis_v12.1.241202.apk",
+            "sha256": "41b78e47f655f27170a02cbb0a0c3a9b07dadb8492ef0d9fed87285a9ea9af89",
+            "size": 10296225
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "12.1.241202",
+            "versionCode": 35,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.ACCESS_WIFI_STATE"
+              },
+              {
+                "name": "com.android.providers.tv.permission.READ_EPG_DATA"
+              },
+              {
+                "name": "com.android.providers.tv.permission.WRITE_EPG_DATA"
+              },
+              {
+                "name": "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+                "maxSdkVersion": 33
+              },
+              {
+                "name": "com.limelight.noir.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        },
+        "4ea7585079b71779d0f3575fab4d5369992b2e9142bf0c1d5c9dd8685da61888": {
+          "added": 1756284400000,
+          "file": {
+            "name": "/artemis_v12.1.241128-2.apk",
+            "sha256": "4ea7585079b71779d0f3575fab4d5369992b2e9142bf0c1d5c9dd8685da61888",
+            "size": 10291253
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "12.1.241128-2",
+            "versionCode": 34,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.ACCESS_WIFI_STATE"
+              },
+              {
+                "name": "com.android.providers.tv.permission.READ_EPG_DATA"
+              },
+              {
+                "name": "com.android.providers.tv.permission.WRITE_EPG_DATA"
+              },
+              {
+                "name": "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+                "maxSdkVersion": 33
+              },
+              {
+                "name": "com.limelight.noir.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        },
+        "ea95c3c281c4dffc4de5b1f3250713f784359ae5cd732b8710eb2462fa175573": {
+          "added": 1756284395000,
+          "file": {
+            "name": "/artemis_v12.1-artemis-241120.apk",
+            "sha256": "ea95c3c281c4dffc4de5b1f3250713f784359ae5cd732b8710eb2462fa175573",
+            "size": 10265985
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "12.1-artemis-241120",
+            "versionCode": 32,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.ACCESS_WIFI_STATE"
+              },
+              {
+                "name": "com.android.providers.tv.permission.READ_EPG_DATA"
+              },
+              {
+                "name": "com.android.providers.tv.permission.WRITE_EPG_DATA"
+              },
+              {
+                "name": "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+                "maxSdkVersion": 33
+              },
+              {
+                "name": "com.limelight.noir.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        },
+        "e7b3b0fa2151b0bdc6400b41918fd47f0e5d445c31ea8bbba65cfa2b363263f2": {
+          "added": 1756284394000,
+          "file": {
+            "name": "/artemis_v12.1-artemis-241013.apk",
+            "sha256": "e7b3b0fa2151b0bdc6400b41918fd47f0e5d445c31ea8bbba65cfa2b363263f2",
+            "size": 10259861
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "12.1-artemis-241013",
+            "versionCode": 29,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.ACCESS_WIFI_STATE"
+              },
+              {
+                "name": "com.android.providers.tv.permission.READ_EPG_DATA"
+              },
+              {
+                "name": "com.android.providers.tv.permission.WRITE_EPG_DATA"
+              },
+              {
+                "name": "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+                "maxSdkVersion": 33
+              },
+              {
+                "name": "com.limelight.noir.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        },
+        "c2f5f03db4d551d777794821163516a80b76e76661da5f97ab55a8c910069fd7": {
+          "added": 1756284394000,
+          "file": {
+            "name": "/artemis_v12.1-artemis-241009.apk",
+            "sha256": "c2f5f03db4d551d777794821163516a80b76e76661da5f97ab55a8c910069fd7",
+            "size": 9694357
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "12.1-artemis-241009",
+            "versionCode": 24,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.ACCESS_WIFI_STATE"
+              },
+              {
+                "name": "com.android.providers.tv.permission.READ_EPG_DATA"
+              },
+              {
+                "name": "com.android.providers.tv.permission.WRITE_EPG_DATA"
+              },
+              {
+                "name": "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+                "maxSdkVersion": 33
+              }
+            ]
+          }
+        },
+        "b223c3241590ef80a09a0b1897d80c4aa46cf9b3dd92aceb1ea50fb403173a98": {
+          "added": 1756284393000,
+          "file": {
+            "name": "/artemis_v12.1-artemis-241006.apk",
+            "sha256": "b223c3241590ef80a09a0b1897d80c4aa46cf9b3dd92aceb1ea50fb403173a98",
+            "size": 9693944
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "12.1-artemis-241006",
+            "versionCode": 23,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.ACCESS_WIFI_STATE"
+              },
+              {
+                "name": "com.android.providers.tv.permission.READ_EPG_DATA"
+              },
+              {
+                "name": "com.android.providers.tv.permission.WRITE_EPG_DATA"
+              },
+              {
+                "name": "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+                "maxSdkVersion": 33
+              }
+            ]
+          }
+        },
+        "ffcd4de7a9a9f1fb008679ec1f5ad4b90099246982a94743e021352c7e57dcec": {
+          "added": 1756284392000,
+          "file": {
+            "name": "/artemis_v12.1-artemis-241003.apk",
+            "sha256": "ffcd4de7a9a9f1fb008679ec1f5ad4b90099246982a94743e021352c7e57dcec",
+            "size": 9687577
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "12.1-artemis-241003",
+            "versionCode": 22,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.ACCESS_WIFI_STATE"
+              },
+              {
+                "name": "com.android.providers.tv.permission.READ_EPG_DATA"
+              },
+              {
+                "name": "com.android.providers.tv.permission.WRITE_EPG_DATA"
+              },
+              {
+                "name": "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+                "maxSdkVersion": 33
+              }
+            ]
+          }
+        },
+        "3c30497ef790f0d68e6704fae4b6416d2c3b02f8a7aff0ab26569b54c38ee1cd": {
+          "added": 1756284392000,
+          "file": {
+            "name": "/artemis_v12.1-artemis-240929.apk",
+            "sha256": "3c30497ef790f0d68e6704fae4b6416d2c3b02f8a7aff0ab26569b54c38ee1cd",
+            "size": 9687628
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "12.1-artemis-240929",
+            "versionCode": 21,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.ACCESS_WIFI_STATE"
+              },
+              {
+                "name": "com.android.providers.tv.permission.READ_EPG_DATA"
+              },
+              {
+                "name": "com.android.providers.tv.permission.WRITE_EPG_DATA"
+              },
+              {
+                "name": "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+                "maxSdkVersion": 33
+              }
+            ]
+          }
+        },
+        "f3dc71002db740c6d18875b9c2ebf3d8c0fb9eee8ac1c18b699056e280d63831": {
+          "added": 1756284391000,
+          "file": {
+            "name": "/artemis_v12.1-artemis-240928.apk",
+            "sha256": "f3dc71002db740c6d18875b9c2ebf3d8c0fb9eee8ac1c18b699056e280d63831",
+            "size": 9680544
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "12.1-artemis-240928",
+            "versionCode": 20,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.ACCESS_WIFI_STATE"
+              },
+              {
+                "name": "com.android.providers.tv.permission.READ_EPG_DATA"
+              },
+              {
+                "name": "com.android.providers.tv.permission.WRITE_EPG_DATA"
+              },
+              {
+                "name": "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+                "maxSdkVersion": 33
+              }
+            ]
+          }
+        },
+        "95c2cb00d1cbb95181bb9c130cf4ed119abe13c92519bf29845d12a94c4243d9": {
+          "added": 1756284391000,
+          "file": {
+            "name": "/artemis_v12.1-artemis-240925-2.apk",
+            "sha256": "95c2cb00d1cbb95181bb9c130cf4ed119abe13c92519bf29845d12a94c4243d9",
+            "size": 9671866
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "12.1-artemis-240925-2",
+            "versionCode": 19,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.ACCESS_WIFI_STATE"
+              },
+              {
+                "name": "com.android.providers.tv.permission.READ_EPG_DATA"
+              },
+              {
+                "name": "com.android.providers.tv.permission.WRITE_EPG_DATA"
+              },
+              {
+                "name": "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+                "maxSdkVersion": 33
+              }
+            ]
+          }
+        },
+        "06775508f0fc793b4a1fcca0256f70a4e0a963e58d3c8e42b53acedb05151c5c": {
+          "added": 1756284390000,
+          "file": {
+            "name": "/artemis_v12.1-artemis-240924.apk",
+            "sha256": "06775508f0fc793b4a1fcca0256f70a4e0a963e58d3c8e42b53acedb05151c5c",
+            "size": 9671819
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "12.1-artemis-240924",
+            "versionCode": 17,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.ACCESS_WIFI_STATE"
+              },
+              {
+                "name": "com.android.providers.tv.permission.READ_EPG_DATA"
+              },
+              {
+                "name": "com.android.providers.tv.permission.WRITE_EPG_DATA"
+              },
+              {
+                "name": "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+                "maxSdkVersion": 33
+              }
+            ]
+          }
+        },
+        "d67e809e37f86e7dd9098739672ebd1f12b6d5c8bccb270bf5aad0aa9cada79c": {
+          "added": 1756284390000,
+          "file": {
+            "name": "/artemis_v12.1-artemis-240911.apk",
+            "sha256": "d67e809e37f86e7dd9098739672ebd1f12b6d5c8bccb270bf5aad0aa9cada79c",
+            "size": 9670681
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "12.1-artemis-240911",
+            "versionCode": 16,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.ACCESS_WIFI_STATE"
+              },
+              {
+                "name": "com.android.providers.tv.permission.READ_EPG_DATA"
+              },
+              {
+                "name": "com.android.providers.tv.permission.WRITE_EPG_DATA"
+              },
+              {
+                "name": "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+                "maxSdkVersion": 33
+              }
+            ]
+          }
+        },
+        "ac6e3daaf89458b17573d1b795ee65c3a1032fc7455222b99e57d575b37e1452": {
+          "added": 1756284389000,
+          "file": {
+            "name": "/artemis_v12.1-artemis-240903.apk",
+            "sha256": "ac6e3daaf89458b17573d1b795ee65c3a1032fc7455222b99e57d575b37e1452",
+            "size": 9666041
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "12.1-artemis-240903",
+            "versionCode": 15,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.ACCESS_WIFI_STATE"
+              },
+              {
+                "name": "com.android.providers.tv.permission.READ_EPG_DATA"
+              },
+              {
+                "name": "com.android.providers.tv.permission.WRITE_EPG_DATA"
+              },
+              {
+                "name": "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+                "maxSdkVersion": 33
+              }
+            ]
+          }
+        },
+        "a80aa0961e78f0a5fb6cc347b90c1a4a2a5486b0028d981b119acdc88ca7ed02": {
+          "added": 1756284389000,
+          "file": {
+            "name": "/artemis_v12.1-artemis-240831.apk",
+            "sha256": "a80aa0961e78f0a5fb6cc347b90c1a4a2a5486b0028d981b119acdc88ca7ed02",
+            "size": 9665990
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "12.1-artemis-240831",
+            "versionCode": 14,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.ACCESS_WIFI_STATE"
+              },
+              {
+                "name": "com.android.providers.tv.permission.READ_EPG_DATA"
+              },
+              {
+                "name": "com.android.providers.tv.permission.WRITE_EPG_DATA"
+              },
+              {
+                "name": "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+                "maxSdkVersion": 33
+              }
+            ]
+          }
+        },
+        "7555a3e26f946b1717870e7fdaeec9a180ddd9a3b83771c7318d0d94a99777c8": {
+          "added": 1756284388000,
+          "file": {
+            "name": "/artemis_v12.1-artemis-240828.apk",
+            "sha256": "7555a3e26f946b1717870e7fdaeec9a180ddd9a3b83771c7318d0d94a99777c8",
+            "size": 9656758
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "12.1-artemis-240828",
+            "versionCode": 13,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.ACCESS_WIFI_STATE"
+              },
+              {
+                "name": "com.android.providers.tv.permission.READ_EPG_DATA"
+              },
+              {
+                "name": "com.android.providers.tv.permission.WRITE_EPG_DATA"
+              },
+              {
+                "name": "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+                "maxSdkVersion": 33
+              }
+            ]
+          }
+        },
+        "6c25150e1a4f4708013a1fb7d35236f3894d02053f18fe86887156e59469b048": {
+          "added": 1756284388000,
+          "file": {
+            "name": "/artemis_v12.1-artemis-240823.apk",
+            "sha256": "6c25150e1a4f4708013a1fb7d35236f3894d02053f18fe86887156e59469b048",
+            "size": 9651598
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "12.1-artemis-240823",
+            "versionCode": 12,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.ACCESS_WIFI_STATE"
+              },
+              {
+                "name": "com.android.providers.tv.permission.READ_EPG_DATA"
+              },
+              {
+                "name": "com.android.providers.tv.permission.WRITE_EPG_DATA"
+              },
+              {
+                "name": "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+                "maxSdkVersion": 33
+              }
+            ]
+          }
+        },
+        "5dc62784929370b6bbcb598b4743737f52add879cd3f0043fdfc6b236200cd0b": {
+          "added": 1756284387000,
+          "file": {
+            "name": "/artemis_v12.1-artemis-240820.apk",
+            "sha256": "5dc62784929370b6bbcb598b4743737f52add879cd3f0043fdfc6b236200cd0b",
+            "size": 9650205
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "12.1-artemis-240820",
+            "versionCode": 11,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.ACCESS_WIFI_STATE"
+              },
+              {
+                "name": "com.android.providers.tv.permission.READ_EPG_DATA"
+              },
+              {
+                "name": "com.android.providers.tv.permission.WRITE_EPG_DATA"
+              },
+              {
+                "name": "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+                "maxSdkVersion": 33
+              }
+            ]
+          }
+        },
+        "c3c2fecb00076a8fcc52e8618cd21bf6eda8bfd9d9046309884d00f54098f0be": {
+          "added": 1756284387000,
+          "file": {
+            "name": "/artemis_v12.1-artemis-240818-2.apk",
+            "sha256": "c3c2fecb00076a8fcc52e8618cd21bf6eda8bfd9d9046309884d00f54098f0be",
+            "size": 9648764
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "12.1-artemis-240818-2",
+            "versionCode": 10,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.ACCESS_WIFI_STATE"
+              },
+              {
+                "name": "com.android.providers.tv.permission.READ_EPG_DATA"
+              },
+              {
+                "name": "com.android.providers.tv.permission.WRITE_EPG_DATA"
+              },
+              {
+                "name": "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+                "maxSdkVersion": 33
+              }
+            ]
+          }
+        },
+        "21629e8c1516a510d7ab72c77728247219f87b37790afcc88bad747a464246fb": {
+          "added": 1756284400000,
+          "file": {
+            "name": "/artemis_v12.1-noir-240816.apk",
+            "sha256": "21629e8c1516a510d7ab72c77728247219f87b37790afcc88bad747a464246fb",
+            "size": 9641518
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "12.1-noir-240816",
+            "versionCode": 9,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.ACCESS_WIFI_STATE"
+              },
+              {
+                "name": "com.android.providers.tv.permission.READ_EPG_DATA"
+              },
+              {
+                "name": "com.android.providers.tv.permission.WRITE_EPG_DATA"
+              },
+              {
+                "name": "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+                "maxSdkVersion": 33
+              }
+            ]
+          }
+        },
+        "c802a0c4055a830fee6de558c8ba8220b0d600798d92364da2522205081f8d92": {
+          "added": 1756284399000,
+          "file": {
+            "name": "/artemis_v12.1-noir-240802.apk",
+            "sha256": "c802a0c4055a830fee6de558c8ba8220b0d600798d92364da2522205081f8d92",
+            "size": 9641606
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "12.1-noir-240802",
+            "versionCode": 8,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.ACCESS_WIFI_STATE"
+              },
+              {
+                "name": "com.android.providers.tv.permission.READ_EPG_DATA"
+              },
+              {
+                "name": "com.android.providers.tv.permission.WRITE_EPG_DATA"
+              },
+              {
+                "name": "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+                "maxSdkVersion": 33
+              }
+            ]
+          }
+        },
+        "2b334233cf186a23e33715052f44cf19a0dd292b9af636c6b3f2b24165cb6bfe": {
+          "added": 1756284399000,
+          "file": {
+            "name": "/artemis_v12.1-noir-240729.apk",
+            "sha256": "2b334233cf186a23e33715052f44cf19a0dd292b9af636c6b3f2b24165cb6bfe",
+            "size": 9641459
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "12.1-noir-240729",
+            "versionCode": 7,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.ACCESS_WIFI_STATE"
+              },
+              {
+                "name": "com.android.providers.tv.permission.READ_EPG_DATA"
+              },
+              {
+                "name": "com.android.providers.tv.permission.WRITE_EPG_DATA"
+              },
+              {
+                "name": "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+                "maxSdkVersion": 33
+              }
+            ]
+          }
+        },
+        "fd069a56e988e565f96653a9fef3f4ef01c873bf9c03b3a05cae5eb7bf0e922d": {
+          "added": 1756284398000,
+          "file": {
+            "name": "/artemis_v12.1-noir-240728.apk",
+            "sha256": "fd069a56e988e565f96653a9fef3f4ef01c873bf9c03b3a05cae5eb7bf0e922d",
+            "size": 9638874
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "12.1-noir-240728",
+            "versionCode": 6,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.ACCESS_WIFI_STATE"
+              },
+              {
+                "name": "com.android.providers.tv.permission.READ_EPG_DATA"
+              },
+              {
+                "name": "com.android.providers.tv.permission.WRITE_EPG_DATA"
+              },
+              {
+                "name": "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+                "maxSdkVersion": 33
+              }
+            ]
+          }
+        },
+        "bfd559ad6d334e94cbbcf3f853b1f6e27d592121c04301e2fd8fc272e0e682d3": {
+          "added": 1756284398000,
+          "file": {
+            "name": "/artemis_v12.1-noir-240723.apk",
+            "sha256": "bfd559ad6d334e94cbbcf3f853b1f6e27d592121c04301e2fd8fc272e0e682d3",
+            "size": 9631204
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "12.1-noir-240723",
+            "versionCode": 5,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.ACCESS_WIFI_STATE"
+              },
+              {
+                "name": "com.android.providers.tv.permission.READ_EPG_DATA"
+              },
+              {
+                "name": "com.android.providers.tv.permission.WRITE_EPG_DATA"
+              },
+              {
+                "name": "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+                "maxSdkVersion": 33
+              }
+            ]
+          }
+        },
+        "e6c78520e5342f5d484b6ffc40d5db688c9803dd6b3d3f65c78465deba85fded": {
+          "added": 1756284397000,
+          "file": {
+            "name": "/artemis_v12.1-noir-240722.2.apk",
+            "sha256": "e6c78520e5342f5d484b6ffc40d5db688c9803dd6b3d3f65c78465deba85fded",
+            "size": 9630726
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "12.1-noir-240722.2",
+            "versionCode": 4,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.ACCESS_WIFI_STATE"
+              },
+              {
+                "name": "com.android.providers.tv.permission.READ_EPG_DATA"
+              },
+              {
+                "name": "com.android.providers.tv.permission.WRITE_EPG_DATA"
+              },
+              {
+                "name": "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+                "maxSdkVersion": 33
+              }
+            ]
+          }
+        },
+        "2068aa3a06b42a1544842e7d2fa10a2c8abaf1a0ea851ead84b2cb718532f600": {
+          "added": 1756284397000,
+          "file": {
+            "name": "/artemis_v12.1-noir-240722.apk",
+            "sha256": "2068aa3a06b42a1544842e7d2fa10a2c8abaf1a0ea851ead84b2cb718532f600",
+            "size": 9628747
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "12.1-noir-240722",
+            "versionCode": 3,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.ACCESS_WIFI_STATE"
+              },
+              {
+                "name": "com.android.providers.tv.permission.READ_EPG_DATA"
+              },
+              {
+                "name": "com.android.providers.tv.permission.WRITE_EPG_DATA"
+              },
+              {
+                "name": "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+                "maxSdkVersion": 33
+              }
+            ]
+          }
+        },
+        "e0fd3247d7d87b8194c8e865e3b0fddec31e99aa38183d02b281c84a391777ce": {
+          "added": 1756284396000,
+          "file": {
+            "name": "/artemis_v12.1-noir-240721.apk",
+            "sha256": "e0fd3247d7d87b8194c8e865e3b0fddec31e99aa38183d02b281c84a391777ce",
+            "size": 9628687
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "12.1-noir-240721",
+            "versionCode": 2,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.ACCESS_WIFI_STATE"
+              },
+              {
+                "name": "com.android.providers.tv.permission.READ_EPG_DATA"
+              },
+              {
+                "name": "com.android.providers.tv.permission.WRITE_EPG_DATA"
+              },
+              {
+                "name": "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+                "maxSdkVersion": 33
+              }
+            ]
+          }
+        },
+        "af0ae9ed3615319bbe719ccb4662f3dc016232c54b2b5b833213d6fa9746d03e": {
+          "added": 1756284396000,
+          "file": {
+            "name": "/artemis_v12.1-noir-240718-hotfix-1.apk",
+            "sha256": "af0ae9ed3615319bbe719ccb4662f3dc016232c54b2b5b833213d6fa9746d03e",
+            "size": 9625675
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "12.1-noir-240718-hotfix-1",
+            "versionCode": 1,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.ACCESS_WIFI_STATE"
+              },
+              {
+                "name": "com.android.providers.tv.permission.READ_EPG_DATA"
+              },
+              {
+                "name": "com.android.providers.tv.permission.WRITE_EPG_DATA"
+              },
+              {
+                "name": "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+                "maxSdkVersion": 33
+              }
+            ]
+          }
+        }
+      }
+    },
+    "com.limelight.unofficialBLACK": {
+      "metadata": {
+        "added": 1756284386000,
+        "categories": [
+          "Games"
+        ],
+        "lastUpdated": 1756284386000,
+        "license": "GPL-3.0",
+        "sourceCode": "https://github.com/ClassicOldSong/moonlight-android",
+        "screenshots": {
+          "phone": {
+            "en-US": [
+              {
+                "name": "/com.limelight.unofficialBLACK/en-US/phoneScreenshots/1.png",
+                "sha256": "26549b2cfd283ca125e4afcc543b32c3aa9d3cdeb4777cbae0afbcc402e7aed6",
+                "size": 33809
+              },
+              {
+                "name": "/com.limelight.unofficialBLACK/en-US/phoneScreenshots/2.png",
+                "sha256": "323e2d9fff4c904818b002dc5c860439b2f2984b432a43f15b3f365218a9f478",
+                "size": 167331
+              },
+              {
+                "name": "/com.limelight.unofficialBLACK/en-US/phoneScreenshots/3.png",
+                "sha256": "2845fa2aaa3f998a03cb7603a83cc36dd10f6f651a9c05a6bd3ed7aa9884c0fe",
+                "size": 30180
+              },
+              {
+                "name": "/com.limelight.unofficialBLACK/en-US/phoneScreenshots/4.png",
+                "sha256": "1b552a9c94133652458dee980b2975afe3d309283c53c14d06efcfa3d74c1304",
+                "size": 183740
+              },
+              {
+                "name": "/com.limelight.unofficialBLACK/en-US/phoneScreenshots/5.png",
+                "sha256": "17b99910cdddffaf65511651fc0df94d4d626995db2b87c83c4885effe081644",
+                "size": 39388
+              },
+              {
+                "name": "/com.limelight.unofficialBLACK/en-US/phoneScreenshots/6.png",
+                "sha256": "468ec9b314bc1d22237585a0c8fe0216e3810902ab1545529ef5f3d00e83b33f",
+                "size": 176723
+              },
+              {
+                "name": "/com.limelight.unofficialBLACK/en-US/phoneScreenshots/7.png",
+                "sha256": "cc41fb08321c8c88f13db912626681710813971c1acb6e7fbf419e352f5e42c2",
+                "size": 27515
+              },
+              {
+                "name": "/com.limelight.unofficialBLACK/en-US/phoneScreenshots/8.png",
+                "sha256": "aea3714feece75f30805d882773037c466608103746d62383b5ebd1520291186",
+                "size": 96815
+              }
+            ]
+          }
+        },
+        "authorName": "ClassicOldSong",
+        "name": {
+          "en-US": "Artemis"
+        },
+        "summary": {
+          "en-US": "GameStream client for Android"
+        },
+        "description": {
+          "en-US": "Stream Pc Games From Pc of yours (Requires Apollo)\n"
+        },
+        "preferredSigner": "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6"
+      },
+      "versions": {
+        "c02a920d76bd772f4f34a816e26ea038526a3e1760722ff662deb5687c947375": {
+          "added": 1756284386000,
+          "file": {
+            "name": "/artemis_v12.1-BLACK.apk",
+            "sha256": "c02a920d76bd772f4f34a816e26ea038526a3e1760722ff662deb5687c947375",
+            "size": 9573059
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "12.1-240707-axi",
+            "versionCode": 314,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.ACCESS_WIFI_STATE"
+              },
+              {
+                "name": "com.android.providers.tv.permission.READ_EPG_DATA"
+              },
+              {
+                "name": "com.android.providers.tv.permission.WRITE_EPG_DATA"
+              },
+              {
+                "name": "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+                "maxSdkVersion": 33
               }
             ]
           }

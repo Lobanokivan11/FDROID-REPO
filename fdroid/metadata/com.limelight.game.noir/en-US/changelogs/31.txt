@@ -1,0 +1,12 @@
+Change log:
+
+1. Upgrade dependencies
+2. Add dedicated "GAME" release for Samsung devices
+
+> [!WARNING]
+> TL;DR: If you're using **Samsung** devices, download the **`GAME`** virant. If not, use the **`nonRoot`** version.
+>
+> `GAME` release have the app marked with GAME category and it'll bring up game booster/helper on your phone depending on your system. Some systems will lock framerate to 60/120fps with game labels on them, while Samsung devices with VRR capability need `GAME` label to disable VRR since VRR will cause stuttering and lagging.
+
+> [!NOTE]  
+> This version includes changes that requires features from [Apollo](https://github.com/ClassicOldSong/Apollo/releases). Virtual Display, OTP/DeepLink pairing, Server Commands and Clipboard Sync can only function with Apollo. Compatibility with current Sunshine hosts are not affected, but might break with GFE.

@@ -1,0 +1,17 @@
+Based on https://github.com/Axixi2233/moonlight-android
+
+1. Translated Axixi's additions into English
+2. Added option to disable gamepad battery report to potentially fix input stuttering issue
+3. Added option to force apply refresh rate (fix locked 60fps on some devices)
+4. Added natural track pad mode for touch screen
+5. Fixed mouse mode disabling
+6. Enhanced portrait mode
+7. Improved physical keyboard usability:
+	- Tap as click
+	- Double tap as double click
+	- Double tap to drag
+	- Two finger tap as right click
+	- Two finger scrolling
+	- Two finger double tap as right click drag
+	- Non-QWERTY keyboard layout support
+	- Quick Meta key with physicl BACK button

@@ -1,0 +1,39 @@
+## Change log:
+
+v20.2.6
+
+* Revert changes related to mouse event handling introduced in PRs
+
+v20.2.5
+
+* Fix mouse movement problem in some weird cases
+
+v20.2.4
+
+* Fix potential nullptrs
+
+v20.2.3
+
+* Improve text input handling on external monitor controller
+
+v20.2.2
+
+* Secondary display improvements by @Janyger in https://github.com/ClassicOldSong/moonlight-android/pull/268
+
+Great for connecting your phone to an external monitor or AR glasses. Resolution and refresh rate are auto-detected, you can just click and play!
+
+## 🌟 Bonus
+
+[ApolloLauncherExport](https://github.com/ClassicOldSong/ApolloLauncherExport)
+
+Export Apollo apps to Pegasus, Daijishō and ES-DE for a better game launching experience
+
+> [!WARNING]
+> Some devices will lock framerate when having "Game Booster"/"Game Helper" enabled. Disable the feature or remove Artemis from those tools may help.
+>
+> Please note that in-app performance overlay doesn't show actual refresh rate of the screen. It only shows the framerate that the decoder currently runs at. If you want to check the actual refresh rate on-screen, go to the Developer Settings of your phone and enable FPS meter.
+
+> [!NOTE]  
+> This version includes changes that requires features from [Apollo](https://github.com/ClassicOldSong/Apollo/releases). Virtual Display, OTP/DeepLink pairing, Server Commands and Clipboard Sync can only function with Apollo. Compatibility with current Sunshine hosts are not affected, but might break with GFE.
+
+**Full Changelog**: https://github.com/ClassicOldSong/moonlight-android/compare/v20.1.5...v20.2.5

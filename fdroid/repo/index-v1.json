@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1756283442000,
+    "timestamp": 1756284791000,
     "version": 20002,
     "name": "Lobanokivan11's F-Droid Repo",
     "icon": "icon.png",
@@ -12,6 +12,130 @@
     "uninstall": []
   },
   "apps": [
+    {
+      "authorName": "ClassicOldSong",
+      "categories": [
+        "Games"
+      ],
+      "suggestedVersionName": "12.1-artemis-241031",
+      "suggestedVersionCode": "31",
+      "description": "Stream Pc Games From Pc of yours (Requires Apollo)\n",
+      "license": "GPL-3.0",
+      "name": "Artemis",
+      "sourceCode": "https://github.com/ClassicOldSong/moonlight-android",
+      "summary": "GameStream client for Android",
+      "added": 1756284395000,
+      "packageName": "com.limelight.game.noir",
+      "lastUpdated": 1756284395000,
+      "localized": {
+        "en-US": {
+          "phoneScreenshots": [
+            "1.png",
+            "2.png",
+            "3.png",
+            "4.png",
+            "5.png",
+            "6.png",
+            "7.png",
+            "8.png"
+          ],
+          "whatsNew": "Change log:\n\n1. Upgrade dependencies\n2. Add dedicated \"GAME\" release for Samsung devices\n\n> [!WARNING]\n> TL;DR: If you're using **Samsung** devices, download the **`GAME`** virant. If not, use the **`nonRoot`** version.\n>\n> `GAME` release have the app marked with GAME category and it'll bring up game booster/helper on your phone depending on your system. Some systems will lock framerate to 60/120fps with game labels on them, while Samsung devices with VRR capability need `GAME` label to disable "
+        }
+      }
+    },
+    {
+      "authorName": "ClassicOldSong",
+      "categories": [
+        "Games"
+      ],
+      "suggestedVersionName": "12.1-240717-nior",
+      "suggestedVersionCode": "314",
+      "description": "Stream Pc Games From Pc of yours (Requires Apollo)\n",
+      "license": "GPL-3.0",
+      "name": "Artemis",
+      "sourceCode": "https://github.com/ClassicOldSong/moonlight-android",
+      "summary": "GameStream client for Android",
+      "added": 1756284383000,
+      "packageName": "com.limelight.nior",
+      "lastUpdated": 1756284386000,
+      "localized": {
+        "en-US": {
+          "phoneScreenshots": [
+            "1.png",
+            "2.png",
+            "3.png",
+            "4.png",
+            "5.png",
+            "6.png",
+            "7.png",
+            "8.png"
+          ],
+          "whatsNew": "Based on https://github.com/Axixi2233/moonlight-android\n\n1. Translated Axixi's additions into English\n2. Added option to disable gamepad battery report to potentially fix input stuttering issue\n3. Added option to force apply refresh rate (fix locked 60fps on some devices)\n4. Added natural track pad mode for touch screen\n5. Fixed mouse mode disabling\n6. Enhanced portrait mode\n7. Improved physical keyboard usability:\n\t- Tap as click\n\t- Double tap as double click\n\t- Double tap to drag\n\t- Two finger"
+        }
+      }
+    },
+    {
+      "authorName": "ClassicOldSong",
+      "categories": [
+        "Games"
+      ],
+      "suggestedVersionName": "20.2.6",
+      "suggestedVersionCode": "57",
+      "description": "Stream Pc Games From Pc of yours (Requires Apollo)\n",
+      "license": "GPL-3.0",
+      "name": "Artemis",
+      "sourceCode": "https://github.com/ClassicOldSong/moonlight-android",
+      "summary": "GameStream client for Android",
+      "added": 1756284387000,
+      "packageName": "com.limelight.noir",
+      "lastUpdated": 1756284409000,
+      "localized": {
+        "en-US": {
+          "phoneScreenshots": [
+            "1.png",
+            "2.png",
+            "3.png",
+            "4.png",
+            "5.png",
+            "6.png",
+            "7.png",
+            "8.png"
+          ],
+          "whatsNew": "## Change log:\n\nv20.2.6\n\n* Revert changes related to mouse event handling introduced in PRs\n\nv20.2.5\n\n* Fix mouse movement problem in some weird cases\n\nv20.2.4\n\n* Fix potential nullptrs\n\nv20.2.3\n\n* Improve text input handling on external monitor controller\n\nv20.2.2\n\n* Secondary display improvements by @Janyger in https://github.com/ClassicOldSong/moonlight-android/pull/268\n\nGreat for connecting your phone to an external monitor or AR glasses. Resolution and refresh rate are auto-detected, you ca"
+        }
+      }
+    },
+    {
+      "authorName": "ClassicOldSong",
+      "categories": [
+        "Games"
+      ],
+      "suggestedVersionName": "12.1-240707-axi",
+      "suggestedVersionCode": "314",
+      "description": "Stream Pc Games From Pc of yours (Requires Apollo)\n",
+      "license": "GPL-3.0",
+      "name": "Artemis",
+      "sourceCode": "https://github.com/ClassicOldSong/moonlight-android",
+      "summary": "GameStream client for Android",
+      "added": 1756284386000,
+      "packageName": "com.limelight.unofficialBLACK",
+      "lastUpdated": 1756284386000,
+      "localized": {
+        "en-US": {
+          "phoneScreenshots": [
+            "1.png",
+            "2.png",
+            "3.png",
+            "4.png",
+            "5.png",
+            "6.png",
+            "7.png",
+            "8.png"
+          ],
+          "whatsNew": "Based on https://github.com/Axixi2233/moonlight-android\n\n1. Improved physical trackpad usability:\n\t- Tap as click\n\t- Double tap as double click\n\t- Double tap to drag\n\t- Two finger click as right click\n\t- Two finger scrolling"
+        }
+      }
+    },
     {
       "authorName": "Lobanokivan11",
       "categories": [
@@ -31584,6 +31708,2686 @@
         ],
         "versionCode": 22,
         "versionName": "v22-release"
+      }
+    ],
+    "com.limelight.game.noir": [
+      {
+        "added": 1756284395000,
+        "apkName": "artemis_v12.1-artemis-241031.apk",
+        "hash": "9ec1caf7c9c096a40215de9c849ee9bfaf55f0564a355f5b4289222be54b9f16",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.limelight.game.noir",
+        "sig": "b84758022d923dec01d828c2ad2e0cdf",
+        "signer": "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6",
+        "size": 10265395,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.READ_EPG_DATA",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.WRITE_EPG_DATA",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+            33
+          ],
+          [
+            "com.limelight.game.noir.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 31,
+        "versionName": "12.1-artemis-241031"
+      }
+    ],
+    "com.limelight.nior": [
+      {
+        "added": 1756284383000,
+        "apkName": "artemis_v12.1-240712-NIOR.apk",
+        "hash": "c90ae7e14dea2c01c7c05d8f11d5fa146116ad04f02840f2040722a652259655",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.limelight.nior",
+        "sig": "b84758022d923dec01d828c2ad2e0cdf",
+        "signer": "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6",
+        "size": 9616156,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.READ_EPG_DATA",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.WRITE_EPG_DATA",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+            33
+          ]
+        ],
+        "versionCode": 314,
+        "versionName": "12.1-240712-nior"
+      },
+      {
+        "added": 1756284383000,
+        "apkName": "artemis_v12.1-240713-NIOR.apk",
+        "hash": "9b879dd188ae3fcacb6d52ac50e0d88103e8fa5e69c92c3843a3a80c9f1f1560",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.limelight.nior",
+        "sig": "b84758022d923dec01d828c2ad2e0cdf",
+        "signer": "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6",
+        "size": 9618360,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.READ_EPG_DATA",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.WRITE_EPG_DATA",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+            33
+          ]
+        ],
+        "versionCode": 314,
+        "versionName": "12.1-240713-nior"
+      },
+      {
+        "added": 1756284384000,
+        "apkName": "artemis_v12.1-240714-NIOR.apk",
+        "hash": "10ba2ef56eea6ec3dc8ae52be403cd7e554c2958d095094c58228af431c3fdaa",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.limelight.nior",
+        "sig": "b84758022d923dec01d828c2ad2e0cdf",
+        "signer": "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6",
+        "size": 9619946,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.READ_EPG_DATA",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.WRITE_EPG_DATA",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+            33
+          ]
+        ],
+        "versionCode": 314,
+        "versionName": "12.1-240714-nior"
+      },
+      {
+        "added": 1756284384000,
+        "apkName": "artemis_v12.1-240715-NIOR.apk",
+        "hash": "02b1679119ed31d3716b1cb44c4889495bd9694b7fade05764e308ac4216b4d4",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.limelight.nior",
+        "sig": "b84758022d923dec01d828c2ad2e0cdf",
+        "signer": "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6",
+        "size": 9621131,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.READ_EPG_DATA",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.WRITE_EPG_DATA",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+            33
+          ]
+        ],
+        "versionCode": 314,
+        "versionName": "12.1-240715-nior"
+      },
+      {
+        "added": 1756284385000,
+        "apkName": "artemis_v12.1-240716-2-NIOR.apk",
+        "hash": "156f0695ddbab7685fc9a47b81e7440504f8e4ec06bfdc95c4f798bbd78dae45",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.limelight.nior",
+        "sig": "b84758022d923dec01d828c2ad2e0cdf",
+        "signer": "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6",
+        "size": 9625639,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.READ_EPG_DATA",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.WRITE_EPG_DATA",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+            33
+          ]
+        ],
+        "versionCode": 314,
+        "versionName": "12.1-240716-2-nior"
+      },
+      {
+        "added": 1756284386000,
+        "apkName": "artemis_v12.1-240717-NIOR.apk",
+        "hash": "572c3f85c588073bad98d47d05c13afa8e992af208a62452d657c8e488a1b61c",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.limelight.nior",
+        "sig": "b84758022d923dec01d828c2ad2e0cdf",
+        "signer": "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6",
+        "size": 9624370,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.READ_EPG_DATA",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.WRITE_EPG_DATA",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+            33
+          ]
+        ],
+        "versionCode": 314,
+        "versionName": "12.1-240717-nior"
+      }
+    ],
+    "com.limelight.noir": [
+      {
+        "added": 1756284409000,
+        "apkName": "artemis_v20.2.6.apk",
+        "hash": "6735b5fdd790410ea726754235f49757fa594ef01da1e5acadf72690c9423f6c",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.limelight.noir",
+        "sig": "b84758022d923dec01d828c2ad2e0cdf",
+        "signer": "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6",
+        "size": 12082799,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.REORDER_TASKS",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.READ_EPG_DATA",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.WRITE_EPG_DATA",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+            33
+          ],
+          [
+            "com.limelight.noir.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 57,
+        "versionName": "20.2.6"
+      },
+      {
+        "added": 1756284408000,
+        "apkName": "artemis_v20.1.5.apk",
+        "hash": "54d30ed008212ac7519362f7851ac125224ed383b38746ca14d39951ba5c4671",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.limelight.noir",
+        "sig": "b84758022d923dec01d828c2ad2e0cdf",
+        "signer": "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6",
+        "size": 12066235,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.READ_EPG_DATA",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.WRITE_EPG_DATA",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+            33
+          ],
+          [
+            "com.limelight.noir.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 50,
+        "versionName": "20.1.5"
+      },
+      {
+        "added": 1756284408000,
+        "apkName": "artemis_v20.0.0250712.apk",
+        "hash": "5c3d9a733c62e5259db62a75e6290be96d522e2aa3b7cae9f9c42a3c49568a35",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.limelight.noir",
+        "sig": "b84758022d923dec01d828c2ad2e0cdf",
+        "signer": "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6",
+        "size": 12033663,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.READ_EPG_DATA",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.WRITE_EPG_DATA",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+            33
+          ],
+          [
+            "com.limelight.noir.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 44,
+        "versionName": "20.0.0+250712"
+      },
+      {
+        "added": 1756284403000,
+        "apkName": "artemis_v12.1.250118.apk",
+        "hash": "348f99f1d35a308b4f75749f473538a8fc0bc712a4fc78fd7fdbf5b0481a2eed",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.limelight.noir",
+        "sig": "b84758022d923dec01d828c2ad2e0cdf",
+        "signer": "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6",
+        "size": 10303714,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.READ_EPG_DATA",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.WRITE_EPG_DATA",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+            33
+          ],
+          [
+            "com.limelight.noir.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 43,
+        "versionName": "12.1.250118"
+      },
+      {
+        "added": 1756284403000,
+        "apkName": "artemis_v12.1.250410-1.apk",
+        "hash": "51d42a905c9d0492251ec9f48c063ce648a1d1671826c592ff967e5fa1e0a377",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.limelight.noir",
+        "sig": "b84758022d923dec01d828c2ad2e0cdf",
+        "signer": "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6",
+        "size": 10526151,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.READ_EPG_DATA",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.WRITE_EPG_DATA",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+            33
+          ],
+          [
+            "com.limelight.noir.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 43,
+        "versionName": "12.1.250410-1"
+      },
+      {
+        "added": 1756284404000,
+        "apkName": "artemis_v12.1.250415.apk",
+        "hash": "18cd347dca2366e3f7ee5a5addd04053fe56774e6494275a5156d0d4c8e20903",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.limelight.noir",
+        "sig": "b84758022d923dec01d828c2ad2e0cdf",
+        "signer": "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6",
+        "size": 10527239,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.READ_EPG_DATA",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.WRITE_EPG_DATA",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+            33
+          ],
+          [
+            "com.limelight.noir.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 43,
+        "versionName": "12.1.250415"
+      },
+      {
+        "added": 1756284405000,
+        "apkName": "artemis_v12.1.250521.apk",
+        "hash": "84162f9f6f89da9d2fab4cddde9bdf2617c299d447f7c196ab69d480a7cdb95c",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.limelight.noir",
+        "sig": "b84758022d923dec01d828c2ad2e0cdf",
+        "signer": "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6",
+        "size": 10498931,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.READ_EPG_DATA",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.WRITE_EPG_DATA",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+            33
+          ],
+          [
+            "com.limelight.noir.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 43,
+        "versionName": "12.1.250521"
+      },
+      {
+        "added": 1756284405000,
+        "apkName": "artemis_v12.1.250529.apk",
+        "hash": "a2186e2c24d1ddb03af6ff3c5b95b1911d9e6fcd49ec969b77ac7c16c6c4f104",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.limelight.noir",
+        "sig": "b84758022d923dec01d828c2ad2e0cdf",
+        "signer": "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6",
+        "size": 10498964,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.READ_EPG_DATA",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.WRITE_EPG_DATA",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+            33
+          ],
+          [
+            "com.limelight.noir.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 43,
+        "versionName": "12.1.250529"
+      },
+      {
+        "added": 1756284406000,
+        "apkName": "artemis_v12.1.250603.apk",
+        "hash": "678b962b5d65650b0df734a0f8cab451c1ef21124db5e5436a5152bc93545ed7",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.limelight.noir",
+        "sig": "b84758022d923dec01d828c2ad2e0cdf",
+        "signer": "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6",
+        "size": 10528068,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.READ_EPG_DATA",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.WRITE_EPG_DATA",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+            33
+          ],
+          [
+            "com.limelight.noir.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 43,
+        "versionName": "12.1.250603"
+      },
+      {
+        "added": 1756284406000,
+        "apkName": "artemis_v12.1.250605.apk",
+        "hash": "11033ed915324cb33a214f5a870fc209303df67bbb8ef8e404cccf8994f78c6d",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.limelight.noir",
+        "sig": "b84758022d923dec01d828c2ad2e0cdf",
+        "signer": "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6",
+        "size": 10528323,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.READ_EPG_DATA",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.WRITE_EPG_DATA",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+            33
+          ],
+          [
+            "com.limelight.noir.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 43,
+        "versionName": "12.1.250605"
+      },
+      {
+        "added": 1756284407000,
+        "apkName": "artemis_v12.1.250609.apk",
+        "hash": "f77ac3dc4bcb5d242143052043843af1f10dc30c6c7579daecded2a7931ba3a4",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.limelight.noir",
+        "sig": "b84758022d923dec01d828c2ad2e0cdf",
+        "signer": "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6",
+        "size": 10529064,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.READ_EPG_DATA",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.WRITE_EPG_DATA",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+            33
+          ],
+          [
+            "com.limelight.noir.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 43,
+        "versionName": "12.1.250609"
+      },
+      {
+        "added": 1756284402000,
+        "apkName": "artemis_v12.1.241217-2.apk",
+        "hash": "085ff03b6d7de465de9e25b69b2da387f73d12c899eaebca8772c86260cbec69",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.limelight.noir",
+        "sig": "b84758022d923dec01d828c2ad2e0cdf",
+        "signer": "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6",
+        "size": 10299201,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.READ_EPG_DATA",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.WRITE_EPG_DATA",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+            33
+          ],
+          [
+            "com.limelight.noir.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 39,
+        "versionName": "12.1.241217-2"
+      },
+      {
+        "added": 1756284402000,
+        "apkName": "artemis_v12.1.241203-2.apk",
+        "hash": "26bfbc58ce976de22ecb056cd15377b7aca11419ab558531c9dff9683017d70e",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.limelight.noir",
+        "sig": "b84758022d923dec01d828c2ad2e0cdf",
+        "signer": "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6",
+        "size": 10297615,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.READ_EPG_DATA",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.WRITE_EPG_DATA",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+            33
+          ],
+          [
+            "com.limelight.noir.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 37,
+        "versionName": "12.1.241203-2"
+      },
+      {
+        "added": 1756284401000,
+        "apkName": "artemis_v12.1.241202.apk",
+        "hash": "41b78e47f655f27170a02cbb0a0c3a9b07dadb8492ef0d9fed87285a9ea9af89",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.limelight.noir",
+        "sig": "b84758022d923dec01d828c2ad2e0cdf",
+        "signer": "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6",
+        "size": 10296225,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.READ_EPG_DATA",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.WRITE_EPG_DATA",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+            33
+          ],
+          [
+            "com.limelight.noir.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 35,
+        "versionName": "12.1.241202"
+      },
+      {
+        "added": 1756284400000,
+        "apkName": "artemis_v12.1.241128-2.apk",
+        "hash": "4ea7585079b71779d0f3575fab4d5369992b2e9142bf0c1d5c9dd8685da61888",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.limelight.noir",
+        "sig": "b84758022d923dec01d828c2ad2e0cdf",
+        "signer": "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6",
+        "size": 10291253,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.READ_EPG_DATA",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.WRITE_EPG_DATA",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+            33
+          ],
+          [
+            "com.limelight.noir.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 34,
+        "versionName": "12.1.241128-2"
+      },
+      {
+        "added": 1756284395000,
+        "apkName": "artemis_v12.1-artemis-241120.apk",
+        "hash": "ea95c3c281c4dffc4de5b1f3250713f784359ae5cd732b8710eb2462fa175573",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.limelight.noir",
+        "sig": "b84758022d923dec01d828c2ad2e0cdf",
+        "signer": "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6",
+        "size": 10265985,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.READ_EPG_DATA",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.WRITE_EPG_DATA",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+            33
+          ],
+          [
+            "com.limelight.noir.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 32,
+        "versionName": "12.1-artemis-241120"
+      },
+      {
+        "added": 1756284394000,
+        "apkName": "artemis_v12.1-artemis-241013.apk",
+        "hash": "e7b3b0fa2151b0bdc6400b41918fd47f0e5d445c31ea8bbba65cfa2b363263f2",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.limelight.noir",
+        "sig": "b84758022d923dec01d828c2ad2e0cdf",
+        "signer": "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6",
+        "size": 10259861,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.READ_EPG_DATA",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.WRITE_EPG_DATA",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+            33
+          ],
+          [
+            "com.limelight.noir.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 29,
+        "versionName": "12.1-artemis-241013"
+      },
+      {
+        "added": 1756284394000,
+        "apkName": "artemis_v12.1-artemis-241009.apk",
+        "hash": "c2f5f03db4d551d777794821163516a80b76e76661da5f97ab55a8c910069fd7",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.limelight.noir",
+        "sig": "b84758022d923dec01d828c2ad2e0cdf",
+        "signer": "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6",
+        "size": 9694357,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.READ_EPG_DATA",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.WRITE_EPG_DATA",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+            33
+          ]
+        ],
+        "versionCode": 24,
+        "versionName": "12.1-artemis-241009"
+      },
+      {
+        "added": 1756284393000,
+        "apkName": "artemis_v12.1-artemis-241006.apk",
+        "hash": "b223c3241590ef80a09a0b1897d80c4aa46cf9b3dd92aceb1ea50fb403173a98",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.limelight.noir",
+        "sig": "b84758022d923dec01d828c2ad2e0cdf",
+        "signer": "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6",
+        "size": 9693944,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.READ_EPG_DATA",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.WRITE_EPG_DATA",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+            33
+          ]
+        ],
+        "versionCode": 23,
+        "versionName": "12.1-artemis-241006"
+      },
+      {
+        "added": 1756284392000,
+        "apkName": "artemis_v12.1-artemis-241003.apk",
+        "hash": "ffcd4de7a9a9f1fb008679ec1f5ad4b90099246982a94743e021352c7e57dcec",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.limelight.noir",
+        "sig": "b84758022d923dec01d828c2ad2e0cdf",
+        "signer": "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6",
+        "size": 9687577,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.READ_EPG_DATA",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.WRITE_EPG_DATA",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+            33
+          ]
+        ],
+        "versionCode": 22,
+        "versionName": "12.1-artemis-241003"
+      },
+      {
+        "added": 1756284392000,
+        "apkName": "artemis_v12.1-artemis-240929.apk",
+        "hash": "3c30497ef790f0d68e6704fae4b6416d2c3b02f8a7aff0ab26569b54c38ee1cd",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.limelight.noir",
+        "sig": "b84758022d923dec01d828c2ad2e0cdf",
+        "signer": "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6",
+        "size": 9687628,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.READ_EPG_DATA",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.WRITE_EPG_DATA",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+            33
+          ]
+        ],
+        "versionCode": 21,
+        "versionName": "12.1-artemis-240929"
+      },
+      {
+        "added": 1756284391000,
+        "apkName": "artemis_v12.1-artemis-240928.apk",
+        "hash": "f3dc71002db740c6d18875b9c2ebf3d8c0fb9eee8ac1c18b699056e280d63831",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.limelight.noir",
+        "sig": "b84758022d923dec01d828c2ad2e0cdf",
+        "signer": "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6",
+        "size": 9680544,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.READ_EPG_DATA",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.WRITE_EPG_DATA",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+            33
+          ]
+        ],
+        "versionCode": 20,
+        "versionName": "12.1-artemis-240928"
+      },
+      {
+        "added": 1756284391000,
+        "apkName": "artemis_v12.1-artemis-240925-2.apk",
+        "hash": "95c2cb00d1cbb95181bb9c130cf4ed119abe13c92519bf29845d12a94c4243d9",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.limelight.noir",
+        "sig": "b84758022d923dec01d828c2ad2e0cdf",
+        "signer": "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6",
+        "size": 9671866,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.READ_EPG_DATA",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.WRITE_EPG_DATA",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+            33
+          ]
+        ],
+        "versionCode": 19,
+        "versionName": "12.1-artemis-240925-2"
+      },
+      {
+        "added": 1756284390000,
+        "apkName": "artemis_v12.1-artemis-240924.apk",
+        "hash": "06775508f0fc793b4a1fcca0256f70a4e0a963e58d3c8e42b53acedb05151c5c",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.limelight.noir",
+        "sig": "b84758022d923dec01d828c2ad2e0cdf",
+        "signer": "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6",
+        "size": 9671819,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.READ_EPG_DATA",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.WRITE_EPG_DATA",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+            33
+          ]
+        ],
+        "versionCode": 17,
+        "versionName": "12.1-artemis-240924"
+      },
+      {
+        "added": 1756284390000,
+        "apkName": "artemis_v12.1-artemis-240911.apk",
+        "hash": "d67e809e37f86e7dd9098739672ebd1f12b6d5c8bccb270bf5aad0aa9cada79c",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.limelight.noir",
+        "sig": "b84758022d923dec01d828c2ad2e0cdf",
+        "signer": "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6",
+        "size": 9670681,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.READ_EPG_DATA",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.WRITE_EPG_DATA",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+            33
+          ]
+        ],
+        "versionCode": 16,
+        "versionName": "12.1-artemis-240911"
+      },
+      {
+        "added": 1756284389000,
+        "apkName": "artemis_v12.1-artemis-240903.apk",
+        "hash": "ac6e3daaf89458b17573d1b795ee65c3a1032fc7455222b99e57d575b37e1452",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.limelight.noir",
+        "sig": "b84758022d923dec01d828c2ad2e0cdf",
+        "signer": "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6",
+        "size": 9666041,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.READ_EPG_DATA",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.WRITE_EPG_DATA",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+            33
+          ]
+        ],
+        "versionCode": 15,
+        "versionName": "12.1-artemis-240903"
+      },
+      {
+        "added": 1756284389000,
+        "apkName": "artemis_v12.1-artemis-240831.apk",
+        "hash": "a80aa0961e78f0a5fb6cc347b90c1a4a2a5486b0028d981b119acdc88ca7ed02",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.limelight.noir",
+        "sig": "b84758022d923dec01d828c2ad2e0cdf",
+        "signer": "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6",
+        "size": 9665990,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.READ_EPG_DATA",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.WRITE_EPG_DATA",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+            33
+          ]
+        ],
+        "versionCode": 14,
+        "versionName": "12.1-artemis-240831"
+      },
+      {
+        "added": 1756284388000,
+        "apkName": "artemis_v12.1-artemis-240828.apk",
+        "hash": "7555a3e26f946b1717870e7fdaeec9a180ddd9a3b83771c7318d0d94a99777c8",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.limelight.noir",
+        "sig": "b84758022d923dec01d828c2ad2e0cdf",
+        "signer": "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6",
+        "size": 9656758,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.READ_EPG_DATA",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.WRITE_EPG_DATA",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+            33
+          ]
+        ],
+        "versionCode": 13,
+        "versionName": "12.1-artemis-240828"
+      },
+      {
+        "added": 1756284388000,
+        "apkName": "artemis_v12.1-artemis-240823.apk",
+        "hash": "6c25150e1a4f4708013a1fb7d35236f3894d02053f18fe86887156e59469b048",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.limelight.noir",
+        "sig": "b84758022d923dec01d828c2ad2e0cdf",
+        "signer": "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6",
+        "size": 9651598,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.READ_EPG_DATA",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.WRITE_EPG_DATA",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+            33
+          ]
+        ],
+        "versionCode": 12,
+        "versionName": "12.1-artemis-240823"
+      },
+      {
+        "added": 1756284387000,
+        "apkName": "artemis_v12.1-artemis-240820.apk",
+        "hash": "5dc62784929370b6bbcb598b4743737f52add879cd3f0043fdfc6b236200cd0b",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.limelight.noir",
+        "sig": "b84758022d923dec01d828c2ad2e0cdf",
+        "signer": "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6",
+        "size": 9650205,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.READ_EPG_DATA",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.WRITE_EPG_DATA",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+            33
+          ]
+        ],
+        "versionCode": 11,
+        "versionName": "12.1-artemis-240820"
+      },
+      {
+        "added": 1756284387000,
+        "apkName": "artemis_v12.1-artemis-240818-2.apk",
+        "hash": "c3c2fecb00076a8fcc52e8618cd21bf6eda8bfd9d9046309884d00f54098f0be",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.limelight.noir",
+        "sig": "b84758022d923dec01d828c2ad2e0cdf",
+        "signer": "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6",
+        "size": 9648764,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.READ_EPG_DATA",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.WRITE_EPG_DATA",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+            33
+          ]
+        ],
+        "versionCode": 10,
+        "versionName": "12.1-artemis-240818-2"
+      },
+      {
+        "added": 1756284400000,
+        "apkName": "artemis_v12.1-noir-240816.apk",
+        "hash": "21629e8c1516a510d7ab72c77728247219f87b37790afcc88bad747a464246fb",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.limelight.noir",
+        "sig": "b84758022d923dec01d828c2ad2e0cdf",
+        "signer": "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6",
+        "size": 9641518,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.READ_EPG_DATA",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.WRITE_EPG_DATA",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+            33
+          ]
+        ],
+        "versionCode": 9,
+        "versionName": "12.1-noir-240816"
+      },
+      {
+        "added": 1756284399000,
+        "apkName": "artemis_v12.1-noir-240802.apk",
+        "hash": "c802a0c4055a830fee6de558c8ba8220b0d600798d92364da2522205081f8d92",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.limelight.noir",
+        "sig": "b84758022d923dec01d828c2ad2e0cdf",
+        "signer": "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6",
+        "size": 9641606,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.READ_EPG_DATA",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.WRITE_EPG_DATA",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+            33
+          ]
+        ],
+        "versionCode": 8,
+        "versionName": "12.1-noir-240802"
+      },
+      {
+        "added": 1756284399000,
+        "apkName": "artemis_v12.1-noir-240729.apk",
+        "hash": "2b334233cf186a23e33715052f44cf19a0dd292b9af636c6b3f2b24165cb6bfe",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.limelight.noir",
+        "sig": "b84758022d923dec01d828c2ad2e0cdf",
+        "signer": "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6",
+        "size": 9641459,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.READ_EPG_DATA",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.WRITE_EPG_DATA",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+            33
+          ]
+        ],
+        "versionCode": 7,
+        "versionName": "12.1-noir-240729"
+      },
+      {
+        "added": 1756284398000,
+        "apkName": "artemis_v12.1-noir-240728.apk",
+        "hash": "fd069a56e988e565f96653a9fef3f4ef01c873bf9c03b3a05cae5eb7bf0e922d",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.limelight.noir",
+        "sig": "b84758022d923dec01d828c2ad2e0cdf",
+        "signer": "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6",
+        "size": 9638874,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.READ_EPG_DATA",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.WRITE_EPG_DATA",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+            33
+          ]
+        ],
+        "versionCode": 6,
+        "versionName": "12.1-noir-240728"
+      },
+      {
+        "added": 1756284398000,
+        "apkName": "artemis_v12.1-noir-240723.apk",
+        "hash": "bfd559ad6d334e94cbbcf3f853b1f6e27d592121c04301e2fd8fc272e0e682d3",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.limelight.noir",
+        "sig": "b84758022d923dec01d828c2ad2e0cdf",
+        "signer": "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6",
+        "size": 9631204,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.READ_EPG_DATA",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.WRITE_EPG_DATA",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+            33
+          ]
+        ],
+        "versionCode": 5,
+        "versionName": "12.1-noir-240723"
+      },
+      {
+        "added": 1756284397000,
+        "apkName": "artemis_v12.1-noir-240722.2.apk",
+        "hash": "e6c78520e5342f5d484b6ffc40d5db688c9803dd6b3d3f65c78465deba85fded",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.limelight.noir",
+        "sig": "b84758022d923dec01d828c2ad2e0cdf",
+        "signer": "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6",
+        "size": 9630726,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.READ_EPG_DATA",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.WRITE_EPG_DATA",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+            33
+          ]
+        ],
+        "versionCode": 4,
+        "versionName": "12.1-noir-240722.2"
+      },
+      {
+        "added": 1756284397000,
+        "apkName": "artemis_v12.1-noir-240722.apk",
+        "hash": "2068aa3a06b42a1544842e7d2fa10a2c8abaf1a0ea851ead84b2cb718532f600",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.limelight.noir",
+        "sig": "b84758022d923dec01d828c2ad2e0cdf",
+        "signer": "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6",
+        "size": 9628747,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.READ_EPG_DATA",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.WRITE_EPG_DATA",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+            33
+          ]
+        ],
+        "versionCode": 3,
+        "versionName": "12.1-noir-240722"
+      },
+      {
+        "added": 1756284396000,
+        "apkName": "artemis_v12.1-noir-240721.apk",
+        "hash": "e0fd3247d7d87b8194c8e865e3b0fddec31e99aa38183d02b281c84a391777ce",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.limelight.noir",
+        "sig": "b84758022d923dec01d828c2ad2e0cdf",
+        "signer": "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6",
+        "size": 9628687,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.READ_EPG_DATA",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.WRITE_EPG_DATA",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+            33
+          ]
+        ],
+        "versionCode": 2,
+        "versionName": "12.1-noir-240721"
+      },
+      {
+        "added": 1756284396000,
+        "apkName": "artemis_v12.1-noir-240718-hotfix-1.apk",
+        "hash": "af0ae9ed3615319bbe719ccb4662f3dc016232c54b2b5b833213d6fa9746d03e",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.limelight.noir",
+        "sig": "b84758022d923dec01d828c2ad2e0cdf",
+        "signer": "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6",
+        "size": 9625675,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.READ_EPG_DATA",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.WRITE_EPG_DATA",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+            33
+          ]
+        ],
+        "versionCode": 1,
+        "versionName": "12.1-noir-240718-hotfix-1"
+      }
+    ],
+    "com.limelight.unofficialBLACK": [
+      {
+        "added": 1756284386000,
+        "apkName": "artemis_v12.1-BLACK.apk",
+        "hash": "c02a920d76bd772f4f34a816e26ea038526a3e1760722ff662deb5687c947375",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.limelight.unofficialBLACK",
+        "sig": "b84758022d923dec01d828c2ad2e0cdf",
+        "signer": "d06f9a5fadeddef3910b1506e7a24d1c628ce42e72ba3660340dbb9f5dea81d6",
+        "size": 9573059,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.READ_EPG_DATA",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.WRITE_EPG_DATA",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+            33
+          ]
+        ],
+        "versionCode": 314,
+        "versionName": "12.1-240707-axi"
       }
     ],
     "com.mgoogle.android.gms": [
