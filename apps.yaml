@@ -149,10 +149,10 @@ substratummicrogprofiles:
   categories: 
     - Theming
 nopssdrm:
-  git: https://github.com/Lobanokivan11/NOPSSDRMAPK
-  name: "NoPssDrm No-Root"
+  git: https://github.com/Lobanokivan11/NOPSSDRM-UNITE
+  name: "NoPssDrm-UNITE"
   description: |
-    NoPssDrm No-Root App
+    NoPssDrm-Unite No-Root App
   categories: 
     - Games
 mmrl:
