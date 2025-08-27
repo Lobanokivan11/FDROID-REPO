@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1756309239000,
+    "timestamp": 1756315377000,
     "version": 20002,
     "name": "Lobanokivan11's F-Droid Repo",
     "icon": "icon.png",
@@ -281,15 +281,15 @@
       ],
       "suggestedVersionName": "1.7.0",
       "suggestedVersionCode": "1170",
-      "description": "NoPssDrm No-Root App\n",
+      "description": "NoPssDrm-Unite No-Root App\n",
       "license": "Unknown",
-      "name": "NoPssDrm No-Root",
-      "sourceCode": "https://github.com/Lobanokivan11/NOPSSDRMAPK",
-      "summary": "Prebuilt (NO-ROOT) NOPSSDRM PROJECT",
+      "name": "NoPssDrm-UNITE",
+      "sourceCode": "https://github.com/Lobanokivan11/NOPSSDRM-UNITE",
+      "summary": "NOPSSDRM-UNITE PROJECT",
       "added": 1754066406000,
       "icon": "com.playstation.psstore.1170.png",
       "packageName": "com.playstation.psstore",
-      "lastUpdated": 1754557764000,
+      "lastUpdated": 1756315250000,
       "localized": {
         "en-US": {
           "phoneScreenshots": [
@@ -35933,6 +35933,328 @@
           ],
           [
             "com.playstation.psstore.permission",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 1170,
+        "versionName": "1.7.0"
+      },
+      {
+        "added": 1756315249000,
+        "apkName": "nopssdrm_7.apk",
+        "hash": "7e69f3e30953faf3466c8d6eb0c0df5fcc8ca10644f1409dd078315b21106616",
+        "hashType": "sha256",
+        "minSdkVersion": 10,
+        "nativecode": [
+          "armeabi"
+        ],
+        "packageName": "com.playstation.psstore",
+        "sig": "9bf31245c30b3a965b618ea1bd44e37b",
+        "signer": "52332bd0af6c510cd55e5be5b9a72ac51c9cbbfc495984400d44b1da04058813",
+        "size": 18346931,
+        "targetSdkVersion": 10,
+        "uses-permission": [
+          [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_FINE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.AUTHENTICATE_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.BATTERY_STATS",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH_ADMIN",
+            null
+          ],
+          [
+            "android.permission.CAMERA",
+            null
+          ],
+          [
+            "android.permission.CHANGE_CONFIGURATION",
+            null
+          ],
+          [
+            "android.permission.CHANGE_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.GET_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.MANAGE_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.PERSISTENT_ACTIVITY",
+            null
+          ],
+          [
+            "android.permission.READ_OWNER_DATA",
+            null
+          ],
+          [
+            "android.permission.READ_PHONE_STATE",
+            null
+          ],
+          [
+            "android.permission.READ_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.READ_SYNC_STATS",
+            null
+          ],
+          [
+            "android.permission.RECORD_AUDIO",
+            null
+          ],
+          [
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            null
+          ],
+          [
+            "android.permission.USE_CREDENTIALS",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.WRITE_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "com.android.launcher.permission.INSTALL_SHORTCUT",
+            null
+          ],
+          [
+            "com.android.launcher.permission.UNINSTALL_SHORTCUT",
+            null
+          ],
+          [
+            "com.android.vending.CHECK_LICENSE",
+            null
+          ],
+          [
+            "com.playstation.psstore.permission",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 1170,
+        "versionName": "1.7.0"
+      },
+      {
+        "added": 1756315250000,
+        "apkName": "nopssdrm_8.apk",
+        "hash": "0b52bddfeeb98a08b943bb2aee2a5c0608c133e33a91b9083602eb52b8b01d6e",
+        "hashType": "sha256",
+        "minSdkVersion": 10,
+        "nativecode": [
+          "armeabi"
+        ],
+        "packageName": "com.playstation.psstore",
+        "sig": "9bf31245c30b3a965b618ea1bd44e37b",
+        "signer": "52332bd0af6c510cd55e5be5b9a72ac51c9cbbfc495984400d44b1da04058813",
+        "size": 18351027,
+        "targetSdkVersion": 10,
+        "uses-permission": [
+          [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_FINE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.AUTHENTICATE_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.BATTERY_STATS",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH_ADMIN",
+            null
+          ],
+          [
+            "android.permission.CAMERA",
+            null
+          ],
+          [
+            "android.permission.CHANGE_CONFIGURATION",
+            null
+          ],
+          [
+            "android.permission.CHANGE_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.GET_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.MANAGE_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.PERSISTENT_ACTIVITY",
+            null
+          ],
+          [
+            "android.permission.READ_OWNER_DATA",
+            null
+          ],
+          [
+            "android.permission.READ_PHONE_STATE",
+            null
+          ],
+          [
+            "android.permission.READ_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.READ_SYNC_STATS",
+            null
+          ],
+          [
+            "android.permission.RECORD_AUDIO",
+            null
+          ],
+          [
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            null
+          ],
+          [
+            "android.permission.USE_CREDENTIALS",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.WRITE_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "com.android.launcher.permission.INSTALL_SHORTCUT",
+            null
+          ],
+          [
+            "com.android.launcher.permission.UNINSTALL_SHORTCUT",
+            null
+          ],
+          [
+            "com.android.vending.CHECK_LICENSE",
+            null
+          ],
+          [
+            "com.playstation.psstore.permission",
+            null
+          ],
+          [
+            "android.permission.FAKE_PACKAGE_SIGNATURE",
             null
           ],
           [
