@@ -169,3 +169,10 @@ webuix:
     Manage Module's Settings On Magisk
   categories: 
     - System
+artemis:
+  git: https://github.com/ClassicOldSong/moonlight-android
+  name: "Artemis"
+  description: |
+    Stream Pc Games From Pc of yours (Requires Apollo)
+  categories: 
+    - Games
