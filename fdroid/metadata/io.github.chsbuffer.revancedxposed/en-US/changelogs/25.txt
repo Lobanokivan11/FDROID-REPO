@@ -1,0 +1,9 @@
+## YouTube
+- Support `20.34.xx`, `20.35.xx`
+- Fix `Switch create with notifications button`
+- Fix notification button missing the filled icon
+- Move `ReVanced Settings` to the top
+- Fix sponsor bar thickness
+
+#### Sync v5.34.0
+[Donate me on AFDian](https://afdian.com/a/ChsBuffer)
