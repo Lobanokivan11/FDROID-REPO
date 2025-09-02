@@ -1,0 +1,8 @@
+Added:
+- Disable star reaction placeholder by default
+- Hide forward to stories in chat list when sharing
+- Replaced broken DeepL translate provider with DeepLX
+- "Select all" in chat list action menu
+
+Fixed:
+- Spoiler state conflicts by "show spoilers directly"

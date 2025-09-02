@@ -1,8 +1,8 @@
 AuthorName: dic1911
 Categories:
     - Internet
-CurrentVersion: 11.14.1-fdb4423ef7
-CurrentVersionCode: 10979
+CurrentVersion: 11.14.1-bad4c08ace
+CurrentVersionCode: 10999
 Description: |
     Third-party Telegram Client
 IssueTracker: ""
