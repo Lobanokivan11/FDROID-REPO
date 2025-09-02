@@ -13,4 +13,7 @@
 ## Photomath
 - Add `Unlock plus`
 
+### Known issue
+YT 20.35.xx hooks fail
+
 [Donate me on AFDian](https://afdian.com/a/ChsBuffer)

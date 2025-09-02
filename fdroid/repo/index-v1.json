@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1756851784000,
+    "timestamp": 1756855438000,
     "version": 20002,
     "name": "Lobanokivan11's F-Droid Repo",
     "icon": "icon.png",
@@ -379,7 +379,7 @@
       "lastUpdated": 1756820169000,
       "localized": {
         "en-US": {
-          "whatsNew": "## General\n- Do not run update checker if the app starts in the background.\n\n## YouTube\n- Fix `Navigation buttons` hook fails on 20.20.xx\n- SponsorBlock: Add Segment Creation and Voting\n- Fix `SponsorBlock` segment bar does not disappear\n- Add `Copy video url video player button`\n- Add `Open external downloader app`\n- Add `Show advanced video quality menu`\n- Add `Hide Shorts components`\n\n## Photomath\n- Add `Unlock plus`\n\n[Donate me on AFDian](https://afdian.com/a/ChsBuffer)"
+          "whatsNew": "## General\n- Do not run update checker if the app starts in the background.\n\n## YouTube\n- Fix `Navigation buttons` hook fails on 20.20.xx\n- SponsorBlock: Add Segment Creation and Voting\n- Fix `SponsorBlock` segment bar does not disappear\n- Add `Copy video url video player button`\n- Add `Open external downloader app`\n- Add `Show advanced video quality menu`\n- Add `Hide Shorts components`\n\n## Photomath\n- Add `Unlock plus`\n\n### Known issue\nYT 20.35.xx hooks fail\n\n[Donate me on AFDian](https://afdia"
         }
       }
     },
