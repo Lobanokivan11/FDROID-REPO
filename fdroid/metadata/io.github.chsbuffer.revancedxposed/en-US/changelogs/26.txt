@@ -1,0 +1,16 @@
+## General
+- Do not run update checker if the app starts in the background.
+
+## YouTube
+- Fix `Navigation buttons` hook fails on 20.20.xx
+- SponsorBlock: Add Segment Creation and Voting
+- Fix `SponsorBlock` segment bar does not disappear
+- Add `Copy video url video player button`
+- Add `Open external downloader app`
+- Add `Show advanced video quality menu`
+- Add `Hide Shorts components`
+
+## Photomath
+- Add `Unlock plus`
+
+[Donate me on AFDian](https://afdian.com/a/ChsBuffer)
