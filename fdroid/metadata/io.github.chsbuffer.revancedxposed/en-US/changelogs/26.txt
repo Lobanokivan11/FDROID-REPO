@@ -14,6 +14,6 @@
 - Add `Unlock plus`
 
 ### Known issue
-YT 20.35.xx hooks fail
-
+- YT 20.35.xx hooks fail
+- If any of the "Hide Shorts" is enabled, all shorts will be hidden regardless of the source.
 [Donate me on AFDian](https://afdian.com/a/ChsBuffer)
