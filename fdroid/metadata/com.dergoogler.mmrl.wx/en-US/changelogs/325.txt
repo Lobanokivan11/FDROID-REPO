@@ -1,0 +1,76 @@
+## What's new?
+
+- Add keyboard height to WXKeyboardEventData and event handling
+- Add DEX signature verification and public key utility
+- Translated using Weblate (Polish)
+- Translated using Weblate (Chinese (Simplified Han script))
+- Translated using Weblate (Spanish)
+- Translated using Weblate (Japanese)
+- Add dexlib2 dependency and block certain DEX imports
+- Add allowed URL filtering to WXClient requests
+- Add permission and console message handling to WXChromeClient
+- Add typeface support to CodeEditorScreen
+- Update mmrl version in libs.versions.toml
+- Fix validation logic and update dialog text
+- Add long-press navigation to File Explorer in ModuleItem
+- Refactor toolbar and breadcrumb in FileExplorerScreen
+- Refactor SuFile utilities and update mmrl version
+- Add multi-file import/export and selection to explorer
+- Move file editor and explorer screens to editor package
+- Enhance FileEditorScreen with custom editor color scheme
+- Add file editing and saving to FileEditorScreen
+- Add file explorer and code editor screens
+- Refactor Release CI workflow for official flavors
+- Refactor Release CI workflow for clarity and structure
+- Update process name in AndroidManifest.xml
+- Add Pull-to-Refresh Helper for WebUI
+- fix webui engine key typo
+- Translated using Weblate (Polish)
+- Translated using Weblate (Chinese (Simplified Han script))
+- Add ModConfLauncher for launching ModConfActivity
+- Remove mapping file upload from build-apk action
+- Refactor CI workflows and add build-apk action
+- Add module config editing and engine selection
+- Refactor ModConfConfig to use ConfigFile base class
+- Add registerSharedObjects flag to Dex config
+- Refactor shared object handling in JavaScriptInterface
+- Refactor config and JSON model to platform module
+- Refactor WebUILauncher constructor and constants
+- Remove mapping path from APK output in workflow
+- Comment out mapping artifact upload in build workflow
+- Translated using Weblate (Polish)
+- Translated using Weblate (Chinese (Simplified Han script))
+- Translated using Weblate (Japanese)
+- Refactor CI workflows for modular release process
+- Include flavor name in APK output filename
+- Refactor plugin config updates and add mutable config helpers
+- Refactor config management and update module loading
+- Update Kontext.kt
+- Refactor resource loading and config in Kontext
+- Add custom resource loading to Kontext and update context providers
+- Update ModConf permission label text
+- Remove unused JNA Native import and unregister method
+- Refactor ModConf to support target packages and error handling
+- Add support for ModConfActivity in module UI
+- Update WebUI activity to ModConfActivity
+- Refactor permission strings and add ModConf support
+- Change asWebUIConfigFlow to MutableStateFlow
+- Add additional config editor and JSONCollection utilities
+- Add spoofed build type with random package name
+- Translated using Weblate (Spanish)
+- Translated using Weblate (Polish)
+- Added translation using Weblate (English (Middle))
+- Translated using Weblate (Polish)
+- Translated using Weblate (Japanese)
+- Simplify SSL error handling in WXClient
+- Update build configs for JNA and WebUI modules
+- Update Java compatibility to version 21
+- Add publishing configuration for release variant
+- Update build.gradle.kts
+- Migrate JNA module to Kotlin DSL and update native libs
+- Enable shared object loading only if plugins are enabled
+- Add pluginsEnabled option to WebUI configuration
+
+[See all changes here](https://github.com/MMRLApp/WebUI-X-Portable/compare/v243...master)
+
+[Workflow run](https://github.com/MMRLApp/WebUI-X-Portable/actions/runs/17531638567)

@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1757265811000,
+    "timestamp": 1757269601000,
     "version": 20002,
     "name": "Lobanokivan11's F-Droid Repo",
     "icon": "icon.png",
@@ -469,8 +469,8 @@
       "categories": [
         "System"
       ],
-      "suggestedVersionName": "v243-release",
-      "suggestedVersionCode": "243",
+      "suggestedVersionName": "v325-release",
+      "suggestedVersionCode": "325",
       "description": "Manage Module's Settings On Magisk\n",
       "license": "GPL-3.0",
       "name": "WebUi X",
@@ -478,7 +478,7 @@
       "summary": "WebUI X from MMRL but portable!",
       "added": 1754557775000,
       "packageName": "com.dergoogler.mmrl.wx",
-      "lastUpdated": 1755634972000,
+      "lastUpdated": 1757269490000,
       "localized": {
         "en-US": {
           "phoneScreenshots": [
@@ -488,7 +488,7 @@
             "4.png",
             "5.png"
           ],
-          "whatsNew": "## What's new?\n\n- Migrate navigation to Compose Destinations\n- Add force kill option for WebUI process\n- Refactor WebUI activity lifecycle and initialization\n- Refactor NavButton to use generic implementation\n- Refactor navigation to use sealed route classes\n- Add build info section to DeveloperScreen\n- Move developer settings to separate screen\n- Add build config fields for SDK and commit info\n- Centralize SDK config and suppress unused warnings\n- Deleted translation using Weblate (Filipino)\n- "
+          "whatsNew": "## What's new?\n\n- Add keyboard height to WXKeyboardEventData and event handling\n- Add DEX signature verification and public key utility\n- Translated using Weblate (Polish)\n- Translated using Weblate (Chinese (Simplified Han script))\n- Translated using Weblate (Spanish)\n- Translated using Weblate (Japanese)\n- Add dexlib2 dependency and block certain DEX imports\n- Add allowed URL filtering to WXClient requests\n- Add permission and console message handling to WXChromeClient\n- Add typeface support t"
         }
       }
     },
@@ -30808,6 +30808,75 @@
       }
     ],
     "com.dergoogler.mmrl.wx": [
+      {
+        "added": 1757269490000,
+        "apkName": "webuix_v325.apk",
+        "hash": "b2b23ca0bde7c83b4216db0a185b3fad58e8f33ec8f7bd4f90a3d2edba3debe3",
+        "hashType": "sha256",
+        "minSdkVersion": 26,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi",
+          "armeabi-v7a",
+          "mips",
+          "mips64",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.dergoogler.mmrl.wx",
+        "sig": "540480bcf62aea562549755418702e5b",
+        "signer": "102c2579a177579073dfc69bdf889ad04de9e7c53726a99d65873ec122183860",
+        "size": 25648429,
+        "targetSdkVersion": 36,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.KILL_BACKGROUND_PROCESSES",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_SPECIAL_USE",
+            null
+          ],
+          [
+            "com.dergoogler.mmrl.permission.WEBUI_X",
+            null
+          ],
+          [
+            "com.dergoogler.mmrl.permission.WEBUI_LEGACY",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "moe.shizuku.manager.permission.API_V23",
+            null
+          ]
+        ],
+        "versionCode": 325,
+        "versionName": "v325-release"
+      },
       {
         "added": 1755634972000,
         "apkName": "webuix_v243.apk",
