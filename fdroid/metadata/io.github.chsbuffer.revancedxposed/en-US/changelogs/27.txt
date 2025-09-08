@@ -1,0 +1,17 @@
+## YouTube
+- Add `Custom playback speed`, `Remember playback speed`, and `Playback speed dialog button`
+- Add `Show video quality button`
+- Add `Hide layout components`
+- Add `Hide video action buttons`
+- Add `Disable resuming Shorts on startup`
+- Update `Background playback restrictions`
+- Fix `Hide Shorts`
+- Support 20.35.xx, 20.36.xx
+- Support 19.17.42
+
+**After updating the module, force stop YouTube to avoid errors.**
+
+## General
+- Fix random crash on startup with SPatch
+
+[Donate me on AFDian](https://afdian.com/a/ChsBuffer)

@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1757323739000,
+    "timestamp": 1757327174000,
     "version": 20002,
     "name": "Lobanokivan11's F-Droid Repo",
     "icon": "icon.png",
@@ -367,8 +367,8 @@
       "categories": [
         "Xposed"
       ],
-      "suggestedVersionName": "1.0.26",
-      "suggestedVersionCode": "26",
+      "suggestedVersionName": "1.0.27",
+      "suggestedVersionCode": "27",
       "description": "Xposed Module With Revanced Patches\nBetter Than Mount\n",
       "license": "GPL-3.0",
       "name": "ReVanced Xposed",
@@ -376,10 +376,10 @@
       "summary": "ReVanced LSPosed module. YouTube & YT Music Remove ads, Background playback",
       "added": 1751037249000,
       "packageName": "io.github.chsbuffer.revancedxposed",
-      "lastUpdated": 1756820169000,
+      "lastUpdated": 1757327045000,
       "localized": {
         "en-US": {
-          "whatsNew": "## General\n- Do not run update checker if the app starts in the background.\n\n## YouTube\n- Fix `Navigation buttons` hook fails on 20.20.xx\n- SponsorBlock: Add Segment Creation and Voting\n- Fix `SponsorBlock` segment bar does not disappear\n- Add `Copy video url video player button`\n- Add `Open external downloader app`\n- Add `Show advanced video quality menu`\n- Add `Hide Shorts components`\n\n## Photomath\n- Add `Unlock plus`\n\n### Known issue\n- YT 20.35.xx hooks fail\n- If any of the \"Hide Shorts\" is e"
+          "whatsNew": "## YouTube\n- Add `Custom playback speed`, `Remember playback speed`, and `Playback speed dialog button`\n- Add `Show video quality button`\n- Add `Hide layout components`\n- Add `Hide video action buttons`\n- Add `Disable resuming Shorts on startup`\n- Update `Background playback restrictions`\n- Fix `Hide Shorts`\n- Support 20.35.xx, 20.36.xx\n- Support 19.17.42\n\n**After updating the module, force stop YouTube to avoid errors.**\n\n## General\n- Fix random crash on startup with SPatch\n\n[Donate me on AFDia"
         }
       }
     },
@@ -36608,6 +36608,26 @@
       }
     ],
     "io.github.chsbuffer.revancedxposed": [
+      {
+        "added": 1757327045000,
+        "apkName": "revancedxposed_1.0.27.apk",
+        "hash": "2e4e0badbeb00fa95de06d41eb440fef4caae87436a21bbf249673668ebf1cd3",
+        "hashType": "sha256",
+        "minSdkVersion": 27,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "io.github.chsbuffer.revancedxposed",
+        "sig": "7392807993185028c55d4b14ba5b9f58",
+        "signer": "940d0f30e047642c72c94c6ef4bfab7910bb0cd4f69f9da735338beca0b2d12e",
+        "size": 5796625,
+        "targetSdkVersion": 36,
+        "versionCode": 27,
+        "versionName": "1.0.27"
+      },
       {
         "added": 1756820169000,
         "apkName": "revancedxposed_1.0.26.apk",
