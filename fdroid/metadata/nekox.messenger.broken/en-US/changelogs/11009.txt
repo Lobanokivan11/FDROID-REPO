@@ -1,0 +1,6 @@
+Added:
+- Add spoiler to media in expanded view (useful when sharing from external app or pasting from clipboard)
+
+Misc:
+- Moved ID/DC display in profile page to a separate row
+- Other minor fixes/improvements
