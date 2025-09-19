@@ -1,8 +1,8 @@
 AuthorName: chsbuffer
 Categories:
     - Xposed
-CurrentVersion: 1.0.27
-CurrentVersionCode: 27
+CurrentVersion: 1.0.28
+CurrentVersionCode: 28
 Description: |
     Xposed Module With Revanced Patches
     Better Than Mount

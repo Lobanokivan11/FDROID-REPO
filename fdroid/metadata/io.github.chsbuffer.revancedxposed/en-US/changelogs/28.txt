@@ -1,0 +1,17 @@
+## YouTube
+- Sync 5.39.0
+  - **Hide video action buttons**: Add "Hide Shop button" setting
+
+- Sync 5.36.0
+  - **SponsorBlock**: Add 'Hook' segment category
+
+- Sync 5.35.0
+  - **Hide layout components**: Hide Playable shelf header
+
+## YT Music
+- Sync 5.38.0
+  - Add in app settings menu
+
+**After updating the module, force stop YouTube to avoid errors.**
+
+[Donate me on AFDian](https://afdian.com/a/ChsBuffer)
