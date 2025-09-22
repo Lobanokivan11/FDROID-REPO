@@ -1,0 +1,5 @@
+## What's new?
+
+No commits found since the latest tag.
+
+[Workflow run](https://github.com/MMRLApp/MMRL/actions/runs/17925701019)
