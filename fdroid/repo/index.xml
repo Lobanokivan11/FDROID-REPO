@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="icon.png" name="Lobanokivan11's F-Droid Repo" pubkey="308204f0308202d8a003020102020900aa0527e64906854b300d06092a864886f70d01010b050030253110300e060355040b1307462d44726f69643111300f0603550403130841584f2d557365723020170d3235303632373132353035305a180f32303532313131323132353035305a30253110300e060355040b1307462d44726f69643111300f0603550403130841584f2d5573657230820222300d06092a864886f70d01010105000382020f003082020a0282020100e292f147f1d12c06b54004d33ef0249fbfa5cb575e74e33f7ef11740a06888eb14a68e3a7cda7854de7c0e16248289ef440b87b16015a6cdfc7456ca24b7c03f8abfa89f94215a0f235b2111b95d3edee214d2c747f13ea171ad07db5a119ddb91ebc4c089c54aaa20c719b7bf5fc3ed636489eafa1016c459269447a3fbc40622d62a3efb7437bbc1a4f8d06d26298398eb1145354be9deef0812b9a854f8547d015cda1b5242a0d32d92c1ead25dce341fef71a49ad4a8dc5441d8637cc69019fa528f05adc2cfb2b357d99f1226f700800b4401e461f475dff60170e5e2f7bf55cd7e7372441d33098f90d56010b90955d2aa81ebdf841b2e5780a1276a0073db5ffe644b5720578442c1dd44784a205331b4cee61f6456b89719b4c1c85c5325ac06bd744aa85fc620d7f59c6acc26c0f00713967e08f8a66c6b07fc23b3a3868f504e9afa0385823a1e890fabefc6d7aa68a3533894388dd7d04eb03b5f6f23aa2614dbfa6e3d32d5266edd8b643b6b4d903e663d448cd7c4803ee090c54cc8d0249dd3db53352259d3b7a79798eaed934462b9a79cb71844c55dff1a94076e740af209861aabab7f946b76c605c8f2a308ba87bd52e63c6335e1f98bf69c897259609c249f9c83907309db019d8cb3a4a0e26b23ba8dabf37918801fd1a8e2fc84f34192d41583255a4f35a20371c32fdf1a4c93cbe2b1a1b82597deb70203010001a321301f301d0603551d0e0416041470130289d750ce245977dbca02acb48dbff0e31e300d06092a864886f70d01010b050003820201005454d576c5f5f25e0ee7011e46266bb5bb07ff51a8179ba7ca6f9a6b17bf77bac316933e2ed8586cfaa34cb8af5bbfe89ffbfe9f3fffe66f5e039673f8544bde5e923cb08820d17531cc7414429c48a4272f65578351121b6cca17f3633025e4295a96316fcdf6343630c9662baedf6ecd9b8efedca812b80d6e6d50cd7618ee76dc3c88ae36570e37b5e62fa03734f7ff983918d373685766c23a8d99a8b5ec4c5e42b861cd79124686682a58a420b8ab677d528bb9e2d03e067f5fea4d78088318cad255bc8e5282385df32ec02be323e3ce4559e9f45757ae3aca1bf645bb6283a90086cddc7a82bfae486e57592339968acce21d0471f20e7f54c3ed5295ad91b0e61e5070283495558931c99ddfca434e22070e50759025b39294f08fde6c6449434649f5620f809f65eefa94c93e0dd5d23deda89efbc1c98f7265daaecf13f1d6e5a0de34e6c5aa0d34303e157dc3c28dc6f2ed3c91d1f0f8afbf8ee640007b8def8b2c57da43a8a65d22667421c9588376721b112f45237299c7bea99852c3558059af416ea99f36f191288f86b2f0e9b2c1f2824233d0f35044fc46cb88d4f0680f8706fe365d6e92e0cadeeb1f2de6b14c02eddfb6d4c324a79b9f46fb25533e2a0c02d3254c7f75d8931756f7b89da4092dd793bd1f717326a8ad57a3a5b3763b14470d2acb01560294094c97ef354afe7d6ee530b247f3bb211a" timestamp="1758800851" url="https://raw.githubusercontent.com/Lobanokivan11/FDROID-REPO/refs/heads/main/fdroid/repo" version="20002">
+	<repo icon="icon.png" name="Lobanokivan11's F-Droid Repo" pubkey="308204f0308202d8a003020102020900aa0527e64906854b300d06092a864886f70d01010b050030253110300e060355040b1307462d44726f69643111300f0603550403130841584f2d557365723020170d3235303632373132353035305a180f32303532313131323132353035305a30253110300e060355040b1307462d44726f69643111300f0603550403130841584f2d5573657230820222300d06092a864886f70d01010105000382020f003082020a0282020100e292f147f1d12c06b54004d33ef0249fbfa5cb575e74e33f7ef11740a06888eb14a68e3a7cda7854de7c0e16248289ef440b87b16015a6cdfc7456ca24b7c03f8abfa89f94215a0f235b2111b95d3edee214d2c747f13ea171ad07db5a119ddb91ebc4c089c54aaa20c719b7bf5fc3ed636489eafa1016c459269447a3fbc40622d62a3efb7437bbc1a4f8d06d26298398eb1145354be9deef0812b9a854f8547d015cda1b5242a0d32d92c1ead25dce341fef71a49ad4a8dc5441d8637cc69019fa528f05adc2cfb2b357d99f1226f700800b4401e461f475dff60170e5e2f7bf55cd7e7372441d33098f90d56010b90955d2aa81ebdf841b2e5780a1276a0073db5ffe644b5720578442c1dd44784a205331b4cee61f6456b89719b4c1c85c5325ac06bd744aa85fc620d7f59c6acc26c0f00713967e08f8a66c6b07fc23b3a3868f504e9afa0385823a1e890fabefc6d7aa68a3533894388dd7d04eb03b5f6f23aa2614dbfa6e3d32d5266edd8b643b6b4d903e663d448cd7c4803ee090c54cc8d0249dd3db53352259d3b7a79798eaed934462b9a79cb71844c55dff1a94076e740af209861aabab7f946b76c605c8f2a308ba87bd52e63c6335e1f98bf69c897259609c249f9c83907309db019d8cb3a4a0e26b23ba8dabf37918801fd1a8e2fc84f34192d41583255a4f35a20371c32fdf1a4c93cbe2b1a1b82597deb70203010001a321301f301d0603551d0e0416041470130289d750ce245977dbca02acb48dbff0e31e300d06092a864886f70d01010b050003820201005454d576c5f5f25e0ee7011e46266bb5bb07ff51a8179ba7ca6f9a6b17bf77bac316933e2ed8586cfaa34cb8af5bbfe89ffbfe9f3fffe66f5e039673f8544bde5e923cb08820d17531cc7414429c48a4272f65578351121b6cca17f3633025e4295a96316fcdf6343630c9662baedf6ecd9b8efedca812b80d6e6d50cd7618ee76dc3c88ae36570e37b5e62fa03734f7ff983918d373685766c23a8d99a8b5ec4c5e42b861cd79124686682a58a420b8ab677d528bb9e2d03e067f5fea4d78088318cad255bc8e5282385df32ec02be323e3ce4559e9f45757ae3aca1bf645bb6283a90086cddc7a82bfae486e57592339968acce21d0471f20e7f54c3ed5295ad91b0e61e5070283495558931c99ddfca434e22070e50759025b39294f08fde6c6449434649f5620f809f65eefa94c93e0dd5d23deda89efbc1c98f7265daaecf13f1d6e5a0de34e6c5aa0d34303e157dc3c28dc6f2ed3c91d1f0f8afbf8ee640007b8def8b2c57da43a8a65d22667421c9588376721b112f45237299c7bea99852c3558059af416ea99f36f191288f86b2f0e9b2c1f2824233d0f35044fc46cb88d4f0680f8706fe365d6e92e0cadeeb1f2de6b14c02eddfb6d4c324a79b9f46fb25533e2a0c02d3254c7f75d8931756f7b89da4092dd793bd1f717326a8ad57a3a5b3763b14470d2acb01560294094c97ef354afe7d6ee530b247f3bb211a" timestamp="1758804162" url="https://raw.githubusercontent.com/Lobanokivan11/FDROID-REPO/refs/heads/main/fdroid/repo" version="20002">
 		<description>This is Repository of Lobanokivan11</description>
 	</repo>
 	<application id="com.limelight.game.noir">
@@ -9,7 +9,51 @@
 		<lastupdated>2025-08-27</lastupdated>
 		<name>Artemis</name>
 		<summary>GameStream client for Android</summary>
-		<desc>Stream Pc Games From Pc of yours (Requires Apollo)
+		<desc>&lt;div class=&quot;markdown-heading&quot; dir=&quot;auto&quot;&gt;
+&lt;h1 class=&quot;heading-element&quot; dir=&quot;auto&quot; tabindex=&quot;-1&quot;&gt;Artemis Android&lt;/h1&gt;
+&lt;a id=&quot;user-content-artemis-android&quot; class=&quot;anchor&quot; href=&quot;https://github.com/ClassicOldSong/moonlight-android#artemis-android&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;p dir=&quot;auto&quot;&gt;Previously named Moonlight Noir&lt;/p&gt;
+&lt;p dir=&quot;auto&quot;&gt;An open source client for&amp;nbsp;&lt;a href=&quot;https://github.com/ClassicOldSong/Apollo&quot;&gt;Apollo&lt;/a&gt;/&lt;a href=&quot;https://github.com/LizardByte/Sunshine&quot;&gt;Sunshine&lt;/a&gt;.&lt;/p&gt;
+&lt;p dir=&quot;auto&quot;&gt;Artemis Android will allow you to stream your collection of games from your Windows PC to your Android device, whether in your own home or over the internet.&lt;/p&gt;
+&lt;p dir=&quot;auto&quot;&gt;Artemis is currently the best fork of Moonlight with loads of optimizations for office usage.&lt;/p&gt;
+&lt;p dir=&quot;auto&quot;&gt;A more seamless experience with virtual display will be Artemis paired with&amp;nbsp;&lt;a href=&quot;https://github.com/ClassicOldSong/Apollo&quot;&gt;Apollo&lt;/a&gt;.&lt;/p&gt;
+&lt;div class=&quot;markdown-heading&quot; dir=&quot;auto&quot;&gt;
+&lt;h1 class=&quot;heading-element&quot; dir=&quot;auto&quot; tabindex=&quot;-1&quot;&gt;Features&lt;/h1&gt;
+&lt;a id=&quot;user-content-features&quot; class=&quot;anchor&quot; href=&quot;https://github.com/ClassicOldSong/moonlight-android#features&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;p dir=&quot;auto&quot;&gt;If you switch back to the main stream version, you'll be missing the following awesome features which are very unlikely to be added there:&lt;/p&gt;
+&lt;ol dir=&quot;auto&quot;&gt;
+&lt;li&gt;Custom virtual buttons with import and export support.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/moonlight-stream/moonlight-android/pull/1349&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/moonlight-stream/moonlight-android/pull/1349/hovercard&quot;&gt;Custom resolutions&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Custom bitrates.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/moonlight-stream/moonlight-android/pull/1304&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/moonlight-stream/moonlight-android/pull/1304/hovercard&quot;&gt;Multiple mouse mode switching&lt;/a&gt;&amp;nbsp;(normal mouse,&amp;nbsp;&lt;a href=&quot;https://github.com/moonlight-stream/moonlight-android/pull/1364&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/moonlight-stream/moonlight-android/pull/1364/hovercard&quot;&gt;multi-touch&lt;/a&gt;, touchpad, disabled, local cursor mode).&lt;/li&gt;
+&lt;li&gt;Optimized virtual gamepad skins and free joystick.&lt;/li&gt;
+&lt;li&gt;External monitor mode.&lt;/li&gt;
+&lt;li&gt;Joycon D-pad support.&lt;/li&gt;
+&lt;li&gt;Simplified performance information display.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/moonlight-stream/moonlight-android/pull/1171&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/moonlight-stream/moonlight-android/pull/1171/hovercard&quot;&gt;Game back menu&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Custom shortcut commands.&lt;/li&gt;
+&lt;li&gt;Easy soft keyboard switching.&lt;/li&gt;
+&lt;li&gt;Portrait mode.&lt;/li&gt;
+&lt;li&gt;Display on top mode, useful for foldable phones.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/moonlight-stream/moonlight-android/issues/1348#issuecomment-2236344729&quot; data-hovercard-type=&quot;issue&quot; data-hovercard-url=&quot;/moonlight-stream/moonlight-android/issues/1348/hovercard&quot;&gt;Virtual touchpad space and sensitivity adjustment&lt;/a&gt;&amp;nbsp;for playing right-click view games, such as Warcraft.&lt;/li&gt;
+&lt;li&gt;Force use device's own vibration motor (in case your gamepad's vibration is not effective).&lt;/li&gt;
+&lt;li&gt;Gamepad debugging page to view gamepad vibration and gyroscope information, as well as Android kernel version information.&lt;/li&gt;
+&lt;li&gt;Trackpad tap/scrolling support&lt;/li&gt;
+&lt;li&gt;Natural track pad mode with touch screen&lt;/li&gt;
+&lt;li&gt;Non-QWERTY keyboard layout support&lt;/li&gt;
+&lt;li&gt;Quick Meta key with physical BACK button&lt;/li&gt;
+&lt;li&gt;Frame rate lock fix for some devices&lt;/li&gt;
+&lt;li&gt;Video scale mode: Fit/Fill/Stretch&lt;/li&gt;
+&lt;li&gt;View pan/zoom support&lt;/li&gt;
+&lt;li&gt;Rotate screen in-game&lt;/li&gt;
+&lt;li&gt;Add option to quit app directly&lt;/li&gt;
+&lt;li&gt;Samsung DeX scrolling support&lt;/li&gt;
+&lt;li&gt;Proper click/scroll/right-click for trackpad on generic Android tablet when using local cursor&lt;/li&gt;
+&lt;li&gt;Virtual Display integration with&amp;nbsp;&lt;a href=&quot;https://github.com/ClassicOldSong/Apollo&quot;&gt;Apollo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Server Command integration with&amp;nbsp;&lt;a href=&quot;https://github.com/ClassicOldSong/Apollo&quot;&gt;Apollo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Clipboard sync (requires Apollo)&lt;/li&gt;
+&lt;li&gt;SBS 3D for external Displays (Using AI MiDaS v2 Lite)&lt;/li&gt;
+&lt;/ol&gt;
 </desc>
 		<license>GPL-3.0</license>
 		<categories>Games</categories>
@@ -41,7 +85,51 @@
 		<lastupdated>2025-08-27</lastupdated>
 		<name>Artemis</name>
 		<summary>GameStream client for Android</summary>
-		<desc>Stream Pc Games From Pc of yours (Requires Apollo)
+		<desc>&lt;div class=&quot;markdown-heading&quot; dir=&quot;auto&quot;&gt;
+&lt;h1 class=&quot;heading-element&quot; dir=&quot;auto&quot; tabindex=&quot;-1&quot;&gt;Artemis Android&lt;/h1&gt;
+&lt;a id=&quot;user-content-artemis-android&quot; class=&quot;anchor&quot; href=&quot;https://github.com/ClassicOldSong/moonlight-android#artemis-android&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;p dir=&quot;auto&quot;&gt;Previously named Moonlight Noir&lt;/p&gt;
+&lt;p dir=&quot;auto&quot;&gt;An open source client for&amp;nbsp;&lt;a href=&quot;https://github.com/ClassicOldSong/Apollo&quot;&gt;Apollo&lt;/a&gt;/&lt;a href=&quot;https://github.com/LizardByte/Sunshine&quot;&gt;Sunshine&lt;/a&gt;.&lt;/p&gt;
+&lt;p dir=&quot;auto&quot;&gt;Artemis Android will allow you to stream your collection of games from your Windows PC to your Android device, whether in your own home or over the internet.&lt;/p&gt;
+&lt;p dir=&quot;auto&quot;&gt;Artemis is currently the best fork of Moonlight with loads of optimizations for office usage.&lt;/p&gt;
+&lt;p dir=&quot;auto&quot;&gt;A more seamless experience with virtual display will be Artemis paired with&amp;nbsp;&lt;a href=&quot;https://github.com/ClassicOldSong/Apollo&quot;&gt;Apollo&lt;/a&gt;.&lt;/p&gt;
+&lt;div class=&quot;markdown-heading&quot; dir=&quot;auto&quot;&gt;
+&lt;h1 class=&quot;heading-element&quot; dir=&quot;auto&quot; tabindex=&quot;-1&quot;&gt;Features&lt;/h1&gt;
+&lt;a id=&quot;user-content-features&quot; class=&quot;anchor&quot; href=&quot;https://github.com/ClassicOldSong/moonlight-android#features&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;p dir=&quot;auto&quot;&gt;If you switch back to the main stream version, you'll be missing the following awesome features which are very unlikely to be added there:&lt;/p&gt;
+&lt;ol dir=&quot;auto&quot;&gt;
+&lt;li&gt;Custom virtual buttons with import and export support.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/moonlight-stream/moonlight-android/pull/1349&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/moonlight-stream/moonlight-android/pull/1349/hovercard&quot;&gt;Custom resolutions&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Custom bitrates.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/moonlight-stream/moonlight-android/pull/1304&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/moonlight-stream/moonlight-android/pull/1304/hovercard&quot;&gt;Multiple mouse mode switching&lt;/a&gt;&amp;nbsp;(normal mouse,&amp;nbsp;&lt;a href=&quot;https://github.com/moonlight-stream/moonlight-android/pull/1364&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/moonlight-stream/moonlight-android/pull/1364/hovercard&quot;&gt;multi-touch&lt;/a&gt;, touchpad, disabled, local cursor mode).&lt;/li&gt;
+&lt;li&gt;Optimized virtual gamepad skins and free joystick.&lt;/li&gt;
+&lt;li&gt;External monitor mode.&lt;/li&gt;
+&lt;li&gt;Joycon D-pad support.&lt;/li&gt;
+&lt;li&gt;Simplified performance information display.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/moonlight-stream/moonlight-android/pull/1171&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/moonlight-stream/moonlight-android/pull/1171/hovercard&quot;&gt;Game back menu&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Custom shortcut commands.&lt;/li&gt;
+&lt;li&gt;Easy soft keyboard switching.&lt;/li&gt;
+&lt;li&gt;Portrait mode.&lt;/li&gt;
+&lt;li&gt;Display on top mode, useful for foldable phones.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/moonlight-stream/moonlight-android/issues/1348#issuecomment-2236344729&quot; data-hovercard-type=&quot;issue&quot; data-hovercard-url=&quot;/moonlight-stream/moonlight-android/issues/1348/hovercard&quot;&gt;Virtual touchpad space and sensitivity adjustment&lt;/a&gt;&amp;nbsp;for playing right-click view games, such as Warcraft.&lt;/li&gt;
+&lt;li&gt;Force use device's own vibration motor (in case your gamepad's vibration is not effective).&lt;/li&gt;
+&lt;li&gt;Gamepad debugging page to view gamepad vibration and gyroscope information, as well as Android kernel version information.&lt;/li&gt;
+&lt;li&gt;Trackpad tap/scrolling support&lt;/li&gt;
+&lt;li&gt;Natural track pad mode with touch screen&lt;/li&gt;
+&lt;li&gt;Non-QWERTY keyboard layout support&lt;/li&gt;
+&lt;li&gt;Quick Meta key with physical BACK button&lt;/li&gt;
+&lt;li&gt;Frame rate lock fix for some devices&lt;/li&gt;
+&lt;li&gt;Video scale mode: Fit/Fill/Stretch&lt;/li&gt;
+&lt;li&gt;View pan/zoom support&lt;/li&gt;
+&lt;li&gt;Rotate screen in-game&lt;/li&gt;
+&lt;li&gt;Add option to quit app directly&lt;/li&gt;
+&lt;li&gt;Samsung DeX scrolling support&lt;/li&gt;
+&lt;li&gt;Proper click/scroll/right-click for trackpad on generic Android tablet when using local cursor&lt;/li&gt;
+&lt;li&gt;Virtual Display integration with&amp;nbsp;&lt;a href=&quot;https://github.com/ClassicOldSong/Apollo&quot;&gt;Apollo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Server Command integration with&amp;nbsp;&lt;a href=&quot;https://github.com/ClassicOldSong/Apollo&quot;&gt;Apollo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Clipboard sync (requires Apollo)&lt;/li&gt;
+&lt;li&gt;SBS 3D for external Displays (Using AI MiDaS v2 Lite)&lt;/li&gt;
+&lt;/ol&gt;
 </desc>
 		<license>GPL-3.0</license>
 		<categories>Games</categories>
@@ -73,7 +161,51 @@
 		<lastupdated>2025-08-27</lastupdated>
 		<name>Artemis</name>
 		<summary>GameStream client for Android</summary>
-		<desc>Stream Pc Games From Pc of yours (Requires Apollo)
+		<desc>&lt;div class=&quot;markdown-heading&quot; dir=&quot;auto&quot;&gt;
+&lt;h1 class=&quot;heading-element&quot; dir=&quot;auto&quot; tabindex=&quot;-1&quot;&gt;Artemis Android&lt;/h1&gt;
+&lt;a id=&quot;user-content-artemis-android&quot; class=&quot;anchor&quot; href=&quot;https://github.com/ClassicOldSong/moonlight-android#artemis-android&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;p dir=&quot;auto&quot;&gt;Previously named Moonlight Noir&lt;/p&gt;
+&lt;p dir=&quot;auto&quot;&gt;An open source client for&amp;nbsp;&lt;a href=&quot;https://github.com/ClassicOldSong/Apollo&quot;&gt;Apollo&lt;/a&gt;/&lt;a href=&quot;https://github.com/LizardByte/Sunshine&quot;&gt;Sunshine&lt;/a&gt;.&lt;/p&gt;
+&lt;p dir=&quot;auto&quot;&gt;Artemis Android will allow you to stream your collection of games from your Windows PC to your Android device, whether in your own home or over the internet.&lt;/p&gt;
+&lt;p dir=&quot;auto&quot;&gt;Artemis is currently the best fork of Moonlight with loads of optimizations for office usage.&lt;/p&gt;
+&lt;p dir=&quot;auto&quot;&gt;A more seamless experience with virtual display will be Artemis paired with&amp;nbsp;&lt;a href=&quot;https://github.com/ClassicOldSong/Apollo&quot;&gt;Apollo&lt;/a&gt;.&lt;/p&gt;
+&lt;div class=&quot;markdown-heading&quot; dir=&quot;auto&quot;&gt;
+&lt;h1 class=&quot;heading-element&quot; dir=&quot;auto&quot; tabindex=&quot;-1&quot;&gt;Features&lt;/h1&gt;
+&lt;a id=&quot;user-content-features&quot; class=&quot;anchor&quot; href=&quot;https://github.com/ClassicOldSong/moonlight-android#features&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;p dir=&quot;auto&quot;&gt;If you switch back to the main stream version, you'll be missing the following awesome features which are very unlikely to be added there:&lt;/p&gt;
+&lt;ol dir=&quot;auto&quot;&gt;
+&lt;li&gt;Custom virtual buttons with import and export support.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/moonlight-stream/moonlight-android/pull/1349&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/moonlight-stream/moonlight-android/pull/1349/hovercard&quot;&gt;Custom resolutions&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Custom bitrates.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/moonlight-stream/moonlight-android/pull/1304&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/moonlight-stream/moonlight-android/pull/1304/hovercard&quot;&gt;Multiple mouse mode switching&lt;/a&gt;&amp;nbsp;(normal mouse,&amp;nbsp;&lt;a href=&quot;https://github.com/moonlight-stream/moonlight-android/pull/1364&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/moonlight-stream/moonlight-android/pull/1364/hovercard&quot;&gt;multi-touch&lt;/a&gt;, touchpad, disabled, local cursor mode).&lt;/li&gt;
+&lt;li&gt;Optimized virtual gamepad skins and free joystick.&lt;/li&gt;
+&lt;li&gt;External monitor mode.&lt;/li&gt;
+&lt;li&gt;Joycon D-pad support.&lt;/li&gt;
+&lt;li&gt;Simplified performance information display.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/moonlight-stream/moonlight-android/pull/1171&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/moonlight-stream/moonlight-android/pull/1171/hovercard&quot;&gt;Game back menu&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Custom shortcut commands.&lt;/li&gt;
+&lt;li&gt;Easy soft keyboard switching.&lt;/li&gt;
+&lt;li&gt;Portrait mode.&lt;/li&gt;
+&lt;li&gt;Display on top mode, useful for foldable phones.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/moonlight-stream/moonlight-android/issues/1348#issuecomment-2236344729&quot; data-hovercard-type=&quot;issue&quot; data-hovercard-url=&quot;/moonlight-stream/moonlight-android/issues/1348/hovercard&quot;&gt;Virtual touchpad space and sensitivity adjustment&lt;/a&gt;&amp;nbsp;for playing right-click view games, such as Warcraft.&lt;/li&gt;
+&lt;li&gt;Force use device's own vibration motor (in case your gamepad's vibration is not effective).&lt;/li&gt;
+&lt;li&gt;Gamepad debugging page to view gamepad vibration and gyroscope information, as well as Android kernel version information.&lt;/li&gt;
+&lt;li&gt;Trackpad tap/scrolling support&lt;/li&gt;
+&lt;li&gt;Natural track pad mode with touch screen&lt;/li&gt;
+&lt;li&gt;Non-QWERTY keyboard layout support&lt;/li&gt;
+&lt;li&gt;Quick Meta key with physical BACK button&lt;/li&gt;
+&lt;li&gt;Frame rate lock fix for some devices&lt;/li&gt;
+&lt;li&gt;Video scale mode: Fit/Fill/Stretch&lt;/li&gt;
+&lt;li&gt;View pan/zoom support&lt;/li&gt;
+&lt;li&gt;Rotate screen in-game&lt;/li&gt;
+&lt;li&gt;Add option to quit app directly&lt;/li&gt;
+&lt;li&gt;Samsung DeX scrolling support&lt;/li&gt;
+&lt;li&gt;Proper click/scroll/right-click for trackpad on generic Android tablet when using local cursor&lt;/li&gt;
+&lt;li&gt;Virtual Display integration with&amp;nbsp;&lt;a href=&quot;https://github.com/ClassicOldSong/Apollo&quot;&gt;Apollo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Server Command integration with&amp;nbsp;&lt;a href=&quot;https://github.com/ClassicOldSong/Apollo&quot;&gt;Apollo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Clipboard sync (requires Apollo)&lt;/li&gt;
+&lt;li&gt;SBS 3D for external Displays (Using AI MiDaS v2 Lite)&lt;/li&gt;
+&lt;/ol&gt;
 </desc>
 		<license>GPL-3.0</license>
 		<categories>Games</categories>
@@ -553,7 +685,51 @@
 		<lastupdated>2025-08-27</lastupdated>
 		<name>Artemis</name>
 		<summary>GameStream client for Android</summary>
-		<desc>Stream Pc Games From Pc of yours (Requires Apollo)
+		<desc>&lt;div class=&quot;markdown-heading&quot; dir=&quot;auto&quot;&gt;
+&lt;h1 class=&quot;heading-element&quot; dir=&quot;auto&quot; tabindex=&quot;-1&quot;&gt;Artemis Android&lt;/h1&gt;
+&lt;a id=&quot;user-content-artemis-android&quot; class=&quot;anchor&quot; href=&quot;https://github.com/ClassicOldSong/moonlight-android#artemis-android&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;p dir=&quot;auto&quot;&gt;Previously named Moonlight Noir&lt;/p&gt;
+&lt;p dir=&quot;auto&quot;&gt;An open source client for&amp;nbsp;&lt;a href=&quot;https://github.com/ClassicOldSong/Apollo&quot;&gt;Apollo&lt;/a&gt;/&lt;a href=&quot;https://github.com/LizardByte/Sunshine&quot;&gt;Sunshine&lt;/a&gt;.&lt;/p&gt;
+&lt;p dir=&quot;auto&quot;&gt;Artemis Android will allow you to stream your collection of games from your Windows PC to your Android device, whether in your own home or over the internet.&lt;/p&gt;
+&lt;p dir=&quot;auto&quot;&gt;Artemis is currently the best fork of Moonlight with loads of optimizations for office usage.&lt;/p&gt;
+&lt;p dir=&quot;auto&quot;&gt;A more seamless experience with virtual display will be Artemis paired with&amp;nbsp;&lt;a href=&quot;https://github.com/ClassicOldSong/Apollo&quot;&gt;Apollo&lt;/a&gt;.&lt;/p&gt;
+&lt;div class=&quot;markdown-heading&quot; dir=&quot;auto&quot;&gt;
+&lt;h1 class=&quot;heading-element&quot; dir=&quot;auto&quot; tabindex=&quot;-1&quot;&gt;Features&lt;/h1&gt;
+&lt;a id=&quot;user-content-features&quot; class=&quot;anchor&quot; href=&quot;https://github.com/ClassicOldSong/moonlight-android#features&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;p dir=&quot;auto&quot;&gt;If you switch back to the main stream version, you'll be missing the following awesome features which are very unlikely to be added there:&lt;/p&gt;
+&lt;ol dir=&quot;auto&quot;&gt;
+&lt;li&gt;Custom virtual buttons with import and export support.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/moonlight-stream/moonlight-android/pull/1349&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/moonlight-stream/moonlight-android/pull/1349/hovercard&quot;&gt;Custom resolutions&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Custom bitrates.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/moonlight-stream/moonlight-android/pull/1304&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/moonlight-stream/moonlight-android/pull/1304/hovercard&quot;&gt;Multiple mouse mode switching&lt;/a&gt;&amp;nbsp;(normal mouse,&amp;nbsp;&lt;a href=&quot;https://github.com/moonlight-stream/moonlight-android/pull/1364&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/moonlight-stream/moonlight-android/pull/1364/hovercard&quot;&gt;multi-touch&lt;/a&gt;, touchpad, disabled, local cursor mode).&lt;/li&gt;
+&lt;li&gt;Optimized virtual gamepad skins and free joystick.&lt;/li&gt;
+&lt;li&gt;External monitor mode.&lt;/li&gt;
+&lt;li&gt;Joycon D-pad support.&lt;/li&gt;
+&lt;li&gt;Simplified performance information display.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/moonlight-stream/moonlight-android/pull/1171&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/moonlight-stream/moonlight-android/pull/1171/hovercard&quot;&gt;Game back menu&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Custom shortcut commands.&lt;/li&gt;
+&lt;li&gt;Easy soft keyboard switching.&lt;/li&gt;
+&lt;li&gt;Portrait mode.&lt;/li&gt;
+&lt;li&gt;Display on top mode, useful for foldable phones.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/moonlight-stream/moonlight-android/issues/1348#issuecomment-2236344729&quot; data-hovercard-type=&quot;issue&quot; data-hovercard-url=&quot;/moonlight-stream/moonlight-android/issues/1348/hovercard&quot;&gt;Virtual touchpad space and sensitivity adjustment&lt;/a&gt;&amp;nbsp;for playing right-click view games, such as Warcraft.&lt;/li&gt;
+&lt;li&gt;Force use device's own vibration motor (in case your gamepad's vibration is not effective).&lt;/li&gt;
+&lt;li&gt;Gamepad debugging page to view gamepad vibration and gyroscope information, as well as Android kernel version information.&lt;/li&gt;
+&lt;li&gt;Trackpad tap/scrolling support&lt;/li&gt;
+&lt;li&gt;Natural track pad mode with touch screen&lt;/li&gt;
+&lt;li&gt;Non-QWERTY keyboard layout support&lt;/li&gt;
+&lt;li&gt;Quick Meta key with physical BACK button&lt;/li&gt;
+&lt;li&gt;Frame rate lock fix for some devices&lt;/li&gt;
+&lt;li&gt;Video scale mode: Fit/Fill/Stretch&lt;/li&gt;
+&lt;li&gt;View pan/zoom support&lt;/li&gt;
+&lt;li&gt;Rotate screen in-game&lt;/li&gt;
+&lt;li&gt;Add option to quit app directly&lt;/li&gt;
+&lt;li&gt;Samsung DeX scrolling support&lt;/li&gt;
+&lt;li&gt;Proper click/scroll/right-click for trackpad on generic Android tablet when using local cursor&lt;/li&gt;
+&lt;li&gt;Virtual Display integration with&amp;nbsp;&lt;a href=&quot;https://github.com/ClassicOldSong/Apollo&quot;&gt;Apollo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Server Command integration with&amp;nbsp;&lt;a href=&quot;https://github.com/ClassicOldSong/Apollo&quot;&gt;Apollo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Clipboard sync (requires Apollo)&lt;/li&gt;
+&lt;li&gt;SBS 3D for external Displays (Using AI MiDaS v2 Lite)&lt;/li&gt;
+&lt;/ol&gt;
 </desc>
 		<license>GPL-3.0</license>
 		<categories>Games</categories>
@@ -585,7 +761,11 @@
 		<lastupdated>2025-06-27</lastupdated>
 		<name>F-Droid Privileged Extension Shizuku Edition</name>
 		<summary>F-Droid Privilege Extension that works with Shizuku (rootless) - UPDATES ARE ...</summary>
-		<desc>F-Droid Privileged Extension that works with Shizuku (rootless)
+		<desc>&lt;div class=&quot;markdown-heading&quot; dir=&quot;auto&quot;&gt;
+&lt;h1 class=&quot;heading-element&quot; dir=&quot;auto&quot; tabindex=&quot;-1&quot;&gt;F-Droid Shizuku Privileged Extension&lt;/h1&gt;
+&lt;a id=&quot;user-content-f-droid-shizuku-privileged-extension&quot; class=&quot;anchor&quot; href=&quot;https://github.com/Lobanokivan11/fdroid_shizuku_privileged_extension#f-droid-shizuku-privileged-extension&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;p dir=&quot;auto&quot;&gt;This is a port of the official&amp;nbsp;&lt;a href=&quot;https://gitlab.com/fdroid/privileged-extension&quot; rel=&quot;nofollow&quot;&gt;F-Droid Privileged Extension&lt;/a&gt;&amp;nbsp;to&amp;nbsp;&lt;a href=&quot;https://shizuku.rikka.app/&quot; rel=&quot;nofollow&quot;&gt;Shizuku&lt;/a&gt;, an app that makes it easy to grant apps ADB permissions.&lt;/p&gt;
+&lt;p dir=&quot;auto&quot;&gt;When the app is installed, F-Droid will automatically detect it and use it to perform non-interactive app installations.&lt;/p&gt;
 </desc>
 		<license>Apache-2.0</license>
 		<categories>System</categories>
@@ -685,7 +865,11 @@
 		<lastupdated>2025-08-17</lastupdated>
 		<name>MicroG-RE</name>
 		<summary>GmsCore fork for ReVanced with Material 3 Expressive design, enhanced feature...</summary>
-		<desc>GmsCore From WSTxda For Revanced (NON-ROOT) APPS
+		<desc>&lt;div class=&quot;markdown-heading&quot; dir=&quot;auto&quot;&gt;
+&lt;h1 class=&quot;heading-element&quot; dir=&quot;auto&quot; tabindex=&quot;-1&quot;&gt;MicroG RE (GmsCore Redesign)&lt;/h1&gt;
+&lt;a id=&quot;user-content-microg-re-gmscore-redesign&quot; class=&quot;anchor&quot; href=&quot;https://github.com/WSTxda/MicroG-RE#microg-re-gmscore-redesign&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;p dir=&quot;auto&quot;&gt;&lt;a href=&quot;https://github.com/microg/GmsCore&quot;&gt;GmsCore&lt;/a&gt;&amp;nbsp;fork designed for&amp;nbsp;&lt;a href=&quot;https://github.com/ReVanced&quot;&gt;ReVanced&lt;/a&gt;&amp;nbsp;with&amp;nbsp;&lt;a href=&quot;https://m3.material.io/blog/building-with-m3-expressive&quot; rel=&quot;nofollow&quot;&gt;Material 3 Expressive&lt;/a&gt;&amp;nbsp;design, along with some improvements and features.&lt;/p&gt;
+&lt;p dir=&quot;auto&quot;&gt;This repository is a fork of&amp;nbsp;&lt;a href=&quot;https://github.com/microg/GmsCore&quot;&gt;microG GmsCore&lt;/a&gt;, adapted to work with patched Google apps without requiring root access and under an alternative package name. It uses the&amp;nbsp;&lt;strong&gt;GmsCore support&lt;/strong&gt;&amp;nbsp;patch from ReVanced Patches to enable Google account authentication and services, replacing Google Play Services.&lt;/p&gt;
 </desc>
 		<license>Apache-2.0</license>
 		<categories>System</categories>
@@ -807,7 +991,11 @@
 		<lastupdated>2025-07-28</lastupdated>
 		<name>MicroG-RE</name>
 		<summary>GmsCore fork for ReVanced with Material 3 Expressive design, enhanced feature...</summary>
-		<desc>GmsCore From WSTxda For Revanced (NON-ROOT) APPS
+		<desc>&lt;div class=&quot;markdown-heading&quot; dir=&quot;auto&quot;&gt;
+&lt;h1 class=&quot;heading-element&quot; dir=&quot;auto&quot; tabindex=&quot;-1&quot;&gt;MicroG RE (GmsCore Redesign)&lt;/h1&gt;
+&lt;a id=&quot;user-content-microg-re-gmscore-redesign&quot; class=&quot;anchor&quot; href=&quot;https://github.com/WSTxda/MicroG-RE#microg-re-gmscore-redesign&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;p dir=&quot;auto&quot;&gt;&lt;a href=&quot;https://github.com/microg/GmsCore&quot;&gt;GmsCore&lt;/a&gt;&amp;nbsp;fork designed for&amp;nbsp;&lt;a href=&quot;https://github.com/ReVanced&quot;&gt;ReVanced&lt;/a&gt;&amp;nbsp;with&amp;nbsp;&lt;a href=&quot;https://m3.material.io/blog/building-with-m3-expressive&quot; rel=&quot;nofollow&quot;&gt;Material 3 Expressive&lt;/a&gt;&amp;nbsp;design, along with some improvements and features.&lt;/p&gt;
+&lt;p dir=&quot;auto&quot;&gt;This repository is a fork of&amp;nbsp;&lt;a href=&quot;https://github.com/microg/GmsCore&quot;&gt;microG GmsCore&lt;/a&gt;, adapted to work with patched Google apps without requiring root access and under an alternative package name. It uses the&amp;nbsp;&lt;strong&gt;GmsCore support&lt;/strong&gt;&amp;nbsp;patch from ReVanced Patches to enable Google account authentication and services, replacing Google Play Services.&lt;/p&gt;
 </desc>
 		<license>Apache-2.0</license>
 		<categories>System</categories>
@@ -955,7 +1143,21 @@
 		<lastupdated>2025-09-22</lastupdated>
 		<name>MMRL</name>
 		<summary>A app for managing, sharing, and exploring Magisk modules across repositories</summary>
-		<desc>Magisk Advanced Module Manager
+		<desc>&lt;p dir=&quot;auto&quot;&gt;MMRL is an Android app that helps manage your own modules repository.&lt;/p&gt;
+&lt;div class=&quot;markdown-heading&quot; dir=&quot;auto&quot;&gt;
+&lt;h2 class=&quot;heading-element&quot; dir=&quot;auto&quot; tabindex=&quot;-1&quot;&gt;Features&lt;/h2&gt;
+&lt;a id=&quot;user-content-features&quot; class=&quot;anchor&quot; href=&quot;https://github.com/MMRLApp/MMRL#features&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;ul dir=&quot;auto&quot;&gt;
+&lt;li&gt;&lt;strong&gt;Comprehensive Root Manager Support&lt;/strong&gt;: Full compatibility with Magisk, KernelSU, and APatch for diverse root management options.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;WebUI with Advanced Features&lt;/strong&gt;: Includes&amp;nbsp;&lt;a href=&quot;https://developer.android.com/develop/ui/compose/layouts/insets&quot; rel=&quot;nofollow&quot;&gt;Edge-to-Edge&lt;/a&gt;&amp;nbsp;support and dynamic app themes for a seamless user experience.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Bulk Installation Support&lt;/strong&gt;: Effortlessly install modules in bulk, both online and locally.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Module Dependency Management&lt;/strong&gt;: Simplifies module installation for end-users by automatically handling module dependencies.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Magisk Modules Repositories&lt;/strong&gt;: A community-driven platform that allows anyone to contribute and access Magisk modules.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;User Transparency with Blacklist&lt;/strong&gt;: Clear visibility into which modules or actions are restricted, ensuring users can make informed decisions.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Customizable Module Pages&lt;/strong&gt;: Personalize module pages with categories, screenshots, icons, covers, and other content for a tailored presentation.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Transparency of Included Files&lt;/strong&gt;: Detailed breakdown of all files within modules, including APKs, service files, and more, for full user awareness.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Analytics Dashboard&lt;/strong&gt;: Display module-related analytics on the homepage, offering valuable insights into module usage and trends.&lt;/li&gt;
+&lt;/ul&gt;
 </desc>
 		<license>GPL-3.0</license>
 		<categories>System</categories>
@@ -2623,8 +2825,92 @@
 		<lastupdated>2025-09-19</lastupdated>
 		<name>ReVanced Xposed</name>
 		<summary>ReVanced LSPosed module. YouTube &amp; YT Music Remove ads, Background playback</summary>
-		<desc>Xposed Module With Revanced Patches
-Better Than Mount
+		<desc>&lt;p dir=&quot;auto&quot;&gt;&lt;strong&gt;ReVanced LSPosed module by ChsBuffer.&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&quot;markdown-alert markdown-alert-important&quot; dir=&quot;auto&quot;&gt;
+&lt;p class=&quot;markdown-alert-title&quot; dir=&quot;auto&quot;&gt;Important&lt;/p&gt;
+&lt;p dir=&quot;auto&quot;&gt;This is not an official ReVanced project, do not ask the ReVanced developers for help.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;markdown-heading&quot; dir=&quot;auto&quot;&gt;
+&lt;h2 class=&quot;heading-element&quot; dir=&quot;auto&quot; tabindex=&quot;-1&quot;&gt;Patches&lt;/h2&gt;
+&lt;a id=&quot;user-content-patches&quot; class=&quot;anchor&quot; href=&quot;https://github.com/chsbuffer/ReVancedXposed#patches&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;markdown-heading&quot; dir=&quot;auto&quot;&gt;
+&lt;h3 class=&quot;heading-element&quot; dir=&quot;auto&quot; tabindex=&quot;-1&quot;&gt;Youtube&lt;/h3&gt;
+&lt;a id=&quot;user-content-youtube&quot; class=&quot;anchor&quot; href=&quot;https://github.com/chsbuffer/ReVancedXposed#youtube&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;ul dir=&quot;auto&quot;&gt;
+&lt;li&gt;Remove ads&lt;/li&gt;
+&lt;li&gt;SponsorBlock&lt;/li&gt;
+&lt;li&gt;Remove background playback restrictions&lt;/li&gt;
+&lt;li&gt;Remove share links tracking query parameter&lt;/li&gt;
+&lt;li&gt;Hide and change navigation buttons&lt;/li&gt;
+&lt;li&gt;Swipe controls&lt;/li&gt;
+&lt;li&gt;Remember video quality changes&lt;/li&gt;
+&lt;li&gt;Show video quality button&lt;/li&gt;
+&lt;li&gt;Show advanced video quality menu&lt;/li&gt;
+&lt;li&gt;Copy video url video player button&lt;/li&gt;
+&lt;li&gt;Open external downloader app&lt;/li&gt;
+&lt;li&gt;Custom playback speed&lt;/li&gt;
+&lt;li&gt;Remember playback speed&lt;/li&gt;
+&lt;li&gt;Playback speed dialog button&lt;/li&gt;
+&lt;li&gt;Hide layout components&lt;/li&gt;
+&lt;li&gt;Hide video action buttons&lt;/li&gt;
+&lt;li&gt;Disable resuming Shorts on startup&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;markdown-heading&quot; dir=&quot;auto&quot;&gt;
+&lt;h3 class=&quot;heading-element&quot; dir=&quot;auto&quot; tabindex=&quot;-1&quot;&gt;Spotify&lt;/h3&gt;
+&lt;a id=&quot;user-content-spotify&quot; class=&quot;anchor&quot; href=&quot;https://github.com/chsbuffer/ReVancedXposed#spotify&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;ul dir=&quot;auto&quot;&gt;
+&lt;li&gt;Unlock Spotify Premium&lt;/li&gt;
+&lt;li&gt;Sanitize sharing links&lt;/li&gt;
+&lt;li&gt;Hide Create button&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;markdown-heading&quot; dir=&quot;auto&quot;&gt;
+&lt;h3 class=&quot;heading-element&quot; dir=&quot;auto&quot; tabindex=&quot;-1&quot;&gt;Google Photos&lt;/h3&gt;
+&lt;a id=&quot;user-content-google-photos&quot; class=&quot;anchor&quot; href=&quot;https://github.com/chsbuffer/ReVancedXposed#google-photos&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;ul dir=&quot;auto&quot;&gt;
+&lt;li&gt;Spoof Pixel XL&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;markdown-heading&quot; dir=&quot;auto&quot;&gt;
+&lt;h3 class=&quot;heading-element&quot; dir=&quot;auto&quot; tabindex=&quot;-1&quot;&gt;Youtube Music&lt;/h3&gt;
+&lt;a id=&quot;user-content-youtube-music&quot; class=&quot;anchor&quot; href=&quot;https://github.com/chsbuffer/ReVancedXposed#youtube-music&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;ul dir=&quot;auto&quot;&gt;
+&lt;li&gt;Remove music video ads&lt;/li&gt;
+&lt;li&gt;Remove background playback restrictions&lt;/li&gt;
+&lt;li&gt;Hide upgrade button&lt;/li&gt;
+&lt;li&gt;Hide 'Get Music Premium' label&lt;/li&gt;
+&lt;li&gt;Enable exclusive audio playback&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;markdown-heading&quot; dir=&quot;auto&quot;&gt;
+&lt;h3 class=&quot;heading-element&quot; dir=&quot;auto&quot; tabindex=&quot;-1&quot;&gt;Instagram&lt;/h3&gt;
+&lt;a id=&quot;user-content-instagram&quot; class=&quot;anchor&quot; href=&quot;https://github.com/chsbuffer/ReVancedXposed#instagram&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;ul dir=&quot;auto&quot;&gt;
+&lt;li&gt;Hide ads&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;markdown-heading&quot; dir=&quot;auto&quot;&gt;
+&lt;h3 class=&quot;heading-element&quot; dir=&quot;auto&quot; tabindex=&quot;-1&quot;&gt;Threads&lt;/h3&gt;
+&lt;a id=&quot;user-content-threads&quot; class=&quot;anchor&quot; href=&quot;https://github.com/chsbuffer/ReVancedXposed#threads&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;ul dir=&quot;auto&quot;&gt;
+&lt;li&gt;Hide ads&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;markdown-heading&quot; dir=&quot;auto&quot;&gt;
+&lt;h3 class=&quot;heading-element&quot; dir=&quot;auto&quot; tabindex=&quot;-1&quot;&gt;Reddit (2024.17.0)&lt;/h3&gt;
+&lt;a id=&quot;user-content-reddit-2024170&quot; class=&quot;anchor&quot; href=&quot;https://github.com/chsbuffer/ReVancedXposed#reddit-2024170&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;ul dir=&quot;auto&quot;&gt;
+&lt;li&gt;Hide ads&lt;/li&gt;
+&lt;li&gt;Sanitize sharing links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;markdown-heading&quot; dir=&quot;auto&quot;&gt;
+&lt;h3 class=&quot;heading-element&quot; dir=&quot;auto&quot; tabindex=&quot;-1&quot;&gt;Strava&lt;/h3&gt;
+&lt;a id=&quot;user-content-strava&quot; class=&quot;anchor&quot; href=&quot;https://github.com/chsbuffer/ReVancedXposed#strava&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;ul dir=&quot;auto&quot;&gt;
+&lt;li&gt;Unlock subscription features&lt;/li&gt;
+&lt;li&gt;Disable subscription suggestions&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;markdown-heading&quot; dir=&quot;auto&quot;&gt;
+&lt;h3 class=&quot;heading-element&quot; dir=&quot;auto&quot; tabindex=&quot;-1&quot;&gt;Photomath&lt;/h3&gt;
+&lt;a id=&quot;user-content-photomath&quot; class=&quot;anchor&quot; href=&quot;https://github.com/chsbuffer/ReVancedXposed#photomath&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;ul dir=&quot;auto&quot;&gt;
+&lt;li&gt;Unlock plus&lt;/li&gt;
+&lt;/ul&gt;
 </desc>
 		<license>GPL-3.0</license>
 		<categories>Xposed</categories>
@@ -3095,7 +3381,42 @@ Better Than Mount
 		<lastupdated>2025-09-07</lastupdated>
 		<name>WebUi X</name>
 		<summary>WebUI X from MMRL but portable!</summary>
-		<desc>Manage Module's Settings On Magisk
+		<desc>&lt;h1 id=&quot;why-webui-x&quot; tabindex=&quot;-1&quot;&gt;Why WebUI X?&lt;/h1&gt;
+&lt;p&gt;WebUI X is the next-generation framework for building modular, secure, and high-performance WebUI applications. It offers significant improvements over Legacy KernelSU WebUI, making it the ideal choice for developers. Below are the key reasons to switch:&lt;/p&gt;
+&lt;h2 id=&quot;🚀-key-advantages&quot; tabindex=&quot;-1&quot;&gt;🚀&amp;nbsp;&lt;strong&gt;Key Advantages&lt;/strong&gt;&lt;/h2&gt;
+&lt;h3 id=&quot;_1-enhanced-security&quot; tabindex=&quot;-1&quot;&gt;1.&amp;nbsp;&lt;strong&gt;Enhanced Security&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Content Security Policy (CSP):&lt;/strong&gt;&amp;nbsp;Restricts unsafe scripts and resources, preventing XSS attacks.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Kill Shell:&lt;/strong&gt;&amp;nbsp;Automatically terminates background processes to block unauthorized code execution.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Strict Isolation:&lt;/strong&gt;&amp;nbsp;Plugins and modules run in controlled environments, reducing vulnerabilities.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;_2-superior-performance&quot; tabindex=&quot;-1&quot;&gt;2.&amp;nbsp;&lt;strong&gt;Superior Performance&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Smart Caching:&lt;/strong&gt;&amp;nbsp;Configurable&amp;nbsp;&lt;code&gt;Cache Max Age&lt;/code&gt;&amp;nbsp;and resource caching improve load times.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Optimized Rendering:&lt;/strong&gt;&amp;nbsp;Features like&amp;nbsp;&lt;code&gt;Window Resize&lt;/code&gt;&amp;nbsp;and&amp;nbsp;&lt;code&gt;Auto Style StatusBars&lt;/code&gt;&amp;nbsp;ensure smooth UI adaptation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;_3-powerful-debugging-tools&quot; tabindex=&quot;-1&quot;&gt;3.&amp;nbsp;&lt;strong&gt;Powerful Debugging Tools&lt;/strong&gt;&lt;/h3&gt;
+&lt;div class=&quot;google-auto-placed ap_container&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Built-in Eruda Console:&lt;/strong&gt;&amp;nbsp;Auto-injected for real-time debugging.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Remote URL Debugging:&lt;/strong&gt;&amp;nbsp;Test locally via&amp;nbsp;&lt;code&gt;http://localhost&lt;/code&gt;&amp;nbsp;for faster iterations.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Developer Mode:&lt;/strong&gt;&amp;nbsp;Reveals module IDs and advanced metrics for troubleshooting.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;_4-extensibility-customization&quot; tabindex=&quot;-1&quot;&gt;4.&amp;nbsp;&lt;strong&gt;Extensibility &amp;amp; Customization&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Plugin Ecosystem:&lt;/strong&gt;&amp;nbsp;Supports APK and DEX plugins (e.g.,&amp;nbsp;&lt;a href=&quot;https://github.com/MMRLApp/WXU&quot; target=&quot;_blank&quot; rel=&quot;noreferrer&quot;&gt;WXU&lt;/a&gt;) for limitless functionality.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;SPA-Friendly:&lt;/strong&gt;&amp;nbsp;&lt;code&gt;History Fallback&lt;/code&gt;&amp;nbsp;ensures seamless navigation in single-page apps.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;UI Control:&lt;/strong&gt;&amp;nbsp;Customize back-button behavior, refresh interceptors, and exit confirmations.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;_5-modern-ux-features&quot; tabindex=&quot;-1&quot;&gt;5.&amp;nbsp;&lt;strong&gt;Modern UX Features&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Pull-to-Refresh:&lt;/strong&gt;&amp;nbsp;User-friendly reloading (beta).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dynamic Theming:&lt;/strong&gt;&amp;nbsp;Match status bars to&amp;nbsp;&lt;a class=&quot;google-anno&quot; href=&quot;https://mmrl.dev/guide/webuix/#&quot; data-google-vignette=&quot;false&quot; data-google-interstitial=&quot;false&quot;&gt;&amp;nbsp;&lt;span class=&quot;google-anno-t&quot;&gt;app&lt;/span&gt;&lt;/a&gt;&amp;nbsp;themes for visual consistency.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;_6-cross-platform-compatibility&quot; tabindex=&quot;-1&quot;&gt;6.&amp;nbsp;&lt;strong&gt;Cross-Platform Compatibility&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Works with&amp;nbsp;&lt;strong&gt;KernelSU (Next), SukiSU Ultra, Magisk, APatch&lt;/strong&gt;, and even&amp;nbsp;&lt;strong&gt;non-rooted devices&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
 </desc>
 		<license>GPL-3.0</license>
 		<categories>System</categories>

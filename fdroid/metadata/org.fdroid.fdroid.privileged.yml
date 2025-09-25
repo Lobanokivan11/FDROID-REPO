@@ -4,7 +4,11 @@ Categories:
 CurrentVersion: dc5bb3f
 CurrentVersionCode: 10000
 Description: |
-    F-Droid Privileged Extension that works with Shizuku (rootless)
+    <div class="markdown-heading" dir="auto">
+    <h1 class="heading-element" dir="auto" tabindex="-1">F-Droid Shizuku Privileged Extension</h1>
+    <a id="user-content-f-droid-shizuku-privileged-extension" class="anchor" href="https://github.com/Lobanokivan11/fdroid_shizuku_privileged_extension#f-droid-shizuku-privileged-extension"></a></div>
+    <p dir="auto">This is a port of the official&nbsp;<a href="https://gitlab.com/fdroid/privileged-extension" rel="nofollow">F-Droid Privileged Extension</a>&nbsp;to&nbsp;<a href="https://shizuku.rikka.app/" rel="nofollow">Shizuku</a>, an app that makes it easy to grant apps ADB permissions.</p>
+    <p dir="auto">When the app is installed, F-Droid will automatically detect it and use it to perform non-interactive app installations.</p>
 IssueTracker: ""
 License: Apache-2.0
 Name: F-Droid Privileged Extension Shizuku Edition

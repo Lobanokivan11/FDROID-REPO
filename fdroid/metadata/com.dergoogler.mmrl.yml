@@ -4,7 +4,21 @@ Categories:
 CurrentVersion: v34159-release
 CurrentVersionCode: 34159
 Description: |
-    Magisk Advanced Module Manager
+    <p dir="auto">MMRL is an Android app that helps manage your own modules repository.</p>
+    <div class="markdown-heading" dir="auto">
+    <h2 class="heading-element" dir="auto" tabindex="-1">Features</h2>
+    <a id="user-content-features" class="anchor" href="https://github.com/MMRLApp/MMRL#features"></a></div>
+    <ul dir="auto">
+    <li><strong>Comprehensive Root Manager Support</strong>: Full compatibility with Magisk, KernelSU, and APatch for diverse root management options.</li>
+    <li><strong>WebUI with Advanced Features</strong>: Includes&nbsp;<a href="https://developer.android.com/develop/ui/compose/layouts/insets" rel="nofollow">Edge-to-Edge</a>&nbsp;support and dynamic app themes for a seamless user experience.</li>
+    <li><strong>Bulk Installation Support</strong>: Effortlessly install modules in bulk, both online and locally.</li>
+    <li><strong>Module Dependency Management</strong>: Simplifies module installation for end-users by automatically handling module dependencies.</li>
+    <li><strong>Magisk Modules Repositories</strong>: A community-driven platform that allows anyone to contribute and access Magisk modules.</li>
+    <li><strong>User Transparency with Blacklist</strong>: Clear visibility into which modules or actions are restricted, ensuring users can make informed decisions.</li>
+    <li><strong>Customizable Module Pages</strong>: Personalize module pages with categories, screenshots, icons, covers, and other content for a tailored presentation.</li>
+    <li><strong>Transparency of Included Files</strong>: Detailed breakdown of all files within modules, including APKs, service files, and more, for full user awareness.</li>
+    <li><strong>Analytics Dashboard</strong>: Display module-related analytics on the homepage, offering valuable insights into module usage and trends.</li>
+    </ul>
 IssueTracker: ""
 License: GPL-3.0
 Name: MMRL

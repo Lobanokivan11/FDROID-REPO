@@ -4,8 +4,92 @@ Categories:
 CurrentVersion: 1.0.28
 CurrentVersionCode: 28
 Description: |
-    Xposed Module With Revanced Patches
-    Better Than Mount
+    <p dir="auto"><strong>ReVanced LSPosed module by ChsBuffer.</strong></p>
+    <div class="markdown-alert markdown-alert-important" dir="auto">
+    <p class="markdown-alert-title" dir="auto">Important</p>
+    <p dir="auto">This is not an official ReVanced project, do not ask the ReVanced developers for help.</p>
+    </div>
+    <div class="markdown-heading" dir="auto">
+    <h2 class="heading-element" dir="auto" tabindex="-1">Patches</h2>
+    <a id="user-content-patches" class="anchor" href="https://github.com/chsbuffer/ReVancedXposed#patches"></a></div>
+    <div class="markdown-heading" dir="auto">
+    <h3 class="heading-element" dir="auto" tabindex="-1">Youtube</h3>
+    <a id="user-content-youtube" class="anchor" href="https://github.com/chsbuffer/ReVancedXposed#youtube"></a></div>
+    <ul dir="auto">
+    <li>Remove ads</li>
+    <li>SponsorBlock</li>
+    <li>Remove background playback restrictions</li>
+    <li>Remove share links tracking query parameter</li>
+    <li>Hide and change navigation buttons</li>
+    <li>Swipe controls</li>
+    <li>Remember video quality changes</li>
+    <li>Show video quality button</li>
+    <li>Show advanced video quality menu</li>
+    <li>Copy video url video player button</li>
+    <li>Open external downloader app</li>
+    <li>Custom playback speed</li>
+    <li>Remember playback speed</li>
+    <li>Playback speed dialog button</li>
+    <li>Hide layout components</li>
+    <li>Hide video action buttons</li>
+    <li>Disable resuming Shorts on startup</li>
+    </ul>
+    <div class="markdown-heading" dir="auto">
+    <h3 class="heading-element" dir="auto" tabindex="-1">Spotify</h3>
+    <a id="user-content-spotify" class="anchor" href="https://github.com/chsbuffer/ReVancedXposed#spotify"></a></div>
+    <ul dir="auto">
+    <li>Unlock Spotify Premium</li>
+    <li>Sanitize sharing links</li>
+    <li>Hide Create button</li>
+    </ul>
+    <div class="markdown-heading" dir="auto">
+    <h3 class="heading-element" dir="auto" tabindex="-1">Google Photos</h3>
+    <a id="user-content-google-photos" class="anchor" href="https://github.com/chsbuffer/ReVancedXposed#google-photos"></a></div>
+    <ul dir="auto">
+    <li>Spoof Pixel XL</li>
+    </ul>
+    <div class="markdown-heading" dir="auto">
+    <h3 class="heading-element" dir="auto" tabindex="-1">Youtube Music</h3>
+    <a id="user-content-youtube-music" class="anchor" href="https://github.com/chsbuffer/ReVancedXposed#youtube-music"></a></div>
+    <ul dir="auto">
+    <li>Remove music video ads</li>
+    <li>Remove background playback restrictions</li>
+    <li>Hide upgrade button</li>
+    <li>Hide 'Get Music Premium' label</li>
+    <li>Enable exclusive audio playback</li>
+    </ul>
+    <div class="markdown-heading" dir="auto">
+    <h3 class="heading-element" dir="auto" tabindex="-1">Instagram</h3>
+    <a id="user-content-instagram" class="anchor" href="https://github.com/chsbuffer/ReVancedXposed#instagram"></a></div>
+    <ul dir="auto">
+    <li>Hide ads</li>
+    </ul>
+    <div class="markdown-heading" dir="auto">
+    <h3 class="heading-element" dir="auto" tabindex="-1">Threads</h3>
+    <a id="user-content-threads" class="anchor" href="https://github.com/chsbuffer/ReVancedXposed#threads"></a></div>
+    <ul dir="auto">
+    <li>Hide ads</li>
+    </ul>
+    <div class="markdown-heading" dir="auto">
+    <h3 class="heading-element" dir="auto" tabindex="-1">Reddit (2024.17.0)</h3>
+    <a id="user-content-reddit-2024170" class="anchor" href="https://github.com/chsbuffer/ReVancedXposed#reddit-2024170"></a></div>
+    <ul dir="auto">
+    <li>Hide ads</li>
+    <li>Sanitize sharing links</li>
+    </ul>
+    <div class="markdown-heading" dir="auto">
+    <h3 class="heading-element" dir="auto" tabindex="-1">Strava</h3>
+    <a id="user-content-strava" class="anchor" href="https://github.com/chsbuffer/ReVancedXposed#strava"></a></div>
+    <ul dir="auto">
+    <li>Unlock subscription features</li>
+    <li>Disable subscription suggestions</li>
+    </ul>
+    <div class="markdown-heading" dir="auto">
+    <h3 class="heading-element" dir="auto" tabindex="-1">Photomath</h3>
+    <a id="user-content-photomath" class="anchor" href="https://github.com/chsbuffer/ReVancedXposed#photomath"></a></div>
+    <ul dir="auto">
+    <li>Unlock plus</li>
+    </ul>
 IssueTracker: ""
 License: GPL-3.0
 Name: ReVanced Xposed
