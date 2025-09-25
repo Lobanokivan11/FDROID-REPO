@@ -4,7 +4,86 @@ Categories:
 CurrentVersion: 12.0.1-98f6e4ef7d
 CurrentVersionCode: 11009
 Description: |
-    Third-party Telegram Client
+    <div class="markdown-heading" dir="auto">
+    <h1 class="heading-element" dir="auto" tabindex="-1">Momogram</h1>
+    <a id="user-content-momogram" class="anchor" href="https://github.com/dic1911/Momogram#momogram"></a></div>
+    <hr />
+    <p dir="auto">Momogram is a feature-rich 3rd-party Telegram client, aiming to be the spiritual successor of the OG NekoX.</p>
+    <p dir="auto">Built with unique customization and features, get ready and let Momogram take your Telegram chatting experience to the next level.</p>
+    <div class="markdown-heading" dir="auto">
+    <h2 class="heading-element" dir="auto" tabindex="-1">New Features</h2>
+    <a id="user-content-new-features" class="anchor" href="https://github.com/dic1911/Momogram#new-features"></a></div>
+    <div class="markdown-heading" dir="auto">
+    <h3 class="heading-element" dir="auto" tabindex="-1">General</h3>
+    <a id="user-content-general" class="anchor" href="https://github.com/dic1911/Momogram#general"></a></div>
+    <ul dir="auto">
+    <li>Additional translation provider (Lingva)</li>
+    <li>Allow bots to be shown in direct share</li>
+    <li>Allow chat preview for tablet mode if in portrait mode</li>
+    <li>Disable auto login with Telegram account when opening certain links</li>
+    <li>Filter languages shown in translate target</li>
+    <li>Hide birthday reminders</li>
+    <li>Hide various premium upselling annoyance</li>
+    <li>In-app anti-spam measure ;)</li>
+    <li>Searchable Momogram settings, just like official ones</li>
+    <li>Only share "last seen" to the ones you want to check their "last seen"</li>
+    <li>Override device performance class</li>
+    <li>Remove tracking queries from URL for better privacy</li>
+    <li>Restart the app automatically whenever critical problem occurs</li>
+    <li>Stream video with external player</li>
+    <li>Swipe music player bar to switch tracks</li>
+    <li>Uncheck "share my number" when adding contact by default</li>
+    </ul>
+    <div class="markdown-heading" dir="auto">
+    <h3 class="heading-element" dir="auto" tabindex="-1">Chat</h3>
+    <a id="user-content-chat" class="anchor" href="https://github.com/dic1911/Momogram#chat"></a></div>
+    <ul dir="auto">
+    <li>Auto select best video quality if available</li>
+    <li>Ban button in join request list</li>
+    <li>Block specified chat/channel from search results</li>
+    <li>Client side fban</li>
+    <li>Copy image/sticker button in menu</li>
+    <li>Detect data saver and use roaming auto download preset when enabled</li>
+    <li>Enable spoiler for all media in specified chats</li>
+    <li>Local only custom chat name</li>
+    <li>Mute group chat notifications from blocked users/bots</li>
+    <li>New double tap actions</li>
+    <li>Reply as quote by default</li>
+    <li>Remove single emoji from recently used list</li>
+    <li>Schedule send message after slow mode timer ends without having to wait in the same chat</li>
+    <li>Search message by type</li>
+    <li>Speech to text via Cloudflare/local Whisper inference</li>
+    <li>Translate text messages before send</li>
+    <li>Translate forwarding text message before send (without quote)</li>
+    <li>Use marquee for long chat titles</li>
+    </ul>
+    <div class="markdown-heading" dir="auto">
+    <h3 class="heading-element" dir="auto" tabindex="-1">Customization</h3>
+    <a id="user-content-customization" class="anchor" href="https://github.com/dic1911/Momogram#customization"></a></div>
+    <ul dir="auto">
+    <li>Always show downloads button in chat list</li>
+    <li>Custom folder icon, official and custom emoji(local only)</li>
+    <li>Custom title text</li>
+    <li>Disable remote chat wallpaper</li>
+    <li>Hide unread counter on folder tabs</li>
+    <li>Use account name as chat list title</li>
+    </ul>
+    <div class="markdown-heading" dir="auto">
+    <h3 class="heading-element" dir="auto" tabindex="-1">Mini-app / Webview</h3>
+    <a id="user-content-mini-app--webview" class="anchor" href="https://github.com/dic1911/Momogram#mini-app--webview"></a></div>
+    <ul dir="auto">
+    <li>Block bot without deleting history by default</li>
+    <li>Comfirm before opening external links from webview</li>
+    <li>Custom search engine for in-app browser</li>
+    <li>Copy link button in menu</li>
+    <li>Don't open bot when re-opening tab</li>
+    <li>Don't send "/start" when restarting bot</li>
+    <li>Hide bottom overlay when in chat or sharing</li>
+    <li>Open webpages (ex. games) with mini-app mode</li>
+    <li>Skip confirmation on closing tab</li>
+    <li>Toggle to disable geolocation</li>
+    <li>Toggle to disable safe browsing</li>
+    </ul>
 IssueTracker: ""
 License: GPL-3.0
 Name: Momogram

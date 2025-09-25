@@ -5,7 +5,12 @@ Categories:
 CurrentVersion: one thousand twenty two
 CurrentVersionCode: 1022
 Description: |
-    Substratum - Advanced Theme Engine That Use OMS
+    <p><strong>Theme engine support:</strong></p>
+    <p>Stock Oreo (OMS): Compatible with rooted and unrooted devices, in the case of the latter the Andromeda plugin is needed for Substratum to function correctly. You can find it at the Google Play Store.</p>
+    <p><br /><strong>Detailed guide:</strong></p>
+    <p>A detailed guide can be found&nbsp;<a href="https://forum.xda-developers.com/apps/substratum/official-starting-substratum-andromeda-t3798316/post76687469#post76687469" target="_blank" rel="nofollow">at XDA developers</a>.</p>
+    <p><br /><strong>Disclaimer:</strong></p>
+    <p>Having external, third party theme clients installed may cause issues with Substratum, including unforeseen bootloops, crashes, and more. Customer support will refuse to provide assistance to users running such applications, including Swift Installer.</p>
 IssueTracker: ""
 Name: Substratum
 SourceCode: https://github.com/AndroidThemingRequiem/Substratum-apk
