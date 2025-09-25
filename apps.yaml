@@ -18,8 +18,93 @@ revancedxposed:
   git: https://github.com/chsbuffer/ReVancedXposed
   name: "ReVanced Xposed"
   description: |
-    Xposed Module With Revanced Patches
-    Better Than Mount
+    <p dir="auto"><strong>ReVanced LSPosed module by ChsBuffer.</strong></p>
+    <div class="markdown-alert markdown-alert-important" dir="auto">
+    <p class="markdown-alert-title" dir="auto">Important</p>
+    <p dir="auto">This is not an official ReVanced project, do not ask the ReVanced developers for help.</p>
+    </div>
+    <div class="markdown-heading" dir="auto">
+    <h2 class="heading-element" dir="auto" tabindex="-1">Patches</h2>
+    <a id="user-content-patches" class="anchor" href="https://github.com/chsbuffer/ReVancedXposed#patches"></a></div>
+    <div class="markdown-heading" dir="auto">
+    <h3 class="heading-element" dir="auto" tabindex="-1">Youtube</h3>
+    <a id="user-content-youtube" class="anchor" href="https://github.com/chsbuffer/ReVancedXposed#youtube"></a></div>
+    <ul dir="auto">
+    <li>Remove ads</li>
+    <li>SponsorBlock</li>
+    <li>Remove background playback restrictions</li>
+    <li>Remove share links tracking query parameter</li>
+    <li>Hide and change navigation buttons</li>
+    <li>Swipe controls</li>
+    <li>Remember video quality changes</li>
+    <li>Show video quality button</li>
+    <li>Show advanced video quality menu</li>
+    <li>Copy video url video player button</li>
+    <li>Open external downloader app</li>
+    <li>Custom playback speed</li>
+    <li>Remember playback speed</li>
+    <li>Playback speed dialog button</li>
+    <li>Hide layout components</li>
+    <li>Hide video action buttons</li>
+    <li>Disable resuming Shorts on startup</li>
+    </ul>
+    <div class="markdown-heading" dir="auto">
+    <h3 class="heading-element" dir="auto" tabindex="-1">Spotify</h3>
+    <a id="user-content-spotify" class="anchor" href="https://github.com/chsbuffer/ReVancedXposed#spotify"></a></div>
+    <ul dir="auto">
+    <li>Unlock Spotify Premium</li>
+    <li>Sanitize sharing links</li>
+    <li>Hide Create button</li>
+    </ul>
+    <div class="markdown-heading" dir="auto">
+    <h3 class="heading-element" dir="auto" tabindex="-1">Google Photos</h3>
+    <a id="user-content-google-photos" class="anchor" href="https://github.com/chsbuffer/ReVancedXposed#google-photos"></a></div>
+    <ul dir="auto">
+    <li>Spoof Pixel XL</li>
+    </ul>
+    <div class="markdown-heading" dir="auto">
+    <h3 class="heading-element" dir="auto" tabindex="-1">Youtube Music</h3>
+    <a id="user-content-youtube-music" class="anchor" href="https://github.com/chsbuffer/ReVancedXposed#youtube-music"></a></div>
+    <ul dir="auto">
+    <li>Remove music video ads</li>
+    <li>Remove background playback restrictions</li>
+    <li>Hide upgrade button</li>
+    <li>Hide 'Get Music Premium' label</li>
+    <li>Enable exclusive audio playback</li>
+    </ul>
+    <div class="markdown-heading" dir="auto">
+    <h3 class="heading-element" dir="auto" tabindex="-1">Instagram</h3>
+    <a id="user-content-instagram" class="anchor" href="https://github.com/chsbuffer/ReVancedXposed#instagram"></a></div>
+    <ul dir="auto">
+    <li>Hide ads</li>
+    </ul>
+    <div class="markdown-heading" dir="auto">
+    <h3 class="heading-element" dir="auto" tabindex="-1">Threads</h3>
+    <a id="user-content-threads" class="anchor" href="https://github.com/chsbuffer/ReVancedXposed#threads"></a></div>
+    <ul dir="auto">
+    <li>Hide ads</li>
+    </ul>
+    <div class="markdown-heading" dir="auto">
+    <h3 class="heading-element" dir="auto" tabindex="-1">Reddit (2024.17.0)</h3>
+    <a id="user-content-reddit-2024170" class="anchor" href="https://github.com/chsbuffer/ReVancedXposed#reddit-2024170"></a></div>
+    <ul dir="auto">
+    <li>Hide ads</li>
+    <li>Sanitize sharing links</li>
+    </ul>
+    <div class="markdown-heading" dir="auto">
+    <h3 class="heading-element" dir="auto" tabindex="-1">Strava</h3>
+    <a id="user-content-strava" class="anchor" href="https://github.com/chsbuffer/ReVancedXposed#strava"></a></div>
+    <ul dir="auto">
+    <li>Unlock subscription features</li>
+    <li>Disable subscription suggestions</li>
+    </ul>
+    <div class="markdown-heading" dir="auto">
+    <h3 class="heading-element" dir="auto" tabindex="-1">Photomath</h3>
+    <a id="user-content-photomath" class="anchor" href="https://github.com/chsbuffer/ReVancedXposed#photomath"></a></div>
+    <ul dir="auto">
+    <li>Unlock plus</li>
+    </ul>
+
   categories: 
     - Xposed
 momogram:
@@ -193,7 +278,11 @@ microgre:
   git: https://github.com/WSTxda/MicroG-RE
   name: "MicroG-RE"
   description: |
-    GmsCore From WSTxda For Revanced (NON-ROOT) APPS
+    <div class="markdown-heading" dir="auto">
+    <h1 class="heading-element" dir="auto" tabindex="-1">MicroG RE (GmsCore Redesign)</h1>
+    <a id="user-content-microg-re-gmscore-redesign" class="anchor" href="https://github.com/WSTxda/MicroG-RE#microg-re-gmscore-redesign"></a></div>
+    <p dir="auto"><a href="https://github.com/microg/GmsCore">GmsCore</a>&nbsp;fork designed for&nbsp;<a href="https://github.com/ReVanced">ReVanced</a>&nbsp;with&nbsp;<a href="https://m3.material.io/blog/building-with-m3-expressive" rel="nofollow">Material 3 Expressive</a>&nbsp;design, along with some improvements and features.</p>
+    <p dir="auto">This repository is a fork of&nbsp;<a href="https://github.com/microg/GmsCore">microG GmsCore</a>, adapted to work with patched Google apps without requiring root access and under an alternative package name. It uses the&nbsp;<strong>GmsCore support</strong>&nbsp;patch from ReVanced Patches to enable Google account authentication and services, replacing Google Play Services.</p>
 
   categories: 
     - System
@@ -243,14 +332,63 @@ mmrl:
   git: https://github.com/MMRLApp/MMRL
   name: "MMRL"
   description: |
-    Magisk Advanced Module Manager
+    <p dir="auto">MMRL is an Android app that helps manage your own modules repository.</p>
+    <div class="markdown-heading" dir="auto">
+    <h2 class="heading-element" dir="auto" tabindex="-1">Features</h2>
+    <a id="user-content-features" class="anchor" href="https://github.com/MMRLApp/MMRL#features"></a></div>
+    <ul dir="auto">
+    <li><strong>Comprehensive Root Manager Support</strong>: Full compatibility with Magisk, KernelSU, and APatch for diverse root management options.</li>
+    <li><strong>WebUI with Advanced Features</strong>: Includes&nbsp;<a href="https://developer.android.com/develop/ui/compose/layouts/insets" rel="nofollow">Edge-to-Edge</a>&nbsp;support and dynamic app themes for a seamless user experience.</li>
+    <li><strong>Bulk Installation Support</strong>: Effortlessly install modules in bulk, both online and locally.</li>
+    <li><strong>Module Dependency Management</strong>: Simplifies module installation for end-users by automatically handling module dependencies.</li>
+    <li><strong>Magisk Modules Repositories</strong>: A community-driven platform that allows anyone to contribute and access Magisk modules.</li>
+    <li><strong>User Transparency with Blacklist</strong>: Clear visibility into which modules or actions are restricted, ensuring users can make informed decisions.</li>
+    <li><strong>Customizable Module Pages</strong>: Personalize module pages with categories, screenshots, icons, covers, and other content for a tailored presentation.</li>
+    <li><strong>Transparency of Included Files</strong>: Detailed breakdown of all files within modules, including APKs, service files, and more, for full user awareness.</li>
+    <li><strong>Analytics Dashboard</strong>: Display module-related analytics on the homepage, offering valuable insights into module usage and trends.</li>
+    </ul>
   categories: 
     - System
 webuix:
   git: https://github.com/MMRLApp/WebUI-X-Portable
   name: "WebUi X"
   description: |
-    Manage Module's Settings On Magisk
+    <h1 id="why-webui-x" tabindex="-1">Why WebUI X?</h1>
+    <p>WebUI X is the next-generation framework for building modular, secure, and high-performance WebUI applications. It offers significant improvements over Legacy KernelSU WebUI, making it the ideal choice for developers. Below are the key reasons to switch:</p>
+    <h2 id="🚀-key-advantages" tabindex="-1">🚀&nbsp;<strong>Key Advantages</strong></h2>
+    <h3 id="_1-enhanced-security" tabindex="-1">1.&nbsp;<strong>Enhanced Security</strong></h3>
+    <ul>
+    <li><strong>Content Security Policy (CSP):</strong>&nbsp;Restricts unsafe scripts and resources, preventing XSS attacks.</li>
+    <li><strong>Kill Shell:</strong>&nbsp;Automatically terminates background processes to block unauthorized code execution.</li>
+    <li><strong>Strict Isolation:</strong>&nbsp;Plugins and modules run in controlled environments, reducing vulnerabilities.</li>
+    </ul>
+    <h3 id="_2-superior-performance" tabindex="-1">2.&nbsp;<strong>Superior Performance</strong></h3>
+    <ul>
+    <li><strong>Smart Caching:</strong>&nbsp;Configurable&nbsp;<code>Cache Max Age</code>&nbsp;and resource caching improve load times.</li>
+    <li><strong>Optimized Rendering:</strong>&nbsp;Features like&nbsp;<code>Window Resize</code>&nbsp;and&nbsp;<code>Auto Style StatusBars</code>&nbsp;ensure smooth UI adaptation.</li>
+    </ul>
+    <h3 id="_3-powerful-debugging-tools" tabindex="-1">3.&nbsp;<strong>Powerful Debugging Tools</strong></h3>
+    <div class="google-auto-placed ap_container">&nbsp;</div>
+    <ul>
+    <li><strong>Built-in Eruda Console:</strong>&nbsp;Auto-injected for real-time debugging.</li>
+    <li><strong>Remote URL Debugging:</strong>&nbsp;Test locally via&nbsp;<code>http://localhost</code>&nbsp;for faster iterations.</li>
+    <li><strong>Developer Mode:</strong>&nbsp;Reveals module IDs and advanced metrics for troubleshooting.</li>
+    </ul>
+    <h3 id="_4-extensibility-customization" tabindex="-1">4.&nbsp;<strong>Extensibility &amp; Customization</strong></h3>
+    <ul>
+    <li><strong>Plugin Ecosystem:</strong>&nbsp;Supports APK and DEX plugins (e.g.,&nbsp;<a href="https://github.com/MMRLApp/WXU" target="_blank" rel="noreferrer">WXU</a>) for limitless functionality.</li>
+    <li><strong>SPA-Friendly:</strong>&nbsp;<code>History Fallback</code>&nbsp;ensures seamless navigation in single-page apps.</li>
+    <li><strong>UI Control:</strong>&nbsp;Customize back-button behavior, refresh interceptors, and exit confirmations.</li>
+    </ul>
+    <h3 id="_5-modern-ux-features" tabindex="-1">5.&nbsp;<strong>Modern UX Features</strong></h3>
+    <ul>
+    <li><strong>Pull-to-Refresh:</strong>&nbsp;User-friendly reloading (beta).</li>
+    <li><strong>Dynamic Theming:</strong>&nbsp;Match status bars to&nbsp;<a class="google-anno" href="https://mmrl.dev/guide/webuix/#" data-google-vignette="false" data-google-interstitial="false">&nbsp;<span class="google-anno-t">app</span></a>&nbsp;themes for visual consistency.</li>
+    </ul>
+    <h3 id="_6-cross-platform-compatibility" tabindex="-1">6.&nbsp;<strong>Cross-Platform Compatibility</strong></h3>
+    <ul>
+    <li>Works with&nbsp;<strong>KernelSU (Next), SukiSU Ultra, Magisk, APatch</strong>, and even&nbsp;<strong>non-rooted devices</strong>.</li>
+    </ul>
   categories: 
     - System
 artemis:
