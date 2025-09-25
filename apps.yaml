@@ -257,6 +257,50 @@ artemis:
   git: https://github.com/ClassicOldSong/moonlight-android
   name: "Artemis"
   description: |
-    Stream Pc Games From Pc of yours (Requires Apollo)
+    <div class="markdown-heading" dir="auto">
+    <h1 class="heading-element" dir="auto" tabindex="-1">Artemis Android</h1>
+    <a id="user-content-artemis-android" class="anchor" href="https://github.com/ClassicOldSong/moonlight-android#artemis-android"></a></div>
+    <p dir="auto">Previously named Moonlight Noir</p>
+    <p dir="auto">An open source client for&nbsp;<a href="https://github.com/ClassicOldSong/Apollo">Apollo</a>/<a href="https://github.com/LizardByte/Sunshine">Sunshine</a>.</p>
+    <p dir="auto">Artemis Android will allow you to stream your collection of games from your Windows PC to your Android device, whether in your own home or over the internet.</p>
+    <p dir="auto">Artemis is currently the best fork of Moonlight with loads of optimizations for office usage.</p>
+    <p dir="auto">A more seamless experience with virtual display will be Artemis paired with&nbsp;<a href="https://github.com/ClassicOldSong/Apollo">Apollo</a>.</p>
+    <div class="markdown-heading" dir="auto">
+    <h1 class="heading-element" dir="auto" tabindex="-1">Features</h1>
+    <a id="user-content-features" class="anchor" href="https://github.com/ClassicOldSong/moonlight-android#features"></a></div>
+    <p dir="auto">If you switch back to the main stream version, you'll be missing the following awesome features which are very unlikely to be added there:</p>
+    <ol dir="auto">
+    <li>Custom virtual buttons with import and export support.</li>
+    <li><a href="https://github.com/moonlight-stream/moonlight-android/pull/1349" data-hovercard-type="pull_request" data-hovercard-url="/moonlight-stream/moonlight-android/pull/1349/hovercard">Custom resolutions</a>.</li>
+    <li>Custom bitrates.</li>
+    <li><a href="https://github.com/moonlight-stream/moonlight-android/pull/1304" data-hovercard-type="pull_request" data-hovercard-url="/moonlight-stream/moonlight-android/pull/1304/hovercard">Multiple mouse mode switching</a>&nbsp;(normal mouse,&nbsp;<a href="https://github.com/moonlight-stream/moonlight-android/pull/1364" data-hovercard-type="pull_request" data-hovercard-url="/moonlight-stream/moonlight-android/pull/1364/hovercard">multi-touch</a>, touchpad, disabled, local cursor mode).</li>
+    <li>Optimized virtual gamepad skins and free joystick.</li>
+    <li>External monitor mode.</li>
+    <li>Joycon D-pad support.</li>
+    <li>Simplified performance information display.</li>
+    <li><a href="https://github.com/moonlight-stream/moonlight-android/pull/1171" data-hovercard-type="pull_request" data-hovercard-url="/moonlight-stream/moonlight-android/pull/1171/hovercard">Game back menu</a>.</li>
+    <li>Custom shortcut commands.</li>
+    <li>Easy soft keyboard switching.</li>
+    <li>Portrait mode.</li>
+    <li>Display on top mode, useful for foldable phones.</li>
+    <li><a href="https://github.com/moonlight-stream/moonlight-android/issues/1348#issuecomment-2236344729" data-hovercard-type="issue" data-hovercard-url="/moonlight-stream/moonlight-android/issues/1348/hovercard">Virtual touchpad space and sensitivity adjustment</a>&nbsp;for playing right-click view games, such as Warcraft.</li>
+    <li>Force use device's own vibration motor (in case your gamepad's vibration is not effective).</li>
+    <li>Gamepad debugging page to view gamepad vibration and gyroscope information, as well as Android kernel version information.</li>
+    <li>Trackpad tap/scrolling support</li>
+    <li>Natural track pad mode with touch screen</li>
+    <li>Non-QWERTY keyboard layout support</li>
+    <li>Quick Meta key with physical BACK button</li>
+    <li>Frame rate lock fix for some devices</li>
+    <li>Video scale mode: Fit/Fill/Stretch</li>
+    <li>View pan/zoom support</li>
+    <li>Rotate screen in-game</li>
+    <li>Add option to quit app directly</li>
+    <li>Samsung DeX scrolling support</li>
+    <li>Proper click/scroll/right-click for trackpad on generic Android tablet when using local cursor</li>
+    <li>Virtual Display integration with&nbsp;<a href="https://github.com/ClassicOldSong/Apollo">Apollo</a></li>
+    <li>Server Command integration with&nbsp;<a href="https://github.com/ClassicOldSong/Apollo">Apollo</a></li>
+    <li>Clipboard sync (requires Apollo)</li>
+    <li>SBS 3D for external Displays (Using AI MiDaS v2 Lite)</li>
+    </ol>
   categories: 
     - Games
