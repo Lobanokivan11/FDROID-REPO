@@ -1,0 +1,16 @@
+## What's new?
+
+- Add overloaded getUsers methods to IUserManager and update HiddenUserManager
+- Translated using Weblate (German)
+- Translated using Weblate (Chinese (Traditional Han script))
+- Translated using Weblate (German)
+- Translated using Weblate (Japanese)
+- Translated using Weblate (German)
+- Translated using Weblate (Polish)
+- Translated using Weblate (Russian)
+- Translated using Weblate (Spanish)
+- fastlane: make fulldesc Markdown compatible
+
+[See all changes here](https://github.com/MMRLApp/MMRL/compare/v34159...master)
+
+[Workflow run](https://github.com/MMRLApp/MMRL/actions/runs/18059704095)
