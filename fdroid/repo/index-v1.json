@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1759069739000,
+    "timestamp": 1759072955000,
     "version": 20002,
     "name": "Lobanokivan11's F-Droid Repo",
     "icon": "icon.png",
@@ -187,8 +187,8 @@
       "categories": [
         "System"
       ],
-      "suggestedVersionName": "5.12 GMS-25.31.33",
-      "suggestedVersionCode": "253133000",
+      "suggestedVersionName": "5.13 GMS-25.38.50",
+      "suggestedVersionCode": "253850000",
       "description": "<div class=\"markdown-heading\" dir=\"auto\">\n<h1 class=\"heading-element\" dir=\"auto\" tabindex=\"-1\">MicroG RE (GmsCore Redesign)</h1>\n<a id=\"user-content-microg-re-gmscore-redesign\" class=\"anchor\" href=\"https://github.com/WSTxda/MicroG-RE#microg-re-gmscore-redesign\"></a></div>\n<p dir=\"auto\"><a href=\"https://github.com/microg/GmsCore\">GmsCore</a>&nbsp;fork designed for&nbsp;<a href=\"https://github.com/ReVanced\">ReVanced</a>&nbsp;with&nbsp;<a href=\"https://m3.material.io/blog/building-with-m3-expressive\" rel=\"nofollow\">Material 3 Expressive</a>&nbsp;design, along with some improvements and features.</p>\n<p dir=\"auto\">This repository is a fork of&nbsp;<a href=\"https://github.com/microg/GmsCore\">microG GmsCore</a>, adapted to work with patched Google apps without requiring root access and under an alternative package name. It uses the&nbsp;<strong>GmsCore support</strong>&nbsp;patch from ReVanced Patches to enable Google account authentication and services, replacing Google Play Services.</p>\n",
       "license": "Apache-2.0",
       "name": "MicroG-RE",
@@ -196,10 +196,10 @@
       "summary": "GmsCore fork for ReVanced with Material 3 Expressive design, enhanced feature...",
       "added": 1753696270000,
       "packageName": "app.revanced.android.gms",
-      "lastUpdated": 1755393375000,
+      "lastUpdated": 1759072685000,
       "localized": {
         "en-US": {
-          "whatsNew": "<p align=\"center\">\n  <img src=\"https://github.com/user-attachments/assets/1d0abfa5-0fc0-441f-b4d5-342a7bfe801e\" alt=\"Material3Expressive\" />\n</p>\n\n- Bump GMS version to `25.31.33`\n- Refresh UI with [Material 3 Expressive](https://m3.material.io/blog/building-with-m3-expressive) design\n- Update Login Assistant layout\n- Update Remove Account dialog layout\n- Refactored `AccountsFragment` and improved lifecycle handling\n- Updated signature retrieval for API compatibility\n- Fixed ask push notificatio"
+          "whatsNew": "## MicroG RE\n\n- Bump GMS version to `25.38.50`\n- Added remove all registered apps option in cloud messaging settings\n- Shrink add account FAB on scroll and add padding in preferences\n- Fixed `PushNotificationAdvancedFragment` lifecycle handling\n- General layout improvements\n- Added russian translation\n- Updated Gradle and translations\n- Small changes\n\n## GmsCore\n\n- Auth: Migrate `SignlnConfiguration` to preprocessor-based safe parcelable\n- Bump actions/setup-java from 4 to 5\n- Bump actions/check"
         }
       }
     },
@@ -26657,6 +26657,124 @@
       }
     ],
     "app.revanced.android.gms": [
+      {
+        "added": 1759072685000,
+        "apkName": "microgre_5.13.apk",
+        "hash": "a357da44d7364321cb3f1774b3355d93ad0886f735a12473bfa4ac0c8b8b0b85",
+        "hashType": "sha256",
+        "minSdkVersion": 24,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "app.revanced.android.gms",
+        "sig": "5240e2ad5320f9481d29b0440f5bfeda",
+        "signer": "756f92c44ea9bf34d1c7f92425f40c88996854b5e72fac733650a9c41363d019",
+        "size": 12779184,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.USE_EXACT_ALARM",
+            null
+          ],
+          [
+            "android.permission.AUTHENTICATE_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.GET_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.MANAGE_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.USE_CREDENTIALS",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.READ_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.WRITE_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.READ_SYNC_STATS",
+            null
+          ],
+          [
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "app.revanced.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "app.revanced.android.c2dm.permission.SEND",
+            null
+          ],
+          [
+            "app.revanced.android.gtalkservice.permission.GTALK_SERVICE",
+            null
+          ],
+          [
+            "app.revanced.microg.gms.STATUS_BROADCAST",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.CHANGE_DEVICE_IDLE_TEMP_WHITELIST",
+            null
+          ],
+          [
+            "android.permission.UPDATE_APP_OPS_STATS",
+            null
+          ],
+          [
+            "app.revanced.android.gms.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 253850000,
+        "versionName": "5.13 GMS-25.38.50"
+      },
       {
         "added": 1755393375000,
         "apkName": "microgre_5.12.apk",

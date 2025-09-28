@@ -14,7 +14,7 @@
       }
     },
     "address": "https://raw.githubusercontent.com/Lobanokivan11/FDROID-REPO/refs/heads/main/fdroid/repo",
-    "timestamp": 1759069739000,
+    "timestamp": 1759072955000,
     "categories": {
       "Games": {
         "name": {
@@ -21191,7 +21191,7 @@
         "categories": [
           "System"
         ],
-        "lastUpdated": 1755393375000,
+        "lastUpdated": 1759072685000,
         "license": "Apache-2.0",
         "sourceCode": "https://github.com/WSTxda/MicroG-RE",
         "authorName": "WSTxda",
@@ -21207,6 +21207,107 @@
         "preferredSigner": "756f92c44ea9bf34d1c7f92425f40c88996854b5e72fac733650a9c41363d019"
       },
       "versions": {
+        "a357da44d7364321cb3f1774b3355d93ad0886f735a12473bfa4ac0c8b8b0b85": {
+          "added": 1759072685000,
+          "file": {
+            "name": "/microgre_5.13.apk",
+            "sha256": "a357da44d7364321cb3f1774b3355d93ad0886f735a12473bfa4ac0c8b8b0b85",
+            "size": 12779184
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "5.13 GMS-25.38.50",
+            "versionCode": 253850000,
+            "usesSdk": {
+              "minSdkVersion": 24,
+              "targetSdkVersion": 29
+            },
+            "signer": {
+              "sha256": [
+                "756f92c44ea9bf34d1c7f92425f40c88996854b5e72fac733650a9c41363d019"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.USE_EXACT_ALARM"
+              },
+              {
+                "name": "android.permission.AUTHENTICATE_ACCOUNTS"
+              },
+              {
+                "name": "android.permission.GET_ACCOUNTS"
+              },
+              {
+                "name": "android.permission.MANAGE_ACCOUNTS"
+              },
+              {
+                "name": "android.permission.USE_CREDENTIALS"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.READ_SYNC_SETTINGS"
+              },
+              {
+                "name": "android.permission.WRITE_SYNC_SETTINGS"
+              },
+              {
+                "name": "android.permission.READ_SYNC_STATS"
+              },
+              {
+                "name": "android.permission.SYSTEM_ALERT_WINDOW"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "app.revanced.android.c2dm.permission.RECEIVE"
+              },
+              {
+                "name": "app.revanced.android.c2dm.permission.SEND"
+              },
+              {
+                "name": "app.revanced.android.gtalkservice.permission.GTALK_SERVICE"
+              },
+              {
+                "name": "app.revanced.microg.gms.STATUS_BROADCAST"
+              },
+              {
+                "name": "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.CHANGE_DEVICE_IDLE_TEMP_WHITELIST"
+              },
+              {
+                "name": "android.permission.UPDATE_APP_OPS_STATS"
+              },
+              {
+                "name": "app.revanced.android.gms.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        },
         "25f71580d8c98b0e9ce25e801f0ec15393f4926b1bcc498f878bf168970bf5b5": {
           "added": 1755393375000,
           "file": {

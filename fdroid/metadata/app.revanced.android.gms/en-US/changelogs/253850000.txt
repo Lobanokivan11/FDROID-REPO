@@ -1,0 +1,18 @@
+## MicroG RE
+
+- Bump GMS version to `25.38.50`
+- Added remove all registered apps option in cloud messaging settings
+- Shrink add account FAB on scroll and add padding in preferences
+- Fixed `PushNotificationAdvancedFragment` lifecycle handling
+- General layout improvements
+- Added russian translation
+- Updated Gradle and translations
+- Small changes
+
+## GmsCore
+
+- Auth: Migrate `SignlnConfiguration` to preprocessor-based safe parcelable
+- Bump actions/setup-java from 4 to 5
+- Bump actions/checkout from 4 to 5
+
+**Full Changelog**: https://github.com/WSTxda/MicroG-RE/compare/5.12...5.13
