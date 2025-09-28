@@ -14,7 +14,7 @@
       }
     },
     "address": "https://raw.githubusercontent.com/Lobanokivan11/FDROID-REPO/refs/heads/main/fdroid/repo",
-    "timestamp": 1759055155000,
+    "timestamp": 1759058640000,
     "categories": {
       "Games": {
         "name": {
@@ -21992,7 +21992,7 @@
         "categories": [
           "System"
         ],
-        "lastUpdated": 1758979521000,
+        "lastUpdated": 1759058382000,
         "license": "GPL-3.0",
         "sourceCode": "https://github.com/MMRLApp/MMRL",
         "screenshots": {
@@ -22044,6 +22044,85 @@
         "preferredSigner": "102c2579a177579073dfc69bdf889ad04de9e7c53726a99d65873ec122183860"
       },
       "versions": {
+        "af6d5e1308a8bbfc08cc4e01c0bb1f9e3ede0c0db2e4999f763eeed5196631cd": {
+          "added": 1759058382000,
+          "file": {
+            "name": "/mmrl_v34181.apk",
+            "sha256": "af6d5e1308a8bbfc08cc4e01c0bb1f9e3ede0c0db2e4999f763eeed5196631cd",
+            "size": 7431071
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi",
+              "armeabi-v7a",
+              "mips",
+              "mips64",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "v34181-release",
+            "versionCode": 34181,
+            "usesSdk": {
+              "minSdkVersion": 26,
+              "targetSdkVersion": 36
+            },
+            "signer": {
+              "sha256": [
+                "102c2579a177579073dfc69bdf889ad04de9e7c53726a99d65873ec122183860"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_DATA_SYNC"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_SPECIAL_USE"
+              },
+              {
+                "name": "com.android.launcher.permission.INSTALL_SHORTCUT"
+              },
+              {
+                "name": "com.dergoogler.mmrl.permission.WEBUI_X"
+              },
+              {
+                "name": "com.dergoogler.mmrl.permission.WEBUI_LEGACY"
+              },
+              {
+                "name": "com.dergoogler.mmrl.permission.MODCONF"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE",
+                "maxSdkVersion": 29
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE",
+                "maxSdkVersion": 29
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "moe.shizuku.manager.permission.API_V23"
+              }
+            ]
+          }
+        },
         "a09b1028ddb14515d866b2f2b5eac03860802c3fc63be23e1d9ddaaeed8b3b2a": {
           "added": 1758979521000,
           "file": {

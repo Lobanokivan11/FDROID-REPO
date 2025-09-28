@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1759055155000,
+    "timestamp": 1759058640000,
     "version": 20002,
     "name": "Lobanokivan11's F-Droid Repo",
     "icon": "icon.png",
@@ -229,8 +229,8 @@
       "categories": [
         "System"
       ],
-      "suggestedVersionName": "v34176-release",
-      "suggestedVersionCode": "34176",
+      "suggestedVersionName": "v34181-release",
+      "suggestedVersionCode": "34181",
       "description": "<p dir=\"auto\">MMRL is an Android app that helps manage your own modules repository.</p>\n<div class=\"markdown-heading\" dir=\"auto\">\n<h2 class=\"heading-element\" dir=\"auto\" tabindex=\"-1\">Features</h2>\n<a id=\"user-content-features\" class=\"anchor\" href=\"https://github.com/MMRLApp/MMRL#features\"></a></div>\n<ul dir=\"auto\">\n<li><strong>Comprehensive Root Manager Support</strong>: Full compatibility with Magisk, KernelSU, and APatch for diverse root management options.</li>\n<li><strong>WebUI with Advanced Features</strong>: Includes&nbsp;<a href=\"https://developer.android.com/develop/ui/compose/layouts/insets\" rel=\"nofollow\">Edge-to-Edge</a>&nbsp;support and dynamic app themes for a seamless user experience.</li>\n<li><strong>Bulk Installation Support</strong>: Effortlessly install modules in bulk, both online and locally.</li>\n<li><strong>Module Dependency Management</strong>: Simplifies module installation for end-users by automatically handling module dependencies.</li>\n<li><strong>Magisk Modules Repositories</strong>: A community-driven platform that allows anyone to contribute and access Magisk modules.</li>\n<li><strong>User Transparency with Blacklist</strong>: Clear visibility into which modules or actions are restricted, ensuring users can make informed decisions.</li>\n<li><strong>Customizable Module Pages</strong>: Personalize module pages with categories, screenshots, icons, covers, and other content for a tailored presentation.</li>\n<li><strong>Transparency of Included Files</strong>: Detailed breakdown of all files within modules, including APKs, service files, and more, for full user awareness.</li>\n<li><strong>Analytics Dashboard</strong>: Display module-related analytics on the homepage, offering valuable insights into module usage and trends.</li>\n</ul>\n",
       "license": "GPL-3.0",
       "name": "MMRL",
@@ -238,7 +238,7 @@
       "summary": "A app for managing, sharing, and exploring Magisk modules across repositories",
       "added": 1754557672000,
       "packageName": "com.dergoogler.mmrl",
-      "lastUpdated": 1758979521000,
+      "lastUpdated": 1759058382000,
       "localized": {
         "en-US": {
           "phoneScreenshots": [
@@ -249,7 +249,7 @@
             "5.png",
             "6.png"
           ],
-          "whatsNew": "## What's new?\n\n- Add overloaded getUsers methods to IUserManager and update HiddenUserManager\n- Translated using Weblate (German)\n- Translated using Weblate (Chinese (Traditional Han script))\n- Translated using Weblate (German)\n- Translated using Weblate (Japanese)\n- Translated using Weblate (German)\n- Translated using Weblate (Polish)\n- Translated using Weblate (Russian)\n- Translated using Weblate (Spanish)\n- fastlane: make fulldesc Markdown compatible\n\n[See all changes here](https://github.co"
+          "whatsNew": "## What's new?\n\n- Add user profile support to HiddenUserManager\n- Translated using Weblate (Polish)\n- Translated using Weblate (Turkish)\n- Translated using Weblate (Russian)\n\n[See all changes here](https://github.com/MMRLApp/MMRL/compare/v34176...master)\n\n[Workflow run](https://github.com/MMRLApp/MMRL/actions/runs/18072851227)"
         }
       }
     },
@@ -27565,6 +27565,91 @@
       }
     ],
     "com.dergoogler.mmrl": [
+      {
+        "added": 1759058382000,
+        "apkName": "mmrl_v34181.apk",
+        "hash": "af6d5e1308a8bbfc08cc4e01c0bb1f9e3ede0c0db2e4999f763eeed5196631cd",
+        "hashType": "sha256",
+        "minSdkVersion": 26,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi",
+          "armeabi-v7a",
+          "mips",
+          "mips64",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.dergoogler.mmrl",
+        "sig": "540480bcf62aea562549755418702e5b",
+        "signer": "102c2579a177579073dfc69bdf889ad04de9e7c53726a99d65873ec122183860",
+        "size": 7431071,
+        "targetSdkVersion": 36,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_SPECIAL_USE",
+            null
+          ],
+          [
+            "com.android.launcher.permission.INSTALL_SHORTCUT",
+            null
+          ],
+          [
+            "com.dergoogler.mmrl.permission.WEBUI_X",
+            null
+          ],
+          [
+            "com.dergoogler.mmrl.permission.WEBUI_LEGACY",
+            null
+          ],
+          [
+            "com.dergoogler.mmrl.permission.MODCONF",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            29
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            29
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "moe.shizuku.manager.permission.API_V23",
+            null
+          ]
+        ],
+        "versionCode": 34181,
+        "versionName": "v34181-release"
+      },
       {
         "added": 1758979521000,
         "apkName": "mmrl_v34176.apk",
