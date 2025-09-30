@@ -1,0 +1,7 @@
+Added:
+- Somewhat improved Firefox Local Translate (PR merged 🎉)
+- Square avatar (credit: forkgram)
+
+
+Use this build of translator before there's an official build
+https://github.com/dic1911/firefox-translator/releases/tag/fix-aidl
