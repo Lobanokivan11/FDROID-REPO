@@ -1,0 +1,11 @@
+## YouTube
+- Fix fullscreen button bugs on 1.0.29.
+- Sync 5.42.0
+  * **Force original audio:** Change patch to default on
+  * **Force original language:** Resolve some videos using Swedish audio track
+  * **Hide layout components:** Resolve UI components not hiding for some users
+
+## Common
+- The in-app update checker has been updated to only work on installed modules.
+
+[Donate me on AFDian](https://afdian.com/a/ChsBuffer)
