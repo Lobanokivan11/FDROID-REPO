@@ -1,0 +1,11 @@
+## What's new?
+
+- Update webuiXPortable version in dependencies
+- Move LazyListState to ViewModels for list screens
+- Translated using Weblate (Spanish)
+- Translated using Weblate (Turkish)
+- Translated using Weblate (Japanese)
+
+[See all changes here](https://github.com/MMRLApp/MMRL/compare/v34181...master)
+
+[Workflow run](https://github.com/MMRLApp/MMRL/actions/runs/18402750245)
