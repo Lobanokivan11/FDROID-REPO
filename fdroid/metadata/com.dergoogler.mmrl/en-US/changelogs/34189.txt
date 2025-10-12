@@ -1,0 +1,7 @@
+## What's new?
+
+- Bump compileSdk version to 36 in all modules
+
+[See all changes here](https://github.com/MMRLApp/MMRL/compare/v34188...master)
+
+[Workflow run](https://github.com/MMRLApp/MMRL/actions/runs/18443557137)
