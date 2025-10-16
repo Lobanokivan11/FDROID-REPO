@@ -1,0 +1,14 @@
+{
+  "repo": {
+    "timestamp": 1760586534000
+  },
+  "packages": {
+    "io.github.chsbuffer.revancedxposed": {
+      "versions": {
+        "64aaccbffaf3df0ef14889eb54ca27388bf5f81f549852c5d46b502e02a2318a": {
+          "releaseChannels": null
+        }
+      }
+    }
+  }
+}

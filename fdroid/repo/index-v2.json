@@ -14,7 +14,7 @@
       }
     },
     "address": "https://raw.githubusercontent.com/Lobanokivan11/FDROID-REPO/refs/heads/main/fdroid/repo",
-    "timestamp": 1760582449000,
+    "timestamp": 1760586534000,
     "categories": {
       "Games": {
         "name": {
@@ -34169,7 +34169,7 @@
         "categories": [
           "Xposed"
         ],
-        "lastUpdated": 1759919004000,
+        "lastUpdated": 1760586381000,
         "license": "GPL-3.0",
         "sourceCode": "https://github.com/chsbuffer/ReVancedXposed",
         "authorName": "chsbuffer",
@@ -34185,6 +34185,33 @@
         "preferredSigner": "940d0f30e047642c72c94c6ef4bfab7910bb0cd4f69f9da735338beca0b2d12e"
       },
       "versions": {
+        "64aaccbffaf3df0ef14889eb54ca27388bf5f81f549852c5d46b502e02a2318a": {
+          "added": 1760586381000,
+          "file": {
+            "name": "/revancedxposed_1.0.31.apk",
+            "sha256": "64aaccbffaf3df0ef14889eb54ca27388bf5f81f549852c5d46b502e02a2318a",
+            "size": 6165889
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "1.0.31",
+            "versionCode": 31,
+            "usesSdk": {
+              "minSdkVersion": 27,
+              "targetSdkVersion": 36
+            },
+            "signer": {
+              "sha256": [
+                "940d0f30e047642c72c94c6ef4bfab7910bb0cd4f69f9da735338beca0b2d12e"
+              ]
+            }
+          }
+        },
         "00109b97f115008f82e940ee5c848f17e47288aa4e33dfc64c154cdbb293566e": {
           "added": 1759919004000,
           "file": {
