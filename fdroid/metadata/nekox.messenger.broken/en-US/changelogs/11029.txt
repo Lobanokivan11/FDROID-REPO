@@ -1,0 +1,3 @@
+Added:
+- Show pen emoji instead of "edited" on messages
+- Vote count preview before vote

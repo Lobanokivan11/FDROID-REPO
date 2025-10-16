@@ -1,0 +1,14 @@
+{
+  "repo": {
+    "timestamp": 1760592407000
+  },
+  "packages": {
+    "nekox.messenger.broken": {
+      "versions": {
+        "e6d8546c7696d4692697e6e1fb3bf20180f1db6e94ec4db7c5622b5772e4af38": {
+          "releaseChannels": null
+        }
+      }
+    }
+  }
+}
