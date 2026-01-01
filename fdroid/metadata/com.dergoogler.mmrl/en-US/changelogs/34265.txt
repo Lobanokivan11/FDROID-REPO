@@ -1,0 +1,26 @@
+## What's new?
+
+- Translated using Weblate (Japanese)
+- Translated using Weblate (Spanish)
+- Translated using Weblate (Polish)
+- Translated using Weblate (Chinese (Simplified Han script))
+- Add option to show stars in module details
+- Enable showUpdatedTime by default in RepositoryMenu
+- Add stars and buildMetadata fields to online modules
+- Remove dynamic KernelSU library naming
+- Add stars label and event painter utility
+- Add stars and buildMetadata fields to models
+- Translated using Weblate (Spanish)
+- Translated using Weblate (Polish)
+- Translated using Weblate (Turkish)
+- Randomize KernelSU native library name
+- Add Meta Modules section to repository screen
+- Update webuiXPortable version in libs.versions.toml
+- Make comparator a property with custom getter
+- Add pull_request trigger to release CI workflow
+- Fix module date display to show latest version timestamp
+- Initial plan
+
+[See all changes here](https://github.com/MMRLApp/MMRL/compare/v34242...master)
+
+[Workflow run](https://github.com/MMRLApp/MMRL/actions/runs/20409991920)

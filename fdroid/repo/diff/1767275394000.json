@@ -1,0 +1,85 @@
+{
+  "repo": {
+    "timestamp": 1767275524000
+  },
+  "packages": {
+    "app.revanced.android.gms": {
+      "metadata": {
+        "summary": {
+          "en-US": "GmsCore fork for ReVanced with Material 3 Expressive design and enhanced feat..."
+        }
+      }
+    },
+    "com.dergoogler.mmrl": {
+      "versions": {
+        "20ea131a2f44d52131f27392eac9212217cdc89e9b877b831384a4d77e3d04bc": {
+          "releaseChannels": null
+        },
+        "f20052b29cef3148c356f20de4b4a1b65e7f6fe14e7b7bc16fd07c0ddd58bfd3": {
+          "releaseChannels": null
+        },
+        "43bc98ec87eb36e7b2651bc0d45f1257c43444486ff688c7a15efc7b87c61fb4": {
+          "releaseChannels": null
+        },
+        "b0388808b784c6e652fb2e79b5a359c8e7a4d667fe415aac6f54df4f00c19b66": {
+          "releaseChannels": null
+        }
+      }
+    },
+    "com.dergoogler.mmrl.wx": {
+      "versions": {
+        "9941278ed5efdfe8e9d8d9ef7d824a3d1ef5fd5553c42f82848707e2b24db1c0": {
+          "releaseChannels": null
+        },
+        "49a0a33cc43d0f459f64027239f29de7037778199878261b585dcbce0b9b8bca": {
+          "releaseChannels": null
+        }
+      }
+    },
+    "com.mgoogle.android.gms": {
+      "metadata": {
+        "summary": {
+          "en-US": "GmsCore fork for ReVanced with Material 3 Expressive design and enhanced feat..."
+        }
+      }
+    },
+    "io.github.chsbuffer.revancedxposed": {
+      "versions": {
+        "7870adadb1020a7f347ea278aa6acdc4462f62b1aa6050620a45b97fab2fdd41": {
+          "releaseChannels": null
+        },
+        "9529bf915141e16af4150ecf18f55f8aed381df866cca214a44dabe12468a361": {
+          "releaseChannels": null
+        },
+        "3b4c06021339d0e9ec3fdb7a1d03070ea6eeee55f5b0cebcc6731877fb895571": {
+          "releaseChannels": null
+        },
+        "a5bf1b881b1bebfe9bb2812075338c9aeebe24159c5c30efcb2937df4a3fc533": {
+          "releaseChannels": null
+        },
+        "30bce7fec06cb183b53a29c251304b7fb6caa1e5ec19638099d06ca568870006": {
+          "releaseChannels": null
+        },
+        "1d1ad0f45f2330cb8d1e45cd94b9c07638f443b304b6b7a46b803605a5ceeb51": {
+          "releaseChannels": null
+        }
+      }
+    },
+    "nekox.messenger.broken": {
+      "versions": {
+        "00689e858d595659cb254b6d3b333d93275ab1c66f27535df172e8543f3acb84": {
+          "releaseChannels": null
+        },
+        "348ded5c0a58eb73396453887ce9812eaf9f6f84adc4791bc704b5d5b131f696": {
+          "releaseChannels": null
+        },
+        "937935fa9eb942798079217533d9080778d851cb47d4491446ade78c279569ef": {
+          "releaseChannels": null
+        },
+        "f475b07fa88ae5996d63eda12b93f02d4419c6a98456a1d8402273e5dad70231": {
+          "releaseChannels": null
+        }
+      }
+    }
+  }
+}

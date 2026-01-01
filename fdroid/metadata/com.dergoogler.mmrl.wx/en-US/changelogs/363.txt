@@ -1,0 +1,9 @@
+## What's new?
+
+- Restore moduleInfo and add package info methods
+- Add global setting to disable WebUI exit confirmation
+- Add defensive checks to WebUIView lifecycle methods
+
+[See all changes here](https://github.com/MMRLApp/WebUI-X-Portable/compare/v360...master)
+
+[Workflow run](https://github.com/MMRLApp/WebUI-X-Portable/actions/runs/20007014185)

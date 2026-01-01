@@ -1,0 +1,32 @@
+## YouTube
+- Add `Disable auto captions`
+- Add `SponsorBlock - Show video length without segments`
+- Sync 5.47.0
+  * **Hide layout components:** Fix "Hide Subscribe button" in channel page not working
+  * **Hide layout components:** Add "Hide cell divider", "Hide featured links", and "Hide featured videos" options
+  * **Hide layout components:** Add "Hide Join button" and "Hide Subscribe button" options for channel page
+
+## Reddit
+- Sync 5.47.0
+  - Update `Hide ads` patch for new versions of Reddit
+
+## Module Settings
+- Allow hiding launcher icon without module activation
+- Exit process on back pressed in the module settings
+
+**Deactivate and reactivate the module if the settings keep prompting you to activate it.**  
+**Uninstall and Reinstall the module if the update check fails despite your internet being up.**
+
+## General
+- Fix cache for disabled patches was not cleared when clearing all cache.
+
+## IMPORTANT NOTICE about Spotify
+
+ReVanced Xposed 1.0.34 and newer versions no longer support Spotify.
+**There's a new Spotify dedicated module https://github.com/chsbuffer/ReVancedXposed_Spotify**. It's less likely to be blacklisted.
+
+For unrooted users: Uninstall the old ReVanced Xposed module, install the new module. Usage is identical to the former ReVanced Xposed module. Notice that "it's less likely to be blacklisted" does not work out for your App Cloner setup.
+
+**Usage of the new module does not guarantee Spotify availability. I would recommend that everyone stop using modified Spotify, because they are really working hard to shut them all down.**
+
+[Donate me on AFDian](https://afdian.com/a/ChsBuffer)

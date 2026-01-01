@@ -1,0 +1,9 @@
+Added:
+- Passkey support (Special thanks: Nagram), read the note at the bottom.
+- Share multiple media across different messages by selection
+- Remove chat bottom UI padding
+- "Unrounded" chat bottom UI
+
+PS. Enable both "Remove chat bottom UI padding" and "Unrounded" UI to get classic-like experience)
+
+Note. passkey is supported but with different implementation than official one, it's somewhat less secure, read the explanation in the [channel](https://t.me/momogram_update/1121) before use, whoever failed to read and understand the note properly before asking questions will be blocked.
