@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1767466379000,
+    "timestamp": 1767468922000,
     "version": 20002,
     "name": "Lobanokivan11's F-Droid Repo",
     "icon": "icon.png",
@@ -193,7 +193,7 @@
       "license": "Apache-2.0",
       "name": "MicroG-RE",
       "sourceCode": "https://github.com/WSTxda/MicroG-RE",
-      "summary": "GmsCore fork for Morphe with Material 3 Expressive design and enhanced features.",
+      "summary": "GmsCore fork for Morphe with Material 3 Expressive design and enhanced features",
       "added": 1753696270000,
       "packageName": "app.revanced.android.gms",
       "lastUpdated": 1759072685000,
@@ -214,7 +214,7 @@
       "license": "Apache-2.0",
       "name": "MicroG-RE",
       "sourceCode": "https://github.com/WSTxda/MicroG-RE",
-      "summary": "GmsCore fork for Morphe with Material 3 Expressive design and enhanced features.",
+      "summary": "GmsCore fork for Morphe with Material 3 Expressive design and enhanced features",
       "added": 1753696263000,
       "packageName": "com.mgoogle.android.gms",
       "lastUpdated": 1753696272000,

@@ -14,7 +14,7 @@
       }
     },
     "address": "https://raw.githubusercontent.com/Lobanokivan11/FDROID-REPO/refs/heads/main/fdroid/repo",
-    "timestamp": 1767466379000,
+    "timestamp": 1767468922000,
     "categories": {
       "Games": {
         "name": {
@@ -23999,7 +23999,7 @@
           "en-US": "MicroG-RE"
         },
         "summary": {
-          "en-US": "GmsCore fork for Morphe with Material 3 Expressive design and enhanced features."
+          "en-US": "GmsCore fork for Morphe with Material 3 Expressive design and enhanced features"
         },
         "description": {
           "en-US": "<div class=\"markdown-heading\" dir=\"auto\">\n<h1 class=\"heading-element\" dir=\"auto\" tabindex=\"-1\">MicroG RE (GmsCore Redesign)</h1>\n<a id=\"user-content-microg-re-gmscore-redesign\" class=\"anchor\" href=\"https://github.com/WSTxda/MicroG-RE#microg-re-gmscore-redesign\"></a></div>\n<p dir=\"auto\"><a href=\"https://github.com/microg/GmsCore\">GmsCore</a>&nbsp;fork designed for&nbsp;<a href=\"https://github.com/ReVanced\">ReVanced</a>&nbsp;with&nbsp;<a href=\"https://m3.material.io/blog/building-with-m3-expressive\" rel=\"nofollow\">Material 3 Expressive</a>&nbsp;design, along with some improvements and features.</p>\n<p dir=\"auto\">This repository is a fork of&nbsp;<a href=\"https://github.com/microg/GmsCore\">microG GmsCore</a>, adapted to work with patched Google apps without requiring root access and under an alternative package name. It uses the&nbsp;<strong>GmsCore support</strong>&nbsp;patch from ReVanced Patches to enable Google account authentication and services, replacing Google Play Services.</p>\n"
@@ -34255,7 +34255,7 @@
           "en-US": "MicroG-RE"
         },
         "summary": {
-          "en-US": "GmsCore fork for Morphe with Material 3 Expressive design and enhanced features."
+          "en-US": "GmsCore fork for Morphe with Material 3 Expressive design and enhanced features"
         },
         "description": {
           "en-US": "<div class=\"markdown-heading\" dir=\"auto\">\n<h1 class=\"heading-element\" dir=\"auto\" tabindex=\"-1\">MicroG RE (GmsCore Redesign)</h1>\n<a id=\"user-content-microg-re-gmscore-redesign\" class=\"anchor\" href=\"https://github.com/WSTxda/MicroG-RE#microg-re-gmscore-redesign\"></a></div>\n<p dir=\"auto\"><a href=\"https://github.com/microg/GmsCore\">GmsCore</a>&nbsp;fork designed for&nbsp;<a href=\"https://github.com/ReVanced\">ReVanced</a>&nbsp;with&nbsp;<a href=\"https://m3.material.io/blog/building-with-m3-expressive\" rel=\"nofollow\">Material 3 Expressive</a>&nbsp;design, along with some improvements and features.</p>\n<p dir=\"auto\">This repository is a fork of&nbsp;<a href=\"https://github.com/microg/GmsCore\">microG GmsCore</a>, adapted to work with patched Google apps without requiring root access and under an alternative package name. It uses the&nbsp;<strong>GmsCore support</strong>&nbsp;patch from ReVanced Patches to enable Google account authentication and services, replacing Google Play Services.</p>\n"
