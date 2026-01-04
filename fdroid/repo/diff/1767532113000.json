@@ -1,0 +1,21 @@
+{
+  "repo": {
+    "timestamp": 1767532253000
+  },
+  "packages": {
+    "app.revanced.android.gms": {
+      "metadata": {
+        "summary": {
+          "en-US": "GmsCore fork for Morphe patched apps with Material 3 Expressive design and en..."
+        }
+      }
+    },
+    "com.mgoogle.android.gms": {
+      "metadata": {
+        "summary": {
+          "en-US": "GmsCore fork for Morphe patched apps with Material 3 Expressive design and en..."
+        }
+      }
+    }
+  }
+}
