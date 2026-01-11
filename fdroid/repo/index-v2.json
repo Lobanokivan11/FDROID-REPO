@@ -14,7 +14,7 @@
       }
     },
     "address": "https://raw.githubusercontent.com/Lobanokivan11/FDROID-REPO/refs/heads/main/fdroid/repo",
-    "timestamp": 1768131533000,
+    "timestamp": 1768136968000,
     "categories": {
       "Games": {
         "name": {
@@ -37015,7 +37015,7 @@
         "categories": [
           "Xposed"
         ],
-        "lastUpdated": 1767275378000,
+        "lastUpdated": 1768136822000,
         "license": "GPL-3.0",
         "sourceCode": "https://github.com/chsbuffer/ReVancedXposed",
         "authorName": "chsbuffer",
@@ -37031,6 +37031,44 @@
         "preferredSigner": "940d0f30e047642c72c94c6ef4bfab7910bb0cd4f69f9da735338beca0b2d12e"
       },
       "versions": {
+        "000c0a406a4755b5cf0db49649dd6a7a1694b3cbef2c2cc75875d6ba28a40b76": {
+          "added": 1768136822000,
+          "file": {
+            "name": "/revancedxposed_1.0.38.apk",
+            "sha256": "000c0a406a4755b5cf0db49649dd6a7a1694b3cbef2c2cc75875d6ba28a40b76",
+            "size": 6288953
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "1.0.38",
+            "versionCode": 38,
+            "usesSdk": {
+              "minSdkVersion": 27,
+              "targetSdkVersion": 36
+            },
+            "signer": {
+              "sha256": [
+                "940d0f30e047642c72c94c6ef4bfab7910bb0cd4f69f9da735338beca0b2d12e"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              }
+            ]
+          }
+        },
         "7870adadb1020a7f347ea278aa6acdc4462f62b1aa6050620a45b97fab2fdd41": {
           "added": 1767275378000,
           "file": {

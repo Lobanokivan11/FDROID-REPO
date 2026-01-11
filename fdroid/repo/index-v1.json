@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1768131533000,
+    "timestamp": 1768136968000,
     "version": 20002,
     "name": "Lobanokivan11's F-Droid Repo",
     "icon": "icon.png",
@@ -367,8 +367,8 @@
       "categories": [
         "Xposed"
       ],
-      "suggestedVersionName": "1.0.37",
-      "suggestedVersionCode": "37",
+      "suggestedVersionName": "1.0.38",
+      "suggestedVersionCode": "38",
       "description": "<p dir=\"auto\"><strong>ReVanced LSPosed module by ChsBuffer.</strong></p>\n<div class=\"markdown-alert markdown-alert-important\" dir=\"auto\">\n<p class=\"markdown-alert-title\" dir=\"auto\">Important</p>\n<p dir=\"auto\">This is not an official ReVanced project, do not ask the ReVanced developers for help.</p>\n</div>\n<div class=\"markdown-heading\" dir=\"auto\">\n<h2 class=\"heading-element\" dir=\"auto\" tabindex=\"-1\">Patches</h2>\n<a id=\"user-content-patches\" class=\"anchor\" href=\"https://github.com/chsbuffer/ReVancedXposed#patches\"></a></div>\n<div class=\"markdown-heading\" dir=\"auto\">\n<h3 class=\"heading-element\" dir=\"auto\" tabindex=\"-1\">Youtube</h3>\n<a id=\"user-content-youtube\" class=\"anchor\" href=\"https://github.com/chsbuffer/ReVancedXposed#youtube\"></a></div>\n<ul dir=\"auto\">\n<li>Remove ads</li>\n<li>SponsorBlock</li>\n<li>Remove background playback restrictions</li>\n<li>Remove share links tracking query parameter</li>\n<li>Hide and change navigation buttons</li>\n<li>Swipe controls</li>\n<li>Remember video quality changes</li>\n<li>Show video quality button</li>\n<li>Show advanced video quality menu</li>\n<li>Copy video url video player button</li>\n<li>Open external downloader app</li>\n<li>Custom playback speed</li>\n<li>Remember playback speed</li>\n<li>Playback speed dialog button</li>\n<li>Hide layout components</li>\n<li>Hide video action buttons</li>\n<li>Disable resuming Shorts on startup</li>\n</ul>\n<div class=\"markdown-heading\" dir=\"auto\">\n<h3 class=\"heading-element\" dir=\"auto\" tabindex=\"-1\">Spotify</h3>\n<a id=\"user-content-spotify\" class=\"anchor\" href=\"https://github.com/chsbuffer/ReVancedXposed#spotify\"></a></div>\n<ul dir=\"auto\">\n<li>Unlock Spotify Premium</li>\n<li>Sanitize sharing links</li>\n<li>Hide Create button</li>\n</ul>\n<div class=\"markdown-heading\" dir=\"auto\">\n<h3 class=\"heading-element\" dir=\"auto\" tabindex=\"-1\">Google Photos</h3>\n<a id=\"user-content-google-photos\" class=\"anchor\" href=\"https://github.com/chsbuffer/ReVancedXposed#google-photos\"></a></div>\n<ul dir=\"auto\">\n<li>Spoof Pixel XL</li>\n</ul>\n<div class=\"markdown-heading\" dir=\"auto\">\n<h3 class=\"heading-element\" dir=\"auto\" tabindex=\"-1\">Youtube Music</h3>\n<a id=\"user-content-youtube-music\" class=\"anchor\" href=\"https://github.com/chsbuffer/ReVancedXposed#youtube-music\"></a></div>\n<ul dir=\"auto\">\n<li>Remove music video ads</li>\n<li>Remove background playback restrictions</li>\n<li>Hide upgrade button</li>\n<li>Hide 'Get Music Premium' label</li>\n<li>Enable exclusive audio playback</li>\n</ul>\n<div class=\"markdown-heading\" dir=\"auto\">\n<h3 class=\"heading-element\" dir=\"auto\" tabindex=\"-1\">Instagram</h3>\n<a id=\"user-content-instagram\" class=\"anchor\" href=\"https://github.com/chsbuffer/ReVancedXposed#instagram\"></a></div>\n<ul dir=\"auto\">\n<li>Hide ads</li>\n</ul>\n<div class=\"markdown-heading\" dir=\"auto\">\n<h3 class=\"heading-element\" dir=\"auto\" tabindex=\"-1\">Threads</h3>\n<a id=\"user-content-threads\" class=\"anchor\" href=\"https://github.com/chsbuffer/ReVancedXposed#threads\"></a></div>\n<ul dir=\"auto\">\n<li>Hide ads</li>\n</ul>\n<div class=\"markdown-heading\" dir=\"auto\">\n<h3 class=\"heading-element\" dir=\"auto\" tabindex=\"-1\">Reddit (2024.17.0)</h3>\n<a id=\"user-content-reddit-2024170\" class=\"anchor\" href=\"https://github.com/chsbuffer/ReVancedXposed#reddit-2024170\"></a></div>\n<ul dir=\"auto\">\n<li>Hide ads</li>\n<li>Sanitize sharing links</li>\n</ul>\n<div class=\"markdown-heading\" dir=\"auto\">\n<h3 class=\"heading-element\" dir=\"auto\" tabindex=\"-1\">Strava</h3>\n<a id=\"user-content-strava\" class=\"anchor\" href=\"https://github.com/chsbuffer/ReVancedXposed#strava\"></a></div>\n<ul dir=\"auto\">\n<li>Unlock subscription features</li>\n<li>Disable subscription suggestions</li>\n</ul>\n<div class=\"markdown-heading\" dir=\"auto\">\n<h3 class=\"heading-element\" dir=\"auto\" tabindex=\"-1\">Photomath</h3>\n<a id=\"user-content-photomath\" class=\"anchor\" href=\"https://github.com/chsbuffer/ReVancedXposed#photomath\"></a></div>\n<ul dir=\"auto\">\n<li>Unlock plus</li>\n</ul>\n",
       "license": "GPL-3.0",
       "name": "ReVanced Xposed",
@@ -376,10 +376,10 @@
       "summary": "ReVanced LSPosed module. YouTube & YT Music Remove ads, Background playback",
       "added": 1751037249000,
       "packageName": "io.github.chsbuffer.revancedxposed",
-      "lastUpdated": 1767275378000,
+      "lastUpdated": 1768136822000,
       "localized": {
         "en-US": {
-          "whatsNew": "## YouTube\n- Add `Disable auto captions`\n- Add `SponsorBlock - Show video length without segments`\n- Sync 5.47.0\n  * **Hide layout components:** Fix \"Hide Subscribe button\" in channel page not working\n  * **Hide layout components:** Add \"Hide cell divider\", \"Hide featured links\", and \"Hide featured videos\" options\n  * **Hide layout components:** Add \"Hide Join button\" and \"Hide Subscribe button\" options for channel page\n\n## Reddit\n- Sync 5.47.0\n  - Update `Hide ads` patch for new versions of Red"
+          "whatsNew": "## YouTube\n- Support `21.02.32`\n- Fix **Background Playback** not working \n\n[Donate me on AFDian](https://afdian.com/a/ChsBuffer)"
         }
       }
     },
@@ -43421,6 +43421,40 @@
       }
     ],
     "io.github.chsbuffer.revancedxposed": [
+      {
+        "added": 1768136822000,
+        "apkName": "revancedxposed_1.0.38.apk",
+        "hash": "000c0a406a4755b5cf0db49649dd6a7a1694b3cbef2c2cc75875d6ba28a40b76",
+        "hashType": "sha256",
+        "minSdkVersion": 27,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "io.github.chsbuffer.revancedxposed",
+        "sig": "7392807993185028c55d4b14ba5b9f58",
+        "signer": "940d0f30e047642c72c94c6ef4bfab7910bb0cd4f69f9da735338beca0b2d12e",
+        "size": 6288953,
+        "targetSdkVersion": 36,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ]
+        ],
+        "versionCode": 38,
+        "versionName": "1.0.38"
+      },
       {
         "added": 1767275378000,
         "apkName": "revancedxposed_1.0.37.apk",

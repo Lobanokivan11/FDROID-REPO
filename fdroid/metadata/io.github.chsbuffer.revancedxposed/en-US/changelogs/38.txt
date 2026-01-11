@@ -1,0 +1,5 @@
+## YouTube
+- Support `21.02.32`
+- Fix **Background Playback** not working 
+
+[Donate me on AFDian](https://afdian.com/a/ChsBuffer)
