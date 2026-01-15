@@ -6,6 +6,15 @@ substratum-monetall:
 
   categories: 
     - Theming
+lspunite:
+  git: https://github.com/Lobanokivan11/LSPatch-UNITE
+  name: "LSPatch UNITE"
+  description: |
+    LSPatch UNITE = Rootless xposed implentation by injecting to apk
+
+  categories: 
+    - System
+    - Xposed
 fdroidprivshizuku:
   git: https://github.com/Lobanokivan11/fdroid_shizuku_privileged_extension
   name: "F-Droid Privileged Extension Shizuku Edition"
