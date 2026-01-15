@@ -1,0 +1,4 @@
+## 0.8 UNITE Release
+This is First Release of my fork of Lspatch from Jingmatrix
+Currently has Only english language
+fork has manager connection partally fix, more features to come

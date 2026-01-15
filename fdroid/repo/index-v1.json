@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1768488483000,
+    "timestamp": 1768492310000,
     "version": 20002,
     "name": "Lobanokivan11's F-Droid Repo",
     "icon": "icon.png",
@@ -179,6 +179,28 @@
             "1.jpg"
           ],
           "whatsNew": "<!-- Release notes generated using configuration in .github/release.yml at trunk -->\n\n\n\n**Full Changelog**: https://github.com/Goooler/LawnchairRelease/compare/15.0.0-20251217...15.0.0-20251218"
+        }
+      }
+    },
+    {
+      "authorName": "Lobanokivan11",
+      "categories": [
+        "System",
+        "Xposed"
+      ],
+      "suggestedVersionName": "0.8unite",
+      "suggestedVersionCode": "448",
+      "description": "LSPatch UNITE = Rootless xposed implentation by injecting to apk\n",
+      "license": "GPL-3.0",
+      "name": "LSPatch UNITE",
+      "sourceCode": "https://github.com/Lobanokivan11/LSPatch-UNITE",
+      "summary": "A non-root Xposed framework extending from LSPosed",
+      "added": 1768491866000,
+      "packageName": "org.lsposed.lspatch",
+      "lastUpdated": 1768491866000,
+      "localized": {
+        "en-US": {
+          "whatsNew": "## 0.8 UNITE Release\nThis is First Release of my fork of Lspatch from Jingmatrix\nCurrently has Only english language\nfork has manager connection partally fix, more features to come"
         }
       }
     },
@@ -53441,6 +53463,46 @@
         ],
         "versionCode": 10000,
         "versionName": "dc5bb3f"
+      }
+    ],
+    "org.lsposed.lspatch": [
+      {
+        "added": 1768491866000,
+        "apkName": "lspunite_0.8unite.apk",
+        "hash": "fc7e69fd125926f6b0cc91be208971b391b680421fd54251389ed68193727f08",
+        "hashType": "sha256",
+        "minSdkVersion": 28,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "org.lsposed.lspatch",
+        "sig": "9bf31245c30b3a965b618ea1bd44e37b",
+        "signer": "52332bd0af6c510cd55e5be5b9a72ac51c9cbbfc495984400d44b1da04058813",
+        "size": 8588073,
+        "targetSdkVersion": 36,
+        "uses-permission": [
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "org.lsposed.lspatch.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ],
+          [
+            "moe.shizuku.manager.permission.API_V23",
+            null
+          ]
+        ],
+        "versionCode": 448,
+        "versionName": "0.8unite"
       }
     ],
     "projekt.substratum": [
