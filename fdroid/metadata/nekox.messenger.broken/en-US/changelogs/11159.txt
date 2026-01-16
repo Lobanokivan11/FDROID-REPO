@@ -1,0 +1,6 @@
+Added:
+- Optional memory leak fix (stutters on low end devices and causes video playback issues, otherwise greatly mitigates leaks)
+- Test ping manually when adding proxy
+- Truncate long value text in settings
+
+(Special Thanks: Nagram)
