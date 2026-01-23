@@ -1,0 +1,8 @@
+## YouTube
+- Support 21.03.34
+- Add **Alternative Thumbnails** and **Bypass Image Region Restrictions** 
+
+## YT Music
+- **Background playback** support 9.02.50
+
+[Donate me on AFDian](https://afdian.com/a/ChsBuffer)
