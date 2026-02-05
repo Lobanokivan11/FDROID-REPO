@@ -6,6 +6,19 @@ substratum-monetall:
 
   categories: 
     - Theming
+
+gamenativegridset:
+  git: https://github.com/Lobanokivan11/Gamenative-SteamGridDb-setter
+  name: "GameNative SteamGridDB setter"
+  description: |
+    <p>How to use</p>
+    <p>get SteamGridDb Key from link</p>
+    <p>Insert This Key to /sdcard/steamgriddb_key.txt file (Create This file if there isn&#39;t)</p>
+    <p>install this apk and activate either LSPOSED (Zygisk) or LSPATCH (rootless but requires Gamenative patch via Lspatch)</p>
+  
+  categories: 
+    - Xposed
+
 fdroidprivshizuku:
   git: https://github.com/Lobanokivan11/fdroid_shizuku_privileged_extension
   name: "F-Droid Privileged Extension Shizuku Edition"
