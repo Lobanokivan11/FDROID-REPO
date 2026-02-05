@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1770289038000,
+    "timestamp": 1770290886000,
     "version": 20002,
     "name": "Lobanokivan11's F-Droid Repo",
     "icon": "icon.png",
@@ -154,6 +154,26 @@
       "localized": {
         "en-US": {
           "whatsNew": "Debug Builds"
+        }
+      }
+    },
+    {
+      "authorName": "Lobanokivan11",
+      "categories": [
+        "Xposed"
+      ],
+      "suggestedVersionName": "7.0.0",
+      "suggestedVersionCode": "4",
+      "description": "<p>How to use</p>\n<p>get SteamGridDb Key from link</p>\n<p>Insert This Key to /sdcard/steamgriddb_key.txt file (Create This file if there isn&#39;t)</p>\n<p>install this apk and activate either LSPOSED (Zygisk) or LSPATCH (rootless but requires Gamenative patch via Lspatch)</p>\n",
+      "license": "Unknown",
+      "name": "GameNative SteamGridDB setter",
+      "sourceCode": "https://github.com/Lobanokivan11/Gamenative-SteamGridDb-setter",
+      "added": 1770290380000,
+      "packageName": "io.github.lobanokivan11.gamenativegrid",
+      "lastUpdated": 1770290380000,
+      "localized": {
+        "en-US": {
+          "whatsNew": "Nightly Builds"
         }
       }
     },
@@ -45338,6 +45358,28 @@
         "targetSdkVersion": 35,
         "versionCode": 1,
         "versionName": "1.0"
+      }
+    ],
+    "io.github.lobanokivan11.gamenativegrid": [
+      {
+        "added": 1770290380000,
+        "apkName": "gamenativegridset_github_nightly.apk",
+        "hash": "255456dafce98720e5483c6c9ae607a60dab67d723b5af439f8e085d6f28eed6",
+        "hashType": "sha256",
+        "minSdkVersion": 28,
+        "packageName": "io.github.lobanokivan11.gamenativegrid",
+        "sig": "9bf31245c30b3a965b618ea1bd44e37b",
+        "signer": "52332bd0af6c510cd55e5be5b9a72ac51c9cbbfc495984400d44b1da04058813",
+        "size": 10431,
+        "targetSdkVersion": 33,
+        "uses-permission": [
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 4,
+        "versionName": "7.0.0"
       }
     ],
     "nekox.messenger.broken": [

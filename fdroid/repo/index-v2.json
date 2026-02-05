@@ -14,7 +14,7 @@
       }
     },
     "address": "https://raw.githubusercontent.com/Lobanokivan11/FDROID-REPO/refs/heads/main/fdroid/repo",
-    "timestamp": 1770289038000,
+    "timestamp": 1770290886000,
     "categories": {
       "Games": {
         "name": {
@@ -39110,6 +39110,52 @@
                 "940d0f30e047642c72c94c6ef4bfab7910bb0cd4f69f9da735338beca0b2d12e"
               ]
             }
+          }
+        }
+      }
+    },
+    "io.github.lobanokivan11.gamenativegrid": {
+      "metadata": {
+        "added": 1770290380000,
+        "categories": [
+          "Xposed"
+        ],
+        "lastUpdated": 1770290380000,
+        "sourceCode": "https://github.com/Lobanokivan11/Gamenative-SteamGridDb-setter",
+        "authorName": "Lobanokivan11",
+        "name": {
+          "en-US": "GameNative SteamGridDB setter"
+        },
+        "description": {
+          "en-US": "<p>How to use</p>\n<p>get SteamGridDb Key from link</p>\n<p>Insert This Key to /sdcard/steamgriddb_key.txt file (Create This file if there isn&#39;t)</p>\n<p>install this apk and activate either LSPOSED (Zygisk) or LSPATCH (rootless but requires Gamenative patch via Lspatch)</p>\n"
+        },
+        "preferredSigner": "52332bd0af6c510cd55e5be5b9a72ac51c9cbbfc495984400d44b1da04058813"
+      },
+      "versions": {
+        "255456dafce98720e5483c6c9ae607a60dab67d723b5af439f8e085d6f28eed6": {
+          "added": 1770290380000,
+          "file": {
+            "name": "/gamenativegridset_github_nightly.apk",
+            "sha256": "255456dafce98720e5483c6c9ae607a60dab67d723b5af439f8e085d6f28eed6",
+            "size": 10431
+          },
+          "manifest": {
+            "versionName": "7.0.0",
+            "versionCode": 4,
+            "usesSdk": {
+              "minSdkVersion": 28,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "52332bd0af6c510cd55e5be5b9a72ac51c9cbbfc495984400d44b1da04058813"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              }
+            ]
           }
         }
       }

@@ -1,0 +1,15 @@
+AuthorName: Lobanokivan11
+Categories:
+    - Xposed
+CurrentVersion: 7.0.0
+CurrentVersionCode: 4
+Description: |
+    <p>How to use</p>
+    <p>get SteamGridDb Key from link</p>
+    <p>Insert This Key to /sdcard/steamgriddb_key.txt file (Create This file if there isn&#39;t)</p>
+    <p>install this apk and activate either LSPOSED (Zygisk) or LSPATCH (rootless but requires Gamenative patch via Lspatch)</p>
+IssueTracker: ""
+Name: GameNative SteamGridDB setter
+SourceCode: https://github.com/Lobanokivan11/Gamenative-SteamGridDb-setter
+Summary: ""
+WebSite: ""
