@@ -7,6 +7,15 @@ substratum-monetall:
   categories: 
     - Theming
 
+shizuku-fork:
+  git: https://github.com/thedjchi/Shizuku
+  name: "Shizuku thedjchi's fork"
+  description: |
+    Shizuku but on steroid
+
+  categories: 
+    - System
+
 gamenativegridset:
   git: https://github.com/Lobanokivan11/Gamenative-SteamGridDb-setter
   name: "GameNative SteamGridDB setter"
