@@ -1,0 +1,13 @@
+AuthorName: thedjchi
+Categories:
+    - System
+CurrentVersion: 13.6.0.r1311-thedjchi
+CurrentVersionCode: 1311
+Description: |
+    Shizuku but on steroid
+IssueTracker: ""
+License: Apache-2.0
+Name: Shizuku thedjchi's fork
+SourceCode: https://github.com/thedjchi/Shizuku
+Summary: Using system APIs directly with adb/root privileges from normal apps through ...
+WebSite: ""

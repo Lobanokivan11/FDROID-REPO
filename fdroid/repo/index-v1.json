@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1770534939000,
+    "timestamp": 1770537627000,
     "version": 20002,
     "name": "Lobanokivan11's F-Droid Repo",
     "icon": "icon.png",
@@ -493,6 +493,27 @@
       "localized": {
         "en-US": {
           "whatsNew": "Debug Builds"
+        }
+      }
+    },
+    {
+      "authorName": "thedjchi",
+      "categories": [
+        "System"
+      ],
+      "suggestedVersionName": "13.6.0.r1311-thedjchi",
+      "suggestedVersionCode": "1311",
+      "description": "Shizuku but on steroid\n",
+      "license": "Apache-2.0",
+      "name": "Shizuku thedjchi's fork",
+      "sourceCode": "https://github.com/thedjchi/Shizuku",
+      "summary": "Using system APIs directly with adb/root privileges from normal apps through ...",
+      "added": 1770537454000,
+      "packageName": "moe.shizuku.privileged.api",
+      "lastUpdated": 1770537464000,
+      "localized": {
+        "en-US": {
+          "whatsNew": "### BETA USERS: the same changes are included in [v13.6.0.r1349-thedjchi-beta](https://github.com/thedjchi/Shizuku/releases/tag/v13.6.0.r1349-thedjchi-beta)\n\n## What's Changed\n* **[BREAKING CHANGE] [IMPROVEMENT]** Start/stop intents now require an auth token for security. The auth token can be found by tapping \"View intents\" in the app (See #111)\n* **[NEW FEATURE]** Added a toggle to auto-disable USB debugging when stopping Shizuku (See #110)\n* **[UI]** Intents are now displayed in a bottom shee"
         }
       }
     },
@@ -45380,6 +45401,1402 @@
         ],
         "versionCode": 4,
         "versionName": "7.0.0"
+      }
+    ],
+    "moe.shizuku.privileged.api": [
+      {
+        "added": 1770537464000,
+        "apkName": "shizuku-fork_v13.6.0.r1311-thedjchi.apk",
+        "hash": "77f5a2299b472b84ea77b138df42e2633741bf223255795a607659982e61aef1",
+        "hashType": "sha256",
+        "minSdkVersion": 24,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "moe.shizuku.privileged.api",
+        "sig": "3fc912a0bd8ee3e1b8ee10be89b93216",
+        "signer": "947e81ed49d6cde4006bd64b94ab69e63f50074ce01451d1bf30acb14e591f37",
+        "size": 3242231,
+        "targetSdkVersion": 36,
+        "uses-permission": [
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_SPECIAL_USE",
+            null
+          ],
+          [
+            "android.permission.WRITE_SECURE_SETTINGS",
+            null
+          ],
+          [
+            "moe.shizuku.manager.permission.MANAGER",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ]
+        ],
+        "versionCode": 1311,
+        "versionName": "13.6.0.r1311-thedjchi"
+      },
+      {
+        "added": 1770537463000,
+        "apkName": "shizuku-fork_v13.6.0.r1290-thedjchi.apk",
+        "hash": "a6d6c0c0118b123f10b585a27db25f65d5f0de263135b7d9ebba9569708f784e",
+        "hashType": "sha256",
+        "minSdkVersion": 24,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "moe.shizuku.privileged.api",
+        "sig": "3fc912a0bd8ee3e1b8ee10be89b93216",
+        "signer": "947e81ed49d6cde4006bd64b94ab69e63f50074ce01451d1bf30acb14e591f37",
+        "size": 3238068,
+        "targetSdkVersion": 36,
+        "uses-permission": [
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_SPECIAL_USE",
+            null
+          ],
+          [
+            "android.permission.WRITE_SECURE_SETTINGS",
+            null
+          ],
+          [
+            "moe.shizuku.manager.permission.MANAGER",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ]
+        ],
+        "versionCode": 1290,
+        "versionName": "13.6.0.r1290-thedjchi"
+      },
+      {
+        "added": 1770537463000,
+        "apkName": "shizuku-fork_v13.6.0.r1284-thedjchi.apk",
+        "hash": "f532469b86b1391355f049aeea07b782dedc026ab763b8a9e94fa6109d91bc0e",
+        "hashType": "sha256",
+        "minSdkVersion": 24,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "moe.shizuku.privileged.api",
+        "sig": "3fc912a0bd8ee3e1b8ee10be89b93216",
+        "signer": "947e81ed49d6cde4006bd64b94ab69e63f50074ce01451d1bf30acb14e591f37",
+        "size": 8013959,
+        "targetSdkVersion": 36,
+        "uses-permission": [
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_SPECIAL_USE",
+            null
+          ],
+          [
+            "android.permission.WRITE_SECURE_SETTINGS",
+            null
+          ],
+          [
+            "moe.shizuku.manager.permission.MANAGER",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ]
+        ],
+        "versionCode": 1284,
+        "versionName": "13.6.0.r1284-thedjchi"
+      },
+      {
+        "added": 1770537462000,
+        "apkName": "shizuku-fork_v13.6.0.r1281-thedjchi.apk",
+        "hash": "2c3b9fccfe46970b3dd78923a0421017fcdadaf7cba69c92e57436eacfa1ab6d",
+        "hashType": "sha256",
+        "minSdkVersion": 24,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "moe.shizuku.privileged.api",
+        "sig": "3fc912a0bd8ee3e1b8ee10be89b93216",
+        "signer": "947e81ed49d6cde4006bd64b94ab69e63f50074ce01451d1bf30acb14e591f37",
+        "size": 8013275,
+        "targetSdkVersion": 36,
+        "uses-permission": [
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_SPECIAL_USE",
+            null
+          ],
+          [
+            "android.permission.WRITE_SECURE_SETTINGS",
+            null
+          ],
+          [
+            "moe.shizuku.manager.permission.MANAGER",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ]
+        ],
+        "versionCode": 1281,
+        "versionName": "13.6.0.r1281-thedjchi"
+      },
+      {
+        "added": 1770537462000,
+        "apkName": "shizuku-fork_v13.6.0.r1274-thedjchi.apk",
+        "hash": "07ff027bc64d004b033c573f8c0d74a0822047f2604f0f11340e29988ac12af9",
+        "hashType": "sha256",
+        "minSdkVersion": 24,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "moe.shizuku.privileged.api",
+        "sig": "3fc912a0bd8ee3e1b8ee10be89b93216",
+        "signer": "947e81ed49d6cde4006bd64b94ab69e63f50074ce01451d1bf30acb14e591f37",
+        "size": 3110859,
+        "targetSdkVersion": 36,
+        "uses-permission": [
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_SPECIAL_USE",
+            null
+          ],
+          [
+            "android.permission.WRITE_SECURE_SETTINGS",
+            null
+          ],
+          [
+            "moe.shizuku.manager.permission.MANAGER",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ]
+        ],
+        "versionCode": 1274,
+        "versionName": "13.6.0.r1274"
+      },
+      {
+        "added": 1770537461000,
+        "apkName": "shizuku-fork_v13.6.0.r1259-thedjchi.apk",
+        "hash": "ed85c74efb76ef5734b539c9e5e2a964ef993582955b0d6b5c0021a9567b586a",
+        "hashType": "sha256",
+        "minSdkVersion": 24,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "moe.shizuku.privileged.api",
+        "sig": "3fc912a0bd8ee3e1b8ee10be89b93216",
+        "signer": "947e81ed49d6cde4006bd64b94ab69e63f50074ce01451d1bf30acb14e591f37",
+        "size": 3131247,
+        "targetSdkVersion": 36,
+        "uses-permission": [
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_SPECIAL_USE",
+            null
+          ],
+          [
+            "android.permission.WRITE_SECURE_SETTINGS",
+            null
+          ],
+          [
+            "moe.shizuku.manager.permission.MANAGER",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ]
+        ],
+        "versionCode": 1259,
+        "versionName": "13.6.0.r1259"
+      },
+      {
+        "added": 1770537461000,
+        "apkName": "shizuku-fork_v13.6.0.r1254-thedjchi.apk",
+        "hash": "3636e6e7a884aec48c08909f1aa0e2368a9d21015af1f25c72034babee2be580",
+        "hashType": "sha256",
+        "minSdkVersion": 24,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "moe.shizuku.privileged.api",
+        "sig": "3fc912a0bd8ee3e1b8ee10be89b93216",
+        "signer": "947e81ed49d6cde4006bd64b94ab69e63f50074ce01451d1bf30acb14e591f37",
+        "size": 3094066,
+        "targetSdkVersion": 36,
+        "uses-permission": [
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_SPECIAL_USE",
+            null
+          ],
+          [
+            "android.permission.WRITE_SECURE_SETTINGS",
+            null
+          ],
+          [
+            "moe.shizuku.manager.permission.MANAGER",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ]
+        ],
+        "versionCode": 1254,
+        "versionName": "13.6.0.r1254.7a22a4d4"
+      },
+      {
+        "added": 1770537461000,
+        "apkName": "shizuku-fork_v13.6.0.r1251-thedjchi.apk",
+        "hash": "77ea35df1c3249cb3d219f77ac7fda0fd6d513db231e3617a8d8428f365fc7b3",
+        "hashType": "sha256",
+        "minSdkVersion": 24,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "moe.shizuku.privileged.api",
+        "sig": "3fc912a0bd8ee3e1b8ee10be89b93216",
+        "signer": "947e81ed49d6cde4006bd64b94ab69e63f50074ce01451d1bf30acb14e591f37",
+        "size": 3108374,
+        "targetSdkVersion": 36,
+        "uses-permission": [
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_SPECIAL_USE",
+            null
+          ],
+          [
+            "android.permission.WRITE_SECURE_SETTINGS",
+            null
+          ],
+          [
+            "moe.shizuku.manager.permission.MANAGER",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ]
+        ],
+        "versionCode": 1251,
+        "versionName": "13.6.0.r1251.6165904d"
+      },
+      {
+        "added": 1770537460000,
+        "apkName": "shizuku-fork_v13.6.0.r1243-thedjchi.apk",
+        "hash": "27b69d99233d0343a01fbd7a7ab0734f29fa1a1ce32968740876402c5f217789",
+        "hashType": "sha256",
+        "minSdkVersion": 24,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "moe.shizuku.privileged.api",
+        "sig": "3fc912a0bd8ee3e1b8ee10be89b93216",
+        "signer": "947e81ed49d6cde4006bd64b94ab69e63f50074ce01451d1bf30acb14e591f37",
+        "size": 3164286,
+        "targetSdkVersion": 36,
+        "uses-permission": [
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_SPECIAL_USE",
+            null
+          ],
+          [
+            "android.permission.WRITE_SECURE_SETTINGS",
+            null
+          ],
+          [
+            "moe.shizuku.manager.permission.MANAGER",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ]
+        ],
+        "versionCode": 1243,
+        "versionName": "13.6.0.r1243.1b70c5bd"
+      },
+      {
+        "added": 1770537460000,
+        "apkName": "shizuku-fork_v13.6.0.r1240-thedjchi.apk",
+        "hash": "f99d9abf1d15335ee5b594a0bdbed36913022b7036157850ad1f31ef78eab9b2",
+        "hashType": "sha256",
+        "minSdkVersion": 24,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "moe.shizuku.privileged.api",
+        "sig": "3fc912a0bd8ee3e1b8ee10be89b93216",
+        "signer": "947e81ed49d6cde4006bd64b94ab69e63f50074ce01451d1bf30acb14e591f37",
+        "size": 3163562,
+        "targetSdkVersion": 36,
+        "uses-permission": [
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_SPECIAL_USE",
+            null
+          ],
+          [
+            "android.permission.WRITE_SECURE_SETTINGS",
+            null
+          ],
+          [
+            "moe.shizuku.manager.permission.MANAGER",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ]
+        ],
+        "versionCode": 1240,
+        "versionName": "13.6.0.r1240.956f7165"
+      },
+      {
+        "added": 1770537459000,
+        "apkName": "shizuku-fork_v13.6.0.r1230-thedjchi.apk",
+        "hash": "d37952c554a515c9ffe06305661bcb248fb4676a7dcf0f42e0df14c6ac750d4d",
+        "hashType": "sha256",
+        "minSdkVersion": 24,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "moe.shizuku.privileged.api",
+        "sig": "3fc912a0bd8ee3e1b8ee10be89b93216",
+        "signer": "947e81ed49d6cde4006bd64b94ab69e63f50074ce01451d1bf30acb14e591f37",
+        "size": 3181154,
+        "targetSdkVersion": 36,
+        "uses-permission": [
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_SPECIAL_USE",
+            null
+          ],
+          [
+            "android.permission.WRITE_SECURE_SETTINGS",
+            null
+          ],
+          [
+            "moe.shizuku.manager.permission.MANAGER",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ]
+        ],
+        "versionCode": 1230,
+        "versionName": "13.6.0.r1230.1a8a623d"
+      },
+      {
+        "added": 1770537459000,
+        "apkName": "shizuku-fork_v13.6.0.r1229-thedjchi.apk",
+        "hash": "34fab1cca73103d059ff6e7fc3b49edfedf73a9ab9d82dc76ff995bb60ba43b3",
+        "hashType": "sha256",
+        "minSdkVersion": 24,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "moe.shizuku.privileged.api",
+        "sig": "3fc912a0bd8ee3e1b8ee10be89b93216",
+        "signer": "947e81ed49d6cde4006bd64b94ab69e63f50074ce01451d1bf30acb14e591f37",
+        "size": 3183918,
+        "targetSdkVersion": 36,
+        "uses-permission": [
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_SPECIAL_USE",
+            null
+          ],
+          [
+            "android.permission.WRITE_SECURE_SETTINGS",
+            null
+          ],
+          [
+            "moe.shizuku.manager.permission.MANAGER",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ]
+        ],
+        "versionCode": 1229,
+        "versionName": "13.6.0.r1229.35adb053"
+      },
+      {
+        "added": 1770537458000,
+        "apkName": "shizuku-fork_v13.6.0.r1216-thedjchi.apk",
+        "hash": "0f5f45792a067eb8967d347d5256881114e1528397af4a4869914daa8e3eee41",
+        "hashType": "sha256",
+        "minSdkVersion": 24,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "moe.shizuku.privileged.api",
+        "sig": "3fc912a0bd8ee3e1b8ee10be89b93216",
+        "signer": "947e81ed49d6cde4006bd64b94ab69e63f50074ce01451d1bf30acb14e591f37",
+        "size": 3150562,
+        "targetSdkVersion": 36,
+        "uses-permission": [
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_SPECIAL_USE",
+            null
+          ],
+          [
+            "android.permission.WRITE_SECURE_SETTINGS",
+            null
+          ],
+          [
+            "moe.shizuku.manager.permission.MANAGER",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ]
+        ],
+        "versionCode": 1216,
+        "versionName": "13.6.0.r1216.d108066c"
+      },
+      {
+        "added": 1770537458000,
+        "apkName": "shizuku-fork_v13.6.0.r1196-thedjchi.apk",
+        "hash": "da8f8a4475c9e6837ae2d106b6d5abdc7f4a9ae2199f9b0512b35eb9b0cc4854",
+        "hashType": "sha256",
+        "minSdkVersion": 24,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "moe.shizuku.privileged.api",
+        "sig": "3fc912a0bd8ee3e1b8ee10be89b93216",
+        "signer": "947e81ed49d6cde4006bd64b94ab69e63f50074ce01451d1bf30acb14e591f37",
+        "size": 2751486,
+        "targetSdkVersion": 36,
+        "uses-permission": [
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_SPECIAL_USE",
+            null
+          ],
+          [
+            "android.permission.WRITE_SECURE_SETTINGS",
+            null
+          ],
+          [
+            "moe.shizuku.manager.permission.MANAGER",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ]
+        ],
+        "versionCode": 1196,
+        "versionName": "13.6.0.r1196.c72591bb"
+      },
+      {
+        "added": 1770537458000,
+        "apkName": "shizuku-fork_v13.6.0.r1169-thedjchi.apk",
+        "hash": "8a351909b6bd92cbe8a5fc0c3bc8f0954d87276d8634470fab471bbbd4f6693c",
+        "hashType": "sha256",
+        "minSdkVersion": 24,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "moe.shizuku.privileged.api",
+        "sig": "3fc912a0bd8ee3e1b8ee10be89b93216",
+        "signer": "947e81ed49d6cde4006bd64b94ab69e63f50074ce01451d1bf30acb14e591f37",
+        "size": 2740957,
+        "targetSdkVersion": 36,
+        "uses-permission": [
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_SPECIAL_USE",
+            null
+          ],
+          [
+            "android.permission.WRITE_SECURE_SETTINGS",
+            null
+          ],
+          [
+            "moe.shizuku.manager.permission.MANAGER",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ]
+        ],
+        "versionCode": 1169,
+        "versionName": "13.6.0.r1169.f8d8c644"
+      },
+      {
+        "added": 1770537457000,
+        "apkName": "shizuku-fork_v13.6.0.r1159-thedjchi.apk",
+        "hash": "8fcd73b03c4a51b30b828181299f3493b959c066acd0e46a55930f1c23cf4327",
+        "hashType": "sha256",
+        "minSdkVersion": 24,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "moe.shizuku.privileged.api",
+        "sig": "3fc912a0bd8ee3e1b8ee10be89b93216",
+        "signer": "947e81ed49d6cde4006bd64b94ab69e63f50074ce01451d1bf30acb14e591f37",
+        "size": 2739973,
+        "targetSdkVersion": 36,
+        "uses-permission": [
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.SCHEDULE_EXACT_ALARM",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_SPECIAL_USE",
+            null
+          ],
+          [
+            "android.permission.WRITE_SECURE_SETTINGS",
+            null
+          ],
+          [
+            "moe.shizuku.manager.permission.MANAGER",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ]
+        ],
+        "versionCode": 1159,
+        "versionName": "13.6.0.r1159.bce2450f"
+      },
+      {
+        "added": 1770537457000,
+        "apkName": "shizuku-fork_v13.6.0.r1155-thedjchi.apk",
+        "hash": "6fa7a6ad7f8012ff9dc2ea7fe127905d87e810d8c6dadfddcb2effcb3e6dd11e",
+        "hashType": "sha256",
+        "minSdkVersion": 24,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "moe.shizuku.privileged.api",
+        "sig": "3fc912a0bd8ee3e1b8ee10be89b93216",
+        "signer": "947e81ed49d6cde4006bd64b94ab69e63f50074ce01451d1bf30acb14e591f37",
+        "size": 2739245,
+        "targetSdkVersion": 36,
+        "uses-permission": [
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.SCHEDULE_EXACT_ALARM",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_SPECIAL_USE",
+            null
+          ],
+          [
+            "android.permission.WRITE_SECURE_SETTINGS",
+            null
+          ],
+          [
+            "moe.shizuku.manager.permission.MANAGER",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ]
+        ],
+        "versionCode": 1155,
+        "versionName": "13.6.0.r1155.3234d463"
+      },
+      {
+        "added": 1770537456000,
+        "apkName": "shizuku-fork_v13.6.0.r1136-thedjchi.apk",
+        "hash": "180bf5fded067446bbb0db23e1327512363ce53e3a712cbd6e4723a5632f1ef7",
+        "hashType": "sha256",
+        "minSdkVersion": 24,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "moe.shizuku.privileged.api",
+        "sig": "3fc912a0bd8ee3e1b8ee10be89b93216",
+        "signer": "947e81ed49d6cde4006bd64b94ab69e63f50074ce01451d1bf30acb14e591f37",
+        "size": 2729865,
+        "targetSdkVersion": 36,
+        "uses-permission": [
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_SECURE_SETTINGS",
+            null
+          ],
+          [
+            "moe.shizuku.manager.permission.MANAGER",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ]
+        ],
+        "versionCode": 1136,
+        "versionName": "13.6.0.r1136.03264465"
+      },
+      {
+        "added": 1770537456000,
+        "apkName": "shizuku-fork_v13.6.0.r1131-thedjchi.apk",
+        "hash": "7e9e7b28289c84731facd6c46758627a60c5094840a5c37e84b8027fe1d38b72",
+        "hashType": "sha256",
+        "minSdkVersion": 24,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "moe.shizuku.privileged.api",
+        "sig": "3fc912a0bd8ee3e1b8ee10be89b93216",
+        "signer": "947e81ed49d6cde4006bd64b94ab69e63f50074ce01451d1bf30acb14e591f37",
+        "size": 2728389,
+        "targetSdkVersion": 36,
+        "uses-permission": [
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_SECURE_SETTINGS",
+            null
+          ],
+          [
+            "moe.shizuku.manager.permission.MANAGER",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ]
+        ],
+        "versionCode": 1131,
+        "versionName": "13.6.0.r1131.7b88d10a"
+      },
+      {
+        "added": 1770537456000,
+        "apkName": "shizuku-fork_v13.6.0.r1129-thedjchi.apk",
+        "hash": "610b24c17a1b90791e022a3f2fd89f449d3e122447306ca6c2a41b0c36637d09",
+        "hashType": "sha256",
+        "minSdkVersion": 24,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "moe.shizuku.privileged.api",
+        "sig": "3fc912a0bd8ee3e1b8ee10be89b93216",
+        "signer": "947e81ed49d6cde4006bd64b94ab69e63f50074ce01451d1bf30acb14e591f37",
+        "size": 2728349,
+        "targetSdkVersion": 36,
+        "uses-permission": [
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_SECURE_SETTINGS",
+            null
+          ],
+          [
+            "moe.shizuku.manager.permission.MANAGER",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ]
+        ],
+        "versionCode": 1129,
+        "versionName": "13.6.0.r1129.9a41c92c"
+      },
+      {
+        "added": 1770537455000,
+        "apkName": "shizuku-fork_v13.6.0.r1117-thedjchi.apk",
+        "hash": "0cc44e4f62da5fbe2beb6b632738bb033603afce56883bf3e278e9989027e5c5",
+        "hashType": "sha256",
+        "minSdkVersion": 24,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "moe.shizuku.privileged.api",
+        "sig": "3fc912a0bd8ee3e1b8ee10be89b93216",
+        "signer": "947e81ed49d6cde4006bd64b94ab69e63f50074ce01451d1bf30acb14e591f37",
+        "size": 2716797,
+        "targetSdkVersion": 36,
+        "uses-permission": [
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_SECURE_SETTINGS",
+            null
+          ],
+          [
+            "moe.shizuku.manager.permission.MANAGER",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ]
+        ],
+        "versionCode": 1117,
+        "versionName": "13.6.0.r1117.e16ce692"
+      },
+      {
+        "added": 1770537455000,
+        "apkName": "shizuku-fork_v13.6.0.r1113-thedjchi.apk",
+        "hash": "1bda927b443a25f9b087c75660f89ac56670ace18846dcd0ae47068730ad1013",
+        "hashType": "sha256",
+        "minSdkVersion": 24,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "moe.shizuku.privileged.api",
+        "sig": "3fc912a0bd8ee3e1b8ee10be89b93216",
+        "signer": "947e81ed49d6cde4006bd64b94ab69e63f50074ce01451d1bf30acb14e591f37",
+        "size": 2678968,
+        "targetSdkVersion": 36,
+        "uses-permission": [
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_SPECIAL_USE",
+            null
+          ],
+          [
+            "android.permission.WRITE_SECURE_SETTINGS",
+            null
+          ],
+          [
+            "moe.shizuku.manager.permission.MANAGER",
+            null
+          ]
+        ],
+        "versionCode": 1113,
+        "versionName": "13.6.0.r1113.cdfec023"
+      },
+      {
+        "added": 1770537454000,
+        "apkName": "shizuku-fork_v13.6.0-thedjchi.apk",
+        "hash": "27dea4efd002bebbae46f94eee80f89037931047a5b6aee5c78e53fa1fa2a165",
+        "hashType": "sha256",
+        "minSdkVersion": 24,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "moe.shizuku.privileged.api",
+        "sig": "624a08a2ead1ebb30d1d82586535996d",
+        "signer": "f05efc9b2d263e7a1d05bbe670e71c73ec4e6855413a9fcc1ca3bab220f12d4b",
+        "size": 11946150,
+        "targetSdkVersion": 36,
+        "uses-permission": [
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_SPECIAL_USE",
+            null
+          ],
+          [
+            "android.permission.WRITE_SECURE_SETTINGS",
+            null
+          ],
+          [
+            "moe.shizuku.manager.permission.MANAGER",
+            null
+          ]
+        ],
+        "versionCode": 1107,
+        "versionName": "13.6.0.r1107.22fbfa0b"
       }
     ],
     "nekox.messenger.broken": [

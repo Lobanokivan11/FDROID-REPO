@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="icon.png" name="Lobanokivan11's F-Droid Repo" pubkey="308204f0308202d8a003020102020900aa0527e64906854b300d06092a864886f70d01010b050030253110300e060355040b1307462d44726f69643111300f0603550403130841584f2d557365723020170d3235303632373132353035305a180f32303532313131323132353035305a30253110300e060355040b1307462d44726f69643111300f0603550403130841584f2d5573657230820222300d06092a864886f70d01010105000382020f003082020a0282020100e292f147f1d12c06b54004d33ef0249fbfa5cb575e74e33f7ef11740a06888eb14a68e3a7cda7854de7c0e16248289ef440b87b16015a6cdfc7456ca24b7c03f8abfa89f94215a0f235b2111b95d3edee214d2c747f13ea171ad07db5a119ddb91ebc4c089c54aaa20c719b7bf5fc3ed636489eafa1016c459269447a3fbc40622d62a3efb7437bbc1a4f8d06d26298398eb1145354be9deef0812b9a854f8547d015cda1b5242a0d32d92c1ead25dce341fef71a49ad4a8dc5441d8637cc69019fa528f05adc2cfb2b357d99f1226f700800b4401e461f475dff60170e5e2f7bf55cd7e7372441d33098f90d56010b90955d2aa81ebdf841b2e5780a1276a0073db5ffe644b5720578442c1dd44784a205331b4cee61f6456b89719b4c1c85c5325ac06bd744aa85fc620d7f59c6acc26c0f00713967e08f8a66c6b07fc23b3a3868f504e9afa0385823a1e890fabefc6d7aa68a3533894388dd7d04eb03b5f6f23aa2614dbfa6e3d32d5266edd8b643b6b4d903e663d448cd7c4803ee090c54cc8d0249dd3db53352259d3b7a79798eaed934462b9a79cb71844c55dff1a94076e740af209861aabab7f946b76c605c8f2a308ba87bd52e63c6335e1f98bf69c897259609c249f9c83907309db019d8cb3a4a0e26b23ba8dabf37918801fd1a8e2fc84f34192d41583255a4f35a20371c32fdf1a4c93cbe2b1a1b82597deb70203010001a321301f301d0603551d0e0416041470130289d750ce245977dbca02acb48dbff0e31e300d06092a864886f70d01010b050003820201005454d576c5f5f25e0ee7011e46266bb5bb07ff51a8179ba7ca6f9a6b17bf77bac316933e2ed8586cfaa34cb8af5bbfe89ffbfe9f3fffe66f5e039673f8544bde5e923cb08820d17531cc7414429c48a4272f65578351121b6cca17f3633025e4295a96316fcdf6343630c9662baedf6ecd9b8efedca812b80d6e6d50cd7618ee76dc3c88ae36570e37b5e62fa03734f7ff983918d373685766c23a8d99a8b5ec4c5e42b861cd79124686682a58a420b8ab677d528bb9e2d03e067f5fea4d78088318cad255bc8e5282385df32ec02be323e3ce4559e9f45757ae3aca1bf645bb6283a90086cddc7a82bfae486e57592339968acce21d0471f20e7f54c3ed5295ad91b0e61e5070283495558931c99ddfca434e22070e50759025b39294f08fde6c6449434649f5620f809f65eefa94c93e0dd5d23deda89efbc1c98f7265daaecf13f1d6e5a0de34e6c5aa0d34303e157dc3c28dc6f2ed3c91d1f0f8afbf8ee640007b8def8b2c57da43a8a65d22667421c9588376721b112f45237299c7bea99852c3558059af416ea99f36f191288f86b2f0e9b2c1f2824233d0f35044fc46cb88d4f0680f8706fe365d6e92e0cadeeb1f2de6b14c02eddfb6d4c324a79b9f46fb25533e2a0c02d3254c7f75d8931756f7b89da4092dd793bd1f717326a8ad57a3a5b3763b14470d2acb01560294094c97ef354afe7d6ee530b247f3bb211a" timestamp="1770534939" url="https://raw.githubusercontent.com/Lobanokivan11/FDROID-REPO/refs/heads/main/fdroid/repo" version="20002">
+	<repo icon="icon.png" name="Lobanokivan11's F-Droid Repo" pubkey="308204f0308202d8a003020102020900aa0527e64906854b300d06092a864886f70d01010b050030253110300e060355040b1307462d44726f69643111300f0603550403130841584f2d557365723020170d3235303632373132353035305a180f32303532313131323132353035305a30253110300e060355040b1307462d44726f69643111300f0603550403130841584f2d5573657230820222300d06092a864886f70d01010105000382020f003082020a0282020100e292f147f1d12c06b54004d33ef0249fbfa5cb575e74e33f7ef11740a06888eb14a68e3a7cda7854de7c0e16248289ef440b87b16015a6cdfc7456ca24b7c03f8abfa89f94215a0f235b2111b95d3edee214d2c747f13ea171ad07db5a119ddb91ebc4c089c54aaa20c719b7bf5fc3ed636489eafa1016c459269447a3fbc40622d62a3efb7437bbc1a4f8d06d26298398eb1145354be9deef0812b9a854f8547d015cda1b5242a0d32d92c1ead25dce341fef71a49ad4a8dc5441d8637cc69019fa528f05adc2cfb2b357d99f1226f700800b4401e461f475dff60170e5e2f7bf55cd7e7372441d33098f90d56010b90955d2aa81ebdf841b2e5780a1276a0073db5ffe644b5720578442c1dd44784a205331b4cee61f6456b89719b4c1c85c5325ac06bd744aa85fc620d7f59c6acc26c0f00713967e08f8a66c6b07fc23b3a3868f504e9afa0385823a1e890fabefc6d7aa68a3533894388dd7d04eb03b5f6f23aa2614dbfa6e3d32d5266edd8b643b6b4d903e663d448cd7c4803ee090c54cc8d0249dd3db53352259d3b7a79798eaed934462b9a79cb71844c55dff1a94076e740af209861aabab7f946b76c605c8f2a308ba87bd52e63c6335e1f98bf69c897259609c249f9c83907309db019d8cb3a4a0e26b23ba8dabf37918801fd1a8e2fc84f34192d41583255a4f35a20371c32fdf1a4c93cbe2b1a1b82597deb70203010001a321301f301d0603551d0e0416041470130289d750ce245977dbca02acb48dbff0e31e300d06092a864886f70d01010b050003820201005454d576c5f5f25e0ee7011e46266bb5bb07ff51a8179ba7ca6f9a6b17bf77bac316933e2ed8586cfaa34cb8af5bbfe89ffbfe9f3fffe66f5e039673f8544bde5e923cb08820d17531cc7414429c48a4272f65578351121b6cca17f3633025e4295a96316fcdf6343630c9662baedf6ecd9b8efedca812b80d6e6d50cd7618ee76dc3c88ae36570e37b5e62fa03734f7ff983918d373685766c23a8d99a8b5ec4c5e42b861cd79124686682a58a420b8ab677d528bb9e2d03e067f5fea4d78088318cad255bc8e5282385df32ec02be323e3ce4559e9f45757ae3aca1bf645bb6283a90086cddc7a82bfae486e57592339968acce21d0471f20e7f54c3ed5295ad91b0e61e5070283495558931c99ddfca434e22070e50759025b39294f08fde6c6449434649f5620f809f65eefa94c93e0dd5d23deda89efbc1c98f7265daaecf13f1d6e5a0de34e6c5aa0d34303e157dc3c28dc6f2ed3c91d1f0f8afbf8ee640007b8def8b2c57da43a8a65d22667421c9588376721b112f45237299c7bea99852c3558059af416ea99f36f191288f86b2f0e9b2c1f2824233d0f35044fc46cb88d4f0680f8706fe365d6e92e0cadeeb1f2de6b14c02eddfb6d4c324a79b9f46fb25533e2a0c02d3254c7f75d8931756f7b89da4092dd793bd1f717326a8ad57a3a5b3763b14470d2acb01560294094c97ef354afe7d6ee530b247f3bb211a" timestamp="1770537627" url="https://raw.githubusercontent.com/Lobanokivan11/FDROID-REPO/refs/heads/main/fdroid/repo" version="20002">
 		<description>This is Repository of Lobanokivan11</description>
 	</repo>
 	<application id="com.limelight.game.noir">
@@ -3750,6 +3750,323 @@
 			<added>2025-08-01</added>
 			<sig>476304823722d5207e4424303f1846d7</sig>
 			<permissions>INTERNET,com.android.vending.CHECK_LICENSE,substratum.theme.webview.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+		</package>
+	</application>
+	<application id="moe.shizuku.privileged.api">
+		<id>moe.shizuku.privileged.api</id>
+		<added>2026-02-08</added>
+		<lastupdated>2026-02-08</lastupdated>
+		<name>Shizuku thedjchi's fork</name>
+		<summary>Using system APIs directly with adb/root privileges from normal apps through ...</summary>
+		<desc>Shizuku but on steroid
+</desc>
+		<license>Apache-2.0</license>
+		<categories>System</categories>
+		<category>System</category>
+		<web></web>
+		<source>https://github.com/thedjchi/Shizuku</source>
+		<tracker></tracker>
+		<author>thedjchi</author>
+		<marketversion>13.6.0.r1311-thedjchi</marketversion>
+		<marketvercode>1311</marketvercode>
+		<package>
+			<version>13.6.0.r1311-thedjchi</version>
+			<versioncode>1311</versioncode>
+			<apkname>shizuku-fork_v13.6.0.r1311-thedjchi.apk</apkname>
+			<hash type="sha256">77f5a2299b472b84ea77b138df42e2633741bf223255795a607659982e61aef1</hash>
+			<size>3242231</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-02-08</added>
+			<sig>3fc912a0bd8ee3e1b8ee10be89b93216</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,WAKE_LOCK,WRITE_SECURE_SETTINGS,moe.shizuku.manager.permission.MANAGER</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>13.6.0.r1290-thedjchi</version>
+			<versioncode>1290</versioncode>
+			<apkname>shizuku-fork_v13.6.0.r1290-thedjchi.apk</apkname>
+			<hash type="sha256">a6d6c0c0118b123f10b585a27db25f65d5f0de263135b7d9ebba9569708f784e</hash>
+			<size>3238068</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-02-08</added>
+			<sig>3fc912a0bd8ee3e1b8ee10be89b93216</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,WAKE_LOCK,WRITE_SECURE_SETTINGS,moe.shizuku.manager.permission.MANAGER</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>13.6.0.r1284-thedjchi</version>
+			<versioncode>1284</versioncode>
+			<apkname>shizuku-fork_v13.6.0.r1284-thedjchi.apk</apkname>
+			<hash type="sha256">f532469b86b1391355f049aeea07b782dedc026ab763b8a9e94fa6109d91bc0e</hash>
+			<size>8013959</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-02-08</added>
+			<sig>3fc912a0bd8ee3e1b8ee10be89b93216</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,WAKE_LOCK,WRITE_SECURE_SETTINGS,moe.shizuku.manager.permission.MANAGER</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>13.6.0.r1281-thedjchi</version>
+			<versioncode>1281</versioncode>
+			<apkname>shizuku-fork_v13.6.0.r1281-thedjchi.apk</apkname>
+			<hash type="sha256">2c3b9fccfe46970b3dd78923a0421017fcdadaf7cba69c92e57436eacfa1ab6d</hash>
+			<size>8013275</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-02-08</added>
+			<sig>3fc912a0bd8ee3e1b8ee10be89b93216</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,WAKE_LOCK,WRITE_SECURE_SETTINGS,moe.shizuku.manager.permission.MANAGER</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>13.6.0.r1274</version>
+			<versioncode>1274</versioncode>
+			<apkname>shizuku-fork_v13.6.0.r1274-thedjchi.apk</apkname>
+			<hash type="sha256">07ff027bc64d004b033c573f8c0d74a0822047f2604f0f11340e29988ac12af9</hash>
+			<size>3110859</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-02-08</added>
+			<sig>3fc912a0bd8ee3e1b8ee10be89b93216</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,WAKE_LOCK,WRITE_SECURE_SETTINGS,moe.shizuku.manager.permission.MANAGER</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>13.6.0.r1259</version>
+			<versioncode>1259</versioncode>
+			<apkname>shizuku-fork_v13.6.0.r1259-thedjchi.apk</apkname>
+			<hash type="sha256">ed85c74efb76ef5734b539c9e5e2a964ef993582955b0d6b5c0021a9567b586a</hash>
+			<size>3131247</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-02-08</added>
+			<sig>3fc912a0bd8ee3e1b8ee10be89b93216</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,WAKE_LOCK,WRITE_SECURE_SETTINGS,moe.shizuku.manager.permission.MANAGER</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>13.6.0.r1254.7a22a4d4</version>
+			<versioncode>1254</versioncode>
+			<apkname>shizuku-fork_v13.6.0.r1254-thedjchi.apk</apkname>
+			<hash type="sha256">3636e6e7a884aec48c08909f1aa0e2368a9d21015af1f25c72034babee2be580</hash>
+			<size>3094066</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-02-08</added>
+			<sig>3fc912a0bd8ee3e1b8ee10be89b93216</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,WAKE_LOCK,WRITE_SECURE_SETTINGS,moe.shizuku.manager.permission.MANAGER</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>13.6.0.r1251.6165904d</version>
+			<versioncode>1251</versioncode>
+			<apkname>shizuku-fork_v13.6.0.r1251-thedjchi.apk</apkname>
+			<hash type="sha256">77ea35df1c3249cb3d219f77ac7fda0fd6d513db231e3617a8d8428f365fc7b3</hash>
+			<size>3108374</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-02-08</added>
+			<sig>3fc912a0bd8ee3e1b8ee10be89b93216</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,WAKE_LOCK,WRITE_SECURE_SETTINGS,moe.shizuku.manager.permission.MANAGER</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>13.6.0.r1243.1b70c5bd</version>
+			<versioncode>1243</versioncode>
+			<apkname>shizuku-fork_v13.6.0.r1243-thedjchi.apk</apkname>
+			<hash type="sha256">27b69d99233d0343a01fbd7a7ab0734f29fa1a1ce32968740876402c5f217789</hash>
+			<size>3164286</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-02-08</added>
+			<sig>3fc912a0bd8ee3e1b8ee10be89b93216</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,WAKE_LOCK,WRITE_SECURE_SETTINGS,moe.shizuku.manager.permission.MANAGER</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>13.6.0.r1240.956f7165</version>
+			<versioncode>1240</versioncode>
+			<apkname>shizuku-fork_v13.6.0.r1240-thedjchi.apk</apkname>
+			<hash type="sha256">f99d9abf1d15335ee5b594a0bdbed36913022b7036157850ad1f31ef78eab9b2</hash>
+			<size>3163562</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-02-08</added>
+			<sig>3fc912a0bd8ee3e1b8ee10be89b93216</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,WAKE_LOCK,WRITE_SECURE_SETTINGS,moe.shizuku.manager.permission.MANAGER</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>13.6.0.r1230.1a8a623d</version>
+			<versioncode>1230</versioncode>
+			<apkname>shizuku-fork_v13.6.0.r1230-thedjchi.apk</apkname>
+			<hash type="sha256">d37952c554a515c9ffe06305661bcb248fb4676a7dcf0f42e0df14c6ac750d4d</hash>
+			<size>3181154</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-02-08</added>
+			<sig>3fc912a0bd8ee3e1b8ee10be89b93216</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,WAKE_LOCK,WRITE_SECURE_SETTINGS,moe.shizuku.manager.permission.MANAGER</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>13.6.0.r1229.35adb053</version>
+			<versioncode>1229</versioncode>
+			<apkname>shizuku-fork_v13.6.0.r1229-thedjchi.apk</apkname>
+			<hash type="sha256">34fab1cca73103d059ff6e7fc3b49edfedf73a9ab9d82dc76ff995bb60ba43b3</hash>
+			<size>3183918</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-02-08</added>
+			<sig>3fc912a0bd8ee3e1b8ee10be89b93216</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,WAKE_LOCK,WRITE_SECURE_SETTINGS,moe.shizuku.manager.permission.MANAGER</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>13.6.0.r1216.d108066c</version>
+			<versioncode>1216</versioncode>
+			<apkname>shizuku-fork_v13.6.0.r1216-thedjchi.apk</apkname>
+			<hash type="sha256">0f5f45792a067eb8967d347d5256881114e1528397af4a4869914daa8e3eee41</hash>
+			<size>3150562</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-02-08</added>
+			<sig>3fc912a0bd8ee3e1b8ee10be89b93216</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,WAKE_LOCK,WRITE_SECURE_SETTINGS,moe.shizuku.manager.permission.MANAGER</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>13.6.0.r1196.c72591bb</version>
+			<versioncode>1196</versioncode>
+			<apkname>shizuku-fork_v13.6.0.r1196-thedjchi.apk</apkname>
+			<hash type="sha256">da8f8a4475c9e6837ae2d106b6d5abdc7f4a9ae2199f9b0512b35eb9b0cc4854</hash>
+			<size>2751486</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-02-08</added>
+			<sig>3fc912a0bd8ee3e1b8ee10be89b93216</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,WAKE_LOCK,WRITE_SECURE_SETTINGS,moe.shizuku.manager.permission.MANAGER</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>13.6.0.r1169.f8d8c644</version>
+			<versioncode>1169</versioncode>
+			<apkname>shizuku-fork_v13.6.0.r1169-thedjchi.apk</apkname>
+			<hash type="sha256">8a351909b6bd92cbe8a5fc0c3bc8f0954d87276d8634470fab471bbbd4f6693c</hash>
+			<size>2740957</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-02-08</added>
+			<sig>3fc912a0bd8ee3e1b8ee10be89b93216</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,WAKE_LOCK,WRITE_SECURE_SETTINGS,moe.shizuku.manager.permission.MANAGER</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>13.6.0.r1159.bce2450f</version>
+			<versioncode>1159</versioncode>
+			<apkname>shizuku-fork_v13.6.0.r1159-thedjchi.apk</apkname>
+			<hash type="sha256">8fcd73b03c4a51b30b828181299f3493b959c066acd0e46a55930f1c23cf4327</hash>
+			<size>2739973</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-02-08</added>
+			<sig>3fc912a0bd8ee3e1b8ee10be89b93216</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,SCHEDULE_EXACT_ALARM,WAKE_LOCK,WRITE_SECURE_SETTINGS,moe.shizuku.manager.permission.MANAGER</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>13.6.0.r1155.3234d463</version>
+			<versioncode>1155</versioncode>
+			<apkname>shizuku-fork_v13.6.0.r1155-thedjchi.apk</apkname>
+			<hash type="sha256">6fa7a6ad7f8012ff9dc2ea7fe127905d87e810d8c6dadfddcb2effcb3e6dd11e</hash>
+			<size>2739245</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-02-08</added>
+			<sig>3fc912a0bd8ee3e1b8ee10be89b93216</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,SCHEDULE_EXACT_ALARM,WAKE_LOCK,WRITE_SECURE_SETTINGS,moe.shizuku.manager.permission.MANAGER</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>13.6.0.r1136.03264465</version>
+			<versioncode>1136</versioncode>
+			<apkname>shizuku-fork_v13.6.0.r1136-thedjchi.apk</apkname>
+			<hash type="sha256">180bf5fded067446bbb0db23e1327512363ce53e3a712cbd6e4723a5632f1ef7</hash>
+			<size>2729865</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-02-08</added>
+			<sig>3fc912a0bd8ee3e1b8ee10be89b93216</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,POST_NOTIFICATIONS,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_SECURE_SETTINGS,moe.shizuku.manager.permission.MANAGER</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>13.6.0.r1131.7b88d10a</version>
+			<versioncode>1131</versioncode>
+			<apkname>shizuku-fork_v13.6.0.r1131-thedjchi.apk</apkname>
+			<hash type="sha256">7e9e7b28289c84731facd6c46758627a60c5094840a5c37e84b8027fe1d38b72</hash>
+			<size>2728389</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-02-08</added>
+			<sig>3fc912a0bd8ee3e1b8ee10be89b93216</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,POST_NOTIFICATIONS,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_SECURE_SETTINGS,moe.shizuku.manager.permission.MANAGER</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>13.6.0.r1129.9a41c92c</version>
+			<versioncode>1129</versioncode>
+			<apkname>shizuku-fork_v13.6.0.r1129-thedjchi.apk</apkname>
+			<hash type="sha256">610b24c17a1b90791e022a3f2fd89f449d3e122447306ca6c2a41b0c36637d09</hash>
+			<size>2728349</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-02-08</added>
+			<sig>3fc912a0bd8ee3e1b8ee10be89b93216</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,POST_NOTIFICATIONS,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_SECURE_SETTINGS,moe.shizuku.manager.permission.MANAGER</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>13.6.0.r1117.e16ce692</version>
+			<versioncode>1117</versioncode>
+			<apkname>shizuku-fork_v13.6.0.r1117-thedjchi.apk</apkname>
+			<hash type="sha256">0cc44e4f62da5fbe2beb6b632738bb033603afce56883bf3e278e9989027e5c5</hash>
+			<size>2716797</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-02-08</added>
+			<sig>3fc912a0bd8ee3e1b8ee10be89b93216</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,POST_NOTIFICATIONS,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_SECURE_SETTINGS,moe.shizuku.manager.permission.MANAGER</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>13.6.0.r1113.cdfec023</version>
+			<versioncode>1113</versioncode>
+			<apkname>shizuku-fork_v13.6.0.r1113-thedjchi.apk</apkname>
+			<hash type="sha256">1bda927b443a25f9b087c75660f89ac56670ace18846dcd0ae47068730ad1013</hash>
+			<size>2678968</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-02-08</added>
+			<sig>3fc912a0bd8ee3e1b8ee10be89b93216</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,RECEIVE_BOOT_COMPLETED,WRITE_SECURE_SETTINGS,moe.shizuku.manager.permission.MANAGER</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>13.6.0.r1107.22fbfa0b</version>
+			<versioncode>1107</versioncode>
+			<apkname>shizuku-fork_v13.6.0-thedjchi.apk</apkname>
+			<hash type="sha256">27dea4efd002bebbae46f94eee80f89037931047a5b6aee5c78e53fa1fa2a165</hash>
+			<size>11946150</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-02-08</added>
+			<sig>624a08a2ead1ebb30d1d82586535996d</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,RECEIVE_BOOT_COMPLETED,WRITE_SECURE_SETTINGS,moe.shizuku.manager.permission.MANAGER</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
 		</package>
 	</application>
 	<application id="projekt.substratum">
