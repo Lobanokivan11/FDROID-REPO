@@ -1,0 +1,6 @@
+### BETA USERS: this is the stable version, the same changes are included in beta version [v13.6.0.r1349-thedjchi-beta](https://github.com/thedjchi/Shizuku/releases/tag/v13.6.0.r1349-thedjchi-beta)
+
+## What's Changed
+
+- Fixed the automation apps card description not displaying correctly in languages other than English (see #129 and #142)
+- Fixed the start on boot option not being available on all TVs (see #138)

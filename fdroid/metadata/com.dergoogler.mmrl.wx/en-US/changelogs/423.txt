@@ -1,0 +1,19 @@
+## What's new?
+
+- Initialize ViewModel store on attach; add onReady
+- fix loading modules when reopening the app
+- Simplify WebUI launcher and remove engine options
+- Add force-kill WebUI process preference
+- Introduce HybridWebUI store & refactor console/network
+- Introduce WXContentResolver and update usage
+- Add global crash handler and crash UI
+- Refine DevTools bottom sheet layout and styling
+- Use RichLogEntry list for console logs
+- Translated using Weblate (Polish)
+- Translated using Weblate (Indonesian)
+- Implement clearState method in WXView
+- Refactor onDestroy method in WXActivity
+
+[See all changes here](https://github.com/MMRLApp/WebUI-X-Portable/compare/v407...master)
+
+[Workflow run](https://github.com/MMRLApp/WebUI-X-Portable/actions/runs/23097123267)

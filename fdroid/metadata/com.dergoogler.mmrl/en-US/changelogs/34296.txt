@@ -1,0 +1,9 @@
+## What's new?
+
+- Added translation using Weblate (Dutch)
+- Added translation using Weblate (Dutch)
+- Translated using Weblate (Russian)
+
+[See all changes here](https://github.com/MMRLApp/MMRL/compare/v34292...master)
+
+[Workflow run](https://github.com/MMRLApp/MMRL/actions/runs/22831026463)

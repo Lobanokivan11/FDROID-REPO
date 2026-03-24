@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="icon.png" name="Lobanokivan11's F-Droid Repo" pubkey="308204f0308202d8a003020102020900aa0527e64906854b300d06092a864886f70d01010b050030253110300e060355040b1307462d44726f69643111300f0603550403130841584f2d557365723020170d3235303632373132353035305a180f32303532313131323132353035305a30253110300e060355040b1307462d44726f69643111300f0603550403130841584f2d5573657230820222300d06092a864886f70d01010105000382020f003082020a0282020100e292f147f1d12c06b54004d33ef0249fbfa5cb575e74e33f7ef11740a06888eb14a68e3a7cda7854de7c0e16248289ef440b87b16015a6cdfc7456ca24b7c03f8abfa89f94215a0f235b2111b95d3edee214d2c747f13ea171ad07db5a119ddb91ebc4c089c54aaa20c719b7bf5fc3ed636489eafa1016c459269447a3fbc40622d62a3efb7437bbc1a4f8d06d26298398eb1145354be9deef0812b9a854f8547d015cda1b5242a0d32d92c1ead25dce341fef71a49ad4a8dc5441d8637cc69019fa528f05adc2cfb2b357d99f1226f700800b4401e461f475dff60170e5e2f7bf55cd7e7372441d33098f90d56010b90955d2aa81ebdf841b2e5780a1276a0073db5ffe644b5720578442c1dd44784a205331b4cee61f6456b89719b4c1c85c5325ac06bd744aa85fc620d7f59c6acc26c0f00713967e08f8a66c6b07fc23b3a3868f504e9afa0385823a1e890fabefc6d7aa68a3533894388dd7d04eb03b5f6f23aa2614dbfa6e3d32d5266edd8b643b6b4d903e663d448cd7c4803ee090c54cc8d0249dd3db53352259d3b7a79798eaed934462b9a79cb71844c55dff1a94076e740af209861aabab7f946b76c605c8f2a308ba87bd52e63c6335e1f98bf69c897259609c249f9c83907309db019d8cb3a4a0e26b23ba8dabf37918801fd1a8e2fc84f34192d41583255a4f35a20371c32fdf1a4c93cbe2b1a1b82597deb70203010001a321301f301d0603551d0e0416041470130289d750ce245977dbca02acb48dbff0e31e300d06092a864886f70d01010b050003820201005454d576c5f5f25e0ee7011e46266bb5bb07ff51a8179ba7ca6f9a6b17bf77bac316933e2ed8586cfaa34cb8af5bbfe89ffbfe9f3fffe66f5e039673f8544bde5e923cb08820d17531cc7414429c48a4272f65578351121b6cca17f3633025e4295a96316fcdf6343630c9662baedf6ecd9b8efedca812b80d6e6d50cd7618ee76dc3c88ae36570e37b5e62fa03734f7ff983918d373685766c23a8d99a8b5ec4c5e42b861cd79124686682a58a420b8ab677d528bb9e2d03e067f5fea4d78088318cad255bc8e5282385df32ec02be323e3ce4559e9f45757ae3aca1bf645bb6283a90086cddc7a82bfae486e57592339968acce21d0471f20e7f54c3ed5295ad91b0e61e5070283495558931c99ddfca434e22070e50759025b39294f08fde6c6449434649f5620f809f65eefa94c93e0dd5d23deda89efbc1c98f7265daaecf13f1d6e5a0de34e6c5aa0d34303e157dc3c28dc6f2ed3c91d1f0f8afbf8ee640007b8def8b2c57da43a8a65d22667421c9588376721b112f45237299c7bea99852c3558059af416ea99f36f191288f86b2f0e9b2c1f2824233d0f35044fc46cb88d4f0680f8706fe365d6e92e0cadeeb1f2de6b14c02eddfb6d4c324a79b9f46fb25533e2a0c02d3254c7f75d8931756f7b89da4092dd793bd1f717326a8ad57a3a5b3763b14470d2acb01560294094c97ef354afe7d6ee530b247f3bb211a" timestamp="1770708765" url="https://raw.githubusercontent.com/Lobanokivan11/FDROID-REPO/refs/heads/main/fdroid/repo" version="20002">
+	<repo icon="icon.png" name="Lobanokivan11's F-Droid Repo" pubkey="308204f0308202d8a003020102020900aa0527e64906854b300d06092a864886f70d01010b050030253110300e060355040b1307462d44726f69643111300f0603550403130841584f2d557365723020170d3235303632373132353035305a180f32303532313131323132353035305a30253110300e060355040b1307462d44726f69643111300f0603550403130841584f2d5573657230820222300d06092a864886f70d01010105000382020f003082020a0282020100e292f147f1d12c06b54004d33ef0249fbfa5cb575e74e33f7ef11740a06888eb14a68e3a7cda7854de7c0e16248289ef440b87b16015a6cdfc7456ca24b7c03f8abfa89f94215a0f235b2111b95d3edee214d2c747f13ea171ad07db5a119ddb91ebc4c089c54aaa20c719b7bf5fc3ed636489eafa1016c459269447a3fbc40622d62a3efb7437bbc1a4f8d06d26298398eb1145354be9deef0812b9a854f8547d015cda1b5242a0d32d92c1ead25dce341fef71a49ad4a8dc5441d8637cc69019fa528f05adc2cfb2b357d99f1226f700800b4401e461f475dff60170e5e2f7bf55cd7e7372441d33098f90d56010b90955d2aa81ebdf841b2e5780a1276a0073db5ffe644b5720578442c1dd44784a205331b4cee61f6456b89719b4c1c85c5325ac06bd744aa85fc620d7f59c6acc26c0f00713967e08f8a66c6b07fc23b3a3868f504e9afa0385823a1e890fabefc6d7aa68a3533894388dd7d04eb03b5f6f23aa2614dbfa6e3d32d5266edd8b643b6b4d903e663d448cd7c4803ee090c54cc8d0249dd3db53352259d3b7a79798eaed934462b9a79cb71844c55dff1a94076e740af209861aabab7f946b76c605c8f2a308ba87bd52e63c6335e1f98bf69c897259609c249f9c83907309db019d8cb3a4a0e26b23ba8dabf37918801fd1a8e2fc84f34192d41583255a4f35a20371c32fdf1a4c93cbe2b1a1b82597deb70203010001a321301f301d0603551d0e0416041470130289d750ce245977dbca02acb48dbff0e31e300d06092a864886f70d01010b050003820201005454d576c5f5f25e0ee7011e46266bb5bb07ff51a8179ba7ca6f9a6b17bf77bac316933e2ed8586cfaa34cb8af5bbfe89ffbfe9f3fffe66f5e039673f8544bde5e923cb08820d17531cc7414429c48a4272f65578351121b6cca17f3633025e4295a96316fcdf6343630c9662baedf6ecd9b8efedca812b80d6e6d50cd7618ee76dc3c88ae36570e37b5e62fa03734f7ff983918d373685766c23a8d99a8b5ec4c5e42b861cd79124686682a58a420b8ab677d528bb9e2d03e067f5fea4d78088318cad255bc8e5282385df32ec02be323e3ce4559e9f45757ae3aca1bf645bb6283a90086cddc7a82bfae486e57592339968acce21d0471f20e7f54c3ed5295ad91b0e61e5070283495558931c99ddfca434e22070e50759025b39294f08fde6c6449434649f5620f809f65eefa94c93e0dd5d23deda89efbc1c98f7265daaecf13f1d6e5a0de34e6c5aa0d34303e157dc3c28dc6f2ed3c91d1f0f8afbf8ee640007b8def8b2c57da43a8a65d22667421c9588376721b112f45237299c7bea99852c3558059af416ea99f36f191288f86b2f0e9b2c1f2824233d0f35044fc46cb88d4f0680f8706fe365d6e92e0cadeeb1f2de6b14c02eddfb6d4c324a79b9f46fb25533e2a0c02d3254c7f75d8931756f7b89da4092dd793bd1f717326a8ad57a3a5b3763b14470d2acb01560294094c97ef354afe7d6ee530b247f3bb211a" timestamp="1774364726" url="https://raw.githubusercontent.com/Lobanokivan11/FDROID-REPO/refs/heads/main/fdroid/repo" version="20002">
 		<description>This is Repository of Lobanokivan11</description>
 	</repo>
 	<application id="com.limelight.game.noir">
@@ -825,7 +825,7 @@
 	<application id="app.lawnchair">
 		<id>app.lawnchair</id>
 		<added>2025-06-27</added>
-		<lastupdated>2026-02-09</lastupdated>
+		<lastupdated>2026-03-24</lastupdated>
 		<name>Lawnchair</name>
 		<summary>Easy to publish the latest Lawnchair release with my personal signing.</summary>
 		<desc>&lt;p&gt;&lt;strong&gt;Lawnchair&lt;/strong&gt;&amp;nbsp;is a free, open source home screen replacement based on&amp;nbsp;&lt;em&gt;Launcher3&lt;/em&gt;&amp;nbsp;from the Android open source project. The app aims to provide an experience similar to that of the Pixel Launcher, while offering more features.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Key highlights:&lt;/strong&gt;&lt;br /&gt;* Material You support (with dark theme and color customizations)&lt;br /&gt;* At a Glance support, alongside Smartspacer app support&lt;br /&gt;* Rich grid and icon customizations&lt;br /&gt;* Local, on-device search support&lt;br /&gt;* Optional integration with Android Recents&lt;/p&gt;
@@ -837,7 +837,7 @@
 		<source>https://github.com/Goooler/LawnchairRelease</source>
 		<tracker></tracker>
 		<author>Goooler</author>
-		<marketversion>16.0.0 (c3faece)</marketversion>
+		<marketversion>16.0.0 (5be5d9e)</marketversion>
 		<marketvercode>16000000</marketvercode>
 		<package>
 			<version>16.0.0 (3635861)</version>
@@ -1230,7 +1230,7 @@
 	<application id="com.dergoogler.mmrl">
 		<id>com.dergoogler.mmrl</id>
 		<added>2025-08-07</added>
-		<lastupdated>2026-01-01</lastupdated>
+		<lastupdated>2026-03-24</lastupdated>
 		<name>MMRL</name>
 		<summary>A app for managing, sharing, and exploring Magisk modules across repositories</summary>
 		<desc>&lt;p dir=&quot;auto&quot;&gt;MMRL is an Android app that helps manage your own modules repository.&lt;/p&gt;
@@ -1256,8 +1256,38 @@
 		<source>https://github.com/MMRLApp/MMRL</source>
 		<tracker></tracker>
 		<author>MMRLApp</author>
-		<marketversion>v34265-release</marketversion>
-		<marketvercode>34265</marketvercode>
+		<marketversion>v34296-release</marketversion>
+		<marketvercode>34296</marketvercode>
+		<package>
+			<version>v34296-release</version>
+			<versioncode>34296</versioncode>
+			<apkname>mmrl_v34296.apk</apkname>
+			<hash type="sha256">ec259dae03336bd93b97c52198a4a6ab3ac8de8f76fa50b36522b569eb00dd3b</hash>
+			<size>7493186</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-03-24</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_DATA_SYNC,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,com.dergoogler.mmrl.permission.MODCONF,com.dergoogler.mmrl.permission.WEBUI_LEGACY,com.dergoogler.mmrl.permission.WEBUI_X,moe.shizuku.manager.permission.API_V23</permissions>
+			<uses-permission maxSdkVersion="29" name="android.permission.READ_EXTERNAL_STORAGE"/>
+			<uses-permission maxSdkVersion="29" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+			<nativecode>arm64-v8a,armeabi,armeabi-v7a,mips,mips64,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>v34292-release</version>
+			<versioncode>34292</versioncode>
+			<apkname>mmrl_v34292.apk</apkname>
+			<hash type="sha256">7f284bf69c71f2b8972bcfb137d5cb9a0fbd974472f79661f6f309db9f550c64</hash>
+			<size>7492978</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-03-24</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_DATA_SYNC,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,com.dergoogler.mmrl.permission.MODCONF,com.dergoogler.mmrl.permission.WEBUI_LEGACY,com.dergoogler.mmrl.permission.WEBUI_X,moe.shizuku.manager.permission.API_V23</permissions>
+			<uses-permission maxSdkVersion="29" name="android.permission.READ_EXTERNAL_STORAGE"/>
+			<uses-permission maxSdkVersion="29" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+			<nativecode>arm64-v8a,armeabi,armeabi-v7a,mips,mips64,x86,x86_64</nativecode>
+		</package>
 		<package>
 			<version>v34265-release</version>
 			<versioncode>34265</versioncode>
@@ -2558,7 +2588,7 @@
 	<application id="nekox.messenger.broken">
 		<id>nekox.messenger.broken</id>
 		<added>2025-06-27</added>
-		<lastupdated>2026-01-16</lastupdated>
+		<lastupdated>2026-03-24</lastupdated>
 		<name>Momogram</name>
 		<summary>A third-party Telegram android app.</summary>
 		<desc>&lt;div class=&quot;markdown-heading&quot; dir=&quot;auto&quot;&gt;
@@ -2649,8 +2679,36 @@
 		<source>https://github.com/dic1911/Momogram</source>
 		<tracker></tracker>
 		<author>dic1911</author>
-		<marketversion>12.2.10-c86b747287</marketversion>
-		<marketvercode>11159</marketvercode>
+		<marketversion>12.4.1-35d17b4b81</marketversion>
+		<marketvercode>11219</marketvercode>
+		<package>
+			<version>12.4.1-35d17b4b81</version>
+			<versioncode>11219</versioncode>
+			<apkname>momogram_v12.4.1.apk</apkname>
+			<hash type="sha256">8ac69d5cb51c3e25139e33d26587c98bd243d5806d7c65ccd10c85932b7008ae</hash>
+			<size>57145329</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2026-03-24</added>
+			<sig>630ab5b029ea54bff07bc061cc69eae1</sig>
+			<permissions>ACCESS_BACKGROUND_LOCATION,ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_MEDIA_LOCATION,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,AUTHENTICATE_ACCOUNTS,BLUETOOTH,BLUETOOTH_CONNECT,CAMERA,CREDENTIAL_MANAGER_SET_ORIGIN,FOREGROUND_SERVICE,FOREGROUND_SERVICE_CAMERA,FOREGROUND_SERVICE_DATA_SYNC,FOREGROUND_SERVICE_LOCATION,FOREGROUND_SERVICE_MEDIA_PLAYBACK,FOREGROUND_SERVICE_MEDIA_PROJECTION,FOREGROUND_SERVICE_MICROPHONE,GET_ACCOUNTS,INSTALL_SHORTCUT,INTERNET,MANAGE_ACCOUNTS,MANAGE_OWN_CALLS,MODIFY_AUDIO_SETTINGS,POST_NOTIFICATIONS,READ_APP_BADGE,READ_CLIPBOARD,READ_CONTACTS,READ_EXTERNAL_STORAGE,READ_MEDIA_AUDIO,READ_MEDIA_IMAGES,READ_MEDIA_VIDEO,READ_PHONE_NUMBERS,READ_PHONE_STATE,READ_PROFILE,READ_SYNC_SETTINGS,RECEIVE_BOOT_COMPLETED,RECORD_AUDIO,REQUEST_INSTALL_PACKAGES,SYSTEM_ALERT_WINDOW,USE_BIOMETRIC,USE_FINGERPRINT,USE_FULL_SCREEN_INTENT,VIBRATE,WAKE_LOCK,WRITE_CONTACTS,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,com.anddoes.launcher.permission.UPDATE_COUNT,com.android.launcher.permission.INSTALL_SHORTCUT,com.android.launcher.permission.UNINSTALL_SHORTCUT,com.android.vending.BILLING,com.htc.launcher.permission.READ_SETTINGS,com.htc.launcher.permission.UPDATE_SHORTCUT,com.huawei.android.launcher.permission.CHANGE_BADGE,com.huawei.android.launcher.permission.READ_SETTINGS,com.huawei.android.launcher.permission.WRITE_SETTINGS,com.majeur.launcher.permission.UPDATE_BADGE,com.oppo.launcher.permission.READ_SETTINGS,com.oppo.launcher.permission.WRITE_SETTINGS,com.sec.android.provider.badge.permission.READ,com.sec.android.provider.badge.permission.WRITE,com.sonyericsson.home.permission.BROADCAST_BADGE,com.sonymobile.home.permission.PROVIDER_INSERT_BADGE,me.everything.badger.permission.BADGE_COUNT_READ,me.everything.badger.permission.BADGE_COUNT_WRITE,nekox.messenger.broken.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<uses-permission maxSdkVersion="29" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+			<nativecode>arm64-v8a</nativecode>
+		</package>
+		<package>
+			<version>12.3.1-58ac5cd3e1</version>
+			<versioncode>11199</versioncode>
+			<apkname>momogram_v12.3.1-1.apk</apkname>
+			<hash type="sha256">9fe6aa6a1370f85f286f16fa196e642dd913e07793ad0115af8abda338eb70a3</hash>
+			<size>56306434</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2026-03-24</added>
+			<sig>630ab5b029ea54bff07bc061cc69eae1</sig>
+			<permissions>ACCESS_BACKGROUND_LOCATION,ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_MEDIA_LOCATION,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,AUTHENTICATE_ACCOUNTS,BLUETOOTH,BLUETOOTH_CONNECT,CAMERA,CREDENTIAL_MANAGER_SET_ORIGIN,FOREGROUND_SERVICE,FOREGROUND_SERVICE_CAMERA,FOREGROUND_SERVICE_DATA_SYNC,FOREGROUND_SERVICE_LOCATION,FOREGROUND_SERVICE_MEDIA_PLAYBACK,FOREGROUND_SERVICE_MEDIA_PROJECTION,FOREGROUND_SERVICE_MICROPHONE,GET_ACCOUNTS,INSTALL_SHORTCUT,INTERNET,MANAGE_ACCOUNTS,MANAGE_OWN_CALLS,MODIFY_AUDIO_SETTINGS,POST_NOTIFICATIONS,READ_APP_BADGE,READ_CLIPBOARD,READ_CONTACTS,READ_EXTERNAL_STORAGE,READ_MEDIA_AUDIO,READ_MEDIA_IMAGES,READ_MEDIA_VIDEO,READ_PHONE_NUMBERS,READ_PHONE_STATE,READ_PROFILE,READ_SYNC_SETTINGS,RECEIVE_BOOT_COMPLETED,RECORD_AUDIO,REQUEST_INSTALL_PACKAGES,SYSTEM_ALERT_WINDOW,USE_BIOMETRIC,USE_FINGERPRINT,USE_FULL_SCREEN_INTENT,VIBRATE,WAKE_LOCK,WRITE_CONTACTS,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,com.anddoes.launcher.permission.UPDATE_COUNT,com.android.launcher.permission.INSTALL_SHORTCUT,com.android.launcher.permission.UNINSTALL_SHORTCUT,com.android.vending.BILLING,com.htc.launcher.permission.READ_SETTINGS,com.htc.launcher.permission.UPDATE_SHORTCUT,com.huawei.android.launcher.permission.CHANGE_BADGE,com.huawei.android.launcher.permission.READ_SETTINGS,com.huawei.android.launcher.permission.WRITE_SETTINGS,com.majeur.launcher.permission.UPDATE_BADGE,com.oppo.launcher.permission.READ_SETTINGS,com.oppo.launcher.permission.WRITE_SETTINGS,com.sec.android.provider.badge.permission.READ,com.sec.android.provider.badge.permission.WRITE,com.sonyericsson.home.permission.BROADCAST_BADGE,com.sonymobile.home.permission.PROVIDER_INSERT_BADGE,me.everything.badger.permission.BADGE_COUNT_READ,me.everything.badger.permission.BADGE_COUNT_WRITE,nekox.messenger.broken.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<uses-permission maxSdkVersion="29" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+			<nativecode>arm64-v8a</nativecode>
+		</package>
 		<package>
 			<version>12.2.10-c86b747287</version>
 			<versioncode>11159</versioncode>
@@ -3130,7 +3188,7 @@
 	<application id="io.github.chsbuffer.revancedxposed">
 		<id>io.github.chsbuffer.revancedxposed</id>
 		<added>2025-06-27</added>
-		<lastupdated>2026-01-23</lastupdated>
+		<lastupdated>2026-03-24</lastupdated>
 		<name>ReVanced Xposed</name>
 		<summary>ReVanced LSPosed module. YouTube &amp; YT Music Remove ads, Background playback</summary>
 		<desc>&lt;p dir=&quot;auto&quot;&gt;&lt;strong&gt;ReVanced LSPosed module by ChsBuffer.&lt;/strong&gt;&lt;/p&gt;
@@ -3227,8 +3285,34 @@
 		<source>https://github.com/chsbuffer/ReVancedXposed</source>
 		<tracker></tracker>
 		<author>chsbuffer</author>
-		<marketversion>1.0.39</marketversion>
-		<marketvercode>39</marketvercode>
+		<marketversion>1.0.41</marketversion>
+		<marketvercode>41</marketvercode>
+		<package>
+			<version>1.0.41</version>
+			<versioncode>41</versioncode>
+			<apkname>revancedxposed_1.0.41.apk</apkname>
+			<hash type="sha256">e2be6d9712964d6afeb004014c2b72f5a4cb232a7210e6fe02bb3969d1caaf87</hash>
+			<size>6288539</size>
+			<sdkver>27</sdkver>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-03-24</added>
+			<sig>7392807993185028c55d4b14ba5b9f58</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,VIBRATE</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>1.0.40</version>
+			<versioncode>40</versioncode>
+			<apkname>revancedxposed_1.0.40.apk</apkname>
+			<hash type="sha256">2cfa3706fb60c087da8a7200b58af9d051b09e137c0c8a7bd96b552af3b8c06e</hash>
+			<size>6288539</size>
+			<sdkver>27</sdkver>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-03-24</added>
+			<sig>7392807993185028c55d4b14ba5b9f58</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,VIBRATE</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
 		<package>
 			<version>1.0.39</version>
 			<versioncode>39</versioncode>
@@ -3755,7 +3839,7 @@
 	<application id="moe.shizuku.privileged.api">
 		<id>moe.shizuku.privileged.api</id>
 		<added>2026-02-08</added>
-		<lastupdated>2026-02-08</lastupdated>
+		<lastupdated>2026-03-24</lastupdated>
 		<name>Shizuku thedjchi's fork</name>
 		<summary>Using system APIs directly with adb/root privileges from normal apps through ...</summary>
 		<desc>Shizuku but on steroid
@@ -3767,8 +3851,21 @@
 		<source>https://github.com/thedjchi/Shizuku</source>
 		<tracker></tracker>
 		<author>thedjchi</author>
-		<marketversion>13.6.0.r1311-thedjchi</marketversion>
-		<marketvercode>1311</marketvercode>
+		<marketversion>13.6.0.r1318-thedjchi</marketversion>
+		<marketvercode>1318</marketvercode>
+		<package>
+			<version>13.6.0.r1318-thedjchi</version>
+			<versioncode>1318</versioncode>
+			<apkname>shizuku-fork_v13.6.0.r1318-thedjchi.apk</apkname>
+			<hash type="sha256">859f1df259b4b6e74270cafd3e49712405fc3a0bb987d1eb89c350ecdf3fa659</hash>
+			<size>3234851</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-03-24</added>
+			<sig>3fc912a0bd8ee3e1b8ee10be89b93216</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,WAKE_LOCK,WRITE_SECURE_SETTINGS,moe.shizuku.manager.permission.MANAGER</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
 		<package>
 			<version>13.6.0.r1311-thedjchi</version>
 			<versioncode>1311</versioncode>
@@ -4139,7 +4236,7 @@
 	<application id="com.dergoogler.mmrl.wx">
 		<id>com.dergoogler.mmrl.wx</id>
 		<added>2025-08-07</added>
-		<lastupdated>2026-01-01</lastupdated>
+		<lastupdated>2026-03-24</lastupdated>
 		<name>WebUi X</name>
 		<summary>WebUI X from MMRL but portable!</summary>
 		<desc>&lt;h1 id=&quot;why-webui-x&quot; tabindex=&quot;-1&quot;&gt;Why WebUI X?&lt;/h1&gt;
@@ -4186,8 +4283,60 @@
 		<source>https://github.com/MMRLApp/WebUI-X-Portable</source>
 		<tracker></tracker>
 		<author>MMRLApp</author>
-		<marketversion>v363-release</marketversion>
-		<marketvercode>363</marketvercode>
+		<marketversion>v423-release</marketversion>
+		<marketvercode>423</marketvercode>
+		<package>
+			<version>v423-release</version>
+			<versioncode>423</versioncode>
+			<apkname>webuix_v423.apk</apkname>
+			<hash type="sha256">ce62e17c6431a987cd64ae915b29ff731961f191d94e9aa48b2641b2668b5996</hash>
+			<size>25851443</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-03-24</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,KILL_BACKGROUND_PROCESSES,POST_NOTIFICATIONS,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,com.dergoogler.mmrl.permission.WEBUI_LEGACY,com.dergoogler.mmrl.permission.WEBUI_X,moe.shizuku.manager.permission.API_V23</permissions>
+			<nativecode>arm64-v8a,armeabi,armeabi-v7a,mips,mips64,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>v407-release</version>
+			<versioncode>407</versioncode>
+			<apkname>webuix_v407.apk</apkname>
+			<hash type="sha256">fcbe375889b870274722e9fe83ec28bc1280eb19fce1d3812b8db2966aeccf93</hash>
+			<size>27283232</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-03-24</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,KILL_BACKGROUND_PROCESSES,POST_NOTIFICATIONS,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,com.dergoogler.mmrl.permission.WEBUI_LEGACY,com.dergoogler.mmrl.permission.WEBUI_X,moe.shizuku.manager.permission.API_V23</permissions>
+			<nativecode>arm64-v8a,armeabi,armeabi-v7a,mips,mips64,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>v399-release</version>
+			<versioncode>399</versioncode>
+			<apkname>webuix_v399.apk</apkname>
+			<hash type="sha256">a70a5afaa367bcac87a61f359c747f025ac0a0a5390f42e186cdc2e4be0ad3ec</hash>
+			<size>27163468</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-03-24</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,KILL_BACKGROUND_PROCESSES,POST_NOTIFICATIONS,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,com.dergoogler.mmrl.permission.WEBUI_LEGACY,com.dergoogler.mmrl.permission.WEBUI_X,moe.shizuku.manager.permission.API_V23</permissions>
+			<nativecode>arm64-v8a,armeabi,armeabi-v7a,mips,mips64,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>v391-release</version>
+			<versioncode>391</versioncode>
+			<apkname>webuix_v391.apk</apkname>
+			<hash type="sha256">49a5e7c5e393f60e180d4dda918991c94c76a4c838349c1d5767b627eb82604b</hash>
+			<size>27161590</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-03-24</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,KILL_BACKGROUND_PROCESSES,POST_NOTIFICATIONS,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,com.dergoogler.mmrl.permission.WEBUI_LEGACY,com.dergoogler.mmrl.permission.WEBUI_X,moe.shizuku.manager.permission.API_V23</permissions>
+			<nativecode>arm64-v8a,armeabi,armeabi-v7a,mips,mips64,x86,x86_64</nativecode>
+		</package>
 		<package>
 			<version>v363-release</version>
 			<versioncode>363</versioncode>

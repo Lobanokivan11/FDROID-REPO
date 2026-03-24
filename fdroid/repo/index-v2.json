@@ -14,7 +14,7 @@
       }
     },
     "address": "https://raw.githubusercontent.com/Lobanokivan11/FDROID-REPO/refs/heads/main/fdroid/repo",
-    "timestamp": 1770708765000,
+    "timestamp": 1774364726000,
     "categories": {
       "Games": {
         "name": {
@@ -51,7 +51,7 @@
           "Theming",
           "System"
         ],
-        "lastUpdated": 1770614255000,
+        "lastUpdated": 1774364347000,
         "license": "NOASSERTION",
         "sourceCode": "https://github.com/Goooler/LawnchairRelease",
         "screenshots": {
@@ -650,6 +650,1448 @@
               "x86_64"
             ],
             "versionName": "16.0.0 (c3faece)",
+            "versionCode": 16000000,
+            "usesSdk": {
+              "minSdkVersion": 26,
+              "targetSdkVersion": 36
+            },
+            "signer": {
+              "sha256": [
+                "8f5b1353db08cd9287f8ecc6bad2eb9be2668d476af90415bd7bfdff257840e4"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.PACKAGE_USAGE_STATS"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "com.google.android.apps.nexuslauncher.permission.QSB"
+              },
+              {
+                "name": "com.kieronquinn.app.smartspacer.permission.ACCESS_SMARTSPACER"
+              },
+              {
+                "name": "android.permission.READ_CONTACTS"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_IMAGES"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_VIDEO"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_VISUAL_USER_SELECTED"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_AUDIO"
+              },
+              {
+                "name": "android.permission.READ_HISTORY_BOOKMARKS"
+              },
+              {
+                "name": "android.permission.WRITE_HISTORY_BOOKMARKS"
+              },
+              {
+                "name": "android.permission.INTERACT_ACROSS_USERS"
+              },
+              {
+                "name": "android.permission.INTERACT_ACROSS_USERS_FULL"
+              },
+              {
+                "name": "android.permission.MANAGE_USERS"
+              },
+              {
+                "name": "android.permission.FORCE_STOP_PACKAGES"
+              },
+              {
+                "name": "android.permission.STATUS_BAR_SERVICE"
+              },
+              {
+                "name": "android.permission.SUSPEND_APPS"
+              },
+              {
+                "name": "android.permission.REQUEST_INSTALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.MANAGE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.BROADCAST_CLOSE_SYSTEM_DIALOGS"
+              },
+              {
+                "name": "android.permission.CONTROL_REMOTE_APP_TRANSITION_ANIMATIONS"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.QUERY_ALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.START_TASKS_FROM_RECENTS"
+              },
+              {
+                "name": "android.permission.REMOVE_TASKS"
+              },
+              {
+                "name": "android.permission.WRITE_SECURE_SETTINGS"
+              },
+              {
+                "name": "android.permission.MANAGE_ACTIVITY_TASKS"
+              },
+              {
+                "name": "android.permission.INTERNAL_SYSTEM_WINDOW"
+              },
+              {
+                "name": "android.permission.STATUS_BAR"
+              },
+              {
+                "name": "android.permission.STOP_APP_SWITCHES"
+              },
+              {
+                "name": "android.permission.SET_ORIENTATION"
+              },
+              {
+                "name": "android.permission.READ_FRAME_BUFFER"
+              },
+              {
+                "name": "android.permission.MANAGE_ACCESSIBILITY"
+              },
+              {
+                "name": "android.permission.MONITOR_INPUT"
+              },
+              {
+                "name": "android.permission.ALLOW_SLIPPERY_TOUCHES"
+              },
+              {
+                "name": "android.permission.ACCESS_SHORTCUTS"
+              },
+              {
+                "name": "android.permission.SYSTEM_APPLICATION_OVERLAY"
+              },
+              {
+                "name": "android.permission.ACCESS_HIDDEN_PROFILES_FULL"
+              },
+              {
+                "name": "android.permission.ACCESS_HIDDEN_PROFILES"
+              },
+              {
+                "name": "android.permission.MANAGE_KEY_GESTURES"
+              },
+              {
+                "name": "android.permission.CALL_PHONE"
+              },
+              {
+                "name": "android.permission.SET_WALLPAPER"
+              },
+              {
+                "name": "android.permission.SET_WALLPAPER_HINTS"
+              },
+              {
+                "name": "android.permission.BIND_APPWIDGET"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.REQUEST_DELETE_PACKAGES"
+              },
+              {
+                "name": "android.permission.READ_DEVICE_CONFIG"
+              },
+              {
+                "name": "android.permission.EXPAND_STATUS_BAR"
+              },
+              {
+                "name": "android.permission.ACCESS_RESTRICTED_SETTINGS"
+              },
+              {
+                "name": "android.permission.ROTATE_SURFACE_FLINGER"
+              },
+              {
+                "name": "android.permission.WAKEUP_SURFACE_FLINGER"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "app.lawnchair.permission.READ_SETTINGS"
+              },
+              {
+                "name": "app.lawnchair.permission.WRITE_SETTINGS"
+              },
+              {
+                "name": "app.lawnchair.permission.GRID_CONTROL"
+              },
+              {
+                "name": "android.permission.CAPTURE_BLACKOUT_CONTENT"
+              },
+              {
+                "name": "app.lawnchair.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        },
+        "4b4504447efb30431fc0bb07e13ec2eed39f4a00f1a1636d572902fd6222cc8e": {
+          "added": 1774364338000,
+          "file": {
+            "name": "/lawnchair_16.0.0-20260213.apk",
+            "sha256": "4b4504447efb30431fc0bb07e13ec2eed39f4a00f1a1636d572902fd6222cc8e",
+            "size": 19876855
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "16.0.0 (0cd0ae5)",
+            "versionCode": 16000000,
+            "usesSdk": {
+              "minSdkVersion": 26,
+              "targetSdkVersion": 36
+            },
+            "signer": {
+              "sha256": [
+                "8f5b1353db08cd9287f8ecc6bad2eb9be2668d476af90415bd7bfdff257840e4"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.PACKAGE_USAGE_STATS"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "com.google.android.apps.nexuslauncher.permission.QSB"
+              },
+              {
+                "name": "com.kieronquinn.app.smartspacer.permission.ACCESS_SMARTSPACER"
+              },
+              {
+                "name": "android.permission.READ_CONTACTS"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_IMAGES"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_VIDEO"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_VISUAL_USER_SELECTED"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_AUDIO"
+              },
+              {
+                "name": "android.permission.READ_HISTORY_BOOKMARKS"
+              },
+              {
+                "name": "android.permission.WRITE_HISTORY_BOOKMARKS"
+              },
+              {
+                "name": "android.permission.INTERACT_ACROSS_USERS"
+              },
+              {
+                "name": "android.permission.INTERACT_ACROSS_USERS_FULL"
+              },
+              {
+                "name": "android.permission.MANAGE_USERS"
+              },
+              {
+                "name": "android.permission.FORCE_STOP_PACKAGES"
+              },
+              {
+                "name": "android.permission.STATUS_BAR_SERVICE"
+              },
+              {
+                "name": "android.permission.SUSPEND_APPS"
+              },
+              {
+                "name": "android.permission.REQUEST_INSTALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.MANAGE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.BROADCAST_CLOSE_SYSTEM_DIALOGS"
+              },
+              {
+                "name": "android.permission.CONTROL_REMOTE_APP_TRANSITION_ANIMATIONS"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.QUERY_ALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.START_TASKS_FROM_RECENTS"
+              },
+              {
+                "name": "android.permission.REMOVE_TASKS"
+              },
+              {
+                "name": "android.permission.WRITE_SECURE_SETTINGS"
+              },
+              {
+                "name": "android.permission.MANAGE_ACTIVITY_TASKS"
+              },
+              {
+                "name": "android.permission.INTERNAL_SYSTEM_WINDOW"
+              },
+              {
+                "name": "android.permission.STATUS_BAR"
+              },
+              {
+                "name": "android.permission.STOP_APP_SWITCHES"
+              },
+              {
+                "name": "android.permission.SET_ORIENTATION"
+              },
+              {
+                "name": "android.permission.READ_FRAME_BUFFER"
+              },
+              {
+                "name": "android.permission.MANAGE_ACCESSIBILITY"
+              },
+              {
+                "name": "android.permission.MONITOR_INPUT"
+              },
+              {
+                "name": "android.permission.ALLOW_SLIPPERY_TOUCHES"
+              },
+              {
+                "name": "android.permission.ACCESS_SHORTCUTS"
+              },
+              {
+                "name": "android.permission.SYSTEM_APPLICATION_OVERLAY"
+              },
+              {
+                "name": "android.permission.ACCESS_HIDDEN_PROFILES_FULL"
+              },
+              {
+                "name": "android.permission.ACCESS_HIDDEN_PROFILES"
+              },
+              {
+                "name": "android.permission.MANAGE_KEY_GESTURES"
+              },
+              {
+                "name": "android.permission.CALL_PHONE"
+              },
+              {
+                "name": "android.permission.SET_WALLPAPER"
+              },
+              {
+                "name": "android.permission.SET_WALLPAPER_HINTS"
+              },
+              {
+                "name": "android.permission.BIND_APPWIDGET"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.REQUEST_DELETE_PACKAGES"
+              },
+              {
+                "name": "android.permission.READ_DEVICE_CONFIG"
+              },
+              {
+                "name": "android.permission.EXPAND_STATUS_BAR"
+              },
+              {
+                "name": "android.permission.ACCESS_RESTRICTED_SETTINGS"
+              },
+              {
+                "name": "android.permission.ROTATE_SURFACE_FLINGER"
+              },
+              {
+                "name": "android.permission.WAKEUP_SURFACE_FLINGER"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "app.lawnchair.permission.READ_SETTINGS"
+              },
+              {
+                "name": "app.lawnchair.permission.WRITE_SETTINGS"
+              },
+              {
+                "name": "app.lawnchair.permission.GRID_CONTROL"
+              },
+              {
+                "name": "android.permission.CAPTURE_BLACKOUT_CONTENT"
+              },
+              {
+                "name": "app.lawnchair.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        },
+        "b7a293c22b7eadbbc53cd7b5f2f6a6fe95f51092030be31e15d79323771f0a7f": {
+          "added": 1774364340000,
+          "file": {
+            "name": "/lawnchair_16.0.0-20260221.apk",
+            "sha256": "b7a293c22b7eadbbc53cd7b5f2f6a6fe95f51092030be31e15d79323771f0a7f",
+            "size": 19883495
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "16.0.0 (ad9a2f6)",
+            "versionCode": 16000000,
+            "usesSdk": {
+              "minSdkVersion": 26,
+              "targetSdkVersion": 36
+            },
+            "signer": {
+              "sha256": [
+                "8f5b1353db08cd9287f8ecc6bad2eb9be2668d476af90415bd7bfdff257840e4"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.PACKAGE_USAGE_STATS"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "com.google.android.apps.nexuslauncher.permission.QSB"
+              },
+              {
+                "name": "com.kieronquinn.app.smartspacer.permission.ACCESS_SMARTSPACER"
+              },
+              {
+                "name": "android.permission.READ_CONTACTS"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_IMAGES"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_VIDEO"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_VISUAL_USER_SELECTED"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_AUDIO"
+              },
+              {
+                "name": "android.permission.READ_HISTORY_BOOKMARKS"
+              },
+              {
+                "name": "android.permission.WRITE_HISTORY_BOOKMARKS"
+              },
+              {
+                "name": "android.permission.INTERACT_ACROSS_USERS"
+              },
+              {
+                "name": "android.permission.INTERACT_ACROSS_USERS_FULL"
+              },
+              {
+                "name": "android.permission.MANAGE_USERS"
+              },
+              {
+                "name": "android.permission.FORCE_STOP_PACKAGES"
+              },
+              {
+                "name": "android.permission.STATUS_BAR_SERVICE"
+              },
+              {
+                "name": "android.permission.SUSPEND_APPS"
+              },
+              {
+                "name": "android.permission.REQUEST_INSTALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.MANAGE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.BROADCAST_CLOSE_SYSTEM_DIALOGS"
+              },
+              {
+                "name": "android.permission.CONTROL_REMOTE_APP_TRANSITION_ANIMATIONS"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.QUERY_ALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.START_TASKS_FROM_RECENTS"
+              },
+              {
+                "name": "android.permission.REMOVE_TASKS"
+              },
+              {
+                "name": "android.permission.WRITE_SECURE_SETTINGS"
+              },
+              {
+                "name": "android.permission.MANAGE_ACTIVITY_TASKS"
+              },
+              {
+                "name": "android.permission.INTERNAL_SYSTEM_WINDOW"
+              },
+              {
+                "name": "android.permission.STATUS_BAR"
+              },
+              {
+                "name": "android.permission.STOP_APP_SWITCHES"
+              },
+              {
+                "name": "android.permission.SET_ORIENTATION"
+              },
+              {
+                "name": "android.permission.READ_FRAME_BUFFER"
+              },
+              {
+                "name": "android.permission.MANAGE_ACCESSIBILITY"
+              },
+              {
+                "name": "android.permission.MONITOR_INPUT"
+              },
+              {
+                "name": "android.permission.ALLOW_SLIPPERY_TOUCHES"
+              },
+              {
+                "name": "android.permission.ACCESS_SHORTCUTS"
+              },
+              {
+                "name": "android.permission.SYSTEM_APPLICATION_OVERLAY"
+              },
+              {
+                "name": "android.permission.ACCESS_HIDDEN_PROFILES_FULL"
+              },
+              {
+                "name": "android.permission.ACCESS_HIDDEN_PROFILES"
+              },
+              {
+                "name": "android.permission.MANAGE_KEY_GESTURES"
+              },
+              {
+                "name": "android.permission.CALL_PHONE"
+              },
+              {
+                "name": "android.permission.SET_WALLPAPER"
+              },
+              {
+                "name": "android.permission.SET_WALLPAPER_HINTS"
+              },
+              {
+                "name": "android.permission.BIND_APPWIDGET"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.REQUEST_DELETE_PACKAGES"
+              },
+              {
+                "name": "android.permission.READ_DEVICE_CONFIG"
+              },
+              {
+                "name": "android.permission.EXPAND_STATUS_BAR"
+              },
+              {
+                "name": "android.permission.ACCESS_RESTRICTED_SETTINGS"
+              },
+              {
+                "name": "android.permission.ROTATE_SURFACE_FLINGER"
+              },
+              {
+                "name": "android.permission.WAKEUP_SURFACE_FLINGER"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "app.lawnchair.permission.READ_SETTINGS"
+              },
+              {
+                "name": "app.lawnchair.permission.WRITE_SETTINGS"
+              },
+              {
+                "name": "app.lawnchair.permission.GRID_CONTROL"
+              },
+              {
+                "name": "android.permission.CAPTURE_BLACKOUT_CONTENT"
+              },
+              {
+                "name": "app.lawnchair.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        },
+        "71779fbd888b8d629a76e3ba34d003b2aca4b8628b5936f39a3d3426447a3a51": {
+          "added": 1774364341000,
+          "file": {
+            "name": "/lawnchair_16.0.0-20260302.apk",
+            "sha256": "71779fbd888b8d629a76e3ba34d003b2aca4b8628b5936f39a3d3426447a3a51",
+            "size": 19898047
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "16.0.0 (6176c8c)",
+            "versionCode": 16000000,
+            "usesSdk": {
+              "minSdkVersion": 26,
+              "targetSdkVersion": 36
+            },
+            "signer": {
+              "sha256": [
+                "8f5b1353db08cd9287f8ecc6bad2eb9be2668d476af90415bd7bfdff257840e4"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.PACKAGE_USAGE_STATS"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "com.google.android.apps.nexuslauncher.permission.QSB"
+              },
+              {
+                "name": "com.kieronquinn.app.smartspacer.permission.ACCESS_SMARTSPACER"
+              },
+              {
+                "name": "android.permission.READ_CONTACTS"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_IMAGES"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_VIDEO"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_VISUAL_USER_SELECTED"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_AUDIO"
+              },
+              {
+                "name": "android.permission.READ_HISTORY_BOOKMARKS"
+              },
+              {
+                "name": "android.permission.WRITE_HISTORY_BOOKMARKS"
+              },
+              {
+                "name": "android.permission.INTERACT_ACROSS_USERS"
+              },
+              {
+                "name": "android.permission.INTERACT_ACROSS_USERS_FULL"
+              },
+              {
+                "name": "android.permission.MANAGE_USERS"
+              },
+              {
+                "name": "android.permission.FORCE_STOP_PACKAGES"
+              },
+              {
+                "name": "android.permission.STATUS_BAR_SERVICE"
+              },
+              {
+                "name": "android.permission.SUSPEND_APPS"
+              },
+              {
+                "name": "android.permission.REQUEST_INSTALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.MANAGE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.BROADCAST_CLOSE_SYSTEM_DIALOGS"
+              },
+              {
+                "name": "android.permission.CONTROL_REMOTE_APP_TRANSITION_ANIMATIONS"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.QUERY_ALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.START_TASKS_FROM_RECENTS"
+              },
+              {
+                "name": "android.permission.REMOVE_TASKS"
+              },
+              {
+                "name": "android.permission.WRITE_SECURE_SETTINGS"
+              },
+              {
+                "name": "android.permission.MANAGE_ACTIVITY_TASKS"
+              },
+              {
+                "name": "android.permission.INTERNAL_SYSTEM_WINDOW"
+              },
+              {
+                "name": "android.permission.STATUS_BAR"
+              },
+              {
+                "name": "android.permission.STOP_APP_SWITCHES"
+              },
+              {
+                "name": "android.permission.SET_ORIENTATION"
+              },
+              {
+                "name": "android.permission.READ_FRAME_BUFFER"
+              },
+              {
+                "name": "android.permission.MANAGE_ACCESSIBILITY"
+              },
+              {
+                "name": "android.permission.MONITOR_INPUT"
+              },
+              {
+                "name": "android.permission.ALLOW_SLIPPERY_TOUCHES"
+              },
+              {
+                "name": "android.permission.ACCESS_SHORTCUTS"
+              },
+              {
+                "name": "android.permission.SYSTEM_APPLICATION_OVERLAY"
+              },
+              {
+                "name": "android.permission.ACCESS_HIDDEN_PROFILES_FULL"
+              },
+              {
+                "name": "android.permission.ACCESS_HIDDEN_PROFILES"
+              },
+              {
+                "name": "android.permission.MANAGE_KEY_GESTURES"
+              },
+              {
+                "name": "android.permission.CALL_PHONE"
+              },
+              {
+                "name": "android.permission.SET_WALLPAPER"
+              },
+              {
+                "name": "android.permission.SET_WALLPAPER_HINTS"
+              },
+              {
+                "name": "android.permission.BIND_APPWIDGET"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.REQUEST_DELETE_PACKAGES"
+              },
+              {
+                "name": "android.permission.READ_DEVICE_CONFIG"
+              },
+              {
+                "name": "android.permission.EXPAND_STATUS_BAR"
+              },
+              {
+                "name": "android.permission.ACCESS_RESTRICTED_SETTINGS"
+              },
+              {
+                "name": "android.permission.ROTATE_SURFACE_FLINGER"
+              },
+              {
+                "name": "android.permission.WAKEUP_SURFACE_FLINGER"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "app.lawnchair.permission.READ_SETTINGS"
+              },
+              {
+                "name": "app.lawnchair.permission.WRITE_SETTINGS"
+              },
+              {
+                "name": "app.lawnchair.permission.GRID_CONTROL"
+              },
+              {
+                "name": "android.permission.CAPTURE_BLACKOUT_CONTENT"
+              },
+              {
+                "name": "app.lawnchair.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        },
+        "8654cf0518d8fa66851fbb67c42ddeccc633f6caf31eb6e3f4177579206f8ceb": {
+          "added": 1774364343000,
+          "file": {
+            "name": "/lawnchair_16.0.0-20260304.apk",
+            "sha256": "8654cf0518d8fa66851fbb67c42ddeccc633f6caf31eb6e3f4177579206f8ceb",
+            "size": 20016436
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "16.0.0 (f3aa9c3)",
+            "versionCode": 16000000,
+            "usesSdk": {
+              "minSdkVersion": 26,
+              "targetSdkVersion": 36
+            },
+            "signer": {
+              "sha256": [
+                "8f5b1353db08cd9287f8ecc6bad2eb9be2668d476af90415bd7bfdff257840e4"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.PACKAGE_USAGE_STATS"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "com.google.android.apps.nexuslauncher.permission.QSB"
+              },
+              {
+                "name": "com.kieronquinn.app.smartspacer.permission.ACCESS_SMARTSPACER"
+              },
+              {
+                "name": "android.permission.READ_CONTACTS"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_IMAGES"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_VIDEO"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_VISUAL_USER_SELECTED"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_AUDIO"
+              },
+              {
+                "name": "android.permission.READ_HISTORY_BOOKMARKS"
+              },
+              {
+                "name": "android.permission.WRITE_HISTORY_BOOKMARKS"
+              },
+              {
+                "name": "android.permission.INTERACT_ACROSS_USERS"
+              },
+              {
+                "name": "android.permission.INTERACT_ACROSS_USERS_FULL"
+              },
+              {
+                "name": "android.permission.MANAGE_USERS"
+              },
+              {
+                "name": "android.permission.FORCE_STOP_PACKAGES"
+              },
+              {
+                "name": "android.permission.STATUS_BAR_SERVICE"
+              },
+              {
+                "name": "android.permission.SUSPEND_APPS"
+              },
+              {
+                "name": "android.permission.REQUEST_INSTALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.MANAGE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.BROADCAST_CLOSE_SYSTEM_DIALOGS"
+              },
+              {
+                "name": "android.permission.CONTROL_REMOTE_APP_TRANSITION_ANIMATIONS"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.QUERY_ALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.START_TASKS_FROM_RECENTS"
+              },
+              {
+                "name": "android.permission.REMOVE_TASKS"
+              },
+              {
+                "name": "android.permission.WRITE_SECURE_SETTINGS"
+              },
+              {
+                "name": "android.permission.MANAGE_ACTIVITY_TASKS"
+              },
+              {
+                "name": "android.permission.INTERNAL_SYSTEM_WINDOW"
+              },
+              {
+                "name": "android.permission.STATUS_BAR"
+              },
+              {
+                "name": "android.permission.STOP_APP_SWITCHES"
+              },
+              {
+                "name": "android.permission.SET_ORIENTATION"
+              },
+              {
+                "name": "android.permission.READ_FRAME_BUFFER"
+              },
+              {
+                "name": "android.permission.MANAGE_ACCESSIBILITY"
+              },
+              {
+                "name": "android.permission.MONITOR_INPUT"
+              },
+              {
+                "name": "android.permission.ALLOW_SLIPPERY_TOUCHES"
+              },
+              {
+                "name": "android.permission.ACCESS_SHORTCUTS"
+              },
+              {
+                "name": "android.permission.SYSTEM_APPLICATION_OVERLAY"
+              },
+              {
+                "name": "android.permission.ACCESS_HIDDEN_PROFILES_FULL"
+              },
+              {
+                "name": "android.permission.ACCESS_HIDDEN_PROFILES"
+              },
+              {
+                "name": "android.permission.MANAGE_KEY_GESTURES"
+              },
+              {
+                "name": "android.permission.CALL_PHONE"
+              },
+              {
+                "name": "android.permission.SET_WALLPAPER"
+              },
+              {
+                "name": "android.permission.SET_WALLPAPER_HINTS"
+              },
+              {
+                "name": "android.permission.BIND_APPWIDGET"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.REQUEST_DELETE_PACKAGES"
+              },
+              {
+                "name": "android.permission.READ_DEVICE_CONFIG"
+              },
+              {
+                "name": "android.permission.EXPAND_STATUS_BAR"
+              },
+              {
+                "name": "android.permission.ACCESS_RESTRICTED_SETTINGS"
+              },
+              {
+                "name": "android.permission.ROTATE_SURFACE_FLINGER"
+              },
+              {
+                "name": "android.permission.WAKEUP_SURFACE_FLINGER"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "app.lawnchair.permission.READ_SETTINGS"
+              },
+              {
+                "name": "app.lawnchair.permission.WRITE_SETTINGS"
+              },
+              {
+                "name": "app.lawnchair.permission.GRID_CONTROL"
+              },
+              {
+                "name": "android.permission.CAPTURE_BLACKOUT_CONTENT"
+              },
+              {
+                "name": "app.lawnchair.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        },
+        "54d1aa86e6ad361c64839fdc0cfc0d7e4732a9a5ab89d403fd73ec89100fdce2": {
+          "added": 1774364344000,
+          "file": {
+            "name": "/lawnchair_16.0.0-20260309.apk",
+            "sha256": "54d1aa86e6ad361c64839fdc0cfc0d7e4732a9a5ab89d403fd73ec89100fdce2",
+            "size": 20020572
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "16.0.0 (eb7c5d7)",
+            "versionCode": 16000000,
+            "usesSdk": {
+              "minSdkVersion": 26,
+              "targetSdkVersion": 36
+            },
+            "signer": {
+              "sha256": [
+                "8f5b1353db08cd9287f8ecc6bad2eb9be2668d476af90415bd7bfdff257840e4"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.PACKAGE_USAGE_STATS"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "com.google.android.apps.nexuslauncher.permission.QSB"
+              },
+              {
+                "name": "com.kieronquinn.app.smartspacer.permission.ACCESS_SMARTSPACER"
+              },
+              {
+                "name": "android.permission.READ_CONTACTS"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_IMAGES"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_VIDEO"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_VISUAL_USER_SELECTED"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_AUDIO"
+              },
+              {
+                "name": "android.permission.READ_HISTORY_BOOKMARKS"
+              },
+              {
+                "name": "android.permission.WRITE_HISTORY_BOOKMARKS"
+              },
+              {
+                "name": "android.permission.INTERACT_ACROSS_USERS"
+              },
+              {
+                "name": "android.permission.INTERACT_ACROSS_USERS_FULL"
+              },
+              {
+                "name": "android.permission.MANAGE_USERS"
+              },
+              {
+                "name": "android.permission.FORCE_STOP_PACKAGES"
+              },
+              {
+                "name": "android.permission.STATUS_BAR_SERVICE"
+              },
+              {
+                "name": "android.permission.SUSPEND_APPS"
+              },
+              {
+                "name": "android.permission.REQUEST_INSTALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.MANAGE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.BROADCAST_CLOSE_SYSTEM_DIALOGS"
+              },
+              {
+                "name": "android.permission.CONTROL_REMOTE_APP_TRANSITION_ANIMATIONS"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.QUERY_ALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.START_TASKS_FROM_RECENTS"
+              },
+              {
+                "name": "android.permission.REMOVE_TASKS"
+              },
+              {
+                "name": "android.permission.WRITE_SECURE_SETTINGS"
+              },
+              {
+                "name": "android.permission.MANAGE_ACTIVITY_TASKS"
+              },
+              {
+                "name": "android.permission.INTERNAL_SYSTEM_WINDOW"
+              },
+              {
+                "name": "android.permission.STATUS_BAR"
+              },
+              {
+                "name": "android.permission.STOP_APP_SWITCHES"
+              },
+              {
+                "name": "android.permission.SET_ORIENTATION"
+              },
+              {
+                "name": "android.permission.READ_FRAME_BUFFER"
+              },
+              {
+                "name": "android.permission.MANAGE_ACCESSIBILITY"
+              },
+              {
+                "name": "android.permission.MONITOR_INPUT"
+              },
+              {
+                "name": "android.permission.ALLOW_SLIPPERY_TOUCHES"
+              },
+              {
+                "name": "android.permission.ACCESS_SHORTCUTS"
+              },
+              {
+                "name": "android.permission.SYSTEM_APPLICATION_OVERLAY"
+              },
+              {
+                "name": "android.permission.ACCESS_HIDDEN_PROFILES_FULL"
+              },
+              {
+                "name": "android.permission.ACCESS_HIDDEN_PROFILES"
+              },
+              {
+                "name": "android.permission.MANAGE_KEY_GESTURES"
+              },
+              {
+                "name": "android.permission.CALL_PHONE"
+              },
+              {
+                "name": "android.permission.SET_WALLPAPER"
+              },
+              {
+                "name": "android.permission.SET_WALLPAPER_HINTS"
+              },
+              {
+                "name": "android.permission.BIND_APPWIDGET"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.REQUEST_DELETE_PACKAGES"
+              },
+              {
+                "name": "android.permission.READ_DEVICE_CONFIG"
+              },
+              {
+                "name": "android.permission.EXPAND_STATUS_BAR"
+              },
+              {
+                "name": "android.permission.ACCESS_RESTRICTED_SETTINGS"
+              },
+              {
+                "name": "android.permission.ROTATE_SURFACE_FLINGER"
+              },
+              {
+                "name": "android.permission.WAKEUP_SURFACE_FLINGER"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "app.lawnchair.permission.READ_SETTINGS"
+              },
+              {
+                "name": "app.lawnchair.permission.WRITE_SETTINGS"
+              },
+              {
+                "name": "app.lawnchair.permission.GRID_CONTROL"
+              },
+              {
+                "name": "android.permission.CAPTURE_BLACKOUT_CONTENT"
+              },
+              {
+                "name": "app.lawnchair.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        },
+        "db4907d5caf83cc5c71e1e8306c5d5cb55fc96d0ab1008f8cc0443f3f5b92c3b": {
+          "added": 1774364346000,
+          "file": {
+            "name": "/lawnchair_16.0.0-20260315.apk",
+            "sha256": "db4907d5caf83cc5c71e1e8306c5d5cb55fc96d0ab1008f8cc0443f3f5b92c3b",
+            "size": 19843548
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "16.0.0 (7361d44)",
+            "versionCode": 16000000,
+            "usesSdk": {
+              "minSdkVersion": 26,
+              "targetSdkVersion": 36
+            },
+            "signer": {
+              "sha256": [
+                "8f5b1353db08cd9287f8ecc6bad2eb9be2668d476af90415bd7bfdff257840e4"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.PACKAGE_USAGE_STATS"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "com.google.android.apps.nexuslauncher.permission.QSB"
+              },
+              {
+                "name": "com.kieronquinn.app.smartspacer.permission.ACCESS_SMARTSPACER"
+              },
+              {
+                "name": "android.permission.READ_CONTACTS"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_IMAGES"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_VIDEO"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_VISUAL_USER_SELECTED"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_AUDIO"
+              },
+              {
+                "name": "android.permission.READ_HISTORY_BOOKMARKS"
+              },
+              {
+                "name": "android.permission.WRITE_HISTORY_BOOKMARKS"
+              },
+              {
+                "name": "android.permission.INTERACT_ACROSS_USERS"
+              },
+              {
+                "name": "android.permission.INTERACT_ACROSS_USERS_FULL"
+              },
+              {
+                "name": "android.permission.MANAGE_USERS"
+              },
+              {
+                "name": "android.permission.FORCE_STOP_PACKAGES"
+              },
+              {
+                "name": "android.permission.STATUS_BAR_SERVICE"
+              },
+              {
+                "name": "android.permission.SUSPEND_APPS"
+              },
+              {
+                "name": "android.permission.REQUEST_INSTALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.MANAGE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.BROADCAST_CLOSE_SYSTEM_DIALOGS"
+              },
+              {
+                "name": "android.permission.CONTROL_REMOTE_APP_TRANSITION_ANIMATIONS"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.QUERY_ALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.START_TASKS_FROM_RECENTS"
+              },
+              {
+                "name": "android.permission.REMOVE_TASKS"
+              },
+              {
+                "name": "android.permission.WRITE_SECURE_SETTINGS"
+              },
+              {
+                "name": "android.permission.MANAGE_ACTIVITY_TASKS"
+              },
+              {
+                "name": "android.permission.INTERNAL_SYSTEM_WINDOW"
+              },
+              {
+                "name": "android.permission.STATUS_BAR"
+              },
+              {
+                "name": "android.permission.STOP_APP_SWITCHES"
+              },
+              {
+                "name": "android.permission.SET_ORIENTATION"
+              },
+              {
+                "name": "android.permission.READ_FRAME_BUFFER"
+              },
+              {
+                "name": "android.permission.MANAGE_ACCESSIBILITY"
+              },
+              {
+                "name": "android.permission.MONITOR_INPUT"
+              },
+              {
+                "name": "android.permission.ALLOW_SLIPPERY_TOUCHES"
+              },
+              {
+                "name": "android.permission.ACCESS_SHORTCUTS"
+              },
+              {
+                "name": "android.permission.SYSTEM_APPLICATION_OVERLAY"
+              },
+              {
+                "name": "android.permission.ACCESS_HIDDEN_PROFILES_FULL"
+              },
+              {
+                "name": "android.permission.ACCESS_HIDDEN_PROFILES"
+              },
+              {
+                "name": "android.permission.MANAGE_KEY_GESTURES"
+              },
+              {
+                "name": "android.permission.CALL_PHONE"
+              },
+              {
+                "name": "android.permission.SET_WALLPAPER"
+              },
+              {
+                "name": "android.permission.SET_WALLPAPER_HINTS"
+              },
+              {
+                "name": "android.permission.BIND_APPWIDGET"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.REQUEST_DELETE_PACKAGES"
+              },
+              {
+                "name": "android.permission.READ_DEVICE_CONFIG"
+              },
+              {
+                "name": "android.permission.EXPAND_STATUS_BAR"
+              },
+              {
+                "name": "android.permission.ACCESS_RESTRICTED_SETTINGS"
+              },
+              {
+                "name": "android.permission.ROTATE_SURFACE_FLINGER"
+              },
+              {
+                "name": "android.permission.WAKEUP_SURFACE_FLINGER"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "app.lawnchair.permission.READ_SETTINGS"
+              },
+              {
+                "name": "app.lawnchair.permission.WRITE_SETTINGS"
+              },
+              {
+                "name": "app.lawnchair.permission.GRID_CONTROL"
+              },
+              {
+                "name": "android.permission.CAPTURE_BLACKOUT_CONTENT"
+              },
+              {
+                "name": "app.lawnchair.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        },
+        "3408f2ea7ae0c1a5bb95bddb0d2aa84b7990cf4f59cf389b9a0ecac309e42ab9": {
+          "added": 1774364347000,
+          "file": {
+            "name": "/lawnchair_16.0.0-20260323.apk",
+            "sha256": "3408f2ea7ae0c1a5bb95bddb0d2aa84b7990cf4f59cf389b9a0ecac309e42ab9",
+            "size": 19827039
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "16.0.0 (5be5d9e)",
             "versionCode": 16000000,
             "usesSdk": {
               "minSdkVersion": 26,
@@ -26062,7 +27504,7 @@
         "categories": [
           "System"
         ],
-        "lastUpdated": 1767275259000,
+        "lastUpdated": 1774364395000,
         "license": "GPL-3.0",
         "sourceCode": "https://github.com/MMRLApp/MMRL",
         "screenshots": {
@@ -26114,6 +27556,164 @@
         "preferredSigner": "102c2579a177579073dfc69bdf889ad04de9e7c53726a99d65873ec122183860"
       },
       "versions": {
+        "ec259dae03336bd93b97c52198a4a6ab3ac8de8f76fa50b36522b569eb00dd3b": {
+          "added": 1774364395000,
+          "file": {
+            "name": "/mmrl_v34296.apk",
+            "sha256": "ec259dae03336bd93b97c52198a4a6ab3ac8de8f76fa50b36522b569eb00dd3b",
+            "size": 7493186
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi",
+              "armeabi-v7a",
+              "mips",
+              "mips64",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "v34296-release",
+            "versionCode": 34296,
+            "usesSdk": {
+              "minSdkVersion": 26,
+              "targetSdkVersion": 36
+            },
+            "signer": {
+              "sha256": [
+                "102c2579a177579073dfc69bdf889ad04de9e7c53726a99d65873ec122183860"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_DATA_SYNC"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_SPECIAL_USE"
+              },
+              {
+                "name": "com.android.launcher.permission.INSTALL_SHORTCUT"
+              },
+              {
+                "name": "com.dergoogler.mmrl.permission.WEBUI_X"
+              },
+              {
+                "name": "com.dergoogler.mmrl.permission.WEBUI_LEGACY"
+              },
+              {
+                "name": "com.dergoogler.mmrl.permission.MODCONF"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE",
+                "maxSdkVersion": 29
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE",
+                "maxSdkVersion": 29
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "moe.shizuku.manager.permission.API_V23"
+              }
+            ]
+          }
+        },
+        "7f284bf69c71f2b8972bcfb137d5cb9a0fbd974472f79661f6f309db9f550c64": {
+          "added": 1774364394000,
+          "file": {
+            "name": "/mmrl_v34292.apk",
+            "sha256": "7f284bf69c71f2b8972bcfb137d5cb9a0fbd974472f79661f6f309db9f550c64",
+            "size": 7492978
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi",
+              "armeabi-v7a",
+              "mips",
+              "mips64",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "v34292-release",
+            "versionCode": 34292,
+            "usesSdk": {
+              "minSdkVersion": 26,
+              "targetSdkVersion": 36
+            },
+            "signer": {
+              "sha256": [
+                "102c2579a177579073dfc69bdf889ad04de9e7c53726a99d65873ec122183860"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_DATA_SYNC"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_SPECIAL_USE"
+              },
+              {
+                "name": "com.android.launcher.permission.INSTALL_SHORTCUT"
+              },
+              {
+                "name": "com.dergoogler.mmrl.permission.WEBUI_X"
+              },
+              {
+                "name": "com.dergoogler.mmrl.permission.WEBUI_LEGACY"
+              },
+              {
+                "name": "com.dergoogler.mmrl.permission.MODCONF"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE",
+                "maxSdkVersion": 29
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE",
+                "maxSdkVersion": 29
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "moe.shizuku.manager.permission.API_V23"
+              }
+            ]
+          }
+        },
         "20ea131a2f44d52131f27392eac9212217cdc89e9b877b831384a4d77e3d04bc": {
           "added": 1767275259000,
           "file": {
@@ -31120,7 +32720,7 @@
         "categories": [
           "System"
         ],
-        "lastUpdated": 1767275390000,
+        "lastUpdated": 1774364558000,
         "license": "GPL-3.0",
         "sourceCode": "https://github.com/MMRLApp/WebUI-X-Portable",
         "screenshots": {
@@ -31167,6 +32767,278 @@
         "preferredSigner": "102c2579a177579073dfc69bdf889ad04de9e7c53726a99d65873ec122183860"
       },
       "versions": {
+        "ce62e17c6431a987cd64ae915b29ff731961f191d94e9aa48b2641b2668b5996": {
+          "added": 1774364558000,
+          "file": {
+            "name": "/webuix_v423.apk",
+            "sha256": "ce62e17c6431a987cd64ae915b29ff731961f191d94e9aa48b2641b2668b5996",
+            "size": 25851443
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi",
+              "armeabi-v7a",
+              "mips",
+              "mips64",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "v423-release",
+            "versionCode": 423,
+            "usesSdk": {
+              "minSdkVersion": 26,
+              "targetSdkVersion": 36
+            },
+            "signer": {
+              "sha256": [
+                "102c2579a177579073dfc69bdf889ad04de9e7c53726a99d65873ec122183860"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.KILL_BACKGROUND_PROCESSES"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_SPECIAL_USE"
+              },
+              {
+                "name": "com.dergoogler.mmrl.permission.WEBUI_X"
+              },
+              {
+                "name": "com.dergoogler.mmrl.permission.WEBUI_LEGACY"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "moe.shizuku.manager.permission.API_V23"
+              }
+            ]
+          }
+        },
+        "fcbe375889b870274722e9fe83ec28bc1280eb19fce1d3812b8db2966aeccf93": {
+          "added": 1774364557000,
+          "file": {
+            "name": "/webuix_v407.apk",
+            "sha256": "fcbe375889b870274722e9fe83ec28bc1280eb19fce1d3812b8db2966aeccf93",
+            "size": 27283232
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi",
+              "armeabi-v7a",
+              "mips",
+              "mips64",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "v407-release",
+            "versionCode": 407,
+            "usesSdk": {
+              "minSdkVersion": 26,
+              "targetSdkVersion": 36
+            },
+            "signer": {
+              "sha256": [
+                "102c2579a177579073dfc69bdf889ad04de9e7c53726a99d65873ec122183860"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.KILL_BACKGROUND_PROCESSES"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_SPECIAL_USE"
+              },
+              {
+                "name": "com.dergoogler.mmrl.permission.WEBUI_X"
+              },
+              {
+                "name": "com.dergoogler.mmrl.permission.WEBUI_LEGACY"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "moe.shizuku.manager.permission.API_V23"
+              }
+            ]
+          }
+        },
+        "a70a5afaa367bcac87a61f359c747f025ac0a0a5390f42e186cdc2e4be0ad3ec": {
+          "added": 1774364556000,
+          "file": {
+            "name": "/webuix_v399.apk",
+            "sha256": "a70a5afaa367bcac87a61f359c747f025ac0a0a5390f42e186cdc2e4be0ad3ec",
+            "size": 27163468
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi",
+              "armeabi-v7a",
+              "mips",
+              "mips64",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "v399-release",
+            "versionCode": 399,
+            "usesSdk": {
+              "minSdkVersion": 26,
+              "targetSdkVersion": 36
+            },
+            "signer": {
+              "sha256": [
+                "102c2579a177579073dfc69bdf889ad04de9e7c53726a99d65873ec122183860"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.KILL_BACKGROUND_PROCESSES"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_SPECIAL_USE"
+              },
+              {
+                "name": "com.dergoogler.mmrl.permission.WEBUI_X"
+              },
+              {
+                "name": "com.dergoogler.mmrl.permission.WEBUI_LEGACY"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "moe.shizuku.manager.permission.API_V23"
+              }
+            ]
+          }
+        },
+        "49a5e7c5e393f60e180d4dda918991c94c76a4c838349c1d5767b627eb82604b": {
+          "added": 1774364556000,
+          "file": {
+            "name": "/webuix_v391.apk",
+            "sha256": "49a5e7c5e393f60e180d4dda918991c94c76a4c838349c1d5767b627eb82604b",
+            "size": 27161590
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi",
+              "armeabi-v7a",
+              "mips",
+              "mips64",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "v391-release",
+            "versionCode": 391,
+            "usesSdk": {
+              "minSdkVersion": 26,
+              "targetSdkVersion": 36
+            },
+            "signer": {
+              "sha256": [
+                "102c2579a177579073dfc69bdf889ad04de9e7c53726a99d65873ec122183860"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.KILL_BACKGROUND_PROCESSES"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_SPECIAL_USE"
+              },
+              {
+                "name": "com.dergoogler.mmrl.permission.WEBUI_X"
+              },
+              {
+                "name": "com.dergoogler.mmrl.permission.WEBUI_LEGACY"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "moe.shizuku.manager.permission.API_V23"
+              }
+            ]
+          }
+        },
         "9941278ed5efdfe8e9d8d9ef7d824a3d1ef5fd5553c42f82848707e2b24db1c0": {
           "added": 1767275390000,
           "file": {
@@ -38184,7 +40056,7 @@
         "categories": [
           "Xposed"
         ],
-        "lastUpdated": 1769158309000,
+        "lastUpdated": 1774364532000,
         "license": "GPL-3.0",
         "sourceCode": "https://github.com/chsbuffer/ReVancedXposed",
         "authorName": "chsbuffer",
@@ -38200,6 +40072,82 @@
         "preferredSigner": "940d0f30e047642c72c94c6ef4bfab7910bb0cd4f69f9da735338beca0b2d12e"
       },
       "versions": {
+        "e2be6d9712964d6afeb004014c2b72f5a4cb232a7210e6fe02bb3969d1caaf87": {
+          "added": 1774364532000,
+          "file": {
+            "name": "/revancedxposed_1.0.41.apk",
+            "sha256": "e2be6d9712964d6afeb004014c2b72f5a4cb232a7210e6fe02bb3969d1caaf87",
+            "size": 6288539
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "1.0.41",
+            "versionCode": 41,
+            "usesSdk": {
+              "minSdkVersion": 27,
+              "targetSdkVersion": 36
+            },
+            "signer": {
+              "sha256": [
+                "940d0f30e047642c72c94c6ef4bfab7910bb0cd4f69f9da735338beca0b2d12e"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              }
+            ]
+          }
+        },
+        "2cfa3706fb60c087da8a7200b58af9d051b09e137c0c8a7bd96b552af3b8c06e": {
+          "added": 1774364531000,
+          "file": {
+            "name": "/revancedxposed_1.0.40.apk",
+            "sha256": "2cfa3706fb60c087da8a7200b58af9d051b09e137c0c8a7bd96b552af3b8c06e",
+            "size": 6288539
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "1.0.40",
+            "versionCode": 40,
+            "usesSdk": {
+              "minSdkVersion": 27,
+              "targetSdkVersion": 36
+            },
+            "signer": {
+              "sha256": [
+                "940d0f30e047642c72c94c6ef4bfab7910bb0cd4f69f9da735338beca0b2d12e"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              }
+            ]
+          }
+        },
         "c04d5011a7fe11e7c9d8eaf89f6ca046b13ea002c3a62fdf0836dd60a53d4194": {
           "added": 1769158309000,
           "file": {
@@ -39372,7 +41320,7 @@
         "categories": [
           "System"
         ],
-        "lastUpdated": 1770537464000,
+        "lastUpdated": 1774364544000,
         "license": "Apache-2.0",
         "sourceCode": "https://github.com/thedjchi/Shizuku",
         "authorName": "thedjchi",
@@ -39388,6 +41336,65 @@
         "preferredSigner": "947e81ed49d6cde4006bd64b94ab69e63f50074ce01451d1bf30acb14e591f37"
       },
       "versions": {
+        "859f1df259b4b6e74270cafd3e49712405fc3a0bb987d1eb89c350ecdf3fa659": {
+          "added": 1774364544000,
+          "file": {
+            "name": "/shizuku-fork_v13.6.0.r1318-thedjchi.apk",
+            "sha256": "859f1df259b4b6e74270cafd3e49712405fc3a0bb987d1eb89c350ecdf3fa659",
+            "size": 3234851
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "13.6.0.r1318-thedjchi",
+            "versionCode": 1318,
+            "usesSdk": {
+              "minSdkVersion": 24,
+              "targetSdkVersion": 36
+            },
+            "signer": {
+              "sha256": [
+                "947e81ed49d6cde4006bd64b94ab69e63f50074ce01451d1bf30acb14e591f37"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_SPECIAL_USE"
+              },
+              {
+                "name": "android.permission.WRITE_SECURE_SETTINGS"
+              },
+              {
+                "name": "moe.shizuku.manager.permission.MANAGER"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              }
+            ]
+          }
+        },
         "77f5a2299b472b84ea77b138df42e2633741bf223255795a607659982e61aef1": {
           "added": 1770537464000,
           "file": {
@@ -40729,7 +42736,7 @@
         "categories": [
           "Internet"
         ],
-        "lastUpdated": 1768549381000,
+        "lastUpdated": 1774364501000,
         "license": "GPL-3.0",
         "sourceCode": "https://github.com/dic1911/Momogram",
         "authorName": "dic1911",
@@ -40745,6 +42752,462 @@
         "preferredSigner": "96d6f7bd5480e70647920c53199a89064986bd5355f64a191e6a8dacd36d9b2b"
       },
       "versions": {
+        "8ac69d5cb51c3e25139e33d26587c98bd243d5806d7c65ccd10c85932b7008ae": {
+          "added": 1774364501000,
+          "file": {
+            "name": "/momogram_v12.4.1.apk",
+            "sha256": "8ac69d5cb51c3e25139e33d26587c98bd243d5806d7c65ccd10c85932b7008ae",
+            "size": 57145329
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a"
+            ],
+            "versionName": "12.4.1-35d17b4b81",
+            "versionCode": 11219,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "96d6f7bd5480e70647920c53199a89064986bd5355f64a191e6a8dacd36d9b2b"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.ACCESS_COARSE_LOCATION"
+              },
+              {
+                "name": "android.permission.ACCESS_FINE_LOCATION"
+              },
+              {
+                "name": "android.permission.READ_CLIPBOARD"
+              },
+              {
+                "name": "android.permission.BLUETOOTH_CONNECT"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_DATA_SYNC"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_MEDIA_PROJECTION"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_CAMERA"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_LOCATION"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_MICROPHONE"
+              },
+              {
+                "name": "android.permission.RECORD_AUDIO"
+              },
+              {
+                "name": "android.permission.MODIFY_AUDIO_SETTINGS"
+              },
+              {
+                "name": "android.permission.ACCESS_MEDIA_LOCATION"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.ACCESS_WIFI_STATE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_IMAGES"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_VIDEO"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_AUDIO"
+              },
+              {
+                "name": "android.permission.GET_ACCOUNTS"
+              },
+              {
+                "name": "android.permission.READ_CONTACTS"
+              },
+              {
+                "name": "android.permission.WRITE_CONTACTS"
+              },
+              {
+                "name": "android.permission.MANAGE_ACCOUNTS"
+              },
+              {
+                "name": "android.permission.READ_PROFILE"
+              },
+              {
+                "name": "android.permission.WRITE_SYNC_SETTINGS"
+              },
+              {
+                "name": "android.permission.READ_SYNC_SETTINGS"
+              },
+              {
+                "name": "android.permission.AUTHENTICATE_ACCOUNTS"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.SYSTEM_ALERT_WINDOW"
+              },
+              {
+                "name": "android.permission.READ_PHONE_STATE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.USE_FINGERPRINT"
+              },
+              {
+                "name": "android.permission.USE_BIOMETRIC"
+              },
+              {
+                "name": "android.permission.INSTALL_SHORTCUT"
+              },
+              {
+                "name": "com.android.launcher.permission.INSTALL_SHORTCUT"
+              },
+              {
+                "name": "com.android.launcher.permission.UNINSTALL_SHORTCUT"
+              },
+              {
+                "name": "android.permission.CAMERA"
+              },
+              {
+                "name": "android.permission.BLUETOOTH"
+              },
+              {
+                "name": "android.permission.MANAGE_OWN_CALLS"
+              },
+              {
+                "name": "android.permission.USE_FULL_SCREEN_INTENT"
+              },
+              {
+                "name": "android.permission.REQUEST_INSTALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.READ_PHONE_NUMBERS"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "com.sec.android.provider.badge.permission.READ"
+              },
+              {
+                "name": "com.sec.android.provider.badge.permission.WRITE"
+              },
+              {
+                "name": "com.htc.launcher.permission.READ_SETTINGS"
+              },
+              {
+                "name": "com.htc.launcher.permission.UPDATE_SHORTCUT"
+              },
+              {
+                "name": "com.sonyericsson.home.permission.BROADCAST_BADGE"
+              },
+              {
+                "name": "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE"
+              },
+              {
+                "name": "com.anddoes.launcher.permission.UPDATE_COUNT"
+              },
+              {
+                "name": "com.majeur.launcher.permission.UPDATE_BADGE"
+              },
+              {
+                "name": "com.huawei.android.launcher.permission.CHANGE_BADGE"
+              },
+              {
+                "name": "com.huawei.android.launcher.permission.READ_SETTINGS"
+              },
+              {
+                "name": "com.huawei.android.launcher.permission.WRITE_SETTINGS"
+              },
+              {
+                "name": "android.permission.READ_APP_BADGE"
+              },
+              {
+                "name": "com.oppo.launcher.permission.READ_SETTINGS"
+              },
+              {
+                "name": "com.oppo.launcher.permission.WRITE_SETTINGS"
+              },
+              {
+                "name": "me.everything.badger.permission.BADGE_COUNT_READ"
+              },
+              {
+                "name": "me.everything.badger.permission.BADGE_COUNT_WRITE"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE",
+                "maxSdkVersion": 29
+              },
+              {
+                "name": "android.permission.ACCESS_BACKGROUND_LOCATION"
+              },
+              {
+                "name": "android.permission.CREDENTIAL_MANAGER_SET_ORIGIN"
+              },
+              {
+                "name": "nekox.messenger.broken.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        },
+        "9fe6aa6a1370f85f286f16fa196e642dd913e07793ad0115af8abda338eb70a3": {
+          "added": 1774364498000,
+          "file": {
+            "name": "/momogram_v12.3.1-1.apk",
+            "sha256": "9fe6aa6a1370f85f286f16fa196e642dd913e07793ad0115af8abda338eb70a3",
+            "size": 56306434
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a"
+            ],
+            "versionName": "12.3.1-58ac5cd3e1",
+            "versionCode": 11199,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "96d6f7bd5480e70647920c53199a89064986bd5355f64a191e6a8dacd36d9b2b"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.ACCESS_COARSE_LOCATION"
+              },
+              {
+                "name": "android.permission.ACCESS_FINE_LOCATION"
+              },
+              {
+                "name": "android.permission.READ_CLIPBOARD"
+              },
+              {
+                "name": "android.permission.BLUETOOTH_CONNECT"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_DATA_SYNC"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_MEDIA_PROJECTION"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_CAMERA"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_LOCATION"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_MICROPHONE"
+              },
+              {
+                "name": "android.permission.RECORD_AUDIO"
+              },
+              {
+                "name": "android.permission.MODIFY_AUDIO_SETTINGS"
+              },
+              {
+                "name": "android.permission.ACCESS_MEDIA_LOCATION"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.ACCESS_WIFI_STATE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_IMAGES"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_VIDEO"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_AUDIO"
+              },
+              {
+                "name": "android.permission.GET_ACCOUNTS"
+              },
+              {
+                "name": "android.permission.READ_CONTACTS"
+              },
+              {
+                "name": "android.permission.WRITE_CONTACTS"
+              },
+              {
+                "name": "android.permission.MANAGE_ACCOUNTS"
+              },
+              {
+                "name": "android.permission.READ_PROFILE"
+              },
+              {
+                "name": "android.permission.WRITE_SYNC_SETTINGS"
+              },
+              {
+                "name": "android.permission.READ_SYNC_SETTINGS"
+              },
+              {
+                "name": "android.permission.AUTHENTICATE_ACCOUNTS"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.SYSTEM_ALERT_WINDOW"
+              },
+              {
+                "name": "android.permission.READ_PHONE_STATE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.USE_FINGERPRINT"
+              },
+              {
+                "name": "android.permission.USE_BIOMETRIC"
+              },
+              {
+                "name": "android.permission.INSTALL_SHORTCUT"
+              },
+              {
+                "name": "com.android.launcher.permission.INSTALL_SHORTCUT"
+              },
+              {
+                "name": "com.android.launcher.permission.UNINSTALL_SHORTCUT"
+              },
+              {
+                "name": "android.permission.CAMERA"
+              },
+              {
+                "name": "android.permission.BLUETOOTH"
+              },
+              {
+                "name": "android.permission.MANAGE_OWN_CALLS"
+              },
+              {
+                "name": "android.permission.USE_FULL_SCREEN_INTENT"
+              },
+              {
+                "name": "android.permission.REQUEST_INSTALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.READ_PHONE_NUMBERS"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "com.sec.android.provider.badge.permission.READ"
+              },
+              {
+                "name": "com.sec.android.provider.badge.permission.WRITE"
+              },
+              {
+                "name": "com.htc.launcher.permission.READ_SETTINGS"
+              },
+              {
+                "name": "com.htc.launcher.permission.UPDATE_SHORTCUT"
+              },
+              {
+                "name": "com.sonyericsson.home.permission.BROADCAST_BADGE"
+              },
+              {
+                "name": "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE"
+              },
+              {
+                "name": "com.anddoes.launcher.permission.UPDATE_COUNT"
+              },
+              {
+                "name": "com.majeur.launcher.permission.UPDATE_BADGE"
+              },
+              {
+                "name": "com.huawei.android.launcher.permission.CHANGE_BADGE"
+              },
+              {
+                "name": "com.huawei.android.launcher.permission.READ_SETTINGS"
+              },
+              {
+                "name": "com.huawei.android.launcher.permission.WRITE_SETTINGS"
+              },
+              {
+                "name": "android.permission.READ_APP_BADGE"
+              },
+              {
+                "name": "com.oppo.launcher.permission.READ_SETTINGS"
+              },
+              {
+                "name": "com.oppo.launcher.permission.WRITE_SETTINGS"
+              },
+              {
+                "name": "me.everything.badger.permission.BADGE_COUNT_READ"
+              },
+              {
+                "name": "me.everything.badger.permission.BADGE_COUNT_WRITE"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE",
+                "maxSdkVersion": 29
+              },
+              {
+                "name": "android.permission.ACCESS_BACKGROUND_LOCATION"
+              },
+              {
+                "name": "android.permission.CREDENTIAL_MANAGER_SET_ORIGIN"
+              },
+              {
+                "name": "nekox.messenger.broken.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        },
         "6e31738853f7f06e72b59395e7b685ac42d656685ffc8d9480043001d0fb4f31": {
           "added": 1768549381000,
           "file": {

@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1770708765000,
+    "timestamp": 1774364726000,
     "version": 20002,
     "name": "Lobanokivan11's F-Droid Repo",
     "icon": "icon.png",
@@ -183,7 +183,7 @@
         "Theming",
         "System"
       ],
-      "suggestedVersionName": "16.0.0 (c3faece)",
+      "suggestedVersionName": "16.0.0 (5be5d9e)",
       "suggestedVersionCode": "16000000",
       "description": "<p><strong>Lawnchair</strong>&nbsp;is a free, open source home screen replacement based on&nbsp;<em>Launcher3</em>&nbsp;from the Android open source project. The app aims to provide an experience similar to that of the Pixel Launcher, while offering more features.<br /><br /><strong>Key highlights:</strong><br />* Material You support (with dark theme and color customizations)<br />* At a Glance support, alongside Smartspacer app support<br />* Rich grid and icon customizations<br />* Local, on-device search support<br />* Optional integration with Android Recents</p>\n",
       "license": "NOASSERTION",
@@ -192,7 +192,7 @@
       "summary": "Easy to publish the latest Lawnchair release with my personal signing.",
       "added": 1751041137000,
       "packageName": "app.lawnchair",
-      "lastUpdated": 1770614255000,
+      "lastUpdated": 1774364347000,
       "localized": {
         "en-US": {
           "phoneScreenshots": [
@@ -227,7 +227,7 @@
             "8.png",
             "9.png"
           ],
-          "whatsNew": "<!-- Release notes generated using configuration in .github/release.yml at trunk -->\n\n\n\n**Full Changelog**: https://github.com/Goooler/LawnchairRelease/compare/16.0.0-20260204...16.0.0-20260209"
+          "whatsNew": "<!-- Release notes generated using configuration in .github/release.yml at trunk -->\n\n\n\n**Full Changelog**: https://github.com/Goooler/LawnchairRelease/compare/16.0.0-20260315...16.0.0-20260323"
         }
       }
     },
@@ -300,8 +300,8 @@
       "categories": [
         "System"
       ],
-      "suggestedVersionName": "v34265-release",
-      "suggestedVersionCode": "34265",
+      "suggestedVersionName": "v34296-release",
+      "suggestedVersionCode": "34296",
       "description": "<p dir=\"auto\">MMRL is an Android app that helps manage your own modules repository.</p>\n<div class=\"markdown-heading\" dir=\"auto\">\n<h2 class=\"heading-element\" dir=\"auto\" tabindex=\"-1\">Features</h2>\n<a id=\"user-content-features\" class=\"anchor\" href=\"https://github.com/MMRLApp/MMRL#features\"></a></div>\n<ul dir=\"auto\">\n<li><strong>Comprehensive Root Manager Support</strong>: Full compatibility with Magisk, KernelSU, and APatch for diverse root management options.</li>\n<li><strong>WebUI with Advanced Features</strong>: Includes&nbsp;<a href=\"https://developer.android.com/develop/ui/compose/layouts/insets\" rel=\"nofollow\">Edge-to-Edge</a>&nbsp;support and dynamic app themes for a seamless user experience.</li>\n<li><strong>Bulk Installation Support</strong>: Effortlessly install modules in bulk, both online and locally.</li>\n<li><strong>Module Dependency Management</strong>: Simplifies module installation for end-users by automatically handling module dependencies.</li>\n<li><strong>Magisk Modules Repositories</strong>: A community-driven platform that allows anyone to contribute and access Magisk modules.</li>\n<li><strong>User Transparency with Blacklist</strong>: Clear visibility into which modules or actions are restricted, ensuring users can make informed decisions.</li>\n<li><strong>Customizable Module Pages</strong>: Personalize module pages with categories, screenshots, icons, covers, and other content for a tailored presentation.</li>\n<li><strong>Transparency of Included Files</strong>: Detailed breakdown of all files within modules, including APKs, service files, and more, for full user awareness.</li>\n<li><strong>Analytics Dashboard</strong>: Display module-related analytics on the homepage, offering valuable insights into module usage and trends.</li>\n</ul>\n",
       "license": "GPL-3.0",
       "name": "MMRL",
@@ -309,7 +309,7 @@
       "summary": "A app for managing, sharing, and exploring Magisk modules across repositories",
       "added": 1754557672000,
       "packageName": "com.dergoogler.mmrl",
-      "lastUpdated": 1767275259000,
+      "lastUpdated": 1774364395000,
       "localized": {
         "en-US": {
           "phoneScreenshots": [
@@ -320,7 +320,7 @@
             "5.png",
             "6.png"
           ],
-          "whatsNew": "## What's new?\n\n- Translated using Weblate (Japanese)\n- Translated using Weblate (Spanish)\n- Translated using Weblate (Polish)\n- Translated using Weblate (Chinese (Simplified Han script))\n- Add option to show stars in module details\n- Enable showUpdatedTime by default in RepositoryMenu\n- Add stars and buildMetadata fields to online modules\n- Remove dynamic KernelSU library naming\n- Add stars label and event painter utility\n- Add stars and buildMetadata fields to models\n- Translated using Weblate"
+          "whatsNew": "## What's new?\n\n- Added translation using Weblate (Dutch)\n- Added translation using Weblate (Dutch)\n- Translated using Weblate (Russian)\n\n[See all changes here](https://github.com/MMRLApp/MMRL/compare/v34292...master)\n\n[Workflow run](https://github.com/MMRLApp/MMRL/actions/runs/22831026463)"
         }
       }
     },
@@ -329,8 +329,8 @@
       "categories": [
         "Internet"
       ],
-      "suggestedVersionName": "12.2.10-c86b747287",
-      "suggestedVersionCode": "11159",
+      "suggestedVersionName": "12.4.1-35d17b4b81",
+      "suggestedVersionCode": "11219",
       "description": "<div class=\"markdown-heading\" dir=\"auto\">\n<h1 class=\"heading-element\" dir=\"auto\" tabindex=\"-1\">Momogram</h1>\n<a id=\"user-content-momogram\" class=\"anchor\" href=\"https://github.com/dic1911/Momogram#momogram\"></a></div>\n<hr />\n<p dir=\"auto\">Momogram is a feature-rich 3rd-party Telegram client, aiming to be the spiritual successor of the OG NekoX.</p>\n<p dir=\"auto\">Built with unique customization and features, get ready and let Momogram take your Telegram chatting experience to the next level.</p>\n<div class=\"markdown-heading\" dir=\"auto\">\n<h2 class=\"heading-element\" dir=\"auto\" tabindex=\"-1\">New Features</h2>\n<a id=\"user-content-new-features\" class=\"anchor\" href=\"https://github.com/dic1911/Momogram#new-features\"></a></div>\n<div class=\"markdown-heading\" dir=\"auto\">\n<h3 class=\"heading-element\" dir=\"auto\" tabindex=\"-1\">General</h3>\n<a id=\"user-content-general\" class=\"anchor\" href=\"https://github.com/dic1911/Momogram#general\"></a></div>\n<ul dir=\"auto\">\n<li>Additional translation provider (Lingva)</li>\n<li>Allow bots to be shown in direct share</li>\n<li>Allow chat preview for tablet mode if in portrait mode</li>\n<li>Disable auto login with Telegram account when opening certain links</li>\n<li>Filter languages shown in translate target</li>\n<li>Hide birthday reminders</li>\n<li>Hide various premium upselling annoyance</li>\n<li>In-app anti-spam measure ;)</li>\n<li>Searchable Momogram settings, just like official ones</li>\n<li>Only share \"last seen\" to the ones you want to check their \"last seen\"</li>\n<li>Override device performance class</li>\n<li>Remove tracking queries from URL for better privacy</li>\n<li>Restart the app automatically whenever critical problem occurs</li>\n<li>Stream video with external player</li>\n<li>Swipe music player bar to switch tracks</li>\n<li>Uncheck \"share my number\" when adding contact by default</li>\n</ul>\n<div class=\"markdown-heading\" dir=\"auto\">\n<h3 class=\"heading-element\" dir=\"auto\" tabindex=\"-1\">Chat</h3>\n<a id=\"user-content-chat\" class=\"anchor\" href=\"https://github.com/dic1911/Momogram#chat\"></a></div>\n<ul dir=\"auto\">\n<li>Auto select best video quality if available</li>\n<li>Ban button in join request list</li>\n<li>Block specified chat/channel from search results</li>\n<li>Client side fban</li>\n<li>Copy image/sticker button in menu</li>\n<li>Detect data saver and use roaming auto download preset when enabled</li>\n<li>Enable spoiler for all media in specified chats</li>\n<li>Local only custom chat name</li>\n<li>Mute group chat notifications from blocked users/bots</li>\n<li>New double tap actions</li>\n<li>Reply as quote by default</li>\n<li>Remove single emoji from recently used list</li>\n<li>Schedule send message after slow mode timer ends without having to wait in the same chat</li>\n<li>Search message by type</li>\n<li>Speech to text via Cloudflare/local Whisper inference</li>\n<li>Translate text messages before send</li>\n<li>Translate forwarding text message before send (without quote)</li>\n<li>Use marquee for long chat titles</li>\n</ul>\n<div class=\"markdown-heading\" dir=\"auto\">\n<h3 class=\"heading-element\" dir=\"auto\" tabindex=\"-1\">Customization</h3>\n<a id=\"user-content-customization\" class=\"anchor\" href=\"https://github.com/dic1911/Momogram#customization\"></a></div>\n<ul dir=\"auto\">\n<li>Always show downloads button in chat list</li>\n<li>Custom folder icon, official and custom emoji(local only)</li>\n<li>Custom title text</li>\n<li>Disable remote chat wallpaper</li>\n<li>Hide unread counter on folder tabs</li>\n<li>Use account name as chat list title</li>\n</ul>\n<div class=\"markdown-heading\" dir=\"auto\">\n<h3 class=\"heading-element\" dir=\"auto\" tabindex=\"-1\">Mini-app / Webview</h3>\n<a id=\"user-content-mini-app--webview\" class=\"anchor\" href=\"https://github.com/dic1911/Momogram#mini-app--webview\"></a></div>\n<ul dir=\"auto\">\n<li>Block bot without deleting history by default</li>\n<li>Comfirm before opening external links from webview</li>\n<li>Custom search engine for in-app browser</li>\n<li>Copy link button in menu</li>\n<li>Don't open bot when re-opening tab</li>\n<li>Don't send \"/start\" when restarting bot</li>\n<li>Hide bottom overlay when in chat or sharing</li>\n<li>Open webpages (ex. games) with mini-app mode</li>\n<li>Skip confirmation on closing tab</li>\n<li>Toggle to disable geolocation</li>\n<li>Toggle to disable safe browsing</li>\n</ul>\n",
       "license": "GPL-3.0",
       "name": "Momogram",
@@ -338,12 +338,7 @@
       "summary": "A third-party Telegram android app.",
       "added": 1751040034000,
       "packageName": "nekox.messenger.broken",
-      "lastUpdated": 1768549381000,
-      "localized": {
-        "en-US": {
-          "whatsNew": "Added:\n- Optional memory leak fix (stutters on low end devices and causes video playback issues, otherwise greatly mitigates leaks)\n- Test ping manually when adding proxy\n- Truncate long value text in settings\n\n(Special Thanks: Nagram)"
-        }
-      }
+      "lastUpdated": 1774364501000
     },
     {
       "authorName": "Lobanokivan11",
@@ -438,8 +433,8 @@
       "categories": [
         "Xposed"
       ],
-      "suggestedVersionName": "1.0.39",
-      "suggestedVersionCode": "39",
+      "suggestedVersionName": "1.0.41",
+      "suggestedVersionCode": "41",
       "description": "<p dir=\"auto\"><strong>ReVanced LSPosed module by ChsBuffer.</strong></p>\n<div class=\"markdown-alert markdown-alert-important\" dir=\"auto\">\n<p class=\"markdown-alert-title\" dir=\"auto\">Important</p>\n<p dir=\"auto\">This is not an official ReVanced project, do not ask the ReVanced developers for help.</p>\n</div>\n<div class=\"markdown-heading\" dir=\"auto\">\n<h2 class=\"heading-element\" dir=\"auto\" tabindex=\"-1\">Patches</h2>\n<a id=\"user-content-patches\" class=\"anchor\" href=\"https://github.com/chsbuffer/ReVancedXposed#patches\"></a></div>\n<div class=\"markdown-heading\" dir=\"auto\">\n<h3 class=\"heading-element\" dir=\"auto\" tabindex=\"-1\">Youtube</h3>\n<a id=\"user-content-youtube\" class=\"anchor\" href=\"https://github.com/chsbuffer/ReVancedXposed#youtube\"></a></div>\n<ul dir=\"auto\">\n<li>Remove ads</li>\n<li>SponsorBlock</li>\n<li>Remove background playback restrictions</li>\n<li>Remove share links tracking query parameter</li>\n<li>Hide and change navigation buttons</li>\n<li>Swipe controls</li>\n<li>Remember video quality changes</li>\n<li>Show video quality button</li>\n<li>Show advanced video quality menu</li>\n<li>Copy video url video player button</li>\n<li>Open external downloader app</li>\n<li>Custom playback speed</li>\n<li>Remember playback speed</li>\n<li>Playback speed dialog button</li>\n<li>Hide layout components</li>\n<li>Hide video action buttons</li>\n<li>Disable resuming Shorts on startup</li>\n</ul>\n<div class=\"markdown-heading\" dir=\"auto\">\n<h3 class=\"heading-element\" dir=\"auto\" tabindex=\"-1\">Spotify</h3>\n<a id=\"user-content-spotify\" class=\"anchor\" href=\"https://github.com/chsbuffer/ReVancedXposed#spotify\"></a></div>\n<ul dir=\"auto\">\n<li>Unlock Spotify Premium</li>\n<li>Sanitize sharing links</li>\n<li>Hide Create button</li>\n</ul>\n<div class=\"markdown-heading\" dir=\"auto\">\n<h3 class=\"heading-element\" dir=\"auto\" tabindex=\"-1\">Google Photos</h3>\n<a id=\"user-content-google-photos\" class=\"anchor\" href=\"https://github.com/chsbuffer/ReVancedXposed#google-photos\"></a></div>\n<ul dir=\"auto\">\n<li>Spoof Pixel XL</li>\n</ul>\n<div class=\"markdown-heading\" dir=\"auto\">\n<h3 class=\"heading-element\" dir=\"auto\" tabindex=\"-1\">Youtube Music</h3>\n<a id=\"user-content-youtube-music\" class=\"anchor\" href=\"https://github.com/chsbuffer/ReVancedXposed#youtube-music\"></a></div>\n<ul dir=\"auto\">\n<li>Remove music video ads</li>\n<li>Remove background playback restrictions</li>\n<li>Hide upgrade button</li>\n<li>Hide 'Get Music Premium' label</li>\n<li>Enable exclusive audio playback</li>\n</ul>\n<div class=\"markdown-heading\" dir=\"auto\">\n<h3 class=\"heading-element\" dir=\"auto\" tabindex=\"-1\">Instagram</h3>\n<a id=\"user-content-instagram\" class=\"anchor\" href=\"https://github.com/chsbuffer/ReVancedXposed#instagram\"></a></div>\n<ul dir=\"auto\">\n<li>Hide ads</li>\n</ul>\n<div class=\"markdown-heading\" dir=\"auto\">\n<h3 class=\"heading-element\" dir=\"auto\" tabindex=\"-1\">Threads</h3>\n<a id=\"user-content-threads\" class=\"anchor\" href=\"https://github.com/chsbuffer/ReVancedXposed#threads\"></a></div>\n<ul dir=\"auto\">\n<li>Hide ads</li>\n</ul>\n<div class=\"markdown-heading\" dir=\"auto\">\n<h3 class=\"heading-element\" dir=\"auto\" tabindex=\"-1\">Reddit (2024.17.0)</h3>\n<a id=\"user-content-reddit-2024170\" class=\"anchor\" href=\"https://github.com/chsbuffer/ReVancedXposed#reddit-2024170\"></a></div>\n<ul dir=\"auto\">\n<li>Hide ads</li>\n<li>Sanitize sharing links</li>\n</ul>\n<div class=\"markdown-heading\" dir=\"auto\">\n<h3 class=\"heading-element\" dir=\"auto\" tabindex=\"-1\">Strava</h3>\n<a id=\"user-content-strava\" class=\"anchor\" href=\"https://github.com/chsbuffer/ReVancedXposed#strava\"></a></div>\n<ul dir=\"auto\">\n<li>Unlock subscription features</li>\n<li>Disable subscription suggestions</li>\n</ul>\n<div class=\"markdown-heading\" dir=\"auto\">\n<h3 class=\"heading-element\" dir=\"auto\" tabindex=\"-1\">Photomath</h3>\n<a id=\"user-content-photomath\" class=\"anchor\" href=\"https://github.com/chsbuffer/ReVancedXposed#photomath\"></a></div>\n<ul dir=\"auto\">\n<li>Unlock plus</li>\n</ul>\n",
       "license": "GPL-3.0",
       "name": "ReVanced Xposed",
@@ -447,10 +442,10 @@
       "summary": "ReVanced LSPosed module. YouTube & YT Music Remove ads, Background playback",
       "added": 1751037249000,
       "packageName": "io.github.chsbuffer.revancedxposed",
-      "lastUpdated": 1769158309000,
+      "lastUpdated": 1774364532000,
       "localized": {
         "en-US": {
-          "whatsNew": "## YouTube\n- Support 21.03.34\n- Add **Alternative Thumbnails** and **Bypass Image Region Restrictions** \n\n## YT Music\n- **Background playback** support 9.02.50\n\n[Donate me on AFDian](https://afdian.com/a/ChsBuffer)"
+          "whatsNew": "## YouTube\n- Support 21.08.265\n\n[Donate me on AFDian](https://afdian.com/a/ChsBuffer)"
         }
       }
     },
@@ -501,8 +496,8 @@
       "categories": [
         "System"
       ],
-      "suggestedVersionName": "13.6.0.r1311-thedjchi",
-      "suggestedVersionCode": "1311",
+      "suggestedVersionName": "13.6.0.r1318-thedjchi",
+      "suggestedVersionCode": "1318",
       "description": "Shizuku but on steroid\n",
       "license": "Apache-2.0",
       "name": "Shizuku thedjchi's fork",
@@ -510,10 +505,10 @@
       "summary": "Using system APIs directly with adb/root privileges from normal apps through ...",
       "added": 1770537454000,
       "packageName": "moe.shizuku.privileged.api",
-      "lastUpdated": 1770537464000,
+      "lastUpdated": 1774364544000,
       "localized": {
         "en-US": {
-          "whatsNew": "### BETA USERS: the same changes are included in [v13.6.0.r1349-thedjchi-beta](https://github.com/thedjchi/Shizuku/releases/tag/v13.6.0.r1349-thedjchi-beta)\n\n## What's Changed\n* **[BREAKING CHANGE] [IMPROVEMENT]** Start/stop intents now require an auth token for security. The auth token can be found by tapping \"View intents\" in the app (See #111)\n* **[NEW FEATURE]** Added a toggle to auto-disable USB debugging when stopping Shizuku (See #110)\n* **[UI]** Intents are now displayed in a bottom shee"
+          "whatsNew": "### BETA USERS: this is the stable version, the same changes are included in beta version [v13.6.0.r1349-thedjchi-beta](https://github.com/thedjchi/Shizuku/releases/tag/v13.6.0.r1349-thedjchi-beta)\n\n## What's Changed\n\n- Fixed the automation apps card description not displaying correctly in languages other than English (see #129 and #142)\n- Fixed the start on boot option not being available on all TVs (see #138)"
         }
       }
     },
@@ -561,8 +556,8 @@
       "categories": [
         "System"
       ],
-      "suggestedVersionName": "v363-release",
-      "suggestedVersionCode": "363",
+      "suggestedVersionName": "v423-release",
+      "suggestedVersionCode": "423",
       "description": "<h1 id=\"why-webui-x\" tabindex=\"-1\">Why WebUI X?</h1>\n<p>WebUI X is the next-generation framework for building modular, secure, and high-performance WebUI applications. It offers significant improvements over Legacy KernelSU WebUI, making it the ideal choice for developers. Below are the key reasons to switch:</p>\n<h2 id=\"\ud83d\ude80-key-advantages\" tabindex=\"-1\">\ud83d\ude80&nbsp;<strong>Key Advantages</strong></h2>\n<h3 id=\"_1-enhanced-security\" tabindex=\"-1\">1.&nbsp;<strong>Enhanced Security</strong></h3>\n<ul>\n<li><strong>Content Security Policy (CSP):</strong>&nbsp;Restricts unsafe scripts and resources, preventing XSS attacks.</li>\n<li><strong>Kill Shell:</strong>&nbsp;Automatically terminates background processes to block unauthorized code execution.</li>\n<li><strong>Strict Isolation:</strong>&nbsp;Plugins and modules run in controlled environments, reducing vulnerabilities.</li>\n</ul>\n<h3 id=\"_2-superior-performance\" tabindex=\"-1\">2.&nbsp;<strong>Superior Performance</strong></h3>\n<ul>\n<li><strong>Smart Caching:</strong>&nbsp;Configurable&nbsp;<code>Cache Max Age</code>&nbsp;and resource caching improve load times.</li>\n<li><strong>Optimized Rendering:</strong>&nbsp;Features like&nbsp;<code>Window Resize</code>&nbsp;and&nbsp;<code>Auto Style StatusBars</code>&nbsp;ensure smooth UI adaptation.</li>\n</ul>\n<h3 id=\"_3-powerful-debugging-tools\" tabindex=\"-1\">3.&nbsp;<strong>Powerful Debugging Tools</strong></h3>\n<div class=\"google-auto-placed ap_container\">&nbsp;</div>\n<ul>\n<li><strong>Built-in Eruda Console:</strong>&nbsp;Auto-injected for real-time debugging.</li>\n<li><strong>Remote URL Debugging:</strong>&nbsp;Test locally via&nbsp;<code>http://localhost</code>&nbsp;for faster iterations.</li>\n<li><strong>Developer Mode:</strong>&nbsp;Reveals module IDs and advanced metrics for troubleshooting.</li>\n</ul>\n<h3 id=\"_4-extensibility-customization\" tabindex=\"-1\">4.&nbsp;<strong>Extensibility &amp; Customization</strong></h3>\n<ul>\n<li><strong>Plugin Ecosystem:</strong>&nbsp;Supports APK and DEX plugins (e.g.,&nbsp;<a href=\"https://github.com/MMRLApp/WXU\" target=\"_blank\" rel=\"noreferrer\">WXU</a>) for limitless functionality.</li>\n<li><strong>SPA-Friendly:</strong>&nbsp;<code>History Fallback</code>&nbsp;ensures seamless navigation in single-page apps.</li>\n<li><strong>UI Control:</strong>&nbsp;Customize back-button behavior, refresh interceptors, and exit confirmations.</li>\n</ul>\n<h3 id=\"_5-modern-ux-features\" tabindex=\"-1\">5.&nbsp;<strong>Modern UX Features</strong></h3>\n<ul>\n<li><strong>Pull-to-Refresh:</strong>&nbsp;User-friendly reloading (beta).</li>\n<li><strong>Dynamic Theming:</strong>&nbsp;Match status bars to&nbsp;<a class=\"google-anno\" href=\"https://mmrl.dev/guide/webuix/#\" data-google-vignette=\"false\" data-google-interstitial=\"false\">&nbsp;<span class=\"google-anno-t\">app</span></a>&nbsp;themes for visual consistency.</li>\n</ul>\n<h3 id=\"_6-cross-platform-compatibility\" tabindex=\"-1\">6.&nbsp;<strong>Cross-Platform Compatibility</strong></h3>\n<ul>\n<li>Works with&nbsp;<strong>KernelSU (Next), SukiSU Ultra, Magisk, APatch</strong>, and even&nbsp;<strong>non-rooted devices</strong>.</li>\n</ul>\n",
       "license": "GPL-3.0",
       "name": "WebUi X",
@@ -570,7 +565,7 @@
       "summary": "WebUI X from MMRL but portable!",
       "added": 1754557775000,
       "packageName": "com.dergoogler.mmrl.wx",
-      "lastUpdated": 1767275390000,
+      "lastUpdated": 1774364558000,
       "localized": {
         "en-US": {
           "phoneScreenshots": [
@@ -580,7 +575,7 @@
             "4.png",
             "5.png"
           ],
-          "whatsNew": "## What's new?\n\n- Restore moduleInfo and add package info methods\n- Add global setting to disable WebUI exit confirmation\n- Add defensive checks to WebUIView lifecycle methods\n\n[See all changes here](https://github.com/MMRLApp/WebUI-X-Portable/compare/v360...master)\n\n[Workflow run](https://github.com/MMRLApp/WebUI-X-Portable/actions/runs/20007014185)"
+          "whatsNew": "## What's new?\n\n- Initialize ViewModel store on attach; add onReady\n- fix loading modules when reopening the app\n- Simplify WebUI launcher and remove engine options\n- Add force-kill WebUI process preference\n- Introduce HybridWebUI store & refactor console/network\n- Introduce WXContentResolver and update usage\n- Add global crash handler and crash UI\n- Refine DevTools bottom sheet layout and styling\n- Use RichLogEntry list for console logs\n- Translated using Weblate (Polish)\n- Translated using Web"
         }
       }
     },
@@ -1400,6 +1395,1812 @@
         ],
         "versionCode": 16000000,
         "versionName": "16.0.0 (c3faece)"
+      },
+      {
+        "added": 1774364338000,
+        "apkName": "lawnchair_16.0.0-20260213.apk",
+        "hash": "4b4504447efb30431fc0bb07e13ec2eed39f4a00f1a1636d572902fd6222cc8e",
+        "hashType": "sha256",
+        "minSdkVersion": 26,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "app.lawnchair",
+        "sig": "4cfc0fd17b05b53e0f83c03a57fcf19a",
+        "signer": "8f5b1353db08cd9287f8ecc6bad2eb9be2668d476af90415bd7bfdff257840e4",
+        "size": 19876855,
+        "targetSdkVersion": 36,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.PACKAGE_USAGE_STATS",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "com.google.android.apps.nexuslauncher.permission.QSB",
+            null
+          ],
+          [
+            "com.kieronquinn.app.smartspacer.permission.ACCESS_SMARTSPACER",
+            null
+          ],
+          [
+            "android.permission.READ_CONTACTS",
+            null
+          ],
+          [
+            "android.permission.READ_MEDIA_IMAGES",
+            null
+          ],
+          [
+            "android.permission.READ_MEDIA_VIDEO",
+            null
+          ],
+          [
+            "android.permission.READ_MEDIA_VISUAL_USER_SELECTED",
+            null
+          ],
+          [
+            "android.permission.READ_MEDIA_AUDIO",
+            null
+          ],
+          [
+            "android.permission.READ_HISTORY_BOOKMARKS",
+            null
+          ],
+          [
+            "android.permission.WRITE_HISTORY_BOOKMARKS",
+            null
+          ],
+          [
+            "android.permission.INTERACT_ACROSS_USERS",
+            null
+          ],
+          [
+            "android.permission.INTERACT_ACROSS_USERS_FULL",
+            null
+          ],
+          [
+            "android.permission.MANAGE_USERS",
+            null
+          ],
+          [
+            "android.permission.FORCE_STOP_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.STATUS_BAR_SERVICE",
+            null
+          ],
+          [
+            "android.permission.SUSPEND_APPS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.MANAGE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.BROADCAST_CLOSE_SYSTEM_DIALOGS",
+            null
+          ],
+          [
+            "android.permission.CONTROL_REMOTE_APP_TRANSITION_ANIMATIONS",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.START_TASKS_FROM_RECENTS",
+            null
+          ],
+          [
+            "android.permission.REMOVE_TASKS",
+            null
+          ],
+          [
+            "android.permission.WRITE_SECURE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.MANAGE_ACTIVITY_TASKS",
+            null
+          ],
+          [
+            "android.permission.INTERNAL_SYSTEM_WINDOW",
+            null
+          ],
+          [
+            "android.permission.STATUS_BAR",
+            null
+          ],
+          [
+            "android.permission.STOP_APP_SWITCHES",
+            null
+          ],
+          [
+            "android.permission.SET_ORIENTATION",
+            null
+          ],
+          [
+            "android.permission.READ_FRAME_BUFFER",
+            null
+          ],
+          [
+            "android.permission.MANAGE_ACCESSIBILITY",
+            null
+          ],
+          [
+            "android.permission.MONITOR_INPUT",
+            null
+          ],
+          [
+            "android.permission.ALLOW_SLIPPERY_TOUCHES",
+            null
+          ],
+          [
+            "android.permission.ACCESS_SHORTCUTS",
+            null
+          ],
+          [
+            "android.permission.SYSTEM_APPLICATION_OVERLAY",
+            null
+          ],
+          [
+            "android.permission.ACCESS_HIDDEN_PROFILES_FULL",
+            null
+          ],
+          [
+            "android.permission.ACCESS_HIDDEN_PROFILES",
+            null
+          ],
+          [
+            "android.permission.MANAGE_KEY_GESTURES",
+            null
+          ],
+          [
+            "android.permission.CALL_PHONE",
+            null
+          ],
+          [
+            "android.permission.SET_WALLPAPER",
+            null
+          ],
+          [
+            "android.permission.SET_WALLPAPER_HINTS",
+            null
+          ],
+          [
+            "android.permission.BIND_APPWIDGET",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.READ_DEVICE_CONFIG",
+            null
+          ],
+          [
+            "android.permission.EXPAND_STATUS_BAR",
+            null
+          ],
+          [
+            "android.permission.ACCESS_RESTRICTED_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.ROTATE_SURFACE_FLINGER",
+            null
+          ],
+          [
+            "android.permission.WAKEUP_SURFACE_FLINGER",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "app.lawnchair.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "app.lawnchair.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "app.lawnchair.permission.GRID_CONTROL",
+            null
+          ],
+          [
+            "android.permission.CAPTURE_BLACKOUT_CONTENT",
+            null
+          ],
+          [
+            "app.lawnchair.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 16000000,
+        "versionName": "16.0.0 (0cd0ae5)"
+      },
+      {
+        "added": 1774364340000,
+        "apkName": "lawnchair_16.0.0-20260221.apk",
+        "hash": "b7a293c22b7eadbbc53cd7b5f2f6a6fe95f51092030be31e15d79323771f0a7f",
+        "hashType": "sha256",
+        "minSdkVersion": 26,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "app.lawnchair",
+        "sig": "4cfc0fd17b05b53e0f83c03a57fcf19a",
+        "signer": "8f5b1353db08cd9287f8ecc6bad2eb9be2668d476af90415bd7bfdff257840e4",
+        "size": 19883495,
+        "targetSdkVersion": 36,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.PACKAGE_USAGE_STATS",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "com.google.android.apps.nexuslauncher.permission.QSB",
+            null
+          ],
+          [
+            "com.kieronquinn.app.smartspacer.permission.ACCESS_SMARTSPACER",
+            null
+          ],
+          [
+            "android.permission.READ_CONTACTS",
+            null
+          ],
+          [
+            "android.permission.READ_MEDIA_IMAGES",
+            null
+          ],
+          [
+            "android.permission.READ_MEDIA_VIDEO",
+            null
+          ],
+          [
+            "android.permission.READ_MEDIA_VISUAL_USER_SELECTED",
+            null
+          ],
+          [
+            "android.permission.READ_MEDIA_AUDIO",
+            null
+          ],
+          [
+            "android.permission.READ_HISTORY_BOOKMARKS",
+            null
+          ],
+          [
+            "android.permission.WRITE_HISTORY_BOOKMARKS",
+            null
+          ],
+          [
+            "android.permission.INTERACT_ACROSS_USERS",
+            null
+          ],
+          [
+            "android.permission.INTERACT_ACROSS_USERS_FULL",
+            null
+          ],
+          [
+            "android.permission.MANAGE_USERS",
+            null
+          ],
+          [
+            "android.permission.FORCE_STOP_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.STATUS_BAR_SERVICE",
+            null
+          ],
+          [
+            "android.permission.SUSPEND_APPS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.MANAGE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.BROADCAST_CLOSE_SYSTEM_DIALOGS",
+            null
+          ],
+          [
+            "android.permission.CONTROL_REMOTE_APP_TRANSITION_ANIMATIONS",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.START_TASKS_FROM_RECENTS",
+            null
+          ],
+          [
+            "android.permission.REMOVE_TASKS",
+            null
+          ],
+          [
+            "android.permission.WRITE_SECURE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.MANAGE_ACTIVITY_TASKS",
+            null
+          ],
+          [
+            "android.permission.INTERNAL_SYSTEM_WINDOW",
+            null
+          ],
+          [
+            "android.permission.STATUS_BAR",
+            null
+          ],
+          [
+            "android.permission.STOP_APP_SWITCHES",
+            null
+          ],
+          [
+            "android.permission.SET_ORIENTATION",
+            null
+          ],
+          [
+            "android.permission.READ_FRAME_BUFFER",
+            null
+          ],
+          [
+            "android.permission.MANAGE_ACCESSIBILITY",
+            null
+          ],
+          [
+            "android.permission.MONITOR_INPUT",
+            null
+          ],
+          [
+            "android.permission.ALLOW_SLIPPERY_TOUCHES",
+            null
+          ],
+          [
+            "android.permission.ACCESS_SHORTCUTS",
+            null
+          ],
+          [
+            "android.permission.SYSTEM_APPLICATION_OVERLAY",
+            null
+          ],
+          [
+            "android.permission.ACCESS_HIDDEN_PROFILES_FULL",
+            null
+          ],
+          [
+            "android.permission.ACCESS_HIDDEN_PROFILES",
+            null
+          ],
+          [
+            "android.permission.MANAGE_KEY_GESTURES",
+            null
+          ],
+          [
+            "android.permission.CALL_PHONE",
+            null
+          ],
+          [
+            "android.permission.SET_WALLPAPER",
+            null
+          ],
+          [
+            "android.permission.SET_WALLPAPER_HINTS",
+            null
+          ],
+          [
+            "android.permission.BIND_APPWIDGET",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.READ_DEVICE_CONFIG",
+            null
+          ],
+          [
+            "android.permission.EXPAND_STATUS_BAR",
+            null
+          ],
+          [
+            "android.permission.ACCESS_RESTRICTED_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.ROTATE_SURFACE_FLINGER",
+            null
+          ],
+          [
+            "android.permission.WAKEUP_SURFACE_FLINGER",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "app.lawnchair.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "app.lawnchair.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "app.lawnchair.permission.GRID_CONTROL",
+            null
+          ],
+          [
+            "android.permission.CAPTURE_BLACKOUT_CONTENT",
+            null
+          ],
+          [
+            "app.lawnchair.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 16000000,
+        "versionName": "16.0.0 (ad9a2f6)"
+      },
+      {
+        "added": 1774364341000,
+        "apkName": "lawnchair_16.0.0-20260302.apk",
+        "hash": "71779fbd888b8d629a76e3ba34d003b2aca4b8628b5936f39a3d3426447a3a51",
+        "hashType": "sha256",
+        "minSdkVersion": 26,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "app.lawnchair",
+        "sig": "4cfc0fd17b05b53e0f83c03a57fcf19a",
+        "signer": "8f5b1353db08cd9287f8ecc6bad2eb9be2668d476af90415bd7bfdff257840e4",
+        "size": 19898047,
+        "targetSdkVersion": 36,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.PACKAGE_USAGE_STATS",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "com.google.android.apps.nexuslauncher.permission.QSB",
+            null
+          ],
+          [
+            "com.kieronquinn.app.smartspacer.permission.ACCESS_SMARTSPACER",
+            null
+          ],
+          [
+            "android.permission.READ_CONTACTS",
+            null
+          ],
+          [
+            "android.permission.READ_MEDIA_IMAGES",
+            null
+          ],
+          [
+            "android.permission.READ_MEDIA_VIDEO",
+            null
+          ],
+          [
+            "android.permission.READ_MEDIA_VISUAL_USER_SELECTED",
+            null
+          ],
+          [
+            "android.permission.READ_MEDIA_AUDIO",
+            null
+          ],
+          [
+            "android.permission.READ_HISTORY_BOOKMARKS",
+            null
+          ],
+          [
+            "android.permission.WRITE_HISTORY_BOOKMARKS",
+            null
+          ],
+          [
+            "android.permission.INTERACT_ACROSS_USERS",
+            null
+          ],
+          [
+            "android.permission.INTERACT_ACROSS_USERS_FULL",
+            null
+          ],
+          [
+            "android.permission.MANAGE_USERS",
+            null
+          ],
+          [
+            "android.permission.FORCE_STOP_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.STATUS_BAR_SERVICE",
+            null
+          ],
+          [
+            "android.permission.SUSPEND_APPS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.MANAGE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.BROADCAST_CLOSE_SYSTEM_DIALOGS",
+            null
+          ],
+          [
+            "android.permission.CONTROL_REMOTE_APP_TRANSITION_ANIMATIONS",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.START_TASKS_FROM_RECENTS",
+            null
+          ],
+          [
+            "android.permission.REMOVE_TASKS",
+            null
+          ],
+          [
+            "android.permission.WRITE_SECURE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.MANAGE_ACTIVITY_TASKS",
+            null
+          ],
+          [
+            "android.permission.INTERNAL_SYSTEM_WINDOW",
+            null
+          ],
+          [
+            "android.permission.STATUS_BAR",
+            null
+          ],
+          [
+            "android.permission.STOP_APP_SWITCHES",
+            null
+          ],
+          [
+            "android.permission.SET_ORIENTATION",
+            null
+          ],
+          [
+            "android.permission.READ_FRAME_BUFFER",
+            null
+          ],
+          [
+            "android.permission.MANAGE_ACCESSIBILITY",
+            null
+          ],
+          [
+            "android.permission.MONITOR_INPUT",
+            null
+          ],
+          [
+            "android.permission.ALLOW_SLIPPERY_TOUCHES",
+            null
+          ],
+          [
+            "android.permission.ACCESS_SHORTCUTS",
+            null
+          ],
+          [
+            "android.permission.SYSTEM_APPLICATION_OVERLAY",
+            null
+          ],
+          [
+            "android.permission.ACCESS_HIDDEN_PROFILES_FULL",
+            null
+          ],
+          [
+            "android.permission.ACCESS_HIDDEN_PROFILES",
+            null
+          ],
+          [
+            "android.permission.MANAGE_KEY_GESTURES",
+            null
+          ],
+          [
+            "android.permission.CALL_PHONE",
+            null
+          ],
+          [
+            "android.permission.SET_WALLPAPER",
+            null
+          ],
+          [
+            "android.permission.SET_WALLPAPER_HINTS",
+            null
+          ],
+          [
+            "android.permission.BIND_APPWIDGET",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.READ_DEVICE_CONFIG",
+            null
+          ],
+          [
+            "android.permission.EXPAND_STATUS_BAR",
+            null
+          ],
+          [
+            "android.permission.ACCESS_RESTRICTED_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.ROTATE_SURFACE_FLINGER",
+            null
+          ],
+          [
+            "android.permission.WAKEUP_SURFACE_FLINGER",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "app.lawnchair.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "app.lawnchair.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "app.lawnchair.permission.GRID_CONTROL",
+            null
+          ],
+          [
+            "android.permission.CAPTURE_BLACKOUT_CONTENT",
+            null
+          ],
+          [
+            "app.lawnchair.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 16000000,
+        "versionName": "16.0.0 (6176c8c)"
+      },
+      {
+        "added": 1774364343000,
+        "apkName": "lawnchair_16.0.0-20260304.apk",
+        "hash": "8654cf0518d8fa66851fbb67c42ddeccc633f6caf31eb6e3f4177579206f8ceb",
+        "hashType": "sha256",
+        "minSdkVersion": 26,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "app.lawnchair",
+        "sig": "4cfc0fd17b05b53e0f83c03a57fcf19a",
+        "signer": "8f5b1353db08cd9287f8ecc6bad2eb9be2668d476af90415bd7bfdff257840e4",
+        "size": 20016436,
+        "targetSdkVersion": 36,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.PACKAGE_USAGE_STATS",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "com.google.android.apps.nexuslauncher.permission.QSB",
+            null
+          ],
+          [
+            "com.kieronquinn.app.smartspacer.permission.ACCESS_SMARTSPACER",
+            null
+          ],
+          [
+            "android.permission.READ_CONTACTS",
+            null
+          ],
+          [
+            "android.permission.READ_MEDIA_IMAGES",
+            null
+          ],
+          [
+            "android.permission.READ_MEDIA_VIDEO",
+            null
+          ],
+          [
+            "android.permission.READ_MEDIA_VISUAL_USER_SELECTED",
+            null
+          ],
+          [
+            "android.permission.READ_MEDIA_AUDIO",
+            null
+          ],
+          [
+            "android.permission.READ_HISTORY_BOOKMARKS",
+            null
+          ],
+          [
+            "android.permission.WRITE_HISTORY_BOOKMARKS",
+            null
+          ],
+          [
+            "android.permission.INTERACT_ACROSS_USERS",
+            null
+          ],
+          [
+            "android.permission.INTERACT_ACROSS_USERS_FULL",
+            null
+          ],
+          [
+            "android.permission.MANAGE_USERS",
+            null
+          ],
+          [
+            "android.permission.FORCE_STOP_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.STATUS_BAR_SERVICE",
+            null
+          ],
+          [
+            "android.permission.SUSPEND_APPS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.MANAGE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.BROADCAST_CLOSE_SYSTEM_DIALOGS",
+            null
+          ],
+          [
+            "android.permission.CONTROL_REMOTE_APP_TRANSITION_ANIMATIONS",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.START_TASKS_FROM_RECENTS",
+            null
+          ],
+          [
+            "android.permission.REMOVE_TASKS",
+            null
+          ],
+          [
+            "android.permission.WRITE_SECURE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.MANAGE_ACTIVITY_TASKS",
+            null
+          ],
+          [
+            "android.permission.INTERNAL_SYSTEM_WINDOW",
+            null
+          ],
+          [
+            "android.permission.STATUS_BAR",
+            null
+          ],
+          [
+            "android.permission.STOP_APP_SWITCHES",
+            null
+          ],
+          [
+            "android.permission.SET_ORIENTATION",
+            null
+          ],
+          [
+            "android.permission.READ_FRAME_BUFFER",
+            null
+          ],
+          [
+            "android.permission.MANAGE_ACCESSIBILITY",
+            null
+          ],
+          [
+            "android.permission.MONITOR_INPUT",
+            null
+          ],
+          [
+            "android.permission.ALLOW_SLIPPERY_TOUCHES",
+            null
+          ],
+          [
+            "android.permission.ACCESS_SHORTCUTS",
+            null
+          ],
+          [
+            "android.permission.SYSTEM_APPLICATION_OVERLAY",
+            null
+          ],
+          [
+            "android.permission.ACCESS_HIDDEN_PROFILES_FULL",
+            null
+          ],
+          [
+            "android.permission.ACCESS_HIDDEN_PROFILES",
+            null
+          ],
+          [
+            "android.permission.MANAGE_KEY_GESTURES",
+            null
+          ],
+          [
+            "android.permission.CALL_PHONE",
+            null
+          ],
+          [
+            "android.permission.SET_WALLPAPER",
+            null
+          ],
+          [
+            "android.permission.SET_WALLPAPER_HINTS",
+            null
+          ],
+          [
+            "android.permission.BIND_APPWIDGET",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.READ_DEVICE_CONFIG",
+            null
+          ],
+          [
+            "android.permission.EXPAND_STATUS_BAR",
+            null
+          ],
+          [
+            "android.permission.ACCESS_RESTRICTED_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.ROTATE_SURFACE_FLINGER",
+            null
+          ],
+          [
+            "android.permission.WAKEUP_SURFACE_FLINGER",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "app.lawnchair.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "app.lawnchair.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "app.lawnchair.permission.GRID_CONTROL",
+            null
+          ],
+          [
+            "android.permission.CAPTURE_BLACKOUT_CONTENT",
+            null
+          ],
+          [
+            "app.lawnchair.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 16000000,
+        "versionName": "16.0.0 (f3aa9c3)"
+      },
+      {
+        "added": 1774364344000,
+        "apkName": "lawnchair_16.0.0-20260309.apk",
+        "hash": "54d1aa86e6ad361c64839fdc0cfc0d7e4732a9a5ab89d403fd73ec89100fdce2",
+        "hashType": "sha256",
+        "minSdkVersion": 26,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "app.lawnchair",
+        "sig": "4cfc0fd17b05b53e0f83c03a57fcf19a",
+        "signer": "8f5b1353db08cd9287f8ecc6bad2eb9be2668d476af90415bd7bfdff257840e4",
+        "size": 20020572,
+        "targetSdkVersion": 36,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.PACKAGE_USAGE_STATS",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "com.google.android.apps.nexuslauncher.permission.QSB",
+            null
+          ],
+          [
+            "com.kieronquinn.app.smartspacer.permission.ACCESS_SMARTSPACER",
+            null
+          ],
+          [
+            "android.permission.READ_CONTACTS",
+            null
+          ],
+          [
+            "android.permission.READ_MEDIA_IMAGES",
+            null
+          ],
+          [
+            "android.permission.READ_MEDIA_VIDEO",
+            null
+          ],
+          [
+            "android.permission.READ_MEDIA_VISUAL_USER_SELECTED",
+            null
+          ],
+          [
+            "android.permission.READ_MEDIA_AUDIO",
+            null
+          ],
+          [
+            "android.permission.READ_HISTORY_BOOKMARKS",
+            null
+          ],
+          [
+            "android.permission.WRITE_HISTORY_BOOKMARKS",
+            null
+          ],
+          [
+            "android.permission.INTERACT_ACROSS_USERS",
+            null
+          ],
+          [
+            "android.permission.INTERACT_ACROSS_USERS_FULL",
+            null
+          ],
+          [
+            "android.permission.MANAGE_USERS",
+            null
+          ],
+          [
+            "android.permission.FORCE_STOP_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.STATUS_BAR_SERVICE",
+            null
+          ],
+          [
+            "android.permission.SUSPEND_APPS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.MANAGE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.BROADCAST_CLOSE_SYSTEM_DIALOGS",
+            null
+          ],
+          [
+            "android.permission.CONTROL_REMOTE_APP_TRANSITION_ANIMATIONS",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.START_TASKS_FROM_RECENTS",
+            null
+          ],
+          [
+            "android.permission.REMOVE_TASKS",
+            null
+          ],
+          [
+            "android.permission.WRITE_SECURE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.MANAGE_ACTIVITY_TASKS",
+            null
+          ],
+          [
+            "android.permission.INTERNAL_SYSTEM_WINDOW",
+            null
+          ],
+          [
+            "android.permission.STATUS_BAR",
+            null
+          ],
+          [
+            "android.permission.STOP_APP_SWITCHES",
+            null
+          ],
+          [
+            "android.permission.SET_ORIENTATION",
+            null
+          ],
+          [
+            "android.permission.READ_FRAME_BUFFER",
+            null
+          ],
+          [
+            "android.permission.MANAGE_ACCESSIBILITY",
+            null
+          ],
+          [
+            "android.permission.MONITOR_INPUT",
+            null
+          ],
+          [
+            "android.permission.ALLOW_SLIPPERY_TOUCHES",
+            null
+          ],
+          [
+            "android.permission.ACCESS_SHORTCUTS",
+            null
+          ],
+          [
+            "android.permission.SYSTEM_APPLICATION_OVERLAY",
+            null
+          ],
+          [
+            "android.permission.ACCESS_HIDDEN_PROFILES_FULL",
+            null
+          ],
+          [
+            "android.permission.ACCESS_HIDDEN_PROFILES",
+            null
+          ],
+          [
+            "android.permission.MANAGE_KEY_GESTURES",
+            null
+          ],
+          [
+            "android.permission.CALL_PHONE",
+            null
+          ],
+          [
+            "android.permission.SET_WALLPAPER",
+            null
+          ],
+          [
+            "android.permission.SET_WALLPAPER_HINTS",
+            null
+          ],
+          [
+            "android.permission.BIND_APPWIDGET",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.READ_DEVICE_CONFIG",
+            null
+          ],
+          [
+            "android.permission.EXPAND_STATUS_BAR",
+            null
+          ],
+          [
+            "android.permission.ACCESS_RESTRICTED_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.ROTATE_SURFACE_FLINGER",
+            null
+          ],
+          [
+            "android.permission.WAKEUP_SURFACE_FLINGER",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "app.lawnchair.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "app.lawnchair.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "app.lawnchair.permission.GRID_CONTROL",
+            null
+          ],
+          [
+            "android.permission.CAPTURE_BLACKOUT_CONTENT",
+            null
+          ],
+          [
+            "app.lawnchair.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 16000000,
+        "versionName": "16.0.0 (eb7c5d7)"
+      },
+      {
+        "added": 1774364346000,
+        "apkName": "lawnchair_16.0.0-20260315.apk",
+        "hash": "db4907d5caf83cc5c71e1e8306c5d5cb55fc96d0ab1008f8cc0443f3f5b92c3b",
+        "hashType": "sha256",
+        "minSdkVersion": 26,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "app.lawnchair",
+        "sig": "4cfc0fd17b05b53e0f83c03a57fcf19a",
+        "signer": "8f5b1353db08cd9287f8ecc6bad2eb9be2668d476af90415bd7bfdff257840e4",
+        "size": 19843548,
+        "targetSdkVersion": 36,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.PACKAGE_USAGE_STATS",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "com.google.android.apps.nexuslauncher.permission.QSB",
+            null
+          ],
+          [
+            "com.kieronquinn.app.smartspacer.permission.ACCESS_SMARTSPACER",
+            null
+          ],
+          [
+            "android.permission.READ_CONTACTS",
+            null
+          ],
+          [
+            "android.permission.READ_MEDIA_IMAGES",
+            null
+          ],
+          [
+            "android.permission.READ_MEDIA_VIDEO",
+            null
+          ],
+          [
+            "android.permission.READ_MEDIA_VISUAL_USER_SELECTED",
+            null
+          ],
+          [
+            "android.permission.READ_MEDIA_AUDIO",
+            null
+          ],
+          [
+            "android.permission.READ_HISTORY_BOOKMARKS",
+            null
+          ],
+          [
+            "android.permission.WRITE_HISTORY_BOOKMARKS",
+            null
+          ],
+          [
+            "android.permission.INTERACT_ACROSS_USERS",
+            null
+          ],
+          [
+            "android.permission.INTERACT_ACROSS_USERS_FULL",
+            null
+          ],
+          [
+            "android.permission.MANAGE_USERS",
+            null
+          ],
+          [
+            "android.permission.FORCE_STOP_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.STATUS_BAR_SERVICE",
+            null
+          ],
+          [
+            "android.permission.SUSPEND_APPS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.MANAGE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.BROADCAST_CLOSE_SYSTEM_DIALOGS",
+            null
+          ],
+          [
+            "android.permission.CONTROL_REMOTE_APP_TRANSITION_ANIMATIONS",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.START_TASKS_FROM_RECENTS",
+            null
+          ],
+          [
+            "android.permission.REMOVE_TASKS",
+            null
+          ],
+          [
+            "android.permission.WRITE_SECURE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.MANAGE_ACTIVITY_TASKS",
+            null
+          ],
+          [
+            "android.permission.INTERNAL_SYSTEM_WINDOW",
+            null
+          ],
+          [
+            "android.permission.STATUS_BAR",
+            null
+          ],
+          [
+            "android.permission.STOP_APP_SWITCHES",
+            null
+          ],
+          [
+            "android.permission.SET_ORIENTATION",
+            null
+          ],
+          [
+            "android.permission.READ_FRAME_BUFFER",
+            null
+          ],
+          [
+            "android.permission.MANAGE_ACCESSIBILITY",
+            null
+          ],
+          [
+            "android.permission.MONITOR_INPUT",
+            null
+          ],
+          [
+            "android.permission.ALLOW_SLIPPERY_TOUCHES",
+            null
+          ],
+          [
+            "android.permission.ACCESS_SHORTCUTS",
+            null
+          ],
+          [
+            "android.permission.SYSTEM_APPLICATION_OVERLAY",
+            null
+          ],
+          [
+            "android.permission.ACCESS_HIDDEN_PROFILES_FULL",
+            null
+          ],
+          [
+            "android.permission.ACCESS_HIDDEN_PROFILES",
+            null
+          ],
+          [
+            "android.permission.MANAGE_KEY_GESTURES",
+            null
+          ],
+          [
+            "android.permission.CALL_PHONE",
+            null
+          ],
+          [
+            "android.permission.SET_WALLPAPER",
+            null
+          ],
+          [
+            "android.permission.SET_WALLPAPER_HINTS",
+            null
+          ],
+          [
+            "android.permission.BIND_APPWIDGET",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.READ_DEVICE_CONFIG",
+            null
+          ],
+          [
+            "android.permission.EXPAND_STATUS_BAR",
+            null
+          ],
+          [
+            "android.permission.ACCESS_RESTRICTED_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.ROTATE_SURFACE_FLINGER",
+            null
+          ],
+          [
+            "android.permission.WAKEUP_SURFACE_FLINGER",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "app.lawnchair.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "app.lawnchair.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "app.lawnchair.permission.GRID_CONTROL",
+            null
+          ],
+          [
+            "android.permission.CAPTURE_BLACKOUT_CONTENT",
+            null
+          ],
+          [
+            "app.lawnchair.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 16000000,
+        "versionName": "16.0.0 (7361d44)"
+      },
+      {
+        "added": 1774364347000,
+        "apkName": "lawnchair_16.0.0-20260323.apk",
+        "hash": "3408f2ea7ae0c1a5bb95bddb0d2aa84b7990cf4f59cf389b9a0ecac309e42ab9",
+        "hashType": "sha256",
+        "minSdkVersion": 26,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "app.lawnchair",
+        "sig": "4cfc0fd17b05b53e0f83c03a57fcf19a",
+        "signer": "8f5b1353db08cd9287f8ecc6bad2eb9be2668d476af90415bd7bfdff257840e4",
+        "size": 19827039,
+        "targetSdkVersion": 36,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.PACKAGE_USAGE_STATS",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "com.google.android.apps.nexuslauncher.permission.QSB",
+            null
+          ],
+          [
+            "com.kieronquinn.app.smartspacer.permission.ACCESS_SMARTSPACER",
+            null
+          ],
+          [
+            "android.permission.READ_CONTACTS",
+            null
+          ],
+          [
+            "android.permission.READ_MEDIA_IMAGES",
+            null
+          ],
+          [
+            "android.permission.READ_MEDIA_VIDEO",
+            null
+          ],
+          [
+            "android.permission.READ_MEDIA_VISUAL_USER_SELECTED",
+            null
+          ],
+          [
+            "android.permission.READ_MEDIA_AUDIO",
+            null
+          ],
+          [
+            "android.permission.READ_HISTORY_BOOKMARKS",
+            null
+          ],
+          [
+            "android.permission.WRITE_HISTORY_BOOKMARKS",
+            null
+          ],
+          [
+            "android.permission.INTERACT_ACROSS_USERS",
+            null
+          ],
+          [
+            "android.permission.INTERACT_ACROSS_USERS_FULL",
+            null
+          ],
+          [
+            "android.permission.MANAGE_USERS",
+            null
+          ],
+          [
+            "android.permission.FORCE_STOP_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.STATUS_BAR_SERVICE",
+            null
+          ],
+          [
+            "android.permission.SUSPEND_APPS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.MANAGE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.BROADCAST_CLOSE_SYSTEM_DIALOGS",
+            null
+          ],
+          [
+            "android.permission.CONTROL_REMOTE_APP_TRANSITION_ANIMATIONS",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.START_TASKS_FROM_RECENTS",
+            null
+          ],
+          [
+            "android.permission.REMOVE_TASKS",
+            null
+          ],
+          [
+            "android.permission.WRITE_SECURE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.MANAGE_ACTIVITY_TASKS",
+            null
+          ],
+          [
+            "android.permission.INTERNAL_SYSTEM_WINDOW",
+            null
+          ],
+          [
+            "android.permission.STATUS_BAR",
+            null
+          ],
+          [
+            "android.permission.STOP_APP_SWITCHES",
+            null
+          ],
+          [
+            "android.permission.SET_ORIENTATION",
+            null
+          ],
+          [
+            "android.permission.READ_FRAME_BUFFER",
+            null
+          ],
+          [
+            "android.permission.MANAGE_ACCESSIBILITY",
+            null
+          ],
+          [
+            "android.permission.MONITOR_INPUT",
+            null
+          ],
+          [
+            "android.permission.ALLOW_SLIPPERY_TOUCHES",
+            null
+          ],
+          [
+            "android.permission.ACCESS_SHORTCUTS",
+            null
+          ],
+          [
+            "android.permission.SYSTEM_APPLICATION_OVERLAY",
+            null
+          ],
+          [
+            "android.permission.ACCESS_HIDDEN_PROFILES_FULL",
+            null
+          ],
+          [
+            "android.permission.ACCESS_HIDDEN_PROFILES",
+            null
+          ],
+          [
+            "android.permission.MANAGE_KEY_GESTURES",
+            null
+          ],
+          [
+            "android.permission.CALL_PHONE",
+            null
+          ],
+          [
+            "android.permission.SET_WALLPAPER",
+            null
+          ],
+          [
+            "android.permission.SET_WALLPAPER_HINTS",
+            null
+          ],
+          [
+            "android.permission.BIND_APPWIDGET",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.READ_DEVICE_CONFIG",
+            null
+          ],
+          [
+            "android.permission.EXPAND_STATUS_BAR",
+            null
+          ],
+          [
+            "android.permission.ACCESS_RESTRICTED_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.ROTATE_SURFACE_FLINGER",
+            null
+          ],
+          [
+            "android.permission.WAKEUP_SURFACE_FLINGER",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "app.lawnchair.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "app.lawnchair.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "app.lawnchair.permission.GRID_CONTROL",
+            null
+          ],
+          [
+            "android.permission.CAPTURE_BLACKOUT_CONTENT",
+            null
+          ],
+          [
+            "app.lawnchair.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 16000000,
+        "versionName": "16.0.0 (5be5d9e)"
       },
       {
         "added": 1751041209000,
@@ -32558,6 +34359,176 @@
     ],
     "com.dergoogler.mmrl": [
       {
+        "added": 1774364395000,
+        "apkName": "mmrl_v34296.apk",
+        "hash": "ec259dae03336bd93b97c52198a4a6ab3ac8de8f76fa50b36522b569eb00dd3b",
+        "hashType": "sha256",
+        "minSdkVersion": 26,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi",
+          "armeabi-v7a",
+          "mips",
+          "mips64",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.dergoogler.mmrl",
+        "sig": "540480bcf62aea562549755418702e5b",
+        "signer": "102c2579a177579073dfc69bdf889ad04de9e7c53726a99d65873ec122183860",
+        "size": 7493186,
+        "targetSdkVersion": 36,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_SPECIAL_USE",
+            null
+          ],
+          [
+            "com.android.launcher.permission.INSTALL_SHORTCUT",
+            null
+          ],
+          [
+            "com.dergoogler.mmrl.permission.WEBUI_X",
+            null
+          ],
+          [
+            "com.dergoogler.mmrl.permission.WEBUI_LEGACY",
+            null
+          ],
+          [
+            "com.dergoogler.mmrl.permission.MODCONF",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            29
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            29
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "moe.shizuku.manager.permission.API_V23",
+            null
+          ]
+        ],
+        "versionCode": 34296,
+        "versionName": "v34296-release"
+      },
+      {
+        "added": 1774364394000,
+        "apkName": "mmrl_v34292.apk",
+        "hash": "7f284bf69c71f2b8972bcfb137d5cb9a0fbd974472f79661f6f309db9f550c64",
+        "hashType": "sha256",
+        "minSdkVersion": 26,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi",
+          "armeabi-v7a",
+          "mips",
+          "mips64",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.dergoogler.mmrl",
+        "sig": "540480bcf62aea562549755418702e5b",
+        "signer": "102c2579a177579073dfc69bdf889ad04de9e7c53726a99d65873ec122183860",
+        "size": 7492978,
+        "targetSdkVersion": 36,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_SPECIAL_USE",
+            null
+          ],
+          [
+            "com.android.launcher.permission.INSTALL_SHORTCUT",
+            null
+          ],
+          [
+            "com.dergoogler.mmrl.permission.WEBUI_X",
+            null
+          ],
+          [
+            "com.dergoogler.mmrl.permission.WEBUI_LEGACY",
+            null
+          ],
+          [
+            "com.dergoogler.mmrl.permission.MODCONF",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            29
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            29
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "moe.shizuku.manager.permission.API_V23",
+            null
+          ]
+        ],
+        "versionCode": 34292,
+        "versionName": "v34292-release"
+      },
+      {
         "added": 1767275259000,
         "apkName": "mmrl_v34265.apk",
         "hash": "20ea131a2f44d52131f27392eac9212217cdc89e9b877b831384a4d77e3d04bc",
@@ -37565,6 +39536,298 @@
       }
     ],
     "com.dergoogler.mmrl.wx": [
+      {
+        "added": 1774364558000,
+        "apkName": "webuix_v423.apk",
+        "hash": "ce62e17c6431a987cd64ae915b29ff731961f191d94e9aa48b2641b2668b5996",
+        "hashType": "sha256",
+        "minSdkVersion": 26,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi",
+          "armeabi-v7a",
+          "mips",
+          "mips64",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.dergoogler.mmrl.wx",
+        "sig": "540480bcf62aea562549755418702e5b",
+        "signer": "102c2579a177579073dfc69bdf889ad04de9e7c53726a99d65873ec122183860",
+        "size": 25851443,
+        "targetSdkVersion": 36,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.KILL_BACKGROUND_PROCESSES",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_SPECIAL_USE",
+            null
+          ],
+          [
+            "com.dergoogler.mmrl.permission.WEBUI_X",
+            null
+          ],
+          [
+            "com.dergoogler.mmrl.permission.WEBUI_LEGACY",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "moe.shizuku.manager.permission.API_V23",
+            null
+          ]
+        ],
+        "versionCode": 423,
+        "versionName": "v423-release"
+      },
+      {
+        "added": 1774364557000,
+        "apkName": "webuix_v407.apk",
+        "hash": "fcbe375889b870274722e9fe83ec28bc1280eb19fce1d3812b8db2966aeccf93",
+        "hashType": "sha256",
+        "minSdkVersion": 26,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi",
+          "armeabi-v7a",
+          "mips",
+          "mips64",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.dergoogler.mmrl.wx",
+        "sig": "540480bcf62aea562549755418702e5b",
+        "signer": "102c2579a177579073dfc69bdf889ad04de9e7c53726a99d65873ec122183860",
+        "size": 27283232,
+        "targetSdkVersion": 36,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.KILL_BACKGROUND_PROCESSES",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_SPECIAL_USE",
+            null
+          ],
+          [
+            "com.dergoogler.mmrl.permission.WEBUI_X",
+            null
+          ],
+          [
+            "com.dergoogler.mmrl.permission.WEBUI_LEGACY",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "moe.shizuku.manager.permission.API_V23",
+            null
+          ]
+        ],
+        "versionCode": 407,
+        "versionName": "v407-release"
+      },
+      {
+        "added": 1774364556000,
+        "apkName": "webuix_v399.apk",
+        "hash": "a70a5afaa367bcac87a61f359c747f025ac0a0a5390f42e186cdc2e4be0ad3ec",
+        "hashType": "sha256",
+        "minSdkVersion": 26,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi",
+          "armeabi-v7a",
+          "mips",
+          "mips64",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.dergoogler.mmrl.wx",
+        "sig": "540480bcf62aea562549755418702e5b",
+        "signer": "102c2579a177579073dfc69bdf889ad04de9e7c53726a99d65873ec122183860",
+        "size": 27163468,
+        "targetSdkVersion": 36,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.KILL_BACKGROUND_PROCESSES",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_SPECIAL_USE",
+            null
+          ],
+          [
+            "com.dergoogler.mmrl.permission.WEBUI_X",
+            null
+          ],
+          [
+            "com.dergoogler.mmrl.permission.WEBUI_LEGACY",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "moe.shizuku.manager.permission.API_V23",
+            null
+          ]
+        ],
+        "versionCode": 399,
+        "versionName": "v399-release"
+      },
+      {
+        "added": 1774364556000,
+        "apkName": "webuix_v391.apk",
+        "hash": "49a5e7c5e393f60e180d4dda918991c94c76a4c838349c1d5767b627eb82604b",
+        "hashType": "sha256",
+        "minSdkVersion": 26,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi",
+          "armeabi-v7a",
+          "mips",
+          "mips64",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.dergoogler.mmrl.wx",
+        "sig": "540480bcf62aea562549755418702e5b",
+        "signer": "102c2579a177579073dfc69bdf889ad04de9e7c53726a99d65873ec122183860",
+        "size": 27161590,
+        "targetSdkVersion": 36,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.KILL_BACKGROUND_PROCESSES",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_SPECIAL_USE",
+            null
+          ],
+          [
+            "com.dergoogler.mmrl.permission.WEBUI_X",
+            null
+          ],
+          [
+            "com.dergoogler.mmrl.permission.WEBUI_LEGACY",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "moe.shizuku.manager.permission.API_V23",
+            null
+          ]
+        ],
+        "versionCode": 391,
+        "versionName": "v391-release"
+      },
       {
         "added": 1767275390000,
         "apkName": "webuix_v363.apk",
@@ -44796,6 +47059,74 @@
     ],
     "io.github.chsbuffer.revancedxposed": [
       {
+        "added": 1774364532000,
+        "apkName": "revancedxposed_1.0.41.apk",
+        "hash": "e2be6d9712964d6afeb004014c2b72f5a4cb232a7210e6fe02bb3969d1caaf87",
+        "hashType": "sha256",
+        "minSdkVersion": 27,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "io.github.chsbuffer.revancedxposed",
+        "sig": "7392807993185028c55d4b14ba5b9f58",
+        "signer": "940d0f30e047642c72c94c6ef4bfab7910bb0cd4f69f9da735338beca0b2d12e",
+        "size": 6288539,
+        "targetSdkVersion": 36,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ]
+        ],
+        "versionCode": 41,
+        "versionName": "1.0.41"
+      },
+      {
+        "added": 1774364531000,
+        "apkName": "revancedxposed_1.0.40.apk",
+        "hash": "2cfa3706fb60c087da8a7200b58af9d051b09e137c0c8a7bd96b552af3b8c06e",
+        "hashType": "sha256",
+        "minSdkVersion": 27,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "io.github.chsbuffer.revancedxposed",
+        "sig": "7392807993185028c55d4b14ba5b9f58",
+        "signer": "940d0f30e047642c72c94c6ef4bfab7910bb0cd4f69f9da735338beca0b2d12e",
+        "size": 6288539,
+        "targetSdkVersion": 36,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ]
+        ],
+        "versionCode": 40,
+        "versionName": "1.0.40"
+      },
+      {
         "added": 1769158309000,
         "apkName": "revancedxposed_1.0.39.apk",
         "hash": "c04d5011a7fe11e7c9d8eaf89f6ca046b13ea002c3a62fdf0836dd60a53d4194",
@@ -45662,6 +47993,68 @@
       }
     ],
     "moe.shizuku.privileged.api": [
+      {
+        "added": 1774364544000,
+        "apkName": "shizuku-fork_v13.6.0.r1318-thedjchi.apk",
+        "hash": "859f1df259b4b6e74270cafd3e49712405fc3a0bb987d1eb89c350ecdf3fa659",
+        "hashType": "sha256",
+        "minSdkVersion": 24,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "moe.shizuku.privileged.api",
+        "sig": "3fc912a0bd8ee3e1b8ee10be89b93216",
+        "signer": "947e81ed49d6cde4006bd64b94ab69e63f50074ce01451d1bf30acb14e591f37",
+        "size": 3234851,
+        "targetSdkVersion": 36,
+        "uses-permission": [
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_SPECIAL_USE",
+            null
+          ],
+          [
+            "android.permission.WRITE_SECURE_SETTINGS",
+            null
+          ],
+          [
+            "moe.shizuku.manager.permission.MANAGER",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ]
+        ],
+        "versionCode": 1318,
+        "versionName": "13.6.0.r1318-thedjchi"
+      },
       {
         "added": 1770537464000,
         "apkName": "shizuku-fork_v13.6.0.r1311-thedjchi.apk",
@@ -47058,6 +49451,580 @@
       }
     ],
     "nekox.messenger.broken": [
+      {
+        "added": 1774364501000,
+        "apkName": "momogram_v12.4.1.apk",
+        "hash": "8ac69d5cb51c3e25139e33d26587c98bd243d5806d7c65ccd10c85932b7008ae",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "nekox.messenger.broken",
+        "sig": "630ab5b029ea54bff07bc061cc69eae1",
+        "signer": "96d6f7bd5480e70647920c53199a89064986bd5355f64a191e6a8dacd36d9b2b",
+        "size": 57145329,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_FINE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.READ_CLIPBOARD",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH_CONNECT",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_MEDIA_PROJECTION",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_CAMERA",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_MICROPHONE",
+            null
+          ],
+          [
+            "android.permission.RECORD_AUDIO",
+            null
+          ],
+          [
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.ACCESS_MEDIA_LOCATION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_MEDIA_IMAGES",
+            null
+          ],
+          [
+            "android.permission.READ_MEDIA_VIDEO",
+            null
+          ],
+          [
+            "android.permission.READ_MEDIA_AUDIO",
+            null
+          ],
+          [
+            "android.permission.GET_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.READ_CONTACTS",
+            null
+          ],
+          [
+            "android.permission.WRITE_CONTACTS",
+            null
+          ],
+          [
+            "android.permission.MANAGE_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.READ_PROFILE",
+            null
+          ],
+          [
+            "android.permission.WRITE_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.READ_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.AUTHENTICATE_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            null
+          ],
+          [
+            "android.permission.READ_PHONE_STATE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.USE_FINGERPRINT",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.INSTALL_SHORTCUT",
+            null
+          ],
+          [
+            "com.android.launcher.permission.INSTALL_SHORTCUT",
+            null
+          ],
+          [
+            "com.android.launcher.permission.UNINSTALL_SHORTCUT",
+            null
+          ],
+          [
+            "android.permission.CAMERA",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH",
+            null
+          ],
+          [
+            "android.permission.MANAGE_OWN_CALLS",
+            null
+          ],
+          [
+            "android.permission.USE_FULL_SCREEN_INTENT",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.READ_PHONE_NUMBERS",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "com.sec.android.provider.badge.permission.READ",
+            null
+          ],
+          [
+            "com.sec.android.provider.badge.permission.WRITE",
+            null
+          ],
+          [
+            "com.htc.launcher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            null
+          ],
+          [
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            null
+          ],
+          [
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            null
+          ],
+          [
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            null
+          ],
+          [
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            null
+          ],
+          [
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            null
+          ],
+          [
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.READ_APP_BADGE",
+            null
+          ],
+          [
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            null
+          ],
+          [
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            null
+          ],
+          [
+            "com.android.vending.BILLING",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            29
+          ],
+          [
+            "android.permission.ACCESS_BACKGROUND_LOCATION",
+            null
+          ],
+          [
+            "android.permission.CREDENTIAL_MANAGER_SET_ORIGIN",
+            null
+          ],
+          [
+            "nekox.messenger.broken.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 11219,
+        "versionName": "12.4.1-35d17b4b81"
+      },
+      {
+        "added": 1774364498000,
+        "apkName": "momogram_v12.3.1-1.apk",
+        "hash": "9fe6aa6a1370f85f286f16fa196e642dd913e07793ad0115af8abda338eb70a3",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "nekox.messenger.broken",
+        "sig": "630ab5b029ea54bff07bc061cc69eae1",
+        "signer": "96d6f7bd5480e70647920c53199a89064986bd5355f64a191e6a8dacd36d9b2b",
+        "size": 56306434,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_FINE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.READ_CLIPBOARD",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH_CONNECT",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_MEDIA_PROJECTION",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_CAMERA",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_MICROPHONE",
+            null
+          ],
+          [
+            "android.permission.RECORD_AUDIO",
+            null
+          ],
+          [
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.ACCESS_MEDIA_LOCATION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_MEDIA_IMAGES",
+            null
+          ],
+          [
+            "android.permission.READ_MEDIA_VIDEO",
+            null
+          ],
+          [
+            "android.permission.READ_MEDIA_AUDIO",
+            null
+          ],
+          [
+            "android.permission.GET_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.READ_CONTACTS",
+            null
+          ],
+          [
+            "android.permission.WRITE_CONTACTS",
+            null
+          ],
+          [
+            "android.permission.MANAGE_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.READ_PROFILE",
+            null
+          ],
+          [
+            "android.permission.WRITE_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.READ_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.AUTHENTICATE_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            null
+          ],
+          [
+            "android.permission.READ_PHONE_STATE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.USE_FINGERPRINT",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.INSTALL_SHORTCUT",
+            null
+          ],
+          [
+            "com.android.launcher.permission.INSTALL_SHORTCUT",
+            null
+          ],
+          [
+            "com.android.launcher.permission.UNINSTALL_SHORTCUT",
+            null
+          ],
+          [
+            "android.permission.CAMERA",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH",
+            null
+          ],
+          [
+            "android.permission.MANAGE_OWN_CALLS",
+            null
+          ],
+          [
+            "android.permission.USE_FULL_SCREEN_INTENT",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.READ_PHONE_NUMBERS",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "com.sec.android.provider.badge.permission.READ",
+            null
+          ],
+          [
+            "com.sec.android.provider.badge.permission.WRITE",
+            null
+          ],
+          [
+            "com.htc.launcher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            null
+          ],
+          [
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            null
+          ],
+          [
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            null
+          ],
+          [
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            null
+          ],
+          [
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            null
+          ],
+          [
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            null
+          ],
+          [
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.READ_APP_BADGE",
+            null
+          ],
+          [
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            null
+          ],
+          [
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            null
+          ],
+          [
+            "com.android.vending.BILLING",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            29
+          ],
+          [
+            "android.permission.ACCESS_BACKGROUND_LOCATION",
+            null
+          ],
+          [
+            "android.permission.CREDENTIAL_MANAGER_SET_ORIGIN",
+            null
+          ],
+          [
+            "nekox.messenger.broken.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 11199,
+        "versionName": "12.3.1-58ac5cd3e1"
+      },
       {
         "added": 1768549381000,
         "apkName": "momogram_v12.2.10-2.apk",
