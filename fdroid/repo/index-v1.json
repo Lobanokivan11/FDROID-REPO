@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1775456331000,
+    "timestamp": 1775464961000,
     "version": 20002,
     "name": "Lobanokivan11's F-Droid Repo",
     "icon": "icon.png",
@@ -329,8 +329,8 @@
       "categories": [
         "Internet"
       ],
-      "suggestedVersionName": "12.4.1-35d17b4b81",
-      "suggestedVersionCode": "11219",
+      "suggestedVersionName": "12.5.1-61a2238ad0",
+      "suggestedVersionCode": "11259",
       "description": "<div class=\"markdown-heading\" dir=\"auto\">\n<h1 class=\"heading-element\" dir=\"auto\" tabindex=\"-1\">Momogram</h1>\n<a id=\"user-content-momogram\" class=\"anchor\" href=\"https://github.com/dic1911/Momogram#momogram\"></a></div>\n<hr />\n<p dir=\"auto\">Momogram is a feature-rich 3rd-party Telegram client, aiming to be the spiritual successor of the OG NekoX.</p>\n<p dir=\"auto\">Built with unique customization and features, get ready and let Momogram take your Telegram chatting experience to the next level.</p>\n<div class=\"markdown-heading\" dir=\"auto\">\n<h2 class=\"heading-element\" dir=\"auto\" tabindex=\"-1\">New Features</h2>\n<a id=\"user-content-new-features\" class=\"anchor\" href=\"https://github.com/dic1911/Momogram#new-features\"></a></div>\n<div class=\"markdown-heading\" dir=\"auto\">\n<h3 class=\"heading-element\" dir=\"auto\" tabindex=\"-1\">General</h3>\n<a id=\"user-content-general\" class=\"anchor\" href=\"https://github.com/dic1911/Momogram#general\"></a></div>\n<ul dir=\"auto\">\n<li>Additional translation provider (Lingva)</li>\n<li>Allow bots to be shown in direct share</li>\n<li>Allow chat preview for tablet mode if in portrait mode</li>\n<li>Disable auto login with Telegram account when opening certain links</li>\n<li>Filter languages shown in translate target</li>\n<li>Hide birthday reminders</li>\n<li>Hide various premium upselling annoyance</li>\n<li>In-app anti-spam measure ;)</li>\n<li>Searchable Momogram settings, just like official ones</li>\n<li>Only share \"last seen\" to the ones you want to check their \"last seen\"</li>\n<li>Override device performance class</li>\n<li>Remove tracking queries from URL for better privacy</li>\n<li>Restart the app automatically whenever critical problem occurs</li>\n<li>Stream video with external player</li>\n<li>Swipe music player bar to switch tracks</li>\n<li>Uncheck \"share my number\" when adding contact by default</li>\n</ul>\n<div class=\"markdown-heading\" dir=\"auto\">\n<h3 class=\"heading-element\" dir=\"auto\" tabindex=\"-1\">Chat</h3>\n<a id=\"user-content-chat\" class=\"anchor\" href=\"https://github.com/dic1911/Momogram#chat\"></a></div>\n<ul dir=\"auto\">\n<li>Auto select best video quality if available</li>\n<li>Ban button in join request list</li>\n<li>Block specified chat/channel from search results</li>\n<li>Client side fban</li>\n<li>Copy image/sticker button in menu</li>\n<li>Detect data saver and use roaming auto download preset when enabled</li>\n<li>Enable spoiler for all media in specified chats</li>\n<li>Local only custom chat name</li>\n<li>Mute group chat notifications from blocked users/bots</li>\n<li>New double tap actions</li>\n<li>Reply as quote by default</li>\n<li>Remove single emoji from recently used list</li>\n<li>Schedule send message after slow mode timer ends without having to wait in the same chat</li>\n<li>Search message by type</li>\n<li>Speech to text via Cloudflare/local Whisper inference</li>\n<li>Translate text messages before send</li>\n<li>Translate forwarding text message before send (without quote)</li>\n<li>Use marquee for long chat titles</li>\n</ul>\n<div class=\"markdown-heading\" dir=\"auto\">\n<h3 class=\"heading-element\" dir=\"auto\" tabindex=\"-1\">Customization</h3>\n<a id=\"user-content-customization\" class=\"anchor\" href=\"https://github.com/dic1911/Momogram#customization\"></a></div>\n<ul dir=\"auto\">\n<li>Always show downloads button in chat list</li>\n<li>Custom folder icon, official and custom emoji(local only)</li>\n<li>Custom title text</li>\n<li>Disable remote chat wallpaper</li>\n<li>Hide unread counter on folder tabs</li>\n<li>Use account name as chat list title</li>\n</ul>\n<div class=\"markdown-heading\" dir=\"auto\">\n<h3 class=\"heading-element\" dir=\"auto\" tabindex=\"-1\">Mini-app / Webview</h3>\n<a id=\"user-content-mini-app--webview\" class=\"anchor\" href=\"https://github.com/dic1911/Momogram#mini-app--webview\"></a></div>\n<ul dir=\"auto\">\n<li>Block bot without deleting history by default</li>\n<li>Comfirm before opening external links from webview</li>\n<li>Custom search engine for in-app browser</li>\n<li>Copy link button in menu</li>\n<li>Don't open bot when re-opening tab</li>\n<li>Don't send \"/start\" when restarting bot</li>\n<li>Hide bottom overlay when in chat or sharing</li>\n<li>Open webpages (ex. games) with mini-app mode</li>\n<li>Skip confirmation on closing tab</li>\n<li>Toggle to disable geolocation</li>\n<li>Toggle to disable safe browsing</li>\n</ul>\n",
       "license": "GPL-3.0",
       "name": "Momogram",
@@ -338,7 +338,12 @@
       "summary": "A third-party Telegram android app.",
       "added": 1751040034000,
       "packageName": "nekox.messenger.broken",
-      "lastUpdated": 1774364501000
+      "lastUpdated": 1775464751000,
+      "localized": {
+        "en-US": {
+          "whatsNew": "### Added:\n- Active session checker to check if there's active session of potentially malicious clients (Please consider share API ID from experimental settings in discussion group if you get the warning message)\n- Strip [COT] (thinking process) from Telegram official translator\n\n### Fixed:\n- Upload video being not playable for some if not all Telegram Android clients\n\n### Misc:\n- Ditch now deprecated osmdroid and migrate to MapLibre\n- Updated ffmpeg to 7.1.3 and libdav1d to 1.5.3\n\nPS. Please re"
+        }
+      }
     },
     {
       "authorName": "Lobanokivan11",
@@ -49713,6 +49718,293 @@
       }
     ],
     "nekox.messenger.broken": [
+      {
+        "added": 1775464751000,
+        "apkName": "momogram_v12.5.1-1.apk",
+        "hash": "1bab88b6729392fa07d6a5168f95fea6939a3f4c7a63652b9ae9ac6653d8aa70",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "nekox.messenger.broken",
+        "sig": "630ab5b029ea54bff07bc061cc69eae1",
+        "signer": "96d6f7bd5480e70647920c53199a89064986bd5355f64a191e6a8dacd36d9b2b",
+        "size": 61905102,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_FINE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.READ_CLIPBOARD",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH_CONNECT",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_MEDIA_PROJECTION",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_CAMERA",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_MICROPHONE",
+            null
+          ],
+          [
+            "android.permission.RECORD_AUDIO",
+            null
+          ],
+          [
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.ACCESS_MEDIA_LOCATION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_MEDIA_IMAGES",
+            null
+          ],
+          [
+            "android.permission.READ_MEDIA_VIDEO",
+            null
+          ],
+          [
+            "android.permission.READ_MEDIA_AUDIO",
+            null
+          ],
+          [
+            "android.permission.GET_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.READ_CONTACTS",
+            null
+          ],
+          [
+            "android.permission.WRITE_CONTACTS",
+            null
+          ],
+          [
+            "android.permission.MANAGE_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.READ_PROFILE",
+            null
+          ],
+          [
+            "android.permission.WRITE_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.READ_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.AUTHENTICATE_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            null
+          ],
+          [
+            "android.permission.READ_PHONE_STATE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.USE_FINGERPRINT",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.INSTALL_SHORTCUT",
+            null
+          ],
+          [
+            "com.android.launcher.permission.INSTALL_SHORTCUT",
+            null
+          ],
+          [
+            "com.android.launcher.permission.UNINSTALL_SHORTCUT",
+            null
+          ],
+          [
+            "android.permission.CAMERA",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH",
+            null
+          ],
+          [
+            "android.permission.MANAGE_OWN_CALLS",
+            null
+          ],
+          [
+            "android.permission.USE_FULL_SCREEN_INTENT",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.READ_PHONE_NUMBERS",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "com.sec.android.provider.badge.permission.READ",
+            null
+          ],
+          [
+            "com.sec.android.provider.badge.permission.WRITE",
+            null
+          ],
+          [
+            "com.htc.launcher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            null
+          ],
+          [
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            null
+          ],
+          [
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            null
+          ],
+          [
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            null
+          ],
+          [
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            null
+          ],
+          [
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            null
+          ],
+          [
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.READ_APP_BADGE",
+            null
+          ],
+          [
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            null
+          ],
+          [
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            null
+          ],
+          [
+            "com.android.vending.BILLING",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            29
+          ],
+          [
+            "android.permission.ACCESS_BACKGROUND_LOCATION",
+            null
+          ],
+          [
+            "android.permission.CREDENTIAL_MANAGER_SET_ORIGIN",
+            null
+          ],
+          [
+            "nekox.messenger.broken.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 11259,
+        "versionName": "12.5.1-61a2238ad0"
+      },
       {
         "added": 1774364501000,
         "apkName": "momogram_v12.4.1.apk",
