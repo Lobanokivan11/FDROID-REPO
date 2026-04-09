@@ -1,0 +1,15 @@
+## What's new?
+
+- Update AndroidManifest.xml with new permissions
+- Translated using Weblate (Italian)
+- Translated using Weblate (Spanish)
+- Translated using Weblate (Polish)
+- Scope fs constants and stream input reads
+- Switch to hybridwebui.iife; add save-file stream
+- Add filesystem JS interfaces and console flow
+- Refactor JS interfaces and add file chooser
+- Add JS interface system and refactor WebUI
+
+[See all changes here](https://github.com/MMRLApp/WebUI-X-Portable/compare/v423...master)
+
+[Workflow run](https://github.com/MMRLApp/WebUI-X-Portable/actions/runs/24164765069)

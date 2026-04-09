@@ -1,0 +1,14 @@
+{
+  "repo": {
+    "timestamp": 1775693569000
+  },
+  "packages": {
+    "com.dergoogler.mmrl.wx": {
+      "versions": {
+        "58cee7f5224524bb389bd450fd968496bef3fee47c65adb84d11f41a047c3ca4": {
+          "releaseChannels": null
+        }
+      }
+    }
+  }
+}
