@@ -1,0 +1,13 @@
+### Added
+
+- Marquee in Momo settings for long option texts
+- Optionally confirm secret chat when there's a new incoming request
+
+### Fixed
+
+- Some real "GIF" being not playable
+- Spoilers not applied on blocked users
+
+
+
+Note. This will be the last build using the package name `nekox.messenger.broken`
