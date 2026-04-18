@@ -14,7 +14,7 @@
       }
     },
     "address": "https://raw.githubusercontent.com/Lobanokivan11/FDROID-REPO/refs/heads/main/fdroid/repo",
-    "timestamp": 1776519288000,
+    "timestamp": 1776528126000,
     "categories": {
       "Games": {
         "name": {
@@ -51,7 +51,7 @@
           "Theming",
           "System"
         ],
-        "lastUpdated": 1776005915000,
+        "lastUpdated": 1776527766000,
         "license": "NOASSERTION",
         "sourceCode": "https://github.com/Goooler/LawnchairRelease",
         "screenshots": {
@@ -2507,6 +2507,215 @@
               "x86_64"
             ],
             "versionName": "16.0.0 (7edffd7)",
+            "versionCode": 16000000,
+            "usesSdk": {
+              "minSdkVersion": 26,
+              "targetSdkVersion": 36
+            },
+            "signer": {
+              "sha256": [
+                "8f5b1353db08cd9287f8ecc6bad2eb9be2668d476af90415bd7bfdff257840e4"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.PACKAGE_USAGE_STATS"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_DATA_SYNC"
+              },
+              {
+                "name": "com.google.android.apps.nexuslauncher.permission.QSB"
+              },
+              {
+                "name": "com.kieronquinn.app.smartspacer.permission.ACCESS_SMARTSPACER"
+              },
+              {
+                "name": "android.permission.READ_CONTACTS"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_IMAGES"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_VIDEO"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_VISUAL_USER_SELECTED"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_AUDIO"
+              },
+              {
+                "name": "android.permission.READ_HISTORY_BOOKMARKS"
+              },
+              {
+                "name": "android.permission.WRITE_HISTORY_BOOKMARKS"
+              },
+              {
+                "name": "android.permission.INTERACT_ACROSS_USERS"
+              },
+              {
+                "name": "android.permission.INTERACT_ACROSS_USERS_FULL"
+              },
+              {
+                "name": "android.permission.MANAGE_USERS"
+              },
+              {
+                "name": "android.permission.FORCE_STOP_PACKAGES"
+              },
+              {
+                "name": "android.permission.STATUS_BAR_SERVICE"
+              },
+              {
+                "name": "android.permission.SUSPEND_APPS"
+              },
+              {
+                "name": "android.permission.REQUEST_INSTALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.MANAGE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.BROADCAST_CLOSE_SYSTEM_DIALOGS"
+              },
+              {
+                "name": "android.permission.CONTROL_REMOTE_APP_TRANSITION_ANIMATIONS"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.QUERY_ALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.START_TASKS_FROM_RECENTS"
+              },
+              {
+                "name": "android.permission.REMOVE_TASKS"
+              },
+              {
+                "name": "android.permission.WRITE_SECURE_SETTINGS"
+              },
+              {
+                "name": "android.permission.MANAGE_ACTIVITY_TASKS"
+              },
+              {
+                "name": "android.permission.INTERNAL_SYSTEM_WINDOW"
+              },
+              {
+                "name": "android.permission.STATUS_BAR"
+              },
+              {
+                "name": "android.permission.STOP_APP_SWITCHES"
+              },
+              {
+                "name": "android.permission.SET_ORIENTATION"
+              },
+              {
+                "name": "android.permission.READ_FRAME_BUFFER"
+              },
+              {
+                "name": "android.permission.MANAGE_ACCESSIBILITY"
+              },
+              {
+                "name": "android.permission.MONITOR_INPUT"
+              },
+              {
+                "name": "android.permission.ALLOW_SLIPPERY_TOUCHES"
+              },
+              {
+                "name": "android.permission.ACCESS_SHORTCUTS"
+              },
+              {
+                "name": "android.permission.SYSTEM_APPLICATION_OVERLAY"
+              },
+              {
+                "name": "android.permission.ACCESS_HIDDEN_PROFILES_FULL"
+              },
+              {
+                "name": "android.permission.ACCESS_HIDDEN_PROFILES"
+              },
+              {
+                "name": "android.permission.MANAGE_KEY_GESTURES"
+              },
+              {
+                "name": "android.permission.CALL_PHONE"
+              },
+              {
+                "name": "android.permission.SET_WALLPAPER"
+              },
+              {
+                "name": "android.permission.SET_WALLPAPER_HINTS"
+              },
+              {
+                "name": "android.permission.BIND_APPWIDGET"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.REQUEST_DELETE_PACKAGES"
+              },
+              {
+                "name": "android.permission.READ_DEVICE_CONFIG"
+              },
+              {
+                "name": "android.permission.EXPAND_STATUS_BAR"
+              },
+              {
+                "name": "android.permission.ACCESS_RESTRICTED_SETTINGS"
+              },
+              {
+                "name": "android.permission.ROTATE_SURFACE_FLINGER"
+              },
+              {
+                "name": "android.permission.WAKEUP_SURFACE_FLINGER"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "app.lawnchair.permission.READ_SETTINGS"
+              },
+              {
+                "name": "app.lawnchair.permission.WRITE_SETTINGS"
+              },
+              {
+                "name": "app.lawnchair.permission.GRID_CONTROL"
+              },
+              {
+                "name": "android.permission.CAPTURE_BLACKOUT_CONTENT"
+              },
+              {
+                "name": "app.lawnchair.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        },
+        "c0dbc2a1ff6ce254d4cbadfad3b68fbdcc24132c8638ce8badc5284f5e0ad572": {
+          "added": 1776527766000,
+          "file": {
+            "name": "/lawnchair_16.0.0-20260418.apk",
+            "sha256": "c0dbc2a1ff6ce254d4cbadfad3b68fbdcc24132c8638ce8badc5284f5e0ad572",
+            "size": 20157369
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "16.0.0 (d6fb1ee)",
             "versionCode": 16000000,
             "usesSdk": {
               "minSdkVersion": 26,
@@ -40550,7 +40759,7 @@
           "en-US": "ReVanced Xposed"
         },
         "summary": {
-          "en-US": "ReVanced LSPosed module. YouTube & YT Music Remove ads, Background playback"
+          "en-US": "ChsBuffer's LSPosed module, powered by Morphe, ReVanced, and beyond. (formerl..."
         },
         "description": {
           "en-US": "<p dir=\"auto\"><strong>ReVanced LSPosed module by ChsBuffer.</strong></p>\n<div class=\"markdown-alert markdown-alert-important\" dir=\"auto\">\n<p class=\"markdown-alert-title\" dir=\"auto\">Important</p>\n<p dir=\"auto\">This is not an official ReVanced project, do not ask the ReVanced developers for help.</p>\n</div>\n<div class=\"markdown-heading\" dir=\"auto\">\n<h2 class=\"heading-element\" dir=\"auto\" tabindex=\"-1\">Patches</h2>\n<a id=\"user-content-patches\" class=\"anchor\" href=\"https://github.com/chsbuffer/ReVancedXposed#patches\"></a></div>\n<div class=\"markdown-heading\" dir=\"auto\">\n<h3 class=\"heading-element\" dir=\"auto\" tabindex=\"-1\">Youtube</h3>\n<a id=\"user-content-youtube\" class=\"anchor\" href=\"https://github.com/chsbuffer/ReVancedXposed#youtube\"></a></div>\n<ul dir=\"auto\">\n<li>Remove ads</li>\n<li>SponsorBlock</li>\n<li>Remove background playback restrictions</li>\n<li>Remove share links tracking query parameter</li>\n<li>Hide and change navigation buttons</li>\n<li>Swipe controls</li>\n<li>Remember video quality changes</li>\n<li>Show video quality button</li>\n<li>Show advanced video quality menu</li>\n<li>Copy video url video player button</li>\n<li>Open external downloader app</li>\n<li>Custom playback speed</li>\n<li>Remember playback speed</li>\n<li>Playback speed dialog button</li>\n<li>Hide layout components</li>\n<li>Hide video action buttons</li>\n<li>Disable resuming Shorts on startup</li>\n</ul>\n<div class=\"markdown-heading\" dir=\"auto\">\n<h3 class=\"heading-element\" dir=\"auto\" tabindex=\"-1\">Spotify</h3>\n<a id=\"user-content-spotify\" class=\"anchor\" href=\"https://github.com/chsbuffer/ReVancedXposed#spotify\"></a></div>\n<ul dir=\"auto\">\n<li>Unlock Spotify Premium</li>\n<li>Sanitize sharing links</li>\n<li>Hide Create button</li>\n</ul>\n<div class=\"markdown-heading\" dir=\"auto\">\n<h3 class=\"heading-element\" dir=\"auto\" tabindex=\"-1\">Google Photos</h3>\n<a id=\"user-content-google-photos\" class=\"anchor\" href=\"https://github.com/chsbuffer/ReVancedXposed#google-photos\"></a></div>\n<ul dir=\"auto\">\n<li>Spoof Pixel XL</li>\n</ul>\n<div class=\"markdown-heading\" dir=\"auto\">\n<h3 class=\"heading-element\" dir=\"auto\" tabindex=\"-1\">Youtube Music</h3>\n<a id=\"user-content-youtube-music\" class=\"anchor\" href=\"https://github.com/chsbuffer/ReVancedXposed#youtube-music\"></a></div>\n<ul dir=\"auto\">\n<li>Remove music video ads</li>\n<li>Remove background playback restrictions</li>\n<li>Hide upgrade button</li>\n<li>Hide 'Get Music Premium' label</li>\n<li>Enable exclusive audio playback</li>\n</ul>\n<div class=\"markdown-heading\" dir=\"auto\">\n<h3 class=\"heading-element\" dir=\"auto\" tabindex=\"-1\">Instagram</h3>\n<a id=\"user-content-instagram\" class=\"anchor\" href=\"https://github.com/chsbuffer/ReVancedXposed#instagram\"></a></div>\n<ul dir=\"auto\">\n<li>Hide ads</li>\n</ul>\n<div class=\"markdown-heading\" dir=\"auto\">\n<h3 class=\"heading-element\" dir=\"auto\" tabindex=\"-1\">Threads</h3>\n<a id=\"user-content-threads\" class=\"anchor\" href=\"https://github.com/chsbuffer/ReVancedXposed#threads\"></a></div>\n<ul dir=\"auto\">\n<li>Hide ads</li>\n</ul>\n<div class=\"markdown-heading\" dir=\"auto\">\n<h3 class=\"heading-element\" dir=\"auto\" tabindex=\"-1\">Reddit (2024.17.0)</h3>\n<a id=\"user-content-reddit-2024170\" class=\"anchor\" href=\"https://github.com/chsbuffer/ReVancedXposed#reddit-2024170\"></a></div>\n<ul dir=\"auto\">\n<li>Hide ads</li>\n<li>Sanitize sharing links</li>\n</ul>\n<div class=\"markdown-heading\" dir=\"auto\">\n<h3 class=\"heading-element\" dir=\"auto\" tabindex=\"-1\">Strava</h3>\n<a id=\"user-content-strava\" class=\"anchor\" href=\"https://github.com/chsbuffer/ReVancedXposed#strava\"></a></div>\n<ul dir=\"auto\">\n<li>Unlock subscription features</li>\n<li>Disable subscription suggestions</li>\n</ul>\n<div class=\"markdown-heading\" dir=\"auto\">\n<h3 class=\"heading-element\" dir=\"auto\" tabindex=\"-1\">Photomath</h3>\n<a id=\"user-content-photomath\" class=\"anchor\" href=\"https://github.com/chsbuffer/ReVancedXposed#photomath\"></a></div>\n<ul dir=\"auto\">\n<li>Unlock plus</li>\n</ul>\n"

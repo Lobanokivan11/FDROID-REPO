@@ -1,0 +1,14 @@
+{
+  "repo": {
+    "timestamp": 1776528126000
+  },
+  "packages": {
+    "io.github.chsbuffer.revancedxposed": {
+      "metadata": {
+        "summary": {
+          "en-US": "ChsBuffer's LSPosed module, powered by Morphe, ReVanced, and beyond. (formerl..."
+        }
+      }
+    }
+  }
+}

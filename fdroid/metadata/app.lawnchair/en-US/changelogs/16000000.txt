@@ -2,4 +2,4 @@
 
 
 
-**Full Changelog**: https://github.com/Goooler/LawnchairRelease/compare/16.0.0-20260404...16.0.0-20260412
+**Full Changelog**: https://github.com/Goooler/LawnchairRelease/compare/16.0.0-20260302...16.0.0-20260304
