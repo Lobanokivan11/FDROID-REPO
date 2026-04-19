@@ -1,0 +1,30 @@
+### Fixed:
+- Chat list action bar buttons being weird
+
+### Misc:
+- Reduced bottom padding of sticker button when the remove chat bottom padding option is enabled
+- Remove my custom shortcut for Chinese languages given there's official entries now
+- Update app specific exported file names
+
+(From last test build)
+- APK signature changed
+- `nekox.messenger.broken` is now `momo.gram`
+
+
+### Note
+
+In general, secret chats will be lost when you switch between apps starting from the last build. Momogram contains a secret chat backup/restore helper that can partially mitigate this problem. The contents of secret chats can be migrated to the new Momogram release (view-only; you still have to create a new secret chat for future messages). Note that this functionality isn’t guaranteed. Make sure you don’t uninstall the old build before confirming the content is properly restored on the other side.
+
+Steps to migrate:
+- Open Momo account settings with previous build
+- Tap on "Backup Secret Chats"
+- Enter a password
+- Share it to yourself (Saved Messages)
+- Install this build
+- Tap on the file you shared to yourself
+- Enter the password you specified earlier and press OK
+
+
+PS. While the exported backup is always encrypted, it's advised to delete the backup as soon as you done with the migration.
+
+PPS. To prevent issues, the backup file created is restricted to be used with the same upstream version, try to restore on a different version will be resulted in decrypt error
