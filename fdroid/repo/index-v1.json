@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1776643474000,
+    "timestamp": 1776657491000,
     "version": 20002,
     "name": "Lobanokivan11's F-Droid Repo",
     "icon": "icon.png",
@@ -341,7 +341,7 @@
       "lastUpdated": 1776593252000,
       "localized": {
         "en-US": {
-          "whatsNew": "### Fixed:\n- Chat list action bar buttons being weird\n\n### Misc:\n- Reduced bottom padding of sticker button when the remove chat bottom padding option is enabled\n- Remove my custom shortcut for Chinese languages given there's official entries now\n- Update app specific exported file names\n\n(From last test build)\n- APK signature changed\n- `nekox.messenger.broken` is now `momo.gram`\n\n\n### Note\n\nIn general, secret chats will be lost when you switch between apps starting from the last build. Momogram"
+          "whatsNew": "### Fixed:\n- Chat list action bar buttons being weird\n\n### Misc:\n- Reduced bottom padding of sticker button when the remove chat bottom padding option is enabled\n- Remove my custom shortcut for Chinese languages given there's official entries now\n- Update app specific exported file names\n\n(From last test build)\n- **APK signature changed**\n- **`nekox.messenger.broken` is now `momo.gram`**\n\n\n### Note\n\nIn general, secret chats will be lost when you switch between apps starting from the last build. "
         }
       }
     },

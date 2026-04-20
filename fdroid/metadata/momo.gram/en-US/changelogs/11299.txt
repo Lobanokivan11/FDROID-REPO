@@ -7,8 +7,8 @@
 - Update app specific exported file names
 
 (From last test build)
-- APK signature changed
-- `nekox.messenger.broken` is now `momo.gram`
+- **APK signature changed**
+- **`nekox.messenger.broken` is now `momo.gram`**
 
 
 ### Note
