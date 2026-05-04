@@ -3,3 +3,4 @@ Internet
 System
 Theming
 Xposed
+fdroid
