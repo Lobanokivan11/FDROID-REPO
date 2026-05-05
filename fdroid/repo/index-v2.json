@@ -14,9 +14,67 @@
       }
     },
     "address": "https://raw.githubusercontent.com/Lobanokivan11/FDROID-REPO/refs/heads/main/fdroid/repo",
-    "timestamp": 1777976884000
+    "timestamp": 1778004890000,
+    "categories": {
+      "Games": {
+        "name": {
+          "en-US": "Games"
+        }
+      },
+      "Internet": {
+        "name": {
+          "en-US": "Internet"
+        }
+      },
+      "System": {
+        "name": {
+          "en-US": "System"
+        }
+      },
+      "Theming": {
+        "name": {
+          "en-US": "Theming"
+        }
+      },
+      "Xposed": {
+        "name": {
+          "en-US": "Xposed"
+        }
+      },
+      "fdroid": {
+        "name": {
+          "en-US": "fdroid"
+        }
+      }
+    }
   },
   "packages": {
+    "04cdf8966de4c919ed270fd530d878a472ee6f3804f0d8f15542e67f35fc73d6": {
+      "metadata": {
+        "added": 1778004691000,
+        "categories": [
+          "fdroid"
+        ],
+        "lastUpdated": 1778004691000,
+        "name": {
+          "en-US": "categories"
+        }
+      },
+      "versions": {
+        "04cdf8966de4c919ed270fd530d878a472ee6f3804f0d8f15542e67f35fc73d6": {
+          "added": 1778004691000,
+          "file": {
+            "name": "/categories.txt",
+            "sha256": "04cdf8966de4c919ed270fd530d878a472ee6f3804f0d8f15542e67f35fc73d6",
+            "size": 44
+          },
+          "manifest": {
+            "versionName": "04cdf89",
+            "versionCode": 0
+          }
+        }
+      }
+    },
     "app.lawnchair": {
       "metadata": {
         "added": 1777976272000,

@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1777976884000,
+    "timestamp": 1778004890000,
     "version": 20002,
     "name": "Lobanokivan11's F-Droid Repo",
     "icon": "icon.png",
@@ -135,6 +135,17 @@
           "whatsNew": "Based on https://github.com/Axixi2233/moonlight-android\n\n1. Improved physical trackpad usability:\n\t- Tap as click\n\t- Double tap as double click\n\t- Double tap to drag\n\t- Two finger click as right click\n\t- Two finger scrolling"
         }
       }
+    },
+    {
+      "categories": [
+        "fdroid"
+      ],
+      "suggestedVersionCode": "2147483647",
+      "license": "Unknown",
+      "name": "categories",
+      "added": 1778004691000,
+      "packageName": "04cdf8966de4c919ed270fd530d878a472ee6f3804f0d8f15542e67f35fc73d6",
+      "lastUpdated": 1778004691000
     },
     {
       "authorName": "Lobanokivan11",
@@ -647,6 +658,17 @@
     }
   ],
   "packages": {
+    "04cdf8966de4c919ed270fd530d878a472ee6f3804f0d8f15542e67f35fc73d6": [
+      {
+        "added": 1778004691000,
+        "apkName": "categories.txt",
+        "hash": "04cdf8966de4c919ed270fd530d878a472ee6f3804f0d8f15542e67f35fc73d6",
+        "hashType": "sha256",
+        "packageName": "04cdf8966de4c919ed270fd530d878a472ee6f3804f0d8f15542e67f35fc73d6",
+        "size": 44,
+        "versionName": "04cdf89"
+      }
+    ],
     "app.lawnchair": [
       {
         "added": 1777976453000,
