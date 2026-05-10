@@ -14,7 +14,7 @@
       }
     },
     "address": "https://raw.githubusercontent.com/Lobanokivan11/FDROID-REPO/refs/heads/main/fdroid/repo",
-    "timestamp": 1778433693000,
+    "timestamp": 1778441592000,
     "categories": {
       "Games": {
         "name": {
@@ -34423,7 +34423,7 @@
         "categories": [
           "System"
         ],
-        "lastUpdated": 1777976689000,
+        "lastUpdated": 1778441386000,
         "license": "GPL-3.0",
         "sourceCode": "https://github.com/MMRLApp/WebUI-X-Portable",
         "screenshots": {
@@ -34470,6 +34470,74 @@
         "preferredSigner": "102c2579a177579073dfc69bdf889ad04de9e7c53726a99d65873ec122183860"
       },
       "versions": {
+        "7d44dcad3ae8039c63920c547116d262c282d5f43dbcf09fcf0babfce29bd1ca": {
+          "added": 1778441386000,
+          "file": {
+            "name": "/webuix_v438.apk",
+            "sha256": "7d44dcad3ae8039c63920c547116d262c282d5f43dbcf09fcf0babfce29bd1ca",
+            "size": 25886195
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi",
+              "armeabi-v7a",
+              "mips",
+              "mips64",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "v438-release",
+            "versionCode": 438,
+            "usesSdk": {
+              "minSdkVersion": 26,
+              "targetSdkVersion": 36
+            },
+            "signer": {
+              "sha256": [
+                "102c2579a177579073dfc69bdf889ad04de9e7c53726a99d65873ec122183860"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.KILL_BACKGROUND_PROCESSES"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_SPECIAL_USE"
+              },
+              {
+                "name": "com.dergoogler.mmrl.permission.WEBUI_X"
+              },
+              {
+                "name": "com.dergoogler.mmrl.permission.WEBUI_LEGACY"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "moe.shizuku.manager.permission.API_V23"
+              }
+            ]
+          }
+        },
         "58cee7f5224524bb389bd450fd968496bef3fee47c65adb84d11f41a047c3ca4": {
           "added": 1777976687000,
           "file": {

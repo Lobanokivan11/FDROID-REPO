@@ -1,0 +1,9 @@
+## What's new?
+
+- Fix #79
+- Translated using Weblate (Japanese)
+- Translated using Weblate (Arabic)
+
+[See all changes here](https://github.com/MMRLApp/WebUI-X-Portable/compare/v433...master)
+
+[Workflow run](https://github.com/MMRLApp/WebUI-X-Portable/actions/runs/25636825642)
