@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1783003405000,
+    "timestamp": 1783012449000,
     "version": 20002,
     "name": "Lobanokivan11's F-Droid Repo",
     "icon": "icon.png",
@@ -533,8 +533,8 @@
       "categories": [
         "System"
       ],
-      "suggestedVersionName": "13.6.0.r1318-thedjchi",
-      "suggestedVersionCode": "1318",
+      "suggestedVersionName": "13.7.0-thedjchi",
+      "suggestedVersionCode": "1361",
       "description": "Shizuku but on steroid\n",
       "license": "Apache-2.0",
       "name": "Shizuku thedjchi's fork",
@@ -542,10 +542,10 @@
       "summary": "Using system APIs directly with adb/root privileges from normal apps through ...",
       "added": 1777976662000,
       "packageName": "moe.shizuku.privileged.api",
-      "lastUpdated": 1777976672000,
+      "lastUpdated": 1783012198000,
       "localized": {
         "en-US": {
-          "whatsNew": "### BETA USERS: this is the stable version, the same changes are included in beta version [v13.6.0.r1349-thedjchi-beta](https://github.com/thedjchi/Shizuku/releases/tag/v13.6.0.r1349-thedjchi-beta)\n\n## What's Changed\n\n- Fixed the automation apps card description not displaying correctly in languages other than English (see #129 and #142)\n- Fixed the start on boot option not being available on all TVs (see #138)"
+          "whatsNew": "- Android 17 support\n- All features in beta are now ported to stable\n\nNote: Server version is still v13.6 so the homepage will show a different version than the about section!"
         }
       }
     },
@@ -52018,6 +52018,92 @@
       }
     ],
     "moe.shizuku.privileged.api": [
+      {
+        "added": 1783012198000,
+        "apkName": "shizuku-fork_v13.7.0-thedjchi.apk",
+        "hash": "6ea6dee65d5ddc626b6b75b2c2f67f8cc547fa47d7b437e6892639c37eaffe43",
+        "hashType": "sha256",
+        "minSdkVersion": 24,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "moe.shizuku.privileged.api",
+        "sig": "3fc912a0bd8ee3e1b8ee10be89b93216",
+        "signer": "947e81ed49d6cde4006bd64b94ab69e63f50074ce01451d1bf30acb14e591f37",
+        "size": 3653986,
+        "targetSdkVersion": 37,
+        "uses-permission": [
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.USE_LOOPBACK_INTERFACE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_LOCAL_NETWORK",
+            null
+          ],
+          [
+            "android.permission.NEARBY_WIFI_DEVICES",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_SPECIAL_USE",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.WRITE_SECURE_SETTINGS",
+            null
+          ],
+          [
+            "moe.shizuku.manager.permission.MANAGER",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ]
+        ],
+        "versionCode": 1361,
+        "versionName": "13.7.0-thedjchi"
+      },
       {
         "added": 1777976672000,
         "apkName": "shizuku-fork_v13.6.0.r1318-thedjchi.apk",

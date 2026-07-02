@@ -14,7 +14,7 @@
       }
     },
     "address": "https://raw.githubusercontent.com/Lobanokivan11/FDROID-REPO/refs/heads/main/fdroid/repo",
-    "timestamp": 1783003405000,
+    "timestamp": 1783012449000,
     "categories": {
       "Games": {
         "name": {
@@ -44547,7 +44547,7 @@
         "categories": [
           "System"
         ],
-        "lastUpdated": 1777976672000,
+        "lastUpdated": 1783012198000,
         "license": "Apache-2.0",
         "sourceCode": "https://github.com/thedjchi/Shizuku",
         "authorName": "thedjchi",
@@ -44563,6 +44563,83 @@
         "preferredSigner": "947e81ed49d6cde4006bd64b94ab69e63f50074ce01451d1bf30acb14e591f37"
       },
       "versions": {
+        "6ea6dee65d5ddc626b6b75b2c2f67f8cc547fa47d7b437e6892639c37eaffe43": {
+          "added": 1783012198000,
+          "file": {
+            "name": "/shizuku-fork_v13.7.0-thedjchi.apk",
+            "sha256": "6ea6dee65d5ddc626b6b75b2c2f67f8cc547fa47d7b437e6892639c37eaffe43",
+            "size": 3653986
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "13.7.0-thedjchi",
+            "versionCode": 1361,
+            "usesSdk": {
+              "minSdkVersion": 24,
+              "targetSdkVersion": 37
+            },
+            "signer": {
+              "sha256": [
+                "947e81ed49d6cde4006bd64b94ab69e63f50074ce01451d1bf30acb14e591f37"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.USE_LOOPBACK_INTERFACE"
+              },
+              {
+                "name": "android.permission.ACCESS_LOCAL_NETWORK"
+              },
+              {
+                "name": "android.permission.NEARBY_WIFI_DEVICES"
+              },
+              {
+                "name": "android.permission.CHANGE_WIFI_MULTICAST_STATE"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_SPECIAL_USE"
+              },
+              {
+                "name": "android.permission.REQUEST_DELETE_PACKAGES"
+              },
+              {
+                "name": "android.permission.REQUEST_INSTALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.WRITE_SECURE_SETTINGS"
+              },
+              {
+                "name": "moe.shizuku.manager.permission.MANAGER"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              }
+            ]
+          }
+        },
         "859f1df259b4b6e74270cafd3e49712405fc3a0bb987d1eb89c350ecdf3fa659": {
           "added": 1777976672000,
           "file": {
