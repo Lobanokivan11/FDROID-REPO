@@ -1,0 +1,25 @@
+{
+  "repo": {
+    "timestamp": 1785523645000
+  },
+  "packages": {
+    "org.force9.starboard": {
+      "metadata": {
+        "categories": [
+          "Games"
+        ],
+        "sourceCode": "https://github.com/get-starboard/starboard",
+        "authorName": "get-starboard",
+        "name": {
+          "en-US": "StarBoard"
+        },
+        "summary": {
+          "en-US": "An experimental project to run unmodified PortMaster games on Android handhel..."
+        },
+        "description": {
+          "en-US": "Runs PortMaster Games on android\n"
+        }
+      }
+    }
+  }
+}

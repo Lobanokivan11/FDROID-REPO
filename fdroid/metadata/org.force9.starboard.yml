@@ -1,0 +1,12 @@
+AuthorName: get-starboard
+Categories:
+    - Games
+CurrentVersion: 0.23.0
+CurrentVersionCode: 2300
+Description: |
+    Runs PortMaster Games on android
+IssueTracker: ""
+Name: StarBoard
+SourceCode: https://github.com/get-starboard/starboard
+Summary: An experimental project to run unmodified PortMaster games on Android handhel...
+WebSite: ""

@@ -14,7 +14,7 @@
       }
     },
     "address": "https://raw.githubusercontent.com/Lobanokivan11/FDROID-REPO/refs/heads/main/fdroid/repo",
-    "timestamp": 1785515426000,
+    "timestamp": 1785523645000,
     "categories": {
       "Games": {
         "name": {
@@ -56099,6 +56099,121 @@
               },
               {
                 "name": "moe.shizuku.manager.permission.API_V23"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "org.force9.starboard": {
+      "metadata": {
+        "added": 1785523072000,
+        "categories": [
+          "Games"
+        ],
+        "lastUpdated": 1785523072000,
+        "sourceCode": "https://github.com/get-starboard/starboard",
+        "authorName": "get-starboard",
+        "name": {
+          "en-US": "StarBoard"
+        },
+        "summary": {
+          "en-US": "An experimental project to run unmodified PortMaster games on Android handhel..."
+        },
+        "description": {
+          "en-US": "Runs PortMaster Games on android\n"
+        },
+        "preferredSigner": "716dd997f17df9538a5558f0a62c5afc1bac21d69763d3165eab9fc599dba2c9"
+      },
+      "versions": {
+        "a81b69d471ee88ad6c47497e616c5a7c68bf8ebfb32bc7ae9348ed46c3190b3d": {
+          "added": 1785523072000,
+          "file": {
+            "name": "/starboard_v0.23.0.apk",
+            "sha256": "a81b69d471ee88ad6c47497e616c5a7c68bf8ebfb32bc7ae9348ed46c3190b3d",
+            "size": 3677032
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a"
+            ],
+            "versionName": "0.23.0",
+            "versionCode": 2300,
+            "usesSdk": {
+              "minSdkVersion": 26,
+              "targetSdkVersion": 35
+            },
+            "signer": {
+              "sha256": [
+                "716dd997f17df9538a5558f0a62c5afc1bac21d69763d3165eab9fc599dba2c9"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE",
+                "maxSdkVersion": 32
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE",
+                "maxSdkVersion": 29
+              },
+              {
+                "name": "android.permission.MANAGE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "org.force9.starboard.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        },
+        "3ac7fe8a07f502023075f2bfd59657639e68548c2dd2a6415a6f05eb81ca3913": {
+          "added": 1785523072000,
+          "file": {
+            "name": "/starboard_v0.22.0.apk",
+            "sha256": "3ac7fe8a07f502023075f2bfd59657639e68548c2dd2a6415a6f05eb81ca3913",
+            "size": 3620365
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a"
+            ],
+            "versionName": "0.22.0-dirty",
+            "versionCode": 2200,
+            "usesSdk": {
+              "minSdkVersion": 26,
+              "targetSdkVersion": 35
+            },
+            "signer": {
+              "sha256": [
+                "716dd997f17df9538a5558f0a62c5afc1bac21d69763d3165eab9fc599dba2c9"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE",
+                "maxSdkVersion": 32
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE",
+                "maxSdkVersion": 29
+              },
+              {
+                "name": "android.permission.MANAGE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "org.force9.starboard.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
               }
             ]
           }
