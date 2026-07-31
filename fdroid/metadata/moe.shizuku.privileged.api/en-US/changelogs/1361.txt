@@ -1,4 +1,6 @@
 - Android 17 support
 - All features in beta are now ported to stable
 
+This will be my last release for the time being.
+
 Note: Server version is still v13.6 so the homepage will show a different version than the about section!

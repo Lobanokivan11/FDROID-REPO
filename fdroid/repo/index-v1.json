@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1785457657000,
+    "timestamp": 1785473174000,
     "version": 20002,
     "name": "Lobanokivan11's F-Droid Repo",
     "icon": "icon.png",
@@ -545,7 +545,7 @@
       "lastUpdated": 1783012198000,
       "localized": {
         "en-US": {
-          "whatsNew": "- Android 17 support\n- All features in beta are now ported to stable\n\nNote: Server version is still v13.6 so the homepage will show a different version than the about section!"
+          "whatsNew": "- Android 17 support\n- All features in beta are now ported to stable\n\nThis will be my last release for the time being.\n\nNote: Server version is still v13.6 so the homepage will show a different version than the about section!"
         }
       }
     },
