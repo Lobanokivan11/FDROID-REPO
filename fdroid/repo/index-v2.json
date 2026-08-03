@@ -14,7 +14,7 @@
       }
     },
     "address": "https://raw.githubusercontent.com/Lobanokivan11/FDROID-REPO/refs/heads/main/fdroid/repo",
-    "timestamp": 1785792664000,
+    "timestamp": 1785799749000,
     "categories": {
       "Games": {
         "name": {
@@ -56327,7 +56327,7 @@
           "en-US": "StarBoard"
         },
         "summary": {
-          "en-US": "An experimental project to run unmodified PortMaster games on Android handhel..."
+          "en-US": "An experimental project to run unmodified PortMaster games on Android handhelds."
         },
         "description": {
           "en-US": "Runs PortMaster Games on android\n"

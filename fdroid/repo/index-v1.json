@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1785792664000,
+    "timestamp": 1785799749000,
     "version": 20002,
     "name": "Lobanokivan11's F-Droid Repo",
     "icon": "icon.png",
@@ -560,7 +560,7 @@
       "license": "Unknown",
       "name": "StarBoard",
       "sourceCode": "https://github.com/get-starboard/starboard",
-      "summary": "An experimental project to run unmodified PortMaster games on Android handhel...",
+      "summary": "An experimental project to run unmodified PortMaster games on Android handhelds.",
       "added": 1785523072000,
       "packageName": "org.force9.starboard",
       "lastUpdated": 1785523072000,

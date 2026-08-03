@@ -1,0 +1,14 @@
+{
+  "repo": {
+    "timestamp": 1785799749000
+  },
+  "packages": {
+    "org.force9.starboard": {
+      "metadata": {
+        "summary": {
+          "en-US": "An experimental project to run unmodified PortMaster games on Android handhelds."
+        }
+      }
+    }
+  }
+}
