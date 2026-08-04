@@ -9,12 +9,12 @@
     "icon": {
       "en-US": {
         "name": "/icons/icon.png",
-        "sha256": "3e858b6a51d4aa0aafd4c5964a5121a7a7ca5218d2b816faa3ea615287ee3b51",
-        "size": 473718
+        "sha256": "8b6e09179ae9eb84ec1a96dfcf9c597cbba27c8ca5a5d6b78c069673ed56f49e",
+        "size": 66002
       }
     },
     "address": "https://raw.githubusercontent.com/Lobanokivan11/FDROID-REPO/refs/heads/main/fdroid/repo",
-    "timestamp": 1785858727000,
+    "timestamp": 1785864227000,
     "categories": {
       "Games": {
         "name": {
