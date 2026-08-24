@@ -2,7 +2,7 @@ AuthorName: Goooler
 Categories:
     - Theming
     - System
-CurrentVersion: 16.0.0 (5618a07)
+CurrentVersion: 16.0.0 (95500e6)
 CurrentVersionCode: 16000000
 Description: |
     <p><strong>Lawnchair</strong>&nbsp;is a free, open source home screen replacement based on&nbsp;<em>Launcher3</em>&nbsp;from the Android open source project. The app aims to provide an experience similar to that of the Pixel Launcher, while offering more features.<br /><br /><strong>Key highlights:</strong><br />* Material You support (with dark theme and color customizations)<br />* At a Glance support, alongside Smartspacer app support<br />* Rich grid and icon customizations<br />* Local, on-device search support<br />* Optional integration with Android Recents</p>
