@@ -1,0 +1,48 @@
+## Newly Working Games
+
+VDrift, Super Mario 64 Co-op DX, Neverball (fixed via runtime update), SpaghettiKart, Super Mario War, Legends of Zelda: Dungeons of Infinity, Super Mario XP Remastered, Pocket Crystal League, ZGloom....and many more.
+
+## New Features
+
+- **Starboard can load port libraries beyond the core PortMaster offering.** I had a number of requests for JeodC's RHH-Ports library - this now comes pre-seeded, and you can add any other library from its `source.json` URL. Note that this is experimental++ - I don't own a lot of the games in the RHH-Ports library so game testing feedback is very much welcomed. Game compatibility will increase with future updates once I get time to work out issues.
+- **Touch mouse support.** Touch input is now supported for mouse emulation - works great on games that originally required mouse input (VanillaRA, Battle of Wesnoth, CorsixTH, NiceChess etc etc). Please test and provide feedback!
+- **Redesigned UI.** The UI has been redesigned to showcase what Starboard is about - the games. It now sucks less, has a better game sorter and browser, and is more consistent across different screens.
+
+## Enhancements
+
+- **Game frames are now blitted on the GPU rather than the CPU.** Scaling every game frame to the panel in software was mashing the CPU. This now takes place on the device GPU, providing a significant performance improvement and making games feel more responsive. Celeste Classic was my acid test for this change - it feels way snappier even on a lower-powered device like a Mangmi Air X.
+- Updated gamepad control making it easier to steer around the app without using the touchscreen.
+
+## Bugfixes
+
+- Ports that rewrite their own files on launch (ie unpack, move & delete) now work on the second and later runs (Super Mario 64 Co-op DX failed every launch after the first).
+- Some games were permanently showing a mouse pointer during the game (e.g. Sonic Robo Blast), this now only shows if actually required.
+- The ES-DE sync previously smashed to bits any custom `custom_systems` entries you had set up, this no longer happens and Starboard's `custom_systems` entries are merged with any you have. Fixes [#12](https://github.com/get-starboard/starboard/issues/12). Thanks [leonstyhre](https://github.com/leonstyhre)!
+- When increasing the resolution in game settings (e.g. Neverball), the GPU-mode display surface would not re-adjust accordingly. Now works as expected, and enables you to pick the resolution for your device.
+- Ports whose GL loader imports `glXGetProcAddressARB` (VDrift, for example) no longer fail before the game starts.
+- Added missing `pm_gptokeyb_finish` shim.
+
+## New Features Details
+
+### Additional Port Libraries
+
+- Each added library get a dedicated row on the Home screen, which can be toggled on/off in the source settings.
+- The same game can ship in two libraries as different builds (eg SpaghettiKart). Where that happens you'll see a short badge (`[pm]`, `[rhh]`) beside the title to tell them apart.
+- Installs, runtimes and save data are kept separate per library, so two builds of the same game don't overwrite each other.
+
+### Touch Mouse
+
+- Games that declare `mouse_mode` in their config can now use touch mouse controls.
+- Enable it from the in-game slide-out.
+- Two different modes: absolute (cursor goes where you touch), and relative (trackpad-style dragging).
+- Touch moves the pointer, tap to left click, and long press to right-click.
+- Pointer mode and sensitivity are configurable in Settings.
+- Thanks [MarkFeuerborn](https://github.com/MarkFeuerborn) for the suggestion via [#7](https://github.com/get-starboard/starboard/issues/7).
+
+### Redesigned UI
+
+- Loads of work went into showcasing what Starboard is about - the games. I hope you like using it as much as I enjoyed building it.
+- The catalog now has a more useful set of filters, and every page has a home, back and search box.
+- Game screenshots can be viewed full screen by tapping on the thumbnail in the catalog.
+- The app settings page has been redesigned to use tabs, and is now easier to navigate.
+

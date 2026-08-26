@@ -14,7 +14,7 @@
       }
     },
     "address": "https://raw.githubusercontent.com/Lobanokivan11/FDROID-REPO/refs/heads/main/fdroid/repo",
-    "timestamp": 1787728739000,
+    "timestamp": 1787732265000,
     "categories": {
       "Games": {
         "name": {
@@ -56529,7 +56529,7 @@
         "categories": [
           "Games"
         ],
-        "lastUpdated": 1785523072000,
+        "lastUpdated": 1787731682000,
         "sourceCode": "https://github.com/get-starboard/starboard",
         "authorName": "get-starboard",
         "name": {
@@ -56544,6 +56544,52 @@
         "preferredSigner": "716dd997f17df9538a5558f0a62c5afc1bac21d69763d3165eab9fc599dba2c9"
       },
       "versions": {
+        "969fedb14c43979dc1cad0f730b9773f956e7c937e77fb15bde631808e42d60c": {
+          "added": 1787731682000,
+          "file": {
+            "name": "/starboard_v0.30.0.apk",
+            "sha256": "969fedb14c43979dc1cad0f730b9773f956e7c937e77fb15bde631808e42d60c",
+            "size": 3894916
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a"
+            ],
+            "versionName": "0.30.0",
+            "versionCode": 3000,
+            "usesSdk": {
+              "minSdkVersion": 26,
+              "targetSdkVersion": 35
+            },
+            "signer": {
+              "sha256": [
+                "716dd997f17df9538a5558f0a62c5afc1bac21d69763d3165eab9fc599dba2c9"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE",
+                "maxSdkVersion": 32
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE",
+                "maxSdkVersion": 29
+              },
+              {
+                "name": "android.permission.MANAGE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "org.force9.starboard.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        },
         "a81b69d471ee88ad6c47497e616c5a7c68bf8ebfb32bc7ae9348ed46c3190b3d": {
           "added": 1785523072000,
           "file": {

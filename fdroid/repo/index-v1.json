@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1787728739000,
+    "timestamp": 1787732265000,
     "version": 20002,
     "name": "Lobanokivan11's F-Droid Repo",
     "icon": "icon.png",
@@ -554,8 +554,8 @@
       "categories": [
         "Games"
       ],
-      "suggestedVersionName": "0.23.0",
-      "suggestedVersionCode": "2300",
+      "suggestedVersionName": "0.30.0",
+      "suggestedVersionCode": "3000",
       "description": "Runs PortMaster Games on android\n",
       "license": "Unknown",
       "name": "StarBoard",
@@ -563,10 +563,10 @@
       "summary": "An experimental project to run unmodified PortMaster games on Android handhelds.",
       "added": 1785523072000,
       "packageName": "org.force9.starboard",
-      "lastUpdated": 1785523072000,
+      "lastUpdated": 1787731682000,
       "localized": {
         "en-US": {
-          "whatsNew": "## Newly working games\n\nBalatro (requires GPU support), Curse of the Arrow, Gunroar, Nazi Zombies, OpenJazz, Space Cadet Pinball, Words with Freds, XMoto (works, performance still rough). Probably many more we've not tested yet!\n\n## Input & controllers\n\n- Rebuilt controller pipeline, ensuring that games only see the Starboard virtual gamepad. Physical controllers are no longer exposed to games, so the same game should behave the same way on every device. \n- Ports using gptokeyb2-style configs (g"
+          "whatsNew": "## Newly Working Games\n\nVDrift, Super Mario 64 Co-op DX, Neverball (fixed via runtime update), SpaghettiKart, Super Mario War, Legends of Zelda: Dungeons of Infinity, Super Mario XP Remastered, Pocket Crystal League, ZGloom....and many more.\n\n## New Features\n\n- **Starboard can load port libraries beyond the core PortMaster offering.** I had a number of requests for JeodC's RHH-Ports library - this now comes pre-seeded, and you can add any other library from its `source.json` URL. Note that this "
         }
       }
     },
@@ -66665,6 +66665,49 @@
       }
     ],
     "org.force9.starboard": [
+      {
+        "added": 1787731682000,
+        "apkName": "starboard_v0.30.0.apk",
+        "hash": "969fedb14c43979dc1cad0f730b9773f956e7c937e77fb15bde631808e42d60c",
+        "hashType": "sha256",
+        "minSdkVersion": 26,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "org.force9.starboard",
+        "sig": "82b22a2617e649cf01092b7d3b27ac10",
+        "signer": "716dd997f17df9538a5558f0a62c5afc1bac21d69763d3165eab9fc599dba2c9",
+        "size": 3894916,
+        "targetSdkVersion": 35,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            32
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            29
+          ],
+          [
+            "android.permission.MANAGE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "org.force9.starboard.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 3000,
+        "versionName": "0.30.0"
+      },
       {
         "added": 1785523072000,
         "apkName": "starboard_v0.23.0.apk",
