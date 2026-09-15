@@ -4,7 +4,7 @@ Megaball, PyxelJACK, EntroPipes, Ticoban, Vortexion.
 
 ## Enhancements
 
-- **Pyxel games now show up in the catalogue.** Pyxel is a Python retro engine, and its games were previously hidden behind the "experimental runtime ports" toggle in Settings.
+- Pyxel games now show up in the catalogue. Pyxel is a Python retro engine, and its games were previously hidden behind the "experimental runtime ports" toggle in Settings.
 - URLs in release notes are now parsed and clickable from within the app. 
 - Game logs now start with the game, the library it came from and the runtime version. If you report a problem, that tells us exactly which build you were running for easier debugging.
 

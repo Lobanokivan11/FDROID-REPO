@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1789467207000,
+    "timestamp": 1789485085000,
     "version": 20002,
     "name": "Lobanokivan11's F-Droid Repo",
     "icon": "icon.png",
@@ -566,7 +566,7 @@
       "lastUpdated": 1789467024000,
       "localized": {
         "en-US": {
-          "whatsNew": "## Newly Working Games\n\nMegaball, PyxelJACK, EntroPipes, Ticoban, Vortexion.\n\n## Enhancements\n\n- **Pyxel games now show up in the catalogue.** Pyxel is a Python retro engine, and its games were previously hidden behind the \"experimental runtime ports\" toggle in Settings.\n- URLs in release notes are now parsed and clickable from within the app. \n- Game logs now start with the game, the library it came from and the runtime version. If you report a problem, that tells us exactly which build you wer"
+          "whatsNew": "## Newly Working Games\n\nMegaball, PyxelJACK, EntroPipes, Ticoban, Vortexion.\n\n## Enhancements\n\n- Pyxel games now show up in the catalogue. Pyxel is a Python retro engine, and its games were previously hidden behind the \"experimental runtime ports\" toggle in Settings.\n- URLs in release notes are now parsed and clickable from within the app. \n- Game logs now start with the game, the library it came from and the runtime version. If you report a problem, that tells us exactly which build you were ru"
         }
       }
     },
