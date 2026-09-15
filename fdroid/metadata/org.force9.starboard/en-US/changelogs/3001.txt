@@ -1,0 +1,17 @@
+## Newly Working Games
+
+Megaball, PyxelJACK, EntroPipes, Ticoban, Vortexion.
+
+## Enhancements
+
+- **Pyxel games now show up in the catalogue.** Pyxel is a Python retro engine, and its games were previously hidden behind the "experimental runtime ports" toggle in Settings.
+- URLs in release notes are now parsed and clickable from within the app. 
+- Game logs now start with the game, the library it came from and the runtime version. If you report a problem, that tells us exactly which build you were running for easier debugging.
+
+## Bugfixes
+
+- Ports from RHH-Ports that ship their assets zipped (SpaghettiKart, SM64 Ghostship and the other HarbourMasters titles) stopped at "Installing game files" with `7zzs binary not found`. Fixes [#18](https://github.com/get-starboard/starboard/issues/18). Thanks [damnedhatter](https://github.com/damnedhatter) for the report!
+- Games that call `SDL_GetDesktopDisplayMode` now get a window matching your device's display rather than a fixed 1024x768. This causes some games to now render full screen (e.g. Cannonball) rather than letterboxed.
+
+[See all prior Starboard releases](https://github.com/get-starboard/starboard/releases)
+
