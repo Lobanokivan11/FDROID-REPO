@@ -1,0 +1,39 @@
+This release brings a complete UI overhaul powered by the MMRL X design system, substantial performance and architecture refactors, upgraded developer tools, and an enhanced WebUI runtime.
+
+---
+
+## Highlights & New Features
+
+### Dashboard & Analytics
+
+- **Home Dashboard**: A new central Home screen features system status cards (root vs. non-root), hardware device details, storage usage metrics, and a support action center.
+- **Module Analytics**: Built-in analytics now automatically calculate module totals, state breakdowns, and storage consumption.
+
+### File Explorer & Editor Upgrades
+
+- **Standalone File Explorer**: Integrated a dedicated file explorer with its own navigation flow, adaptive app icons, and safe path scoping.
+- **TextMate Syntax Highlighting**: Added syntax highlighting to the code editor powered by TextMate language scopes and themes resolved via ADB paths.
+- **Material File Icons**: Centralized file and folder icon resolution using MMRLX Material icon mapping.
+
+### WebUI & WebUI Engine Enhancements
+
+- **Unified Engine (MX Only)**: Standardized all module launches and shortcuts to use the native MX engine for better security, performance, and plugin support. Legacy engine configurations have been deprecated and auto-migrated.
+- **Custom Context Menus**: Introduced a native web context menu for handling navigation, links, images, email addresses, map locations, and phone numbers directly.
+- **Dialog Overlays**: Replaced native dialog prompts with Material Design 3 and MMRLX themed prompt, confirm, and exit overlays.
+- **SVG Vector Support**: Integrated SVG decoding support via Coil 3 for module icons and covers.
+
+### Customization & Seasonal Visuals
+
+- **Seasonal Event Overlays**: Added optional animated seasonal visuals, including Halloween blood drips (October) and winter snowfall effects (December/January).
+- **App Event Opt-Out**: Provided a user preference setting to toggle seasonal event overlays on or off.
+- **Custom ADB Paths**: Users can now specify a custom ADB path for non-root setups via app preferences.
+- **Module Shortcuts**: Added an option to generate pinned home screen shortcuts for individual modules.
+
+---
+
+## Developer Experience & Tooling
+
+- **Expanded KernelSU & System APIs**: Exposed expanded package management APIs, file system streams (`ksu.io`), and module metadata direct to JavaScript interfaces.
+- **DevTools Integration**: Upgraded internal WebUI inspection tools with improved DOM parsing (powered by Jsoup), network tracking, console logging options, and customizable console event payload logging.
+- **Custom Tabs Browser Integration**: Added a centralized URL handler to open external links inside themed Custom Tabs.
+- **Crash & Recovery Guidance**: Upgraded crash screens with structured recovery guidance, markdown support, and direct issue routing based on build origin.
