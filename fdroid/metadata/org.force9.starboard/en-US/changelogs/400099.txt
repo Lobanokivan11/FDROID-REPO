@@ -1,0 +1,120 @@
+## Highlights
+
+- **Loads more games run.** including Celeste, Stardew Valley, TMNT: Shredder's Revenge, Unreal Tournament 99, Grand Theft Auto III, Doom 3, Quake II and III, SuperTuxKart and Pizza Tower.
+- **Westonpack games run.** PortMaster runs a whole class of ports under its own Wayland compositor, which can't work inside Starboard. Starboard now runs them on a virtual X server (Xvfb) instead. That makes The Binding of Isaac: Rebirth, Shattered Pixel Dungeon, Unciv, FreeCol, and more, all playable.
+- **Mono and .NET games run.** About 30 FNA and MonoGame ports on PortMaster's Mono runtime now start and play, in both GPU mode. .NET games such as Celeste 64 start too.
+- **Rumble.** Games that rumble the controller now rumble your handheld. Settings → Controls has a Rumble switch, on by default, and a strength slider.
+- **Smoother games.** Frame pacing has been evened out, so a 30 fps game no longer judders, and games that run above 30 fps now show every frame. For example DarkPlaces runs at a super-smooth 60 fps on an Ayn Thor.
+
+## Newly working games
+
+Need your own game files:
+
+- Aliens versus Predator (the game's CD data)
+- Celeste
+- Doom 3 (patched to v1.3.1)
+- Grand Theft Auto III (GPU mode) (probably GTA Vice Citytoo, but not tested)
+- Quake II
+- Quake III Arena (patched to v1.32)
+- Return to Castle Wolfenstein (with iortcw's patch data)
+- Stardew Valley
+- Sternenfuchs (a Star Fox ROM)
+- TMNT: Shredder's Revenge
+- Unreal Tournament 99
+- wipEout
+- ...and probably a lot more that haven't been tested!
+
+
+Ready to run:
+
+- Abe's Amazing Adventure
+- Abu Simbel Profanation Deluxe
+- Bab Be U
+- Brad Has A Pain
+- Cave Story (Evo)
+- Celeste 64
+- Chao Resort Island
+- Curse of the Arrow
+- Deltarune
+- DoomRL
+- Friday Night Funkin'
+- Lugaru HD
+- Luanti (Minetest)
+- Marco's Treasure Quest (GPU mode)
+- OpenRCT2
+- Pizza Tower
+- SpruceChat
+- Super Star Trek meets 25th Anniversary
+- SuperTuxKart (still shows some graphics funk but perfectly playable)
+- Trigger Rally
+
+Westonpack games:
+
+- Alice In Clicheland
+- cubes
+- DiverCity
+- Fire Madness
+- FreeCol
+- Mage Recall
+- Pixel Wheels
+- Shattered Pixel Dungeon
+- Slash/Jump (with the odd graphical glitch)
+- The Brainvore
+- The Binding of Isaac: Rebirth (needs the Steam Linux build)
+- Unciv
+
+## Picture
+
+- Games fill the screen. Games that go fullscreen, or switch to it while running, no longer draw cropped or cut off at the edges.
+- Godot 4.5 and mkxp-z games no longer show a small, upside-down picture in a corner.
+- More games run in GPU mode. Fixed crashes at launch for games using GLEW (wipEout, Trigger Rally), for games that ship their own GL libraries (GTA III), and for games whose shaders need more room than the GPU driver reports.
+- GL games no longer crash when they resize their window in CPU mode.
+- The performance overlay shows the frame rate that actually reaches the screen, and the game's correct memory use.
+
+## Sound
+
+- Sound no longer drifts behind the picture after a hitch.
+- No more crackling on handhelds that run audio at 48 kHz, such as the Mangmi Air X.
+- GameMaker games no longer crackle. Lasagna Boy Classic, Pullywog and Crystal Story Awakening sound clean.
+- Games that open more than one sound device play cleanly instead of choppy and sped up.
+- Games that ask for mono sound no longer play at double speed.
+- Allegro games, and games whose launcher sets its own home folder, now have sound. 
+
+## Controls
+
+- Games that look for a controller as they start now find it, instead of falling back to the keyboard. Chao Resort Island and RVGL swere affected by this fix. 
+- Start, Select, the shoulder buttons and the stick clicks work in games that read the controller directly, such as GameMaker and FNA games.
+- A stick mapped to keys still reaches the game as a stick too, as on a real handheld.
+- A stick mapped to the mouse now works in games that wait for the pointer to enter their window, such as Quake III.
+- Games that ignored input until told their window was focused now respond. Friday Night Funkin', Lugaru HD and Luanti (Minetest) now work.
+- Nazi Zombies' controls now work correctly.
+
+## Reliability
+
+- Saves and settings that games keep in their home folder now survive a runtime update. Affected SDLPoP and many more. Thanks to [@damnedhatter](https://github.com/damnedhatter) for the report!
+- A game's runtime is downloaded before launch if it's missing, with progress on the loading screen. 
+- An interrupted download, for example from closing a game during its first launch, is fetched again instead of leaving the game broken.
+- Starboard checks its own files before every launch and repairs any that are stale or damaged, so lost sound or a game that won't start no longer needs a reinstall.
+- Fixed games that wouldn't start because of how they keep their config, use temporary files or named semaphores, or expect a case-insensitive SD card. This includes MARVEL Cosmic Invasion's first-run install, Aliens versus Predator's controls and Java games such as FreeCol.
+- Games that restart SDL, such as SuperTuxKart, no longer crash on their first frame.
+
+## Browsing your library
+
+- A new app icon. Goodbye floppy disk.
+- Search no longer sucks. It ignores accents, punctuation, spacing and word order, allows a typo in longer words, and searches your whole library. A new setting shows broken ports at the end of search results, on by default.
+- A game's verdict and its review count are separate, and the review count opens the reviews. The reviews list fits the screen.
+- Notes from Starboard on a game's page are labelled and boxed, so they stand out from the game's own description.
+- Descriptions no longer show raw codes such as `&amp;` in place of `&`. Thanks to [@damnedhatter](https://github.com/damnedhatter) for the report.
+- Games from additional libraries get their artwork even if the first download of it failed.
+- Every featured section has a banner. Ready to Run has one, and a category PortMaster ships without a banner shows its name on colours from its games.
+
+## ES-DE
+
+- ES-DE 3.5 ships its own Starboard support - select "Starboard (Standalone)" in the Alternative Emulators configration. As such, Starboard no longer adds system and emulator entries to ES-DE. It still writes the `.port` files, cover art and gamelist entries.
+
+## Known gaps
+
+- 32-bit Westonpack games don't run yet.
+- A Westonpack game that reads the controller directly, with no control file mapping it to keys, gets no controller input.
+- Switchfin needs dbus, which isn't available.
+

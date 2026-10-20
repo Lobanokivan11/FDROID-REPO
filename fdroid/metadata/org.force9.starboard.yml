@@ -1,8 +1,8 @@
 AuthorName: get-starboard
 Categories:
     - Games
-CurrentVersion: 0.30.1
-CurrentVersionCode: 3001
+CurrentVersion: 0.40.0
+CurrentVersionCode: 400099
 Description: |
     Runs PortMaster Games on android
 IssueTracker: ""
