@@ -1,0 +1,33 @@
+## Highlights
+
+- **Automatic CPU and GPU selection.** Starboard now picks the best video mode for each game on your device, so there's nothing to set before you press Play. You can still choose a mode yourself.
+- **Faster GPU performance.** GPU games now run smoother whilst increasing performance. ROTA (for example) on an AYN Thor goes from 43 to 59 fps while using about a fifth less CPU.
+- **Discord status.** Discord can now show the game you're playing, with its artwork and a play timer. Turn it on in Settings → Social.
+- **Storage Manager.** Shows how much storage each game takes up, and enables easy removal of games you don't play.
+- **Recently Played.** Added a new Recently Played row at the top of Home.
+
+## Enhancements
+
+- The Auto video mode replaces the Run on GPU setting. It uses Zink on Adreno GPUs, VirGL on other GPUs, and the CPU if it needs to.
+- On first start, Starboard plays a short cheesy animation to find out what your device can do. To run it again, press Check again in Settings → Video test.
+- The per-game settings screen is gone, and video mode selection now folded into the Play button.
+- GPU mode now uses Starboard's own build of Mesa 26.2.4.
+- The performance overlay and the companion screen show which renderer a game is using.
+- The companion screen has a consistent layout, and shows GPU load where possible.
+- The slide-out menu and the companion screen show the time and your battery level.
+- Games that constantly check for input use less CPU. GTA III, for example, was spending about a third of a CPU core on those checks.
+- Starboard now ships its own build of proot, and it uses a little less CPU in GPU mode. ROTA on an AYN Thor uses about 4% of a core less, at the same frame rate. The source is in [get-starboard/starboard-third-party](https://github.com/get-starboard/starboard-third-party).
+- Feedback now says which video mode a game ran in and how fast it ran.
+- You can attach a game's log to your feedback, to help fix a game that doesn't run, off by default. Press View to see exactly what will be sent. Folder names, your device's name and IDs, and network and email addresses are taken out first.
+- Storage Manager shows how much space the runtime and game runtimes use, and how much is free. Games can be sorted by size, name or last played. It warns before removing a game that needs its own game files.
+- The setup screen shows tips while you wait. Press left or right to flip through them.
+- Every port is now listed, whatever runtime it needs. The "Show experimental runtime ports" setting is gone.
+
+## Bugfixes
+
+- Home now opens at the top. It sometimes opened part way down the page.
+- The first-run download no longer fails if the screen turns off. The screen stays on while it downloads, and if the connection drops it picks up where it stopped instead of starting again.
+- Starting a second game now says which game is already running and takes you back to it, since only one can run at a time.
+- After reinstalling Starboard, opening an installed game's page no longer crashes due to permission issues.
+- Correctly captures when a game closes and shows the Game Exited screen instead of hanging.
+

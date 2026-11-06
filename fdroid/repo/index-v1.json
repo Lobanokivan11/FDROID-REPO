@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1793931964000,
+    "timestamp": 1793962667000,
     "version": 20002,
     "name": "Lobanokivan11's F-Droid Repo",
     "icon": "icon.png",
@@ -554,8 +554,8 @@
       "categories": [
         "Games"
       ],
-      "suggestedVersionName": "0.50.0",
-      "suggestedVersionCode": "500099",
+      "suggestedVersionName": "0.50.1",
+      "suggestedVersionCode": "500199",
       "description": "Runs PortMaster Games on android\n",
       "license": "Unknown",
       "name": "StarBoard",
@@ -563,7 +563,7 @@
       "summary": "An experimental project to run unmodified PortMaster games on Android handhelds.",
       "added": 1792613825000,
       "packageName": "org.force9.starboard",
-      "lastUpdated": 1793931751000,
+      "lastUpdated": 1793962475000,
       "localized": {
         "en-US": {
           "whatsNew": "## Highlights\n\n- **Automatic CPU and GPU selection.** Starboard now picks the best video mode for each game on your device, so there's nothing to set before you press Play. You can still choose a mode yourself.\n- **Faster GPU performance.** GPU games now run smoother whilst increasing performance. ROTA (for example) on an AYN Thor goes from 43 to 59 fps while using about a fifth less CPU.\n- **Discord status.** Discord can now show the game you're playing, with its artwork and a play timer. Turn "
@@ -68048,6 +68048,53 @@
       }
     ],
     "org.force9.starboard": [
+      {
+        "added": 1793962475000,
+        "apkName": "starboard_v0.50.1.apk",
+        "hash": "ee20b69845043dd7443db0d25879c0ae2e42242cb37d75c2f192ff2bb1055268",
+        "hashType": "sha256",
+        "minSdkVersion": 26,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "org.force9.starboard",
+        "sig": "82b22a2617e649cf01092b7d3b27ac10",
+        "signer": "716dd997f17df9538a5558f0a62c5afc1bac21d69763d3165eab9fc599dba2c9",
+        "size": 8468499,
+        "targetSdkVersion": 35,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            32
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            29
+          ],
+          [
+            "android.permission.MANAGE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "org.force9.starboard.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 500199,
+        "versionName": "0.50.1"
+      },
       {
         "added": 1793931751000,
         "apkName": "starboard_v0.50.0.apk",
