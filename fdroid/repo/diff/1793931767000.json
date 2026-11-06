@@ -1,0 +1,14 @@
+{
+  "repo": {
+    "timestamp": 1793931964000
+  },
+  "packages": {
+    "org.force9.starboard": {
+      "versions": {
+        "63fe8cd7478d8cc8285cea811eb07822ec357af2159fa3be811da54c9fe2fca4": {
+          "releaseChannels": null
+        }
+      }
+    }
+  }
+}
