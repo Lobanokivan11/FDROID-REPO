@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1794069073000,
+    "timestamp": 1794085354000,
     "version": 20002,
     "name": "Lobanokivan11's F-Droid Repo",
     "icon": "icon.png",
@@ -554,8 +554,8 @@
       "categories": [
         "Games"
       ],
-      "suggestedVersionName": "0.50.1",
-      "suggestedVersionCode": "500199",
+      "suggestedVersionName": "0.51.0",
+      "suggestedVersionCode": "510099",
       "description": "Runs PortMaster Games on android\n",
       "license": "Unknown",
       "name": "StarBoard",
@@ -563,10 +563,10 @@
       "summary": "An experimental project to run unmodified PortMaster games on Android handhelds.",
       "added": 1792613825000,
       "packageName": "org.force9.starboard",
-      "lastUpdated": 1793962475000,
+      "lastUpdated": 1794085157000,
       "localized": {
         "en-US": {
-          "whatsNew": "## Highlights\n\n- **Automatic CPU and GPU selection.** Starboard now picks the best video mode for each game on your device, so there's nothing to set before you press Play. You can still choose a mode yourself.\n- **Faster GPU performance.** GPU games now run smoother whilst increasing performance. ROTA (for example) on an AYN Thor goes from 43 to 59 fps while using about a fifth less CPU.\n- **Discord status.** Discord can now show the game you're playing, with its artwork and a play timer. Turn "
+          "whatsNew": "## Highlights\n\n- **Per-game Home Screen Shortcuts.** Enables creation of per-game home screen shortcuts. Open a game's detail page, press the menu button top right, and choose \"Add to home screen\". \n\n## Bugfixes\n\n- **Fixes SDL 1.2 games**, such as FreedroidRPG, crashing at startup. Since 0.50.0, games using sdl12-compat have run on SDL2's offscreen video driver, which gave them an empty list of fullscreen video modes. Games that read the list without checking it crashed.\n- **Fixes Westonpack gam"
         }
       }
     },
@@ -68048,6 +68048,53 @@
       }
     ],
     "org.force9.starboard": [
+      {
+        "added": 1794085157000,
+        "apkName": "starboard_v0.51.0.apk",
+        "hash": "f4b75332e375aa90a2edcc5b3eb03db2f4dbbc2913ae090914a68ca93b27d6c1",
+        "hashType": "sha256",
+        "minSdkVersion": 26,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "org.force9.starboard",
+        "sig": "82b22a2617e649cf01092b7d3b27ac10",
+        "signer": "716dd997f17df9538a5558f0a62c5afc1bac21d69763d3165eab9fc599dba2c9",
+        "size": 8483527,
+        "targetSdkVersion": 35,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            32
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            29
+          ],
+          [
+            "android.permission.MANAGE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "org.force9.starboard.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 510099,
+        "versionName": "0.51.0"
+      },
       {
         "added": 1793962475000,
         "apkName": "starboard_v0.50.1.apk",

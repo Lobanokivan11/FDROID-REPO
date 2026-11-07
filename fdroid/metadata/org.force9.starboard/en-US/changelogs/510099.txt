@@ -1,0 +1,10 @@
+## Highlights
+
+- **Per-game Home Screen Shortcuts.** Enables creation of per-game home screen shortcuts. Open a game's detail page, press the menu button top right, and choose "Add to home screen". 
+
+## Bugfixes
+
+- **Fixes SDL 1.2 games**, such as FreedroidRPG, crashing at startup. Since 0.50.0, games using sdl12-compat have run on SDL2's offscreen video driver, which gave them an empty list of fullscreen video modes. Games that read the list without checking it crashed.
+- **Fixes Westonpack games failing to start on newer Android versions** (verified on Android 16 and 17). These games (such as Forsworn and Unciv) run on Xvfb, and Android denies hard-linking its lock file, and setting its user and group IDs. Starboard now copies the lock file when the link is denied, and carries on when Xvfb is only setting the IDs it already has. Nothing changes on devices that still allow these calls.
+- **Fixes GameMaker games that use Steam lobby features**, such as Mago, failing to start (requires downloading of the runtime update). The 27th October runtime update moved to a newer gmloadernext build that's missing some of the Steam functions these games call, so they stopped with an error such as "Unable to find function steam_lobby_create". The runtime now includes Starboard's own build of that gmloadernext version, which adds the missing lobby, networking and DLC functions as stubs enabling the games to start.
+
